@@ -81,8 +81,8 @@ def select_ollama_model(models: List[Dict[str, str]]) -> Optional[str]:
             return None
 
 
-def query_ollama_llm(prompt: str, model: str = "gpt-oss", max_tokens: int = 2000) -> str:
-    """Query Ollama LLM with a prompt."""
+def query_ollama_llm(prompt: str, model: str = "gpt-oss", max_tokens: int = 1500) -> str:
+    """Query Ollama LLM with clinical-optimized settings."""
     try:
         response = requests.post(
             "http://localhost:11434/api/generate",
@@ -92,7 +92,10 @@ def query_ollama_llm(prompt: str, model: str = "gpt-oss", max_tokens: int = 2000
                 "stream": False,
                 "options": {
                     "num_predict": max_tokens,
-                    "temperature": 0.1  # Lower temperature for medical accuracy
+                    "temperature": 0.05,  # Very low for clinical precision
+                    "top_p": 0.9,         # Focus on high-probability responses
+                    "repeat_penalty": 1.1, # Reduce repetition
+                    "stop": ["QUESTION:", "CLINICAL QUESTION:", "USER:"]  # Stop tokens
                 }
             },
             timeout=60
@@ -162,24 +165,22 @@ def ollama_rag_answer(question: str, model: str = "gpt-oss", search_limit: int =
     
     context = "\n\n".join(context_parts)
     
-    # Create medical RAG prompt
-    rag_prompt = f"""You are a medical AI assistant with access to authoritative medical documentation including ASPEN guidelines, NICU protocols, and TPN administration guides.
+    # Create TPN nutritional support assistant prompt
+    rag_prompt = f"""You are a TPN and Nutritional Support Clinical Assistant. You provide concise, evidence-based answers to help healthcare professionals with parenteral and enteral nutrition decisions.
 
-Based on the following medical documentation, provide a comprehensive and accurate answer to the medical question.
-
-MEDICAL CONTEXT:
+CLINICAL CONTEXT FROM GUIDELINES:
 {context}
 
-QUESTION: {question}
+CLINICAL QUESTION: {question}
 
-INSTRUCTIONS:
-- Provide evidence-based medical information based only on the provided documentation
-- Include specific clinical details, dosages, and protocols when mentioned in the sources
-- Organize your response with clear sections and bullet points where appropriate
-- If the documentation doesn't contain enough information, state this clearly
-- Do not provide medical advice - only educational information from the sources
+RESPONSE FORMAT:
+- Give direct, actionable clinical information
+- Use bullet points for clarity
+- Include specific values, dosages, and protocols when available
+- Keep responses focused and professional
+- If information is insufficient, state clearly: "Insufficient data in current guidelines"
 
-ANSWER:"""
+CLINICAL RESPONSE:"""
     
     # Generate response with Ollama
     gen_start = time.time()
@@ -227,11 +228,12 @@ def check_chromadb_ready(rag_search: OllamaRAGSearch) -> bool:
 
 
 def interactive_mode(model: str):
-    """Run interactive Q&A session."""
-    print(f"\n🚀 Ready! Please ask me questions about nutrition, fluids, and electrolytes.")
-    print(f"🤖 Using: {model}")
-    print("💡 Commands: 'test' for sample question, 'quit' to exit")
-    print("=" * 60)
+    """Run interactive clinical Q&A session."""
+    print(f"\n🏥 TPN & NUTRITIONAL SUPPORT CLINICAL ASSISTANT")
+    print(f"🤖 AI Model: {model}")
+    print(f"📚 Knowledge Base: 52 ASPEN Guidelines, NICU Protocols, TPN Administration")
+    print("💡 Commands: 'examples' for sample questions, 'quit' to exit")
+    print("=" * 70)
     
     # Initialize search once
     rag_search = OllamaRAGSearch()
@@ -241,11 +243,14 @@ def interactive_mode(model: str):
         return
     
     sample_questions = [
-        "What are the normal serum potassium levels in neonates?",
-        "How do you calculate TPN requirements for premature infants?",
-        "What are the indications for parenteral nutrition in NICU patients?",
-        "How do you monitor for refeeding syndrome?",
-        "What are the ASPEN guidelines for lipid administration?"
+        "Normal serum potassium range for neonates on TPN?",
+        "TPN protein requirements for 1200g preterm infant?", 
+        "When to start parenteral nutrition in NICU?",
+        "Signs of refeeding syndrome to monitor?",
+        "Maximum lipid infusion rate for premature infants?",
+        "Electrolyte monitoring frequency during TPN?",
+        "Contraindications to central line TPN?",
+        "How to prevent TPN-associated liver disease?"
     ]
     
     while True:
@@ -258,18 +263,26 @@ def interactive_mode(model: str):
             elif question.lower() in ['quit', 'exit', 'q']:
                 print("👋 Goodbye!")
                 break
-            elif question.lower() == 'test':
-                question = sample_questions[0]
-                print(f"Using sample question: {question}")
+            elif question.lower() in ['examples', 'sample', 'help']:
+                print(f"\n📋 SAMPLE CLINICAL QUESTIONS:")
+                for i, q in enumerate(sample_questions, 1):
+                    print(f"  {i}. {q}")
+                print(f"\nSelect a number (1-{len(sample_questions)}) or ask your own question:")
+                continue
             
-            print(f"\n🔍 Finding relevant information...")
+            # Check if user selected a numbered example
+            if question.isdigit() and 1 <= int(question) <= len(sample_questions):
+                question = sample_questions[int(question) - 1]
+                print(f"Selected: {question}")
+            
+            print(f"\n🔍 Searching clinical guidelines...")
             result = ollama_rag_answer(question, model, search_limit=3)
             
-            print(f"\n💡 **Answer:**")
+            print(f"\n🏥 **CLINICAL RESPONSE:**")
             print(result["answer"])
             
-            print(f"\n⏱️  {result['total_time']:.1f}s search + generation")
-            print("-" * 60)
+            print(f"\n⏱️  Response time: {result['total_time']:.1f}s")
+            print("-" * 70)
             
         except KeyboardInterrupt:
             print(f"\n👋 Goodbye!")
@@ -280,7 +293,14 @@ def interactive_mode(model: str):
 
 def main():
     """Main entry point."""
-    print("🏥 Medical Document RAG System")
+    print("🏥 TPN & NUTRITIONAL SUPPORT CLINICAL ASSISTANT")
+    print("=" * 60)
+    print("📋 Clinical Decision Support for:")
+    print("   • Total Parenteral Nutrition (TPN)")
+    print("   • Enteral Nutrition Support")  
+    print("   • Electrolyte & Fluid Management")
+    print("   • NICU & Pediatric Nutrition")
+    print("   • ASPEN Guidelines & Protocols")
     print("=" * 60)
     
     # Check Ollama connection
