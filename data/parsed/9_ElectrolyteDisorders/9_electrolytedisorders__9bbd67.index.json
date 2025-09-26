@@ -1,0 +1,3192 @@
+{
+  "doc_id": "9_electrolytedisorders__9bbd67",
+  "original_filename": "9_ElectrolyteDisorders.pdf",
+  "md_path": "data/parsed/9_ElectrolyteDisorders/9_ElectrolyteDisorders.md",
+  "rmd_path": "data/parsed/9_ElectrolyteDisorders/9_ElectrolyteDisorders.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Electrolyte Disorders",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Electrolyte Disorders",
+      "line": 4,
+      "content": "![img-0.jpeg](images/dc1fa49c6d641dce.png)"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorders",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorders",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorders",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorders",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ELECTROLYTE DISORDERS",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ELECTROLYTE DISORDERS",
+      "line": 15,
+      "preview": "Anne M. Tucker, Pharm.D., BCNSP"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ELECTROLYTE DISORDERS",
+      "line": 16,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ELECTROLYTE DISORDERS",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Analyze patient information to determine the type of electrolyte disorder."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Describe common etiologies of electrolyte disorders and their impact on the nutrition prescription"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Design recommendations for the prevention and management of electrolyte disorders."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 39
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- ACEI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- AdjBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- AKI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- ARB:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- ATPase:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- CKD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- $\\mathrm{CO}_{2}$ :"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- ECF:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- ECG: angiotensin converting enzyme inhibitor"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "adjusted body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "acute kidney injury"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "angiotensin receptor blocker"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "adenosine triphosphatase"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "chronic kidney disease"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "carbon dioxide"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "extracellular fluid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "electrocardiogram"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATIONS",
+      "line": 61
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 63,
+      "preview": "- IBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 64,
+      "preview": "- ICF:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 65,
+      "preview": "- NSAID:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 66,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 67,
+      "preview": "- RRT:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 68,
+      "preview": "ideal body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 69,
+      "preview": "intracellular fluid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 70,
+      "preview": "non-steroidal anti-inflammatory drug"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 71,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 72,
+      "preview": "renal replacement therapy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 74,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 76
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 78,
+      "preview": "| Electrolyte | Adult |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 79,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 80,
+      "preview": "| Sodium | $135-145 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 81,
+      "preview": "| Potassium | $3.5-5 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 82,
+      "preview": "| Chloride | $98-108 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 83,
+      "preview": "| $\\mathrm{CO}_{2}$ | $23-30 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 84,
+      "preview": "| Calcium | $9-10.5 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 85,
+      "preview": "| Phosphorus | $2.5-4.5 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 86,
+      "preview": "| Magnesium | $1.7-2.4 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 87,
+      "preview": "| *Variations in lab values exist between institutions |  |"
+    },
+    {
+      "type": "text",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 89,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 91
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 93,
+      "preview": "| Electrolyte | Requirements |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 94,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 95,
+      "preview": "| Sodium | $60-100 \\mathrm{mEq} /$ day or $1-2 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 96,
+      "preview": "| Potassium | $60-100 \\mathrm{mEq} /$ day or $1-2 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 97,
+      "preview": "| Chloride | As needed to maintain acid-base balance |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 98,
+      "preview": "| Acetate | As needed to maintain acid-base balance |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 99,
+      "preview": "| Calcium | $10-15 \\mathrm{mEq} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 100,
+      "preview": "| Phosphorus | $20-40 \\mathrm{mmol} /$ dayor $0.25-0.5 \\mathrm{mmol} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 101,
+      "preview": "| Magnesium | $8-20 \\mathrm{mEq} /$ day or $0.25-0.5 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 102,
+      "preview": "| *Consider lower doses for those with renal insufficiency |  |"
+    },
+    {
+      "type": "text",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 104,
+      "preview": "Mirtallo J et al.JPEN J ParentEnteral Nutr. 2004; 28:S39-S70."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 106
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 108,
+      "preview": "- Renal dysfunction"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 109,
+      "preview": "- Empiric dose - 50\\% recommended dose"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 110,
+      "preview": "- Obesity"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 111,
+      "preview": "- Adjusted body weight (AdjBW) for weight-based electrolyte dosing"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 112,
+      "preview": "- AdjBW $=[($ weight in $\\mathrm{kg}-\\mathrm{IBW}) \\times 0.25]+\\mathrm{IBW}$"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 113,
+      "preview": "- Electrolyte disorders"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 114,
+      "preview": "- Acute (< 48 hours) vs. chronic (> 48 hours)"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 115,
+      "preview": "- Rate of development, degree of abnormality and/or symptoms"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 117,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "POTASSIUM",
+      "line": 119
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM",
+      "line": 121,
+      "preview": "- Most abundant intracellular cation"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM",
+      "line": 122,
+      "preview": "- Normal serum potassium $3.5-5 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM",
+      "line": 123,
+      "preview": "- Normal intracellular concentration $150 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM",
+      "line": 124,
+      "preview": "- Functions in maintaining resting membrane potential, metabolism, protein and glycogen synthesis"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM",
+      "line": 125,
+      "preview": "- Na-K-ATPase pump regulates entry of K into the cell"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM",
+      "line": 126,
+      "preview": "- Intracellular shift: insulin, beta 2 agonists, alkalosis"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM",
+      "line": 127,
+      "preview": "- Extracellular shift: glucagon, acidosis, aldosterone (allows renal elimination)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 130
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 132,
+      "preview": "- Common electrolyte disorder"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 133,
+      "preview": "- Symptoms - cardiovascular and neuromuscular in nature"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 134,
+      "preview": "- ECG changes: prolonged QRS, ST-segment \\& T-wave depression, U waves"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 135,
+      "preview": "- Arrhythmias: atrial fibrillation, ventricular tachycardia/fibrillation"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 136,
+      "preview": "- Muscle weakness, cramps, paralysis"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 137,
+      "preview": "- Rhabdomyolysis"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 138,
+      "preview": "- Intestinal ileus"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA (K < 3.5 MEQ/L)",
+      "line": 140,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPERKALEMIA (K > 5 MEQ/L)",
+      "line": 142
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA (K > 5 MEQ/L)",
+      "line": 144,
+      "preview": "- Less common than hypokalemia"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA (K > 5 MEQ/L)",
+      "line": 145,
+      "preview": "- Symptoms - cardiovascular and neuromuscular in nature"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA (K > 5 MEQ/L)",
+      "line": 146,
+      "preview": "- ECG changes: peaked T waves, QRS widening, loss of P wave"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA (K > 5 MEQ/L)",
+      "line": 147,
+      "preview": "- Arrhythmias: ventricular fibrillation, asystole"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA (K > 5 MEQ/L)",
+      "line": 148,
+      "preview": "- Muscle weakness, paralysis"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA (K > 5 MEQ/L)",
+      "line": 150,
+      "preview": "Canada TW et al. ASPEN Adult Nutrition Support Core Curriculum 3rd ed. 2017:113-37."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 152
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 154,
+      "preview": "Hypokalemia ( $\\mathrm{K}<3.5 \\mathrm{mEq} / \\mathrm{L}$ )"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 156,
+      "preview": "- Poor intake"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 157,
+      "preview": "- Increased renal excretion"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 158,
+      "preview": "- K-wasting diuretics, aldosterone, amphotericin B, aminoglycosides"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 159,
+      "preview": "- Renal replacement therapy (RRT)"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 160,
+      "preview": "- Gl losses"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 161,
+      "preview": "- Diarrhea (stool 10 mEq K/L)"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 162,
+      "preview": "- Emesis/NG (up to $50 \\mathrm{mEq} \\mathrm{K/L}$ )"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 163,
+      "preview": "- Intracellular shift"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 164,
+      "preview": "- Alkalosis, insulin, beta agonists"
+    },
+    {
+      "type": "text",
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 166,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "POTASSIUM DISORDERS ETIOLOGY",
+      "line": 168
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 170
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 172,
+      "preview": "- Excessive intake"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 173,
+      "preview": "- Decreased renal excretion"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 174,
+      "preview": "- AKI, Stage 4/5 CKD"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 175,
+      "preview": "- ACEI, ARBs, aldosterone antagonists, renin inhibitors, NSAIDs"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 176,
+      "preview": "- K-sparing diuretics, trimethoprim, tacrolimus"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 177,
+      "preview": "- Extracellular shift"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 178,
+      "preview": "- Beta blockers, succinylcholine"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 179,
+      "preview": "- Cellular disruption"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 180,
+      "preview": "- Acidosis"
+    },
+    {
+      "type": "text",
+      "section": "Hyperkalemia ( $\\mathrm{K}>5 \\mathrm{mEq} / \\mathrm{L}$ )",
+      "line": 182,
+      "preview": "Kraft MD et al. AmJ Health-Syst Pharm. 2005; 62:1663-82."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 184
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 186,
+      "preview": "- Dietary modification, salt substitutes"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 187,
+      "preview": "- Check for hypomagnesemia and replace first as indicated"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 188,
+      "preview": "- Oral potassium therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 189,
+      "preview": "- Asymptomatic, able to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 190,
+      "preview": "- Gastrointestinal adverse effect - large doses should be divided"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 191,
+      "preview": "- Parenteral potassium therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 192,
+      "preview": "- Symptomatic, malabsorptive conditions, unable to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 193,
+      "preview": "- Adverse effects - phlebitis, hyperkalemia, arrhythmias"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 194,
+      "preview": "- Potassium-sparing diuretics"
+    },
+    {
+      "type": "text",
+      "section": "HYPOKALEMIA MANAGEMENT",
+      "line": 196,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PARENTERAL POTASSIUM",
+      "line": 198
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 200,
+      "preview": "- Empiric potassium dose in PN: 1-2 mEq/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 201,
+      "preview": "- Decrease dose by 50\\% in renal impairment"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 202,
+      "preview": "- 10 mEq of K intravenously increases serum K by $\\sim 0.1 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 203,
+      "preview": "- Assumes normal renal and gastrointestinal function"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 204,
+      "preview": "- Dilution"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 205,
+      "preview": "- Sodium chloride-containing solutions"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 206,
+      "preview": "- Peripheral IV infusion: dilute $10 \\mathrm{mEq} \\mathrm{K} / 100 \\mathrm{~mL}$ maximum"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 207,
+      "preview": "- Central IV infusion: can give more concentrated; check institutional policy"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 208,
+      "preview": "- Infusion rates"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 209,
+      "preview": "- $\\leq 10 \\mathrm{mEq} / \\mathrm{hr}$ : no cardiac monitoring / peripheral IV access"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 210,
+      "preview": "- $>10 \\mathrm{mEq} / \\mathrm{hr}$ : cardiac monitoring / central IV access"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL POTASSIUM",
+      "line": 212,
+      "preview": "Kraft MD et al. AmJ Health-Syst Pharm. 2005; 62:1663-82."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 214
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 216,
+      "preview": "- Dietary modifications"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 217,
+      "preview": "- Identify and eliminate cause"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 218,
+      "preview": "- Medication therapy directed at hyperkalemia management"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 219,
+      "preview": "- Cardiac stabilization (does not reduce serum potassium levels)"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 220,
+      "preview": "- ECF to ICF shift"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 221,
+      "preview": "- Potassium elimination"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 223,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 225
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 227,
+      "preview": "| Agent | Dose / Route | Onset / Duration |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 228,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 229,
+      "preview": "| Myocardial stabilization | 1-2 grams IV | $1-2 \\mathrm{~min} / 10-30 \\mathrm{~min}$ |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 230,
+      "preview": "| Calcium gluconate | 10 units IV <br> 25 gram IV |  |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 231,
+      "preview": "| Cellular incorporation (ECF to ICF shift) | 15-45 min / 2-6 hours |  |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 232,
+      "preview": "| Regular insulin $\\pm$ <br> Dextrose 50\\% | $50-100 \\mathrm{mEq} \\mathrm{IV}$ | $30 \\mathrm{~min} /"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 233,
+      "preview": "| Sodium bicarbonate | $10-20 \\mathrm{mg}$ nebulized | $30 \\mathrm{~min} / 1-2$ hours |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 234,
+      "preview": "| Albuterol |  |  |"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 236,
+      "preview": "HYPERKALEMIA MANAGEMENT"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 238,
+      "preview": "| Agent | Dose / Route | Onset / Duration |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 239,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 240,
+      "preview": "| Increase potassium elimination | $20-40 \\mathrm{mg} \\mathrm{IV}$ |  |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 241,
+      "preview": "| Furosemide | $5-15 \\mathrm{~min} / 4-6$ hours |  |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 242,
+      "preview": "| Sodium polystyrene sulfonate | $15-60$ grams PO or PR | $60 \\mathrm{~min} / 4-6$ hours |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 243,
+      "preview": "| Patiromer (not for acute use) | 8.4 grams PO daily | 7 hours / 24 hours |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 244,
+      "preview": "| Sodium zirconium cyclosilicate (not for <br> acute use) | 10 grams PO 3 times daily <br> x 48 hour"
+    },
+    {
+      "type": "table",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 245,
+      "preview": "| Hemodialysis | 2-4 hours | Immediate / Variable |"
+    },
+    {
+      "type": "text",
+      "section": "HYPERKALEMIA MANAGEMENT",
+      "line": 247,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 249
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 251,
+      "preview": "A patient presents with serum potassium of $6 \\mathrm{mEq} / \\mathrm{L}$ and peaked T-waves on ECG. "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 252,
+      "preview": "A. Insulin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 253,
+      "preview": "B. Sodium bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 254,
+      "preview": "C. Calcium gluconate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 255,
+      "preview": "D. Sodium polystyrene sulfate"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MAGNESIUM",
+      "line": 257
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 259,
+      "preview": "- Intracellular cation"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 260,
+      "preview": "- Normal serum magnesium 1.7-2.4 mg/dL"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 261,
+      "preview": "- Absorbed in the jejunum"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 262,
+      "preview": "- Regulated by the kidney"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 263,
+      "preview": "- Important as enzyme cofactor, nature's calcium blocker, neuromuscular transmission and cardiovascu"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 264,
+      "preview": "- Maintaining high-normal range serum $\\mathrm{Mg} \\sim 2.7 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 265,
+      "preview": "- Reduces ventricular ectopy"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 266,
+      "preview": "- Improves $\\mathrm{K}^{+}$retention"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM",
+      "line": 268,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 270
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 272,
+      "preview": "- Common electrolyte disorder"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 273,
+      "preview": "- Up to 65\\% ICU patients experience hypomagnesemia"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 274,
+      "preview": "- Symptoms - cardiovascular and neuromuscular in nature"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 275,
+      "preview": "- Refractory hypokalemia and hypocalcemia"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 276,
+      "preview": "- Hyperreflexia, muscle weakness, cramps"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 277,
+      "preview": "- Tetany, seizures, coma"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 278,
+      "preview": "- ECG changes: increased PR and QRS, prolonged QT interval, U waves"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA (MG < 1.7 MG/DL)",
+      "line": 279,
+      "preview": "- Arrhythmias, atrial fibrillation, ventricular fibrillation, Torsade de pointes"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 282
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 284,
+      "preview": "- Symptomatic cases are rare"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 285,
+      "preview": "- Symptoms - related to loss of muscle tone"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 286,
+      "preview": "- Not typically observed until serum $\\mathrm{Mg}>4-5 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 287,
+      "preview": "- Hypotension"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 288,
+      "preview": "- Hyporeflexia, muscle weakness, paralysis"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 289,
+      "preview": "- Somnolence, coma"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA (MG > 2.4 MG/DL)",
+      "line": 291,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 293
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 295,
+      "preview": "Hypomagnesemia ( $\\mathrm{Mg}<1.7 \\mathrm{mg} / \\mathrm{dL}$ )"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 297,
+      "preview": "- Poor intake"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 298,
+      "preview": "- Malabsorption or gastrointestinal loss"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 299,
+      "preview": "- Small bowel diseases, gastric bypass, alcoholism, laxatives, diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 300,
+      "preview": "- Renal replacement therapy (RRT)"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 301,
+      "preview": "- Increased renal excretion"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 302,
+      "preview": "- Renal tubular disorders"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 303,
+      "preview": "- Amphotericin B, aminoglycosides, cyclosporine, cisplatin, diuretics, foscarnet"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 304,
+      "preview": "- Intracellular shift (insulin)"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY",
+      "line": 306,
+      "preview": "Canada TW et al. ASPEN Adult Nutrition Support Core Curriculum 3rd ed. 2017:113-37."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MAGNESIUM DISORDERS ETIOLOGY, CONT.",
+      "line": 308
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY, CONT.",
+      "line": 310,
+      "preview": "Hypermagnesemia ( $\\mathrm{Mg}>2.4 \\mathrm{mg} / \\mathrm{dL}$ )"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY, CONT.",
+      "line": 312,
+      "preview": "- Excessive intake"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY, CONT.",
+      "line": 313,
+      "preview": "- Decreased renal excretion"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY, CONT.",
+      "line": 314,
+      "preview": "- AKI, Stage 4/5 CKD, end stage renal disease (ESRD)"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY, CONT.",
+      "line": 315,
+      "preview": "- Tumor lysis syndrome"
+    },
+    {
+      "type": "text",
+      "section": "MAGNESIUM DISORDERS ETIOLOGY, CONT.",
+      "line": 317,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 319
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 321,
+      "preview": "- Dietary modification"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 322,
+      "preview": "- Oral magnesium therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 323,
+      "preview": "- Asymptomatic, able to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 324,
+      "preview": "- Magnesium oxide and magnesium hydroxide"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 325,
+      "preview": "- Adverse effect - abdominal cramping, diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 326,
+      "preview": "- May be difficult to replace magnesium deficits orally if large doses for multiple days are require"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 327,
+      "preview": "- Parenteral magnesium therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 328,
+      "preview": "- Symptomatic, malabsorptive conditions, unable to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOMAGNESEMIA MANAGEMENT",
+      "line": 329,
+      "preview": "- Adverse effects - phlebitis, injection site pain"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 332
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 334,
+      "preview": "- Decrease dose by $50 \\%$ in renal impairment"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 335,
+      "preview": "- Empiric magnesium dose in PN: 0.25-0.5 mEq/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 336,
+      "preview": "- 8 mEq of Mg intravenously increases serum Mg by $\\sim 0.1 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 337,
+      "preview": "- Assumes normal renal and gastrointestinal function"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 338,
+      "preview": "- Dosing"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 339,
+      "preview": "- Serum Mg 1-1.5 mg/dL: 8-32 mEq, up to $1 \\mathrm{mEq} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 340,
+      "preview": "- Serum Mg < $1 \\mathrm{mg} / \\mathrm{dL}$ : 32-64 mEq, up to $1.5 \\mathrm{mEq} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 341,
+      "preview": "- Infusion rates"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 342,
+      "preview": "- $\\leq 8 \\mathrm{mEq}$ Mg per hour"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 343,
+      "preview": "- Prevents renal wasting and infusion reactions"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL MAGNESIUM",
+      "line": 345,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 347
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 349,
+      "preview": "- Limit magnesium intake"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 350,
+      "preview": "- Increase magnesium elimination"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 351,
+      "preview": "- Volume expansion"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 352,
+      "preview": "- Loop diuretics"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 353,
+      "preview": "- RRT"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 354,
+      "preview": "- Direct magnesium antagonist"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 355,
+      "preview": "- Calcium chloride, calcium gluconate"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 356,
+      "preview": "- Supportive care measures"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 357,
+      "preview": "- Vasopressor therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 358,
+      "preview": "- Mechanical ventilation"
+    },
+    {
+      "type": "text",
+      "section": "HYPERMAGNESEMIA TREATMENT",
+      "line": 360,
+      "preview": "Kraft MD et al. AmJ Health-Syst Pharm. 2005; 62:1663-82."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 362
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 364,
+      "preview": "Upon morning review of a parenteral nutrition patient, it is noted that the serum magnesium is $1.5 "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 365,
+      "preview": "A. No dose is indicated"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 366,
+      "preview": "B. 16 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 367,
+      "preview": "C. 32 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 368,
+      "preview": "D. 48 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 370,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PHOSPHORUS",
+      "line": 372
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS",
+      "line": 374,
+      "preview": "- Intracellular anion"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS",
+      "line": 375,
+      "preview": "- Normal serum phosphorus $2.5-4.5 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS",
+      "line": 376,
+      "preview": "- Essential part of phospholipid membranes, metabolism, ATP production, 2,3diphosphoglycerate regula"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS",
+      "line": 377,
+      "preview": "- Hormonal regulation"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS",
+      "line": 378,
+      "preview": "- Vitamin D"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS",
+      "line": 379,
+      "preview": "- Parathyroid hormone"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS",
+      "line": 380,
+      "preview": "- Calcitonin"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 383
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 385,
+      "preview": "- 30-100\\% nutrition support patients experience hypophophatemia"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 386,
+      "preview": "- Symptoms - cardiovascular and neuromuscular in nature"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 387,
+      "preview": "- Paresthesia, muscle weakness"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 388,
+      "preview": "- Cardiomyopathy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 389,
+      "preview": "- Red blood cell breakdown"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 390,
+      "preview": "- Acute respiratory failure"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 391,
+      "preview": "- Rhabdomyolysis"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 392,
+      "preview": "- Seizures, coma"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA (P < 2.5 MG/DL)",
+      "line": 394,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPERPHOSPHATEMIA (P > 4.5 MG/DL)",
+      "line": 396
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA (P > 4.5 MG/DL)",
+      "line": 398,
+      "preview": "- Symptomatic cases are rare"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA (P > 4.5 MG/DL)",
+      "line": 399,
+      "preview": "- Symptoms"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA (P > 4.5 MG/DL)",
+      "line": 400,
+      "preview": "- Soft tissue calcifications"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA (P > 4.5 MG/DL)",
+      "line": 401,
+      "preview": "- Nephrolithiasis"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA (P > 4.5 MG/DL)",
+      "line": 402,
+      "preview": "- Obstructive uropathy"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA (P > 4.5 MG/DL)",
+      "line": 403,
+      "preview": "- Hypocalcemia (tetany)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 406
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 408,
+      "preview": "Hypophosphatemia ( $\\mathrm{P}<2.5 \\mathrm{mg} / \\mathrm{dL}$ )"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 410,
+      "preview": "- Poor intake"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 411,
+      "preview": "- Poor absorption"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 412,
+      "preview": "- Phosphate binders, vitamin D deficiency, laxatives, diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 413,
+      "preview": "- Increased renal excretion"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 414,
+      "preview": "- Hyperparathyroidism, burns"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 415,
+      "preview": "- Diuretics, corticosteroids, foscarnet"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 416,
+      "preview": "- RRT"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 417,
+      "preview": "- Intracellular shift"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 418,
+      "preview": "- Insulin, calcitonin"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY",
+      "line": 420,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 422
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 424,
+      "preview": "Hyperphosphatemia ( $\\mathbf{P > 4 . 5 ~ m g} / \\mathrm{dL}$ )"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 426,
+      "preview": "- Excessive intake"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 427,
+      "preview": "- Excessive vitamin D intake"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 428,
+      "preview": "- Decreased renal excretion"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 429,
+      "preview": "- AKI, Stage 4/5 CKD, end stage renal disease (ESRD)"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 430,
+      "preview": "- Tumor lysis syndrome"
+    },
+    {
+      "type": "text",
+      "section": "PHOSPHORUS DISORDERS ETIOLOGY, CONT.",
+      "line": 432,
+      "preview": "Canada TW et al. ASPEN Adult Nutrition Support Core Curriculum 3rd ed. 2017:113-37."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 434
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 436,
+      "preview": "- Oral phosphate therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 437,
+      "preview": "- Asymptomatic, able to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 438,
+      "preview": "- Neutraphos, KPhos neutral, sodium phosphate liquid"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 439,
+      "preview": "- Adverse effect - abdominal cramping, osmotic diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 440,
+      "preview": "- Parenteral phosphate therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 441,
+      "preview": "- Symptomatic, malabsorptive conditions, unable to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOPHOSPHATEMIA MANAGEMENT",
+      "line": 443,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 445
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 447,
+      "preview": "- Decrease dose by $50 \\%$ in renal impairment"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 448,
+      "preview": "- Empiric phosphate dose in PN: 0.25-0.5 mmol/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 449,
+      "preview": "- Check Na and K to determine appropriate phosphate salt"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 450,
+      "preview": "- $1 \\mathrm{mmol} \\mathrm{K}_{3} \\mathrm{PO}_{4}=1.5 \\mathrm{mEq} \\mathrm{K}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 451,
+      "preview": "- $1 \\mathrm{mmol} \\mathrm{NaPO}_{4}=1.33 \\mathrm{mEq} \\mathrm{Na}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 452,
+      "preview": "- Phosphorus replacement dosing"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 453,
+      "preview": "- Serum P 2.3-2.7 mg/dL: 0.08-0.16 mmol/kg"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 454,
+      "preview": "- Serum P 1.5-2.2 mg/dL: 0.16-0.32 mmol/kg"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 455,
+      "preview": "- Serum P 2.3-2.7 mg/dL: 0.32-0.64 mmol/kg"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 456,
+      "preview": "- Infusion rate $\\leq 7$ mmol phosphate per hour"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL PHOSPHATE",
+      "line": 458,
+      "preview": "Clark CL, et al. Crit Care Med 1995;23:1504-10."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPERPHOSPHATEMIA TREATMENT",
+      "line": 460
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA TREATMENT",
+      "line": 462,
+      "preview": "- Limit phosphorus intake"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA TREATMENT",
+      "line": 463,
+      "preview": "- Phosphorus binders"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA TREATMENT",
+      "line": 464,
+      "preview": "- Symptomatic hypocalcemia (tetany)"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA TREATMENT",
+      "line": 465,
+      "preview": "- Calcium chloride, calcium gluconate"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA TREATMENT",
+      "line": 466,
+      "preview": "- Renal replacement therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPERPHOSPHATEMIA TREATMENT",
+      "line": 468,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 470
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 472,
+      "preview": "Assuming normal renal function, how much will 30 mmol of potassium phosphate increase the serum pota"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 473,
+      "preview": "A. $0.15 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 474,
+      "preview": "B. $0.3 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 475,
+      "preview": "C. $0.45 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 476,
+      "preview": "D. $0.6 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CALCIUM",
+      "line": 478
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM",
+      "line": 480,
+      "preview": "- Intracellular cation"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM",
+      "line": 481,
+      "preview": "- Normal serum calcium 9-10.5 mg/dL"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM",
+      "line": 482,
+      "preview": "- Normal serum ionized serum calcium"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM",
+      "line": 483,
+      "preview": "- $4.4-5.4 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM",
+      "line": 484,
+      "preview": "- 1.1-1.35 mmol/L"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM",
+      "line": 485,
+      "preview": "- Essential for bone mineralization and growth, coagulation, platelet adhesion, propagation of neuro"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM",
+      "line": 487,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CALCIUM, CONT.",
+      "line": 489
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM, CONT.",
+      "line": 491,
+      "preview": "- Regulation"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM, CONT.",
+      "line": 492,
+      "preview": "- Vitamin D"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM, CONT.",
+      "line": 493,
+      "preview": "- Parathyroid hormone"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM, CONT.",
+      "line": 494,
+      "preview": "- Calcitonin"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM, CONT.",
+      "line": 495,
+      "preview": "- Phosphorus"
+    },
+    {
+      "type": "text",
+      "section": "CALCIUM, CONT.",
+      "line": 496,
+      "preview": "- pH (affects albumin binding)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 499
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 501,
+      "preview": "- Common in critically ill"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 502,
+      "preview": "- Albumin-corrected $\\mathrm{Ca}^{2+}$ equation (not reliable in critically ill)"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 503,
+      "preview": "- Corrected $\\mathrm{Ca}^{2+}=0.8$ (4 - measured albumin) + measured $\\mathrm{Ca}^{2+}$"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 504,
+      "preview": "- Symptoms - cardiovascular and neuromuscular in nature"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 505,
+      "preview": "- Paresthesia (oral), tetany, muscle cramps"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 506,
+      "preview": "- Cardiovascular"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 507,
+      "preview": "- Depression, anxiety, memory loss, confusion"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 508,
+      "preview": "- Skin, hair, and nail changes"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA (CA < 9 MG/DL)",
+      "line": 510,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 512
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 514,
+      "preview": "- Poor intake"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 515,
+      "preview": "- Hypoparathyroidism"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 516,
+      "preview": "- Decreased bone resorption"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 517,
+      "preview": "- Bisphosphonates, calcitonin"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 518,
+      "preview": "- Vitamin D deficiency"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 519,
+      "preview": "- Poor intake of vitamin D"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 520,
+      "preview": "- Reduced sunlight exposure"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 521,
+      "preview": "- CKD"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 522,
+      "preview": "- Phenytoin, phenobarbital"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY",
+      "line": 524,
+      "preview": "Kraft MD et al. AmJ Health-Syst Pharm. 2005; 62:1663-82."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 526
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 528,
+      "preview": "- Alkalosis"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 529,
+      "preview": "- Increased binding of $\\mathrm{Ca}^{2+}$ to albumin"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 530,
+      "preview": "- Hypoalbuminemia"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 531,
+      "preview": "- Calcium binders"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 532,
+      "preview": "- Phosphate replacement products"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 533,
+      "preview": "- Citrate (anticoagulant)"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 534,
+      "preview": "- Hypomagnesemia"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 535,
+      "preview": "- Reduced PTH secretion and activity"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 536,
+      "preview": "- Loop diuretics, aminoglycosides, foscarnet, cisplatin, cyclosporine, amphotericin B"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA ETIOLOGY, CONT.",
+      "line": 538,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 540
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 542,
+      "preview": "- Acute - hypercalcemia of malignancy"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 543,
+      "preview": "- Symptoms"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 544,
+      "preview": "- Nausea, vomiting, polyuria, polydipsia, AKI, altered mental status, malignant arrhythmias, coma"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 545,
+      "preview": "- Chronic - primary hyperparathyroidism"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 546,
+      "preview": "- Symptoms"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 547,
+      "preview": "- Renal calcium deposits, metastatic calcifications, CKD"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 548,
+      "preview": "- Medication-induced"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 549,
+      "preview": "- Vitamin D, calcium supplements, thiazide diuretics"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA (CA > 10.5 MG/DL)",
+      "line": 551,
+      "preview": "Canada TW et al. ASPEN Adult Nutrition Support Core Curriculum 3rd ed. 2017:113-37."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 553
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 555,
+      "preview": "- Correct hypomagnesemia if present"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 556,
+      "preview": "- Oral calcium therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 557,
+      "preview": "- Asymptomatic, able to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 558,
+      "preview": "- Elemental calcium content or oral products varies by salt (9-40\\%)"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 559,
+      "preview": "- Adverse effect - constipation"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 560,
+      "preview": "- Oral vitamin D therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 561,
+      "preview": "- Parenteral calcium therapy"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 562,
+      "preview": "- Symptomatic, malabsorptive conditions, unable to take oral medications"
+    },
+    {
+      "type": "text",
+      "section": "HYPOCALCEMIA MANAGEMENT",
+      "line": 564,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PARENTERAL CALCIUM",
+      "line": 566
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 568,
+      "preview": "- Empiric calcium dose in PN: 10-15 mEq/day"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 569,
+      "preview": "- Always check calcium-phosphate compatibility"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 570,
+      "preview": "- Calcium may be removed from PN for short periods in adults"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 571,
+      "preview": "- Gluconate salt preferred in PN and peripheral IV"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 572,
+      "preview": "- 1 g calcium gluconate $=4.65 \\mathrm{mEq}$ elemental calcium"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 573,
+      "preview": "- 1 g calcium chloride $=13.6 \\mathrm{mEq}$ elemental calcium"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 574,
+      "preview": "- Bolus dosing versus continuous infusions"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 575,
+      "preview": "- Maximum infusion rate: 0.8-1.5 mEq calcium per minute"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 576,
+      "preview": "- Adverse effects: infusion-related, hypotension, bradycardia"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL CALCIUM",
+      "line": 578,
+      "preview": "Kraft MD et al. AmJ Health-Syst Pharm. 2005; 62:1663-82."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 580
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 582,
+      "preview": "- Identify and treat underlying cause"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 583,
+      "preview": "- Hydration $\\pm$ loop diuretics"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 584,
+      "preview": "- Calcitonin (rapid onset, tachyphylaxis)"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 585,
+      "preview": "- Bisphosphonates (slower onset, longer duration)"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 586,
+      "preview": "- Steroids"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 587,
+      "preview": "- Surgery (primary hyperparathyroidism)"
+    },
+    {
+      "type": "text",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 589,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "image",
+      "section": "HYPERCALCEMIA TREATMENT",
+      "line": 591,
+      "content": "![img-1.jpeg](images/0fc4dfde4f9737bf.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 593
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 595,
+      "preview": "A patient presents with serum potassium of $6 \\mathrm{mEq} / \\mathrm{L}$ and peaked T-waves on ECG. "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 596,
+      "preview": "A. Insulin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 597,
+      "preview": "B. Sodium bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 598,
+      "preview": "C. Calcium gluconate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 599,
+      "preview": "D. Sodium polystyrene sulfonate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 601,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 603
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 605,
+      "preview": "A patient presents with serum potassium of $6 \\mathrm{mEq} / \\mathrm{L}$ and peaked T-waves on ECG. "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 606,
+      "preview": "A. Insulin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 607,
+      "preview": "B. Sodium bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 608,
+      "preview": "C. Calcium gluconate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 609,
+      "preview": "D. Sodium polystyrene sulfonate"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 611
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 613,
+      "preview": "Upon morning review of a parenteral nutrition patient, it is noted that the serum magnesium is $1.5 "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 614,
+      "preview": "A. No dose is indicated"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 615,
+      "preview": "B. 16 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 616,
+      "preview": "C. 32 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 617,
+      "preview": "D. 48 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 619,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 621
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 623,
+      "preview": "Upon morning review of a parenteral nutrition patient, it is noted that the serum magnesium is $1.5 "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 624,
+      "preview": "A. No dose is indicated"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 625,
+      "preview": "B. 16 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 626,
+      "preview": "C. 32 mEq magnesium sulfate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 627,
+      "preview": "D. 48 mEq magnesium sulfate"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 629
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 631,
+      "preview": "Assuming normal renal function, how much will 30 mmol of potassium phosphate increase the serum pota"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 632,
+      "preview": "A. $0.15 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 633,
+      "preview": "B. $0.3 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 634,
+      "preview": "C. $0.45 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 635,
+      "preview": "D. $0.6 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 637,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 639
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 641,
+      "preview": "Assuming normal renal function, how much will 30 mmol of potassium phosphate increase the serum pota"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 642,
+      "preview": "A. $0.15 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 643,
+      "preview": "B. $0.3 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 644,
+      "preview": "C. $0.45 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 645,
+      "preview": "D. $0.6 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONCLUSIONS",
+      "line": 647
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 649,
+      "preview": "- A thorough history and physical, including medication review, is important for identification and "
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 650,
+      "preview": "- Knowledge of causes of electrolyte disorders will help in determining appropriate prevention and t"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 651,
+      "preview": "- Development of a nutrition care plan should be done using a systematic approach including comorbid"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 653,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 655
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 657,
+      "preview": "- Canada TW, Lord LM. Chapter 7 Fluid, Electrolytes, and Acid-Base Disorders. In: Mueller CM, ed. Th"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 658,
+      "preview": "- Clark CL, Sacks GS, Dickerson RN et al. Treatment of hypophosphatemia in patients receiving specia"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 659,
+      "preview": "- Hammill-Ruth RJ, McGory R. Magnesium repletion and its effect on potassium homeostasis in critical"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 662
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 664,
+      "preview": "- Kraft MD, Btaiche IF, Sacks GS, Kudsk KA. Treatment of electrolytes disorders in adult patients in"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 665,
+      "preview": "- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parent Ente"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 667,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 669,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 671,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 673,
+      "content": "![img-2.jpeg](images/d0651196d10662d6.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 675
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 677,
+      "preview": "Clinical pharmacy Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 678,
+      "preview": "University of Texas MD Anderson Cancer Center Houston, Texas"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 680,
+      "preview": "Anne M. Tucker is clinical pharmacy specialist at the MD Anderson Cancer Center, Houston, Texas. She"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 682,
+      "preview": "Dr. Tucker is currently the Chair of the American Society for Parenteral and Enteral Nutrition (ASPE"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 684,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 686
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 688,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 690,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 692,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 694,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 695,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 696,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 697,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 698,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 700,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 702,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 704
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 706,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 708,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 710
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 712,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 714
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 716,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 718,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "dc1fa49c6d641dce.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/dc1fa49c6d641dce.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_ElectrolyteDisorders/images/dc1fa49c6d641dce.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "dc1fa49c6d641dce"
+    },
+    {
+      "sha_name": "0fc4dfde4f9737bf.png",
+      "original_ref": "img-1.jpeg",
+      "page": 24,
+      "relative_path": "images/0fc4dfde4f9737bf.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_ElectrolyteDisorders/images/0fc4dfde4f9737bf.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0fc4dfde4f9737bf"
+    },
+    {
+      "sha_name": "d0651196d10662d6.png",
+      "original_ref": "img-2.jpeg",
+      "page": 30,
+      "relative_path": "images/d0651196d10662d6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_ElectrolyteDisorders/images/d0651196d10662d6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d0651196d10662d6"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696263",
+    "ts": "2025-08-08T23:37:43.345520+00:00"
+  }
+}

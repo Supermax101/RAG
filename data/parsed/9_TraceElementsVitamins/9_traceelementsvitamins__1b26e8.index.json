@@ -1,0 +1,1428 @@
+{
+  "doc_id": "9_traceelementsvitamins__1b26e8",
+  "original_filename": "9_TraceElementsVitamins.pdf",
+  "md_path": "data/parsed/9_TraceElementsVitamins/9_TraceElementsVitamins.md",
+  "rmd_path": "data/parsed/9_TraceElementsVitamins/9_TraceElementsVitamins.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Trace Elements and Vitamins",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Trace Elements and Vitamins",
+      "line": 4,
+      "content": "![img-0.jpeg](images/c66507d320448af3.png)"
+    },
+    {
+      "type": "text",
+      "section": "Trace Elements and Vitamins",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Trace Elements and Vitamins",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Trace Elements and Vitamins",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Trace Elements and Vitamins",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT COMPLICATIONS: TRACE ELEMENTS AND VITAMINS",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: TRACE ELEMENTS AND VITAMINS",
+      "line": 15,
+      "preview": "Jay M Mirtallo, M.S., R.Ph., BCNSP, FASHP. The Ohio State University ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: TRACE ELEMENTS AND VITAMINS",
+      "line": 17,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 19
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 21,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 27,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. Allrelev"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 29,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 31
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 33,
+      "preview": "- Identify nutrition support patients at risk for micronutrient deficiency."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Develop a treatment plan for managing micronutrient deficiency."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 37
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 39,
+      "preview": "- CNS:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 40,
+      "preview": "- EFAD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- GI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- NA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- TE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "central nervous system"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "not available or not assessed (as in laboratory or clinical symptom)"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "trace element"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 56
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 58,
+      "preview": "- Inadequate diet"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 59,
+      "preview": "- Parenteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 60,
+      "preview": "- Malabsorption"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 61,
+      "preview": "- Post bariatric surgery"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 62,
+      "preview": "- Bile salt deficiency"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 63,
+      "preview": "- Steatorrhea"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 64,
+      "preview": "- Pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 65,
+      "preview": "- Post gastrectomy or extensive small bowel resection"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 66,
+      "preview": "- Liver disease"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 67,
+      "preview": "- Renal disease"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 68,
+      "preview": "- Alcohol abuse"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 69,
+      "preview": "- Pregnancy"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 70,
+      "preview": "- Medications"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 71,
+      "preview": "- Age"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 72,
+      "preview": "- Gl fluid losses"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 73,
+      "preview": "- Vomiting"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 74,
+      "preview": "- Diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "PREDISPOSING FACTORS TO MICRONUTRIENT DEFICIENCY",
+      "line": 75,
+      "preview": "- Fistula, ostomy"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 78
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 80,
+      "preview": "| Trace Element | Abnormality |"
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 81,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 82,
+      "preview": "| Zinc | Deficiency: immune, Gl, skin, CNS, skeletal, reproductive systems affected. Increased losse"
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 83,
+      "preview": "| Copper | Deficiency - pancytopenia (omitted from PN due to elevated bilirubin), loss of balance or"
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 84,
+      "preview": "| Chromium | Hyperglycemia, deficiency may not be adequately identified with serum levels - watch fo"
+    },
+    {
+      "type": "text",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 86,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 88
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 90,
+      "preview": "|  Trace Element | Abnormality  |"
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 91,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 92,
+      "preview": "|  Manganese | Adverse effects due to CNS accumulation. Best indicator of status is manganese supero"
+    },
+    {
+      "type": "table",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 93,
+      "preview": "|  Selenium | Deficiency, guidelines for use in PN inconsistent, serum and red blood cell \u2013 glutathi"
+    },
+    {
+      "type": "text",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 95,
+      "preview": "*Fuhrman MP. Nutr Clin Pract. 2006;21:566-75.*"
+    },
+    {
+      "type": "image",
+      "section": "TE ABNORMALITIES IN LONG-TERM PN",
+      "line": 97,
+      "content": "![img-1.jpeg](images/c7b4cdd7a6b02f6a.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PATIENT CASE",
+      "line": 99
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 101,
+      "preview": "- 62 year old Female initiated on Home PN in December 2008 for gastrointestinal dysmotility"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 102,
+      "preview": "- September 2011, trace elements were discontinued due to manufacturer shortage"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 103,
+      "preview": "- Oral MVI was initiated which provided Zn, Se, Cu, Mn and Cr"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 104,
+      "preview": "- Could only tolerate 1-2 x per week due to dysphagia"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 105,
+      "preview": "- December 2011"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 106,
+      "preview": "- Increasing fatigue"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 107,
+      "preview": "- Decreased exercise tolerance"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 108,
+      "preview": "- Lower extremity edema"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 109,
+      "preview": "- January 2012"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 110,
+      "preview": "- Severe leukopenia and anemia"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 112,
+      "preview": "*Pramyothin P et al. J Parenter Enter Nutr. 2013;37(3):425-29.*"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE",
+      "line": 114,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 116
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 118,
+      "preview": "| Lab | Baseline | At Diagnosis | 2 Months on Repletion | Reference Range |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 119,
+      "preview": "| :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 120,
+      "preview": "| Hgb, g/dL | 11.2 | 6.5 | 9.8 | $11.8-16$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 121,
+      "preview": "| Hct, \\% | 33.9 | 21.3 | 40.6 | $36-47$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 122,
+      "preview": "| WBC, $10^{3} / \\mathrm{mm}^{3}$ | 9 | 3.1 | 10.7 | $4-11$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 123,
+      "preview": "| $\\mathrm{Pt}, 10^{3} / \\mathrm{mm}^{3}$ | 312 | 343 | 420 | $150-400$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 124,
+      "preview": "| Vit $B_{12}, \\mathrm{pg} / \\mathrm{mL}$ | 644 | 763 | N/A | $211-911$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 125,
+      "preview": "| Folate, $\\mathrm{ng} / \\mathrm{mL}$ | 12.8 | 14 | N/A | $5.8-31.4$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 126,
+      "preview": "| Ferritin, $\\mathrm{ng} / \\mathrm{mL}$ | 21 | 33 | N/A | $10-109$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 127,
+      "preview": "| Copper, $\\mathrm{mcg} / \\mathrm{dL}$ | 87 | $<3$ | 88 | $70-175$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 128,
+      "preview": "| Ceruloplasmin, $\\mathrm{mg} / \\mathrm{dL}$ | N/A | $<3$ | 26 | $18-53$ |"
+    },
+    {
+      "type": "table",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 129,
+      "preview": "| Zinc, $\\mathrm{mcg} / \\mathrm{dL}$ | 62 | 61 | N/A | $30-130$ |"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE - LABORATORY DATA",
+      "line": 131,
+      "preview": "Pramyothin P et al. J Parenter Enter Nutr. 2013; 37(3):425-29."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 133
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 135,
+      "preview": "What trace element deficiency is likely in this patient?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 136,
+      "preview": "A. Zinc"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 137,
+      "preview": "B. Chromium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 138,
+      "preview": "C. Copper"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 139,
+      "preview": "D. Manganese"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 141,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 143
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 145,
+      "preview": "What trace element deficiency is likely in this patient?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 146,
+      "preview": "A. Zinc"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 147,
+      "preview": "B. Chromium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 148,
+      "preview": "C. Copper"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 149,
+      "preview": "D. Manganese"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 151
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 153,
+      "preview": "What are the risk factors for micronutrient deficiency in this patient?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 154,
+      "preview": "A. Malabsorption"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 155,
+      "preview": "B. Bile salt deficiency"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 156,
+      "preview": "C. Gl fluid loss"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 157,
+      "preview": "D. PN product shortage along with intolerance to oral supplement"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 159,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 161
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 163,
+      "preview": "What are the risk factors for micronutrient deficiency in this patient?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 164,
+      "preview": "A. Malabsorption"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 165,
+      "preview": "B. Bile salt deficiency"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 166,
+      "preview": "C. Gl fluid loss"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 167,
+      "preview": "D. PN product shortage along with intolerance to oral supplement"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TE DEFICIENCY: MANGANESE",
+      "line": 169
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE",
+      "line": 171,
+      "preview": "- Onset: 4 months"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE",
+      "line": 172,
+      "preview": "- Weight loss"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE",
+      "line": 173,
+      "preview": "- Transient dermatitis"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE",
+      "line": 174,
+      "preview": "- Nausea, vomiting"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE",
+      "line": 176,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 178
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 180,
+      "preview": "- Neurotoxicity in patients with biliary tract disease"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 181,
+      "preview": "- Deposition in basal ganglia"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 182,
+      "preview": "- Normal doses in parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 183,
+      "preview": "- Memory loss, weakness, fatigue"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 184,
+      "preview": "- Difficulty in initiating movements and walking"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 185,
+      "preview": "- Slowing of response time"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 186,
+      "preview": "- Seizures"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 187,
+      "preview": "- Hold trace elements in patients with elevated bilirubin"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: MANGANESE, CONT.",
+      "line": 188,
+      "preview": "- Evaluate need for other essential trace elements - zinc, copper"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 191
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 193,
+      "preview": "- Onset: 1 month - 2 years"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 194,
+      "preview": "- Myalgias, myositis, hemolysis"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 195,
+      "preview": "- Impaired cellular immunity"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 196,
+      "preview": "- Cardiomyopathy"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 197,
+      "preview": "- Keshan' disease: dilated cardiomyopathy"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 198,
+      "preview": "- Supplementation indicated for long-term patients"
+    },
+    {
+      "type": "text",
+      "section": "TE DEFICIENCY: SELENIUM",
+      "line": 200,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 202
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 204,
+      "preview": "Vitamin deficiencies:"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 206,
+      "preview": "- Thiamine: lactic acidosis, wet beriberi"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 207,
+      "preview": "- Patient's at risk"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 208,
+      "preview": "- Alcoholic"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 209,
+      "preview": "- S/P bariatric surgery"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 210,
+      "preview": "- Exacerbated by high carbohydrate loads (PN)"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 211,
+      "preview": "- Folic acid: hemolytic anemia"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 212,
+      "preview": "- Vitamin A: night blindness"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 214,
+      "preview": "HOW DO I ASSESS A PATIENT FOR TRACE ELEMENT AND VITAMIN STATUS?"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN DEFICIENCIES",
+      "line": 216,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PATIENT ASSESSMENT",
+      "line": 218
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 220,
+      "preview": "Physical exam:"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 222,
+      "preview": "- Rash, hair loss, pigmentation of the skin"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 223,
+      "preview": "- Musculoskeletal weakness, pain"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 224,
+      "preview": "- Altered taste"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 225,
+      "preview": "- Poor wound healing"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 226,
+      "preview": "- Peripheral neuropathy"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 227,
+      "preview": "- Weight loss"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 228,
+      "preview": "- Gl distress: nausea and vomiting"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 229,
+      "preview": "- Mental status changes, confusion, encephalopathy"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PATIENT ASSESSMENT",
+      "line": 232
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 234,
+      "preview": "Laboratory:"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 236,
+      "preview": "- CBC with differential"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 237,
+      "preview": "- Anemia,"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 238,
+      "preview": "- Leukopenia"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 239,
+      "preview": "- Nutritional status"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 240,
+      "preview": "- Nitrogen balance"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 241,
+      "preview": "- Visceral proteins"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 242,
+      "preview": "- Serum trace element levels"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT ASSESSMENT",
+      "line": 244,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 246
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 248,
+      "preview": "| Trace Element | Source | Reference Range |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 249,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 250,
+      "preview": "| Zinc | Plasma <br> RBC | $\\begin{gathered} 70-120 \\mathrm{mcg} / \\mathrm{dL} \\\\ 1000-1600 \\mathrm{"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 251,
+      "preview": "| Copper | Serum | $0.75-1.45 \\mathrm{ng} / \\mathrm{mL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 252,
+      "preview": "| Chromium | Serum <br> Erythrocyte <br> Urine | $\\begin{gathered} 0.05-0.5 \\mathrm{mcg} / \\mathrm{L"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 253,
+      "preview": "| Manganese | Blood <br> Serum | $\\begin{gathered} 4.7-18.3 \\mathrm{ng} / \\mathrm{mL} \\\\ 0.0-2.0 \\ma"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 254,
+      "preview": "| Selenium | Serum <br> Urine <br> Plasma glutathione peroxidase | $\\begin{gathered} 23-190 \\mathrm{"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENT LEVEL MONITORING",
+      "line": 256,
+      "preview": "Clark SF. The A.S.P.E.N. Adult Nutrition Support Core Curriculum. 2nd ed. 2012:121-49."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING TRACE ELEMENTS",
+      "line": 258
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TRACE ELEMENTS",
+      "line": 260,
+      "preview": "- Plasma levels"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TRACE ELEMENTS",
+      "line": 261,
+      "preview": "- At baseline and every 3 months as a routine"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TRACE ELEMENTS",
+      "line": 262,
+      "preview": "- Caution with sample collection techniques"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TRACE ELEMENTS",
+      "line": 263,
+      "preview": "- Hidden sources of trace elements from products other than trace element additives"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TRACE ELEMENTS",
+      "line": 264,
+      "preview": "- Correlate serum levels with medical or physical exam"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TRACE ELEMENTS",
+      "line": 266,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 268
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 270,
+      "preview": "- Clark SF. Chapter 8. Vitamins and Trace Elements. The A.S.P.E.N. Adult Nutrition Support Core Curr"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 271,
+      "preview": "- Fuhrman MP. Micronutrient assessment in long-term home parenteral nutrition patients. Nutr Clin Pr"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 272,
+      "preview": "- Pramyothin P, Kim DW, Young LS et al. Anemia and leukopenia in a long-term parenteral nutrition pa"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 273,
+      "preview": "- Yusuf SW, Rehman Q, Casscells W. Cardiomyopathy in association with selenium deficiency: A case re"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 275,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 277,
+      "content": "![img-2.jpeg](images/4d44f444ade286bb.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 279,
+      "preview": "Jay M. Mirtallo, M.S., R.Ph, BCNSP, FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 280,
+      "preview": "The Professor Emeritus"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 281,
+      "preview": "The Ohio State University, College of Pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 282,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 283,
+      "preview": "American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 284,
+      "preview": "Delaware, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 285,
+      "preview": "As one of the pharmacy specialist pioneers, Professor Mirtallo was instrumental in leading cost-effe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 287,
+      "preview": "Professor Mirtallo has been very active in professional societies and is Past President of the Ameri"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 289,
+      "preview": "As a representative to the Joint Commission, he served on the task force that created the Nutrition "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 291,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 293
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 295,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 297,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 299,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 301,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 302,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 303,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 304,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 305,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 307,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 309,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 311
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 313,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 315,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 317
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 319,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 321
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 323,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 325,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "c66507d320448af3.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/c66507d320448af3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_TraceElementsVitamins/images/c66507d320448af3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c66507d320448af3"
+    },
+    {
+      "sha_name": "c7b4cdd7a6b02f6a.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/c7b4cdd7a6b02f6a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_TraceElementsVitamins/images/c7b4cdd7a6b02f6a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c7b4cdd7a6b02f6a"
+    },
+    {
+      "sha_name": "4d44f444ade286bb.png",
+      "original_ref": "img-2.jpeg",
+      "page": 13,
+      "relative_path": "images/4d44f444ade286bb.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_TraceElementsVitamins/images/4d44f444ade286bb.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4d44f444ade286bb"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696277",
+    "ts": "2025-08-08T23:37:57.772042+00:00"
+  }
+}

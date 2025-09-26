@@ -1,0 +1,2370 @@
+{
+  "doc_id": "1_incorporatingnutritionintherapeuticplanofcare__aeed35",
+  "original_filename": "1_IncorporatingNutritioninTherapeuticPlanofCare.pdf",
+  "md_path": "data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/1_IncorporatingNutritioninTherapeuticPlanofCare.md",
+  "rmd_path": "data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/1_IncorporatingNutritioninTherapeuticPlanofCare.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Incorporating Nutrition Into the Therapeutic Plan of Care",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Incorporating Nutrition Into the Therapeutic Plan of Care",
+      "line": 4,
+      "content": "![img-0.jpeg](images/334ce9253525b53b.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "LEA",
+      "line": 6
+    },
+    {
+      "type": "text",
+      "section": "LEA",
+      "line": 8,
+      "preview": "PLANNED by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "LEA",
+      "line": 10,
+      "preview": "[^0]"
+    },
+    {
+      "type": "text",
+      "section": "LEA",
+      "line": 11,
+      "preview": "[^0]:    \u00a92022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "LEA",
+      "line": 12,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "LEA",
+      "line": 14,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "INCORPORATING NUTRITION INTO THE THERAPEUTIC PLAN OF CARE",
+      "line": 16
+    },
+    {
+      "type": "text",
+      "section": "INCORPORATING NUTRITION INTO THE THERAPEUTIC PLAN OF CARE",
+      "line": 18,
+      "preview": "Pat Worthington, M.S.N., R.N., CNSC"
+    },
+    {
+      "type": "text",
+      "section": "INCORPORATING NUTRITION INTO THE THERAPEUTIC PLAN OF CARE",
+      "line": 20,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 32,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 34
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Review strategies for communicating and documenting nutritional care in the electronic health reco"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Describe ways to address a patient's nutritional needs in response to changes in clinical status a"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 40
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 42,
+      "preview": "- CPOE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 43,
+      "preview": "- EHR:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 44,
+      "preview": "- GI"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 45,
+      "preview": "- IPOC:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 46,
+      "preview": "- OTC:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 47,
+      "preview": "- PICC"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 48,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 49,
+      "preview": "computerized provider order entry"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 50,
+      "preview": "electronic health record"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 51,
+      "preview": "gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 52,
+      "preview": "interdisciplinary plan of care"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 53,
+      "preview": "over the counter"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 54,
+      "preview": "peripherally inserted central catheter"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 55,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 57,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 59
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 61,
+      "preview": "BG is admitted to an acute care facility for management of a small bowel obstruction. The pharmacist"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 62,
+      "preview": "A. A tool for determining degree of malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 63,
+      "preview": "B. A template for documenting progress toward nutrition goals"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 64,
+      "preview": "C. A means for detecting food intolerance"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 65,
+      "preview": "D. A process for identifying patients at nutritional risk"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 67
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 69,
+      "content": "![img-1.jpeg](images/854279b0d8e3b67d.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 71,
+      "preview": "PH is admitted to an acute care facility from a long-term acute care facility. She has a PICC line i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 72,
+      "preview": "A. Send an electronic request for more information to the transferring facility"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 73,
+      "preview": "B. Resume PN with a 1 liter formula to evaluate the patient's response"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 74,
+      "preview": "C. Telephone the transferring facility to clarify the details concerning the patient's PN formula an"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 75,
+      "preview": "D. Delay PN administration for 24-48 hours to assess the patient's metabolic stability"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 77,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "THE GROUND WORK",
+      "line": 79
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 81,
+      "preview": "System-based strategies that promote the role of nutrition care:"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 83,
+      "preview": "- Establish organization policies and procedures that address nutritional concerns"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 84,
+      "preview": "- Maintain compliance with accreditation, regulatory, and safety guidelines"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 85,
+      "preview": "- Track quality metrics that focus on nutritional outcomes"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 86,
+      "preview": "- Develop interdisciplinary committees and task forces to address and communicate nutritional issues"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 87,
+      "preview": "- Identify motivated stakeholders as champions across departmental lines"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 89,
+      "preview": "Tappenden KA et al. J Acad Nutr Diet. 2013; 113:1219-37."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "THE GROUND WORK",
+      "line": 91
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 93,
+      "preview": "Foster an organizational culture that recognizes the role of nutrition care:"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 95,
+      "preview": "- Conduct interdisciplinary education and competency assessment"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 96,
+      "preview": "- Implement technological aids to capture documentation of malnutrition and improve communication (C"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 97,
+      "preview": "- Provide tools to facilitate documentation of nutrition issues in all team huddles, formal rounds a"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 98,
+      "preview": "- Establish interdisciplinary processes for selecting enteral and parenteral nutrition products"
+    },
+    {
+      "type": "text",
+      "section": "THE GROUND WORK",
+      "line": 100,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "COMMUNICATING AND DOCUMENTING NUTRITION CARE",
+      "line": 102
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "A THREAD WOVEN THROUGHOUT THE HEALTH RECORD",
+      "line": 104
+    },
+    {
+      "type": "text",
+      "section": "A THREAD WOVEN THROUGHOUT THE HEALTH RECORD",
+      "line": 106,
+      "preview": "- No single section of the record is dedicated to nutrition"
+    },
+    {
+      "type": "text",
+      "section": "A THREAD WOVEN THROUGHOUT THE HEALTH RECORD",
+      "line": 107,
+      "preview": "- The nutrition plan developed serves as the foundation"
+    },
+    {
+      "type": "text",
+      "section": "A THREAD WOVEN THROUGHOUT THE HEALTH RECORD",
+      "line": 108,
+      "preview": "- Each discipline has specific responsibilities for providing, documenting, and communicating nutrit"
+    },
+    {
+      "type": "text",
+      "section": "A THREAD WOVEN THROUGHOUT THE HEALTH RECORD",
+      "line": 109,
+      "preview": "- Awareness of all nutrition elements in the record provides a comprehensive view of the nutrition c"
+    },
+    {
+      "type": "text",
+      "section": "A THREAD WOVEN THROUGHOUT THE HEALTH RECORD",
+      "line": 110,
+      "preview": "- Thorough documentation by each discipline fosters effective nutrition care across the continuum of"
+    },
+    {
+      "type": "text",
+      "section": "A THREAD WOVEN THROUGHOUT THE HEALTH RECORD",
+      "line": 112,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 114
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 116,
+      "preview": "Key Elements"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 118,
+      "preview": "- Nutrition Screening"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 119,
+      "preview": "- Nutrition assessment"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 120,
+      "preview": "- History and physical"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 121,
+      "preview": "- Problem list"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 122,
+      "preview": "- Interdisciplinary plan of care"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 123,
+      "preview": "- Data"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 124,
+      "preview": "- Medication profile"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 125,
+      "preview": "- Clinical progress notes"
+    },
+    {
+      "type": "text",
+      "section": "TRACING THE NUTRITION THREAD THROUGH THE HEALTH RECORD",
+      "line": 126,
+      "preview": "- Discharge/transition summary"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1",
+      "line": 129
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 131,
+      "preview": "- A 42 year old man, with a history of Crohn's disease, was recently discharged from the hospital on"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 132,
+      "preview": "- Prior to surgery the patient reports poor nutritional intake due to nausea, vomiting, and abdomina"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 133,
+      "preview": "- At home he experiences abdominal pain and increasing difficulty tolerating his oral diet"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 134,
+      "preview": "- On post-op day 10, he develops drainage from his midline incision"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 135,
+      "preview": "- He is readmitted; work up reveals an enteric fistula"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 137,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 139
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 141,
+      "preview": "- The admitting RN records the following information:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 142,
+      "preview": "- Height: 175 cm"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 143,
+      "preview": "- Weight: 59.5 kg"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 144,
+      "preview": "- Usual weight: 66 kg"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 145,
+      "preview": "- Weight loss represents an $8.4 \\%$ decline over 3 weeks"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 146,
+      "preview": "- Patient reports poor intake pre-operatively; has consumed less than $75 \\%$ of meals since surgery"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: NUTRITION SCREENING",
+      "line": 147,
+      "preview": "- Action: Consult nutrition clinician for full nutritional assessment; reassess every 34 days"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITION SCREENING",
+      "line": 150
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING",
+      "line": 152,
+      "preview": "Don't lose the tree for the forest..."
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING",
+      "line": 154,
+      "preview": "- Effective screening depends on recognition of the link between nutrition and poor clinical outcome"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING",
+      "line": 155,
+      "preview": "- Typically located within the Nursing Admission History, which also includes screening for MRSA, pa"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING",
+      "line": 156,
+      "preview": "- (EHR placement of information could be institution specific)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING",
+      "line": 157,
+      "preview": "- Opportunity for nurses to initiate interdisciplinary collaboration - available to all"
+    },
+    {
+      "type": "image",
+      "section": "NUTRITION SCREENING",
+      "line": 158,
+      "content": "![img-2.jpeg](images/e68b6f4b95057def.png)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING",
+      "line": 160,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION ASSESSMENT",
+      "line": 162
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 164,
+      "preview": "- Cornerstone of the nutrition care process:"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 165,
+      "preview": "- Performed by nutrition clinician"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 166,
+      "preview": "- Documents the nutritional diagnosis, including severity of malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 167,
+      "preview": "- Establishes a plan for nutrition care"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 168,
+      "preview": "- Specifies appropriate nutritional interventions, as indicated"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 169,
+      "preview": "- Highlights priorities for primary healthcare provider"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 170,
+      "preview": "- Outlines monitoring parameters and evaluation criteria"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 171,
+      "preview": "- Informs all aspects of the overall therapeutic plan by identifying need for additional interdiscip"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 173,
+      "preview": "White JV et al. JPEN J Parenter Enteral Nutr. 2012; 36:275-83."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 175
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 177,
+      "preview": "- Provides relevant medical information with implications for nutrition status"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 178,
+      "preview": "- History of Crohn's Disease: Inflammatory illness with nutritional implications"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 179,
+      "preview": "- Alterations in nutrient requirements: Impact of inflammation, needs for wound healing"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 180,
+      "preview": "- Location of previous small intestine resections"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 181,
+      "preview": "- Location of current fistula, volume and nature of output"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 182,
+      "preview": "- Results of laboratory tests"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 183,
+      "preview": "- Plan: Keep NPO; provide nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: HISTORY \\& PHYSICAL",
+      "line": 185,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PROBLEM LIST",
+      "line": 187
+    },
+    {
+      "type": "text",
+      "section": "PROBLEM LIST",
+      "line": 189,
+      "preview": "- Includes results of consults: medical specialties, nutrition, social work, therapists..."
+    },
+    {
+      "type": "text",
+      "section": "PROBLEM LIST",
+      "line": 190,
+      "preview": "- Provides a current, prioritized summary of patient problems and significant health factors. If pre"
+    },
+    {
+      "type": "text",
+      "section": "PROBLEM LIST",
+      "line": 191,
+      "preview": "- Available to all clinicians"
+    },
+    {
+      "type": "text",
+      "section": "PROBLEM LIST",
+      "line": 192,
+      "preview": "- Must be continually updated; editing privileges vary"
+    },
+    {
+      "type": "text",
+      "section": "PROBLEM LIST",
+      "line": 193,
+      "preview": "- Promotes comprehensive care and continuity"
+    },
+    {
+      "type": "text",
+      "section": "PROBLEM LIST",
+      "line": 194,
+      "preview": "- Patient and caregiver input enhances value"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PROBLEM LIST, CONT.",
+      "line": 197
+    },
+    {
+      "type": "table",
+      "section": "PROBLEM LIST, CONT.",
+      "line": 199,
+      "preview": "| Status | Problem | Comments | Onset (Date) | Resolved (Date) |"
+    },
+    {
+      "type": "table",
+      "section": "PROBLEM LIST, CONT.",
+      "line": 200,
+      "preview": "| :-- | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "PROBLEM LIST, CONT.",
+      "line": 201,
+      "preview": "| Active | Malnutrition | Severe | $3 / 15 / 2019$ |  |"
+    },
+    {
+      "type": "table",
+      "section": "PROBLEM LIST, CONT.",
+      "line": 202,
+      "preview": "| Active | Crohn's <br> disease | Controlled with <br> medication | 2015 |  |"
+    },
+    {
+      "type": "table",
+      "section": "PROBLEM LIST, CONT.",
+      "line": 203,
+      "preview": "| Inactive | Seasonal <br> rhinitis | Fall \"hayfever\" | 2001 |  |"
+    },
+    {
+      "type": "table",
+      "section": "PROBLEM LIST, CONT.",
+      "line": 204,
+      "preview": "| Resolved | Pressure <br> injury | Grade 2; left hip | $12 / 2018$ | $3 / 2019$ |"
+    },
+    {
+      "type": "text",
+      "section": "PROBLEM LIST, CONT.",
+      "line": 206,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "INTERDISCIPLINARY PLAN OF CARE",
+      "line": 208
+    },
+    {
+      "type": "text",
+      "section": "INTERDISCIPLINARY PLAN OF CARE",
+      "line": 210,
+      "preview": "- IPOC: Road map for comprehensive, collaborative care. Opportunity to incorporate nutritional issue"
+    },
+    {
+      "type": "text",
+      "section": "INTERDISCIPLINARY PLAN OF CARE",
+      "line": 211,
+      "preview": "- An individualized written plan based on data gathered during assessment"
+    },
+    {
+      "type": "text",
+      "section": "INTERDISCIPLINARY PLAN OF CARE",
+      "line": 212,
+      "preview": "- Builds on problem list; adds goals and specific interventions"
+    },
+    {
+      "type": "text",
+      "section": "INTERDISCIPLINARY PLAN OF CARE",
+      "line": 213,
+      "preview": "- A dynamic document, available for use by all health professionals"
+    },
+    {
+      "type": "text",
+      "section": "INTERDISCIPLINARY PLAN OF CARE",
+      "line": 214,
+      "preview": "- Ongoing updates and revision"
+    },
+    {
+      "type": "text",
+      "section": "INTERDISCIPLINARY PLAN OF CARE",
+      "line": 215,
+      "preview": "- Use to support, not to replace, interpersonal communication"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 218
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 220,
+      "preview": "- Patient reports taking anti-inflammatory drugs and biologic agents in past"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 221,
+      "preview": "- Takes ibuprofen for pain, a multivitamin supplement, an herbal supplement, and monthly B12 injecti"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 222,
+      "preview": "- Identifies drug-related issues with potential to impact nutrition status"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 223,
+      "preview": "- Gastrointestinal side effects"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 224,
+      "preview": "- Drug-nutrient interactions"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 225,
+      "preview": "- Alterations in drug or nutrient absorption or activity"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 226,
+      "preview": "- Based on location of fistula, may need to adjust the medication regimen"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 227,
+      "preview": "- Recognizes educational needs"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: MEDICATION REVIEW",
+      "line": 229,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DATA AND CLINICAL NOTES",
+      "line": 231
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "- Data",
+      "line": 233
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 235,
+      "preview": "- Vital signs"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 236,
+      "preview": "- Results of laboratory tests"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 237,
+      "preview": "- Weight graphs"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 238,
+      "preview": "- Intake and output measurements-fluid balance"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 239,
+      "preview": "- Intake recorded from pump totals vs rate ordered"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 240,
+      "preview": "- Enlist family and patient assistance"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 241,
+      "preview": "- Clinical notes: narrative summaries"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 242,
+      "preview": "- Changes in clinical status"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 243,
+      "preview": "- Appetite changes, meal consumption, nutrition support tolerance"
+    },
+    {
+      "type": "text",
+      "section": "- Data",
+      "line": 244,
+      "preview": "- Progress toward discharge or transitions of care"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 247
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 249,
+      "preview": "- Incorporate elements of the nutrition care plan into the IPOC"
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 250,
+      "preview": "- Remain vigilant in monitoring patient progress or changes in clinical status"
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 251,
+      "preview": "- Document changes in weight, appetite, missed meals, percent of meal consumed, tolerance of nutriti"
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 252,
+      "preview": "- Maintain accurate intake and output records with oral, enteral, and parenteral nutrition documente"
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 253,
+      "preview": "- Highlight clinical events such as procedures, diagnostic tests, or therapy that interfere with ade"
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 254,
+      "preview": "- Expect input from all disciplines in patient care meetings"
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 255,
+      "preview": "- Address nutrition in all rounds, team conferences, and patient care huddles"
+    },
+    {
+      "type": "text",
+      "section": "COMMUNICATION STRATEGIES FOR EFFECTIVE NUTRITION CARE",
+      "line": 257,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 259
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 261,
+      "preview": "| Review of Systems | $3 / 15 / 19$ |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 262,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 263,
+      "preview": "| Gastrointestinal System |  |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 264,
+      "preview": "| No GI conditions identified |  |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 265,
+      "preview": "| Painful swallowing | $\\checkmark$ |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 266,
+      "preview": "| Abdominal exam: Bowel sounds <br> present | $\\checkmark$ |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 267,
+      "preview": "| Nausea |  |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 268,
+      "preview": "| Vomiting |  |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 269,
+      "preview": "| Diarrhea | $\\checkmark$ |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 270,
+      "preview": "| Constipation |  |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 271,
+      "preview": "| Date of last bowel movement | $3 / 15$ |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 272,
+      "preview": "| Incontinence |  |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 273,
+      "preview": "| Poor appetite | $\\checkmark$ |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 274,
+      "preview": "| GI diversion; fistula |  |"
+    },
+    {
+      "type": "table",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 275,
+      "preview": "| Acid reflux; heartburn | $\\checkmark$ |"
+    },
+    {
+      "type": "text",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 277,
+      "preview": "- Effective screening involves more than simply checking the box"
+    },
+    {
+      "type": "text",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 278,
+      "preview": "- Flow sheet charting provides a day-today record of clinical issues"
+    },
+    {
+      "type": "text",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 279,
+      "preview": "- Re-assess for changes in status throughout hospital stay"
+    },
+    {
+      "type": "text",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 280,
+      "preview": "- Use clinical judgment to prevent \"falling through the cracks\""
+    },
+    {
+      "type": "text",
+      "section": "DAILY FLOW SHEET CHARTING",
+      "line": 281,
+      "preview": "- Additional pertinent flow sheets"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SEEING THE RED FLAGS",
+      "line": 284
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 286,
+      "preview": "- Weight loss"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 287,
+      "preview": "- Missed or uneaten meals"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 288,
+      "preview": "- Gl symptoms"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 289,
+      "preview": "- Inconsistent tube feeding intake"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 290,
+      "preview": "- \"Tube feeding at goal\""
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 291,
+      "preview": "- Altered mental status"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 292,
+      "preview": "- Delirium, confusion"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 293,
+      "preview": "- Poor oral hygiene"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 294,
+      "preview": "- Need for assisted feeding"
+    },
+    {
+      "type": "text",
+      "section": "SEEING THE RED FLAGS",
+      "line": 296,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TYING IT ALL TOGETHER",
+      "line": 298
+    },
+    {
+      "type": "text",
+      "section": "TYING IT ALL TOGETHER",
+      "line": 300,
+      "preview": "- Work as a team to limit fasting periods"
+    },
+    {
+      "type": "text",
+      "section": "TYING IT ALL TOGETHER",
+      "line": 301,
+      "preview": "- Communicate meal consumption or tolerance of nutrition support interventions"
+    },
+    {
+      "type": "text",
+      "section": "TYING IT ALL TOGETHER",
+      "line": 302,
+      "preview": "- Refer concerns to RD promptly"
+    },
+    {
+      "type": "text",
+      "section": "TYING IT ALL TOGETHER",
+      "line": 303,
+      "preview": "- Identify those who need assistance with feeding"
+    },
+    {
+      "type": "text",
+      "section": "TYING IT ALL TOGETHER",
+      "line": 304,
+      "preview": "- Initiate oral nutrition supplements early; check acceptance, tolerance"
+    },
+    {
+      "type": "text",
+      "section": "TYING IT ALL TOGETHER",
+      "line": 305,
+      "preview": "- Identify nutrition champions across departmental lines"
+    },
+    {
+      "type": "text",
+      "section": "TYING IT ALL TOGETHER",
+      "line": 307,
+      "preview": "Jeffries D et al. J. J Clin Nurs. 2011; 20(3-4):317-30."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 309
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 311,
+      "preview": "- Provides insight into ethnic, cultural, and spiritual views regarding the relationship between nut"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 312,
+      "preview": "- Completes history of dietary intake and eating patterns"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 313,
+      "preview": "- Offers an opportunity to support patient satisfaction with nutrition care"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 314,
+      "preview": "- Establishes realistic goals for nutrition intervention - weight targets, stamina"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 315,
+      "preview": "- Identifies learning needs"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 316,
+      "preview": "- Facilitates discharge planning"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: BENEFITS",
+      "line": 318,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: STRATEGIES",
+      "line": 320
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: STRATEGIES",
+      "line": 322,
+      "preview": "- Incorporate nutritional updates in patient-centered strategies"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: STRATEGIES",
+      "line": 323,
+      "preview": "- Bedside/walking rounds with technology support as needed"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: STRATEGIES",
+      "line": 324,
+      "preview": "- Plan of care rounds (static) with report to patient and family"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: STRATEGIES",
+      "line": 325,
+      "preview": "- Family meetings"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT AND CAREGIVER INVOLVEMENT: STRATEGIES",
+      "line": 326,
+      "preview": "- Electronic patient portals"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 329
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 331,
+      "preview": "- Typical hospitalizations involve numerous transfers: ED $\\rightarrow$ ICU $\\rightarrow$ stepdown $"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 332,
+      "preview": "- Also includes numerous sign-outs, shift reports, etc."
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 333,
+      "preview": "- Potential for ineffective communication and disruption of continuity of care"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 334,
+      "preview": "- Recognized has a high-risk, error-prone occurrence"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 335,
+      "preview": "- Poor preparation and follow up with TF and PN can lead to complications"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 336,
+      "preview": "- Declining nutrition status has been identified as contributing to readmissions"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS AND HAND-OFFS",
+      "line": 338,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 340
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 342,
+      "preview": "- Oral and enteral nutrition lead to increased fistula output"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 343,
+      "preview": "- A PICC line is placed and patient is started on PN with relatively low dextrose for initial formul"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 344,
+      "preview": "- At rounds team announces that discharge to home on PN is planned for the next day"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 345,
+      "preview": "- Case manager faxes a copy of the current PN prescription to the home infusion company"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 348
+    },
+    {
+      "type": "image",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 350,
+      "content": "![img-3.jpeg](images/5b106a82c4f76617.png)"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 352,
+      "preview": "- Identify and address barriers to safe discharge"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 353,
+      "preview": "- PN not yet at goal"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 354,
+      "preview": "- Patient has required supplemental potassium and phosphate since PN started"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 355,
+      "preview": "- Clinician responsible for writing PN orders and reviewing laboratory tests not yet identified"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 356,
+      "preview": "- Patient is also receiving IV antibiotics and pain medication"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 357,
+      "preview": "- Patient and caregiver are surprised to learn of plan for home PN"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 358,
+      "preview": "- Insurance authorization pending"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1: <br> TRANSITIONS AND HANDOFFS",
+      "line": 360,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 362
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 364,
+      "preview": "After 8 weeks on PN at home, the patient is readmitted for fistula closure:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 366,
+      "preview": "- PN Readmission Assessment"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 367,
+      "preview": "- Current PN formula-Verify with home infusion provider"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 368,
+      "preview": "- Weight trends: Appropriateness of macronutrient content"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 369,
+      "preview": "- Laboratory tests: Need to adjust electrolyte content"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 370,
+      "preview": "- Glycemic control"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 371,
+      "preview": "- Hydration status: Appropriateness of current fluid intake"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 372,
+      "preview": "- Medication reconciliation and review"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 373,
+      "preview": "- Patient interview: perceptions of care, adherence to plan"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 376
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 378,
+      "preview": "- Communication breakdowns"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 379,
+      "preview": "- Failure to send complete documentation"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 380,
+      "preview": "- Inadequate follow-up for missing information"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 381,
+      "preview": "- Accountability breakdowns"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 382,
+      "preview": "- Organizational expectations"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 383,
+      "preview": "- Recognize professional responsibilities"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 384,
+      "preview": "- Teamwork"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 385,
+      "preview": "- Patient education breakdowns"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 386,
+      "preview": "- Time, environment, methods"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ERROR IN TRANSITIONS AND HANDOFFS",
+      "line": 388,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 390
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 392,
+      "preview": "- Set expectations for multidisciplinary collaboration in transition care"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 393,
+      "preview": "- Establish working relationships with case managers"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 394,
+      "preview": "- Identify those at risk (medically frail, complex care needs, high-tech care)"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 395,
+      "preview": "- Develop a comprehensive discharge nutrition care plan"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 396,
+      "preview": "- Use standardized processes for communication; do not rely solely on electronic or written reports"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 397,
+      "preview": "- Include medication management"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 398,
+      "preview": "- Use return demonstration, \"teach back\" methodology in education plan"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS",
+      "line": 400,
+      "preview": "Joint Commission. https://www.jointcommission.org/hot_topic_toc/ (accessed 2019 Feb 6)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS, CONT.",
+      "line": 402
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS, CONT.",
+      "line": 404,
+      "preview": "- Involve patient and family"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS, CONT.",
+      "line": 405,
+      "preview": "- Provide detailed written discharge summary including contact information for all disciplines"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS, CONT.",
+      "line": 406,
+      "preview": "- Follow up with discipline-specific oral reports to receiving unit or agency"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS, CONT.",
+      "line": 407,
+      "preview": "- PN as a high alert medication requires detailed transition follow-through"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS, CONT.",
+      "line": 408,
+      "preview": "- Reinforce the importance of nutrition care and follow-up post-discharge to patient and caregiver"
+    },
+    {
+      "type": "text",
+      "section": "FOUNDATIONS FOR EFFECTIVE \\& SAFE CARE TRANSITIONS, CONT.",
+      "line": 410,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 412
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 414,
+      "preview": "BG is admitted to an acute care facility for management of a small bowel obstruction. The pharmacist"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 415,
+      "preview": "A. A tool for determining degree of malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 416,
+      "preview": "B. A template for documenting progress toward nutrition goals"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 417,
+      "preview": "C. A means for detecting food intolerance"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 418,
+      "preview": "D. A process for identifying patients at nutritional risk"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 420
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 422,
+      "preview": "BG is admitted to an acute care facility for management of a small bowel obstruction. The pharmacist"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 423,
+      "preview": "A. A tool for determining degree of malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 424,
+      "preview": "B. A template for documenting progress toward nutrition goals"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 425,
+      "preview": "C. A means for detecting food intolerance"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 426,
+      "preview": "D. A process for identifying patients at nutritional risk"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 428,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 430
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 432,
+      "content": "![img-4.jpeg](images/2406491affd83743.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 434,
+      "preview": "PH is admitted to an acute care facility from a long-term acute care facility. She has a PICC line i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 435,
+      "preview": "A. Send and electronic request for more information to the transferring facility"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 436,
+      "preview": "B. Resume PN with a 1 liter formula to evaluate the patient's response"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 437,
+      "preview": "C. Telephone the transferring facility to clarify the details concerning the patient's PN formula an"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 438,
+      "preview": "D. Delay PN administration for 24-48 hours to assess the patient's metabolic stability"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 440
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 442,
+      "content": "![img-5.jpeg](images/ce62f30e9a83a2e6.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 444,
+      "preview": "PH is admitted to an acute care facility from a long-term acute care facility. She has a PICC line i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 445,
+      "preview": "A. Send and electronic request for more information to the transferring facility"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 446,
+      "preview": "B. Resume PN with a 1 liter formula to evaluate the patient's response"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 447,
+      "preview": "C. Telephone the transferring facility to clarify the details concerning the patient's PN formula an"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 448,
+      "preview": "D. Delay PN administration for 24-48 hours to assess the patient's metabolic stability"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 450,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 452
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 454,
+      "preview": "- Nutrition: An intersection between medicine, dietetics, nursing, pharmacy and other disciplines"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 455,
+      "preview": "- Promote awareness within the organization of current guidelines and recommendations"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 456,
+      "preview": "- Define each clinician's role to include nutritional responsibilities"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 457,
+      "preview": "- Set expectations regarding comprehensive documentation"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 459,
+      "preview": "Tappenden KA et al. J Acad Nutr Diet. 2013; 113:1219-37"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 461
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 463,
+      "preview": "- Agency for Healthcare Research and Quality. Engaging Patients and Families in Their Health Care. R"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 464,
+      "preview": "- Agency for Healthcare Research and Quality. Patient Safety and Quality: An Evidence-Based Handbook"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 465,
+      "preview": "- Downes JM, O'Neal KS, Miller MJ et al. Identifying opportunities to improve medication management "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 467,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 469
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 471,
+      "preview": "- Jeffries D, Johnson, ML, Ravens J. Nurturing and nourishing: the nurses' role in nutritional care."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 472,
+      "preview": "- Labson, M. Innovative and successful approaches to improving care transitions from hospital to hom"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 473,
+      "preview": "- Mogensen KM, Horkan CM, Purtle SW et al. Malnutrition, Critical Illness Survivors, and Postdischar"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 474,
+      "preview": "- Tappenden KA, Quatrara B, Parkhurst ML et al. The critical role of nutrition in improving quality "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 477
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 479,
+      "preview": "- The Joint Commission. Transitions of Care: The need for collaboration across entire care continuum"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 480,
+      "preview": "- The Joint Commission Center for Transforming Healthcare. Improving transitions of care: Hand-off c"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 481,
+      "preview": "- Ukleja A, Freeman KL, Gilbert K et al. Standards for Nutrition Support: Adult Hospitalized Patient"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 482,
+      "preview": "- White JV et al. Consensus Statement: Academy of Nutrition and Dietetics and American Society for P"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 484,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 486,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 488,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 490,
+      "content": "![img-6.jpeg](images/2bc84ba28f715198.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 492,
+      "preview": "Patricia Worthington, R.N., M.S.N., CNSC"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 493,
+      "preview": "Retired"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 494,
+      "preview": "Previously: Nutrition Support Clinical Nurse Specialist"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 495,
+      "preview": "Thomas Jefferson University Hospital"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 496,
+      "preview": "Philadelphia, Pennsylvania"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 498,
+      "preview": "Patricia Worthington recently retired from her position as Nutrition Support Clinical Nurse Speciali"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 500,
+      "preview": "Throughout her career Ms. Worthington has had extensive involvement with the Nutrition Support organ"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 502,
+      "preview": "Ms. Worthington has published numerous book chapters and papers in peer-reviewed journals and is aut"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 504,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 506
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 508,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 510,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 512,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 514,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 515,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 516,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 517,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 518,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 520,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 522,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 524
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 526,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 528,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 530
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 532,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 534
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 536,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 538,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "334ce9253525b53b.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/334ce9253525b53b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/images/334ce9253525b53b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "334ce9253525b53b"
+    },
+    {
+      "sha_name": "854279b0d8e3b67d.png",
+      "original_ref": "img-1.jpeg",
+      "page": 3,
+      "relative_path": "images/854279b0d8e3b67d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/images/854279b0d8e3b67d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "854279b0d8e3b67d"
+    },
+    {
+      "sha_name": "e68b6f4b95057def.png",
+      "original_ref": "img-2.jpeg",
+      "page": 7,
+      "relative_path": "images/e68b6f4b95057def.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/images/e68b6f4b95057def.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e68b6f4b95057def"
+    },
+    {
+      "sha_name": "5b106a82c4f76617.png",
+      "original_ref": "img-3.jpeg",
+      "page": 15,
+      "relative_path": "images/5b106a82c4f76617.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/images/5b106a82c4f76617.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "5b106a82c4f76617"
+    },
+    {
+      "sha_name": "2406491affd83743.png",
+      "original_ref": "img-4.jpeg",
+      "page": 19,
+      "relative_path": "images/2406491affd83743.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/images/2406491affd83743.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2406491affd83743"
+    },
+    {
+      "sha_name": "ce62f30e9a83a2e6.png",
+      "original_ref": "img-5.jpeg",
+      "page": 19,
+      "relative_path": "images/ce62f30e9a83a2e6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/images/ce62f30e9a83a2e6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ce62f30e9a83a2e6"
+    },
+    {
+      "sha_name": "2bc84ba28f715198.png",
+      "original_ref": "img-6.jpeg",
+      "page": 23,
+      "relative_path": "images/2bc84ba28f715198.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_IncorporatingNutritioninTherapeuticPlanofCare/images/2bc84ba28f715198.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2bc84ba28f715198"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695695",
+    "ts": "2025-08-08T23:28:15.961042+00:00"
+  }
+}

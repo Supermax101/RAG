@@ -1,0 +1,4191 @@
+{
+  "doc_id": "5_nutritionsupportordering__fc0bb1",
+  "original_filename": "5_NutritionSupportOrdering.pdf",
+  "md_path": "data/parsed/5_NutritionSupportOrdering/5_NutritionSupportOrdering.md",
+  "rmd_path": "data/parsed/5_NutritionSupportOrdering/5_NutritionSupportOrdering.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Nutrition Support Ordering",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Nutrition Support Ordering",
+      "line": 4,
+      "content": "![img-0.jpeg](images/9c01a79eee8ab186.png)"
+    },
+    {
+      "type": "text",
+      "section": "Nutrition Support Ordering",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Nutrition Support Ordering",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Nutrition Support Ordering",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Nutrition Support Ordering",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT ORDER <br> ENTERAL AND PARENTERAL",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ORDER <br> ENTERAL AND PARENTERAL",
+      "line": 15,
+      "preview": "Phil Ayers, Pharm.D., BCNSP, FMSHP, FASHP"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ORDER <br> ENTERAL AND PARENTERAL",
+      "line": 16,
+      "preview": "Baptist Medical Center, University of Mississippi Kris M. Mogensen, M.S., R.D.-A.P., L.D.N., CNSC"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ORDER <br> ENTERAL AND PARENTERAL",
+      "line": 17,
+      "preview": "Brigham and Women's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ORDER <br> ENTERAL AND PARENTERAL",
+      "line": 19,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 21
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "- Phil Ayers: Fersenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "- Kris M. Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 32,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 34
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Discuss the key elements and functionality of the electronic health record (EHR) for enteral and p"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Review the appropriate ordering process for multi-chamber parenteral nutrition products."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 38,
+      "preview": "- Design a transition of care regimen for patients receiving enteral or parenteral nutrition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 41
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- BUN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- MCB-PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- S/p:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- Tg:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- Yo:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "blood, urea, nitrogen"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "multi-chamber bag - parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "status post"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "Triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "Year-Old"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 60
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 62,
+      "preview": "TA is a 79 year-old man is 7 days s/p bowel resection for a colon mass. A nasogastric tube is in pla"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 63,
+      "preview": "A. Comprehensive metabolic panel"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 64,
+      "preview": "B. Phosphorus"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 65,
+      "preview": "C. Prealbumin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 66,
+      "preview": "D. Magnesium"
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 67,
+      "content": "![img-1.jpeg](images/0954b22afc0d2774.png)"
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 68,
+      "content": "![img-2.jpeg](images/10d0f97091d9ad25.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 70,
+      "preview": "Image reproduced with permission from Boullata JL JPENJ Parenter Enteral Nutr. 2012; 36:10-13S."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 72,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 74,
+      "content": "![img-3.jpeg](images/4f512fdfe8353c37.png)"
+    },
+    {
+      "type": "table",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 76,
+      "preview": "|  Clinical Recommendations | 0"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 77,
+      "preview": "aspen"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 78,
+      "preview": "CORRIS VN 408048 000"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 79,
+      "preview": "ASSOCIATE OF LABORAL NUTRITION"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 80,
+      "preview": "ASSOCIATE OF LABORAL NUTRITION"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 81,
+      "preview": "Journal of Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 82,
+      "preview": "Volume 38 Number 3"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 83,
+      "preview": "March 2014 296-333"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 84,
+      "preview": "\u00a9 2013 American Society"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 85,
+      "preview": "for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 86,
+      "preview": "DOI: 10.1177/0148607113511992"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 87,
+      "preview": "gmx.sagepub.com"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 88,
+      "preview": "hosted at"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 89,
+      "preview": "online.sagepub.com"
+    },
+    {
+      "type": "table",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 90,
+      "preview": "@SAGE  |"
+    },
+    {
+      "type": "table",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 91,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 92,
+      "preview": "|  A.S.P.E.N. Parenteral Nutrition Safety Consensus Recommendations |   |"
+    },
+    {
+      "type": "table",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 93,
+      "preview": "|  Phil Ayers, PharmD, BCNSP, FASHP\u00b9; Stephen Adams, MS, RPh, BCNSP\u00b2; Joseph Boullata, PharmD, RPh, "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 95,
+      "preview": "*Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333.*"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 97,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 99
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 101,
+      "preview": "- Match prescribing and pharmacy templates"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 102,
+      "preview": "- Build, test, and heed automated warnings"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 103,
+      "preview": "- Heighten suspicions of errors"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 104,
+      "preview": "- Carry out effective redundancies"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 105,
+      "preview": "- Provide clear labeling"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 106,
+      "preview": "- Label should always match the PN order template in the PN order form/CPOE system and the ACD"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 107,
+      "preview": "- Educate and validate competency"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 108,
+      "preview": "- Eliminate transcription of PN orders"
+    },
+    {
+      "type": "text",
+      "section": "ISMP RECOMMENDATIONS IMPROVING PN SAFETY",
+      "line": 110,
+      "preview": "Institute for Medication Safety. ISMP. 2012; 17(13)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 112
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 114,
+      "preview": "PN Orders:"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 116,
+      "preview": "- Full generic names (unless multiple products or indicates unique properties of the ingredient)"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 117,
+      "preview": "- Include related orders for labs, monitoring parameters"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 118,
+      "preview": "- Use only TJC-approved abbreviations, avoid ISMP error-prone abbreviations"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 119,
+      "preview": "- Avoid addition of non-nutrient medications when possible (if necessary, only when clear compatibil"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 120,
+      "preview": "- Develop protocols to allow modification of PN orders when incompatibilities exist"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 121,
+      "preview": "- Document in medical record, communicate with team"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 122,
+      "preview": "- Signed by prescriber"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 124,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 126
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 128,
+      "preview": "- Physical environment: USP <1066>"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 129,
+      "preview": "- Appropriate illumination in areas where prescribed, reviewed/verified, compounded, and administere"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 130,
+      "preview": "- Ergonomic design of workplace environment"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 131,
+      "preview": "- Establish medication safety zones"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 132,
+      "preview": "- Minimize interruptions"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 133,
+      "preview": "- Minimize noise"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 135,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38:296-333."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 137
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 139,
+      "preview": "- PN Education should be provided to ALL disciplines/personnel involved in PN-use process"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 140,
+      "preview": "- Training should include didactic and experiential components"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 141,
+      "preview": "- Knowledge and skills of all individuals involved in PN-use process should be assessed"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 142,
+      "preview": "- Should be part of clinical training programs"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 143,
+      "preview": "- Materials and processes shall be developed and led by clinicians with expertise in the area of nut"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 145,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "image",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 147,
+      "content": "![img-4.jpeg](images/8f41f30e5687225d.png)"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PN PRESCRIBING KEY RECOMMENDATIONS",
+      "line": 149,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38:296-333."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "COMPOUNDED PN VS. MCB-PN",
+      "line": 151
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MCB-PN Considerations",
+      "line": 153
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 155,
+      "preview": "- MCB-PN products identified for central vs. peripheral administration"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 156,
+      "preview": "- If entire MCB-PN bag not infused, need instructions to discard the remainder of bag"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 157,
+      "preview": "- MCB-PN listed amounts per liter or bag. Tools are needed to help prescriber identify amounts per d"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 158,
+      "preview": "- MCB-PN list as ions. Tools are needed to help prescribers"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN Considerations",
+      "line": 161
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 163,
+      "preview": "- Administration route/infusion via central or peripheral vein"
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 164,
+      "preview": "- Volume and infusion rate"
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 165,
+      "preview": "- PN ingredients ordered as amount per bag"
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 166,
+      "preview": "- PN salts ordered as salts"
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 168,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "COMPOUNDED PN VS. MCB-PN, CONT.",
+      "line": 170
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MCB-PN Considerations",
+      "line": 172
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 174,
+      "preview": "- MCB-PN products ordered by brand name"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 175,
+      "preview": "- MCB-PN ordered vis concentrations (5\\% amino acid-15\\% dextrose). Tools are needed to calculate am"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 176,
+      "preview": "- Electrolyte dosing dependent on type of MCB-PN and volume infused."
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN Considerations",
+      "line": 177,
+      "preview": "- If entire MCB-PN bag not infused the entire dose ordered will not be administered"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN Considerations",
+      "line": 180
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 182,
+      "preview": "- Full generic names for each ingredient. Use brand names when multiple products exist/brand may ass"
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 183,
+      "preview": "- Dosing for each macronutrient"
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 184,
+      "preview": "- Dosing for each electrolyte"
+    },
+    {
+      "type": "text",
+      "section": "PN Considerations",
+      "line": 185,
+      "preview": "- Dosing for each non-nutrient (e.g. insulin)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ELEMENTS OF APPROPRIATE PN USE",
+      "line": 188
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE",
+      "line": 190,
+      "preview": "- Identify clinical indications for PN, including manifestations of acute and chronic intestinal fai"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE",
+      "line": 191,
+      "preview": "- Recognize situations in which PN is not likely to be of benefit"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE",
+      "line": 192,
+      "preview": "- Initiate PN based on gastrointestinal function, nutrition status, and clinical status"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE",
+      "line": 193,
+      "preview": "- Select the vascular access device best suited to the therapy planned"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE",
+      "line": 194,
+      "preview": "- Implement measures to promote safety and reduce adverse outcomes"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE",
+      "line": 196,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ELEMENTS OF APPROPRIATE PN USE, CONT.",
+      "line": 198
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE, CONT.",
+      "line": 200,
+      "preview": "- Evaluate response to therapy"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE, CONT.",
+      "line": 201,
+      "preview": "- Adjust the therapeutic plan based on ongoing monitoring"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE, CONT.",
+      "line": 202,
+      "preview": "- Assess continued need for PN"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE, CONT.",
+      "line": 203,
+      "preview": "- Transition promptly to oral or enteral nutrition as feasible"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE, CONT.",
+      "line": 204,
+      "preview": "- Collaborate across disciplines and departmental boundaries"
+    },
+    {
+      "type": "text",
+      "section": "ELEMENTS OF APPROPRIATE PN USE, CONT.",
+      "line": 206,
+      "preview": "Worthington P et al. JPENJ Parenter Enteral Nutr. 2017; 41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 208
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 210,
+      "preview": "| Conditions | Suggested Criteria |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 211,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 212,
+      "preview": "| Hyperglycemia | Glucose $>180 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 213,
+      "preview": "| Azotemia | BUN $>100 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 214,
+      "preview": "| Hypertriglyceridemia | Serum Tg $>200 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 215,
+      "preview": "| Hyponatremia | Serum $\\mathrm{Na}<130 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 216,
+      "preview": "| Hypernatremia | Serum $\\mathrm{Na}>150 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 217,
+      "preview": "| Hypokalemia | Serum $\\mathrm{K}<3 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 218,
+      "preview": "| Hypomagensemia | Serum $\\mathrm{Mg}<1.3 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 219,
+      "preview": "| Hypocalcemia | Ionized $\\mathrm{Ca}<4.5 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 220,
+      "preview": "| Hypophosphatemia | Serum phosphorus $<2 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 222,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 224,
+      "preview": "Table 13.2. Laboratory Monitoring During PN (Adult and Pediatric). ${ }^{1,10,17,19}$"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 226,
+      "preview": "| Parameter | Acute Care PN |  |  | Long-Term PN |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 227,
+      "preview": "| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 228,
+      "preview": "|  | Baseline | Days 1-7 | Ongoing, Stable | Initial, <br> Postdischarge | Weeks 1-4 <br> (or Until "
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 229,
+      "preview": "| Glucose, BUN, creatinine, electrolytes, calcium, magnesium, phosphorus | $\\checkmark$ | Daily $=3$"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 230,
+      "preview": "| CBC with differential | $\\checkmark$ | Daily $=3$ or until stable | $1-2 \\times / w k$ | $\\checkma"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 231,
+      "preview": "| Total bilirubin, direct bilirubin, AP, AST, ALT, | $\\checkmark$ |  | Weekly | $\\checkmark$ |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 232,
+      "preview": "| PTT, PT, INR | $\\checkmark$ |  | Weekly |  |  |  | Monthly |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 233,
+      "preview": "| Triglyceride level | $\\checkmark$ | Pediatric: daily until stable then weekly | Weekly | $\\checkma"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 234,
+      "preview": "| Serum proteins (to monitor inflammation) | $\\checkmark$ |  | Weekly | $\\checkmark$ |  |  | Monthly"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 235,
+      "preview": "| Iron indices |  |  | As clinically indicated |  |  | $\\checkmark$ | Every 3-6 mo |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 236,
+      "preview": "| Zinc, selenium, manganese, copper, chromium |  |  | As clinically indicated |  |  | $\\checkmark$ |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 237,
+      "preview": "| Vitamin A, 25-OH vitamin D, vitamin E |  |  | As clinically indicated |  |  | $\\checkmark$ | Every"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 238,
+      "preview": "| Vitamin $B_{12}$ and folate |  |  | As clinically indicated |  |  | $\\checkmark$ | Every 6-12 mo |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 239,
+      "preview": "| TSH |  |  | As indicated |  |  |  | Every 12 mo |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 240,
+      "preview": "| Carnitine |  |  | No guideline for adults |  |  | $\\checkmark$ Pediatric patients | Every 3-12 mo "
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 241,
+      "preview": "| ALT, alanine aminotransferase; AP, alkaline phosphatase; AST, aspartate aminotransferase; BUN, blo"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONDITIONS FOR CAUTIOUS INITIATION OF PN",
+      "line": 243,
+      "preview": "Adapted from Worthington P et al. JPEN J Parenter Enteral Nutr. 2017; 41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1",
+      "line": 245
+    },
+    {
+      "type": "image",
+      "section": "CASE STUDY \\#1",
+      "line": 247,
+      "content": "![img-5.jpeg](images/33d316900d9fa4e7.png)"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 249,
+      "preview": "- DA 67 yo white male, 62 kg , DX bowel dysmotility. Initiated PN in hospital 2/2/17"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 250,
+      "preview": "- For discharge on HPN 2/16 : Amino Acid/Dextrose E 5/15 at 42mL/hour"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 251,
+      "preview": "- PMH: AF, gout, BPH, Graves, Ogilvie's, post-op ileus, ischemic bowel, GI bleed"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 252,
+      "preview": "- PSH: Cholecystectomy, bilateral hip replacement, sigmoidectomy with ileal anastomosis, subtotal co"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 254,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCERNS",
+      "line": 256
+    },
+    {
+      "type": "text",
+      "section": "CONCERNS",
+      "line": 258,
+      "preview": "- Does the patient qualify for HPN"
+    },
+    {
+      "type": "text",
+      "section": "CONCERNS",
+      "line": 259,
+      "preview": "- Lack of ILE provision"
+    },
+    {
+      "type": "text",
+      "section": "CONCERNS",
+      "line": 260,
+      "preview": "- Lack of multivitamins for injection"
+    },
+    {
+      "type": "text",
+      "section": "CONCERNS",
+      "line": 261,
+      "preview": "- Lack of trace elements"
+    },
+    {
+      "type": "text",
+      "section": "CONCERNS",
+      "line": 262,
+      "preview": "- Baseline Laboratory"
+    },
+    {
+      "type": "text",
+      "section": "CONCERNS",
+      "line": 263,
+      "preview": "- Home setting adequate for safe provision"
+    },
+    {
+      "type": "text",
+      "section": "CONCERNS",
+      "line": 264,
+      "preview": "- Patient/caregiver education"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HPN REIMBURSEMENT",
+      "line": 267
+    },
+    {
+      "type": "text",
+      "section": "HPN REIMBURSEMENT",
+      "line": 269,
+      "preview": "- Calorie levels"
+    },
+    {
+      "type": "text",
+      "section": "HPN REIMBURSEMENT",
+      "line": 270,
+      "preview": "- $20-35 \\mathrm{kcal} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "HPN REIMBURSEMENT",
+      "line": 271,
+      "preview": "- Total kcal from current PN 714 kcal/day ( $12 \\mathrm{kcal} / \\mathrm{kg}$ )"
+    },
+    {
+      "type": "text",
+      "section": "HPN REIMBURSEMENT",
+      "line": 272,
+      "preview": "- Protein"
+    },
+    {
+      "type": "text",
+      "section": "HPN REIMBURSEMENT",
+      "line": 273,
+      "preview": "- $0.8-1.5 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "HPN REIMBURSEMENT",
+      "line": 274,
+      "preview": "- Total protein from current PN $50 \\mathrm{~g} /$ day $(0.8 \\mathrm{~g} / \\mathrm{kg})$"
+    },
+    {
+      "type": "text",
+      "section": "HPN REIMBURSEMENT",
+      "line": 276,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HOME PN TEMPLATE",
+      "line": 278
+    },
+    {
+      "type": "image",
+      "section": "HOME PN TEMPLATE",
+      "line": 280,
+      "content": "![img-6.jpeg](images/7d5d8279fb1aa365.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 282
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 284,
+      "preview": "- Intestinal failure or dysfunction"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 285,
+      "preview": "- Short bowel syndrome"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 286,
+      "preview": "- Malabsorptive disorders"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 287,
+      "preview": "- Chronic bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 288,
+      "preview": "- Crohn's"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 289,
+      "preview": "- Radiation enteritis"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 290,
+      "preview": "- Intestinal and pancreatic fistulae"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 291,
+      "preview": "- Pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 292,
+      "preview": "- Severe life-threatening malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS FOR HOME PN",
+      "line": 294,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONDITIONS WARRANTING CAUTION WHEN INITIATING PN AT HOME",
+      "line": 296
+    },
+    {
+      "type": "text",
+      "section": "CONDITIONS WARRANTING CAUTION WHEN INITIATING PN AT HOME",
+      "line": 298,
+      "preview": "Medical condition"
+    },
+    {
+      "type": "text",
+      "section": "CONDITIONS WARRANTING CAUTION WHEN INITIATING PN AT HOME",
+      "line": 300,
+      "preview": "- Diabetes"
+    },
+    {
+      "type": "text",
+      "section": "CONDITIONS WARRANTING CAUTION WHEN INITIATING PN AT HOME",
+      "line": 301,
+      "preview": "- Heart failure"
+    },
+    {
+      "type": "text",
+      "section": "CONDITIONS WARRANTING CAUTION WHEN INITIATING PN AT HOME",
+      "line": 302,
+      "preview": "- Pulmonary disorder"
+    },
+    {
+      "type": "text",
+      "section": "CONDITIONS WARRANTING CAUTION WHEN INITIATING PN AT HOME",
+      "line": 303,
+      "preview": "- Severe malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "CONDITIONS WARRANTING CAUTION WHEN INITIATING PN AT HOME",
+      "line": 304,
+      "preview": "- Hyperemesis gravidarum"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Electrolyte Disorder",
+      "line": 307
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorder",
+      "line": 309,
+      "preview": "- Hyponatremia"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorder",
+      "line": 310,
+      "preview": "- Hypokalemia"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorder",
+      "line": 311,
+      "preview": "- Hyperchloremic metabolic acidosis"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorder",
+      "line": 312,
+      "preview": "- Hypophosphatemia"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorder",
+      "line": 313,
+      "preview": "- Hypochloremic metabolic alkalosis"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte Disorder",
+      "line": 315,
+      "preview": "Muller CM, ed. The ASPEN adult nutrition support core curriculum. 3rd ed. 2017:565-86."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 317
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 319,
+      "preview": "- Short bowel syndrome"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 320,
+      "preview": "- Crohn's disease"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 321,
+      "preview": "- Intestinal motility disorders"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 322,
+      "preview": "- Chronic bowel obstruction due to benign adhesions or strictures"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 323,
+      "preview": "- Radiation enteritis"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 324,
+      "preview": "- Malabsorptive disorders"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 325,
+      "preview": "- Intestinal and pancreatic fistula"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 326,
+      "preview": "- Gastrointestinal malignancy"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 327,
+      "preview": "- Malignant bowel obstruction, carcinomatosis"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 328,
+      "preview": "- Complications of bariatric surgery"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 329,
+      "preview": "- Gastroschisis"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 330,
+      "preview": "- Long-segment Hirschsprung's disease"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 332,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 334,
+      "preview": "Table 2. Medicare Criteria for HPN. ${ }^{7}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 335,
+      "preview": "A. Massive small bowel resection within 3 mo of initiating HPN"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 336,
+      "preview": "HPN therapy needed $>90 \\mathrm{~d}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 337,
+      "preview": "$\\leq 5 \\mathrm{ft}(153 \\mathrm{~cm})$ of small bowel distal to the ligament of Treitz"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 338,
+      "preview": "C. Bowel rest for at least 3 mo"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 339,
+      "preview": "HPN therapy needed $>90 \\mathrm{~d}$,"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 340,
+      "preview": "Symptomatic pancreatitis with/without pseudocyst,"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 341,
+      "preview": "Severe exacerbation of regional enteritis, or"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 342,
+      "preview": "Proximal enterocutaneous fistula where distal enteral tube feeding is not possible"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 343,
+      "preview": "E. Malabsorption and malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 344,
+      "preview": "HPN therapy needed $>90 \\mathrm{~d}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 345,
+      "preview": "$10 \\%$ weight loss over $\\leq 3 \\mathrm{mo}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 346,
+      "preview": "Serum albumin $\\leq 3.4 \\mathrm{~g} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 347,
+      "preview": "Severe fat malabsorption"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 349,
+      "preview": "- Standard 72-h fecal fat test"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 350,
+      "preview": "- Fecal fat exceeds $50 \\%$ of oral/enteral intake on a diet of at least $50 \\mathrm{~g} / \\mathrm{d"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 352,
+      "preview": "B. Short bowel syndrome"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 353,
+      "preview": "HPN therapy needed $>90 \\mathrm{~d}$,"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 354,
+      "preview": "Enteral intake of $2.5-3 \\mathrm{~L}$,"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 355,
+      "preview": "Enteral losses exceed $50 \\%$ of enteral intake, and"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 356,
+      "preview": "Urine output is $<1 \\mathrm{~L}$ per 24 h ."
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 357,
+      "preview": "D. Complete mechanical small bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 358,
+      "preview": "HPN therapy needed $>90 \\mathrm{~d}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 359,
+      "preview": "Inoperable"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 360,
+      "preview": "F. Severe motility disorder (of small intestine and/or stomach) and malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 361,
+      "preview": "HPN therapy needed $>90 \\mathrm{~d}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 362,
+      "preview": "$10 \\%$ weight loss over $\\leq 3 \\mathrm{mo}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 363,
+      "preview": "Serum albumin $\\leq 3.4 \\mathrm{~g} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 364,
+      "preview": "Unresponsive to max doses of prokinetic medication (presence of daily nausea/vomiting)"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 365,
+      "preview": "Motility disorder demonstrated via"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 367,
+      "preview": "- Solid meal gastric emptying study or barium/radiopaque pellets that do not reach the right colon b"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 368,
+      "preview": "G/H: Above condition with malnutrition and failed enteral tube feeding trial"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 369,
+      "preview": "$10 \\%$ weight loss within $3 \\mathrm{mo}+$ serum albumin $\\leq 3.4 \\mathrm{~g} / \\mathrm{dL}+$ fail"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 370,
+      "preview": "- Moderate fat malabsorption (fecal fat $>25 \\%$ of enteral intake on a diet of $50 \\mathrm{~g} / \\m"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 371,
+      "preview": "- Malabsorption as confirmed by Sudan stain or d-xylose stool test"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 372,
+      "preview": "- Gastroparesis as described in scenario F where isotope or pellets fail to reach the jejunum in $3-"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 373,
+      "preview": "- Small bowel dysmotility with gastric to right colon transit between 3 and 6 h , unresponsive to pr"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 374,
+      "preview": "- Small bowel resection leaving $>5 \\mathrm{ft}$ of small bowel beyond the ligament of Treitz"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 375,
+      "preview": "- Short bowel syndrome not as severe as scenario B"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 376,
+      "preview": "- Mild to moderate exacerbation of regional enteritis or enterocutaneous fistula"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 377,
+      "preview": "- Partial mechanical small bowel obstruction and surgery is not an option"
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 379,
+      "preview": "HPN, bone parenteral nutrition."
+    },
+    {
+      "type": "text",
+      "section": "COMMON INDICATIONS FOR HOME PN",
+      "line": 380,
+      "preview": "Kirby D et al. Nutr Clin Pract. 2017;32:739-52."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 382
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 384,
+      "preview": "| Parameter | Baseline | Week <br> 1,2,3 | Week 4 | Every 3 months prior to MD office visit |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 385,
+      "preview": "| :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 386,
+      "preview": "| Glucose, BUN, CR, electrolytes, $\\mathrm{Ca}, \\mathrm{Mg}$, Phos. | $x$ | $x$ | $x$ | $x$ |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 387,
+      "preview": "| CBC with diff. and reticulocyte count | $x$ | $x$ | $x$ | $x$ |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 388,
+      "preview": "| Total and direct bilirubin, AST, ALT, LDH, Alk Phos, TG | $x$ |  | $x$ | $x$ |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 389,
+      "preview": "| Serum proteins | $x$ |  | $x$ | $x$ |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 390,
+      "preview": "| Vitamin B12, RBC folate, iron indices, trace elements, vitamin D 25-OH | $x$ |  | $x$ | $x$ |"
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING FOR HOME PN PATIENT",
+      "line": 392,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 394
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 396,
+      "preview": "| Chromium | glucose intolerance, peripheral neuropathy |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 397,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 398,
+      "preview": "| Copper | neutropenia, hypochromic anemia, parenthesis in extremities |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 399,
+      "preview": "| Manganese | Congenital abnormalities in offspring, growth retardation, defects in lipid/CHO metabo"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 400,
+      "preview": "| Zinc | diarrhea, acrodermatitis, dementia, alopecia, alteration in taste and smell, impairedwound "
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 401,
+      "preview": "| Selenium | myopathy, cardiomyopathy |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 402,
+      "preview": "| lodide | hypothyroid goiter, hypothyroidism |"
+    },
+    {
+      "type": "table",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 403,
+      "preview": "| Molybdenum | tachycardia, altered mental status, visual changes, nausea, vomiting |"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENT DEFICIENCIES",
+      "line": 405,
+      "preview": "Muller CM, ed. The ASPEN adult nutrition support core curriculum. 3rd ed. 2017:565-86."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 407
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 409,
+      "preview": "- Obtain diagnostic testing and procedures, verify insurance"
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 410,
+      "preview": "- Establish long-term vascular access"
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 411,
+      "preview": "- Establish tolerated PN formula"
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 412,
+      "preview": "- Assess patient"
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 413,
+      "preview": "- Activities of daily living, caregiver, home setting, determine patient buy-in"
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 414,
+      "preview": "- Begin patient education"
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 415,
+      "preview": "- Identify outpatient management"
+    },
+    {
+      "type": "text",
+      "section": "HPN - FACILITATING DISCHARGE",
+      "line": 417,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HPN - HOME EVALUATION",
+      "line": 419
+    },
+    {
+      "type": "text",
+      "section": "HPN - HOME EVALUATION",
+      "line": 421,
+      "preview": "- Is home accessible to home health provider?"
+    },
+    {
+      "type": "text",
+      "section": "HPN - HOME EVALUATION",
+      "line": 422,
+      "preview": "- Is environment clean with reliable utilities?"
+    },
+    {
+      "type": "text",
+      "section": "HPN - HOME EVALUATION",
+      "line": 423,
+      "preview": "- Can patient move around home safely?"
+    },
+    {
+      "type": "text",
+      "section": "HPN - HOME EVALUATION",
+      "line": 424,
+      "preview": "- Is the patient willing to learn operation of equipment?"
+    },
+    {
+      "type": "text",
+      "section": "HPN - HOME EVALUATION",
+      "line": 425,
+      "preview": "- Is the caregiver willing to provide additional assistance?"
+    },
+    {
+      "type": "text",
+      "section": "HPN - HOME EVALUATION",
+      "line": 426,
+      "preview": "- Is the patient and caregiver willing to learn problems and willing to contact appropriate services"
+    },
+    {
+      "type": "text",
+      "section": "HPN - HOME EVALUATION",
+      "line": 427,
+      "preview": "- Is laboratory monitoring available as needed to prevent complications?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 430
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 432,
+      "preview": "A 68 year-old man is transferred from a long-term acute care hospital to the acute care ICU with wor"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 433,
+      "preview": "A. Check a KUB to confirm tube placement before starting tube feeds"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 434,
+      "preview": "B. Order the formula he was receiving at the LTACH"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 435,
+      "preview": "C. Tell the team to order an aggressive bowel regimen"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 436,
+      "preview": "D. Hold EN and start PN until his abdominal pain is fully evaluated"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 438,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY CONSENSUS RECOMMENDATIONS FOR EN",
+      "line": 440
+    },
+    {
+      "type": "image",
+      "section": "KEY CONSENSUS RECOMMENDATIONS FOR EN",
+      "line": 442,
+      "content": "![img-7.jpeg](images/b38b75872f3cbc18.png)"
+    },
+    {
+      "type": "text",
+      "section": "KEY CONSENSUS RECOMMENDATIONS FOR EN",
+      "line": 444,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 446
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 448,
+      "preview": "- Patient information"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 449,
+      "preview": "- Patient-specific information related to the order (e.g., dosing weight, allergies)"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 450,
+      "preview": "- EN formula name (ideally a generic name, if possible)"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 451,
+      "preview": "- Delivery site/route and enteral access device"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 452,
+      "preview": "- Administration method and rate"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 453,
+      "preview": "- How to initiate and advance EN"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL COMPONENTS OF AN EN ORDER",
+      "line": 455,
+      "preview": "Boullata Jlet al. JPENJ Parenter Enteral Nutr. 2017; 41(1):15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 457
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 459,
+      "preview": "- Confirmation of the tube position"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 460,
+      "preview": "- Appropriate flushing of the enteral access device"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 461,
+      "preview": "- This may include amount to flush before and after medication administration"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 462,
+      "preview": "- Head of bed elevation"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 463,
+      "preview": "- Enteral access device care and assessment"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 464,
+      "preview": "- Monitoring parameters"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 465,
+      "preview": "- Laboratory monitoring, intake/output, weights, physical assessment, GI tolerance"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 466,
+      "preview": "- Macronutrient modular product orders"
+    },
+    {
+      "type": "text",
+      "section": "SUPPLEMENTARY COMPONENTS OF AN EN ORDER",
+      "line": 468,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SUPPLEMENTARY ORDER FORM",
+      "line": 470
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SUPPLEMENTARY ORDERS",
+      "line": 472
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "Auxiliary Orders:",
+      "line": 474
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 476,
+      "preview": "- \u2610 Assess gastric residual volume (GRV) every 6 hours or before each bolus/internist feeding"
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 477,
+      "preview": "- If GRV > 500 mL hold feeding for 2 hours and recheck GRV. If GRV recheck < 500 mL, restart feeding"
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 478,
+      "preview": "- \u2610 May give appropriate medications via enteral feeding tube, follow each medication by at least 15"
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 479,
+      "preview": "- \u2610 Consult Nutrition Support Team or Nutrition Support Clinician"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "Monitoring:",
+      "line": 481
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 483,
+      "preview": "- \u2610 Observe for signs of EN intolerance (include signs and symptoms of intolerance) every _______ ho"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 484,
+      "preview": "- \u2610 Enteral feeding tube site care and assessment every _______ hours"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 485,
+      "preview": "- \u2610 Obtain body weight every day, or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 486,
+      "preview": "- \u2610 Strict fluid volume IncOurs"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 487,
+      "preview": "- \u2610 Capillary blood glucose: per institutional protocol"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "Laboratory Orders:",
+      "line": 489
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 491,
+      "preview": "- \u2610 Comprehensive Metabolic Panel every day or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 492,
+      "preview": "- \u2610 Serum Magnesium every day or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 493,
+      "preview": "- \u2610 Serum Phosphorus every day or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 495,
+      "preview": "**Figure 4.** Suggested enteral nutrition (EN) supplementary orders (specific content can be customi"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 497,
+      "preview": "*Boullata Jlet al. JPENJ Parenter Enteral Nutr. 2017; 41(1):15-103.*"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 499,
+      "preview": "*Boullata Jlet al. JPENJ Parenter Enteral Nutr. 2017; 41(1):15-103.*"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 501,
+      "preview": "*NUTRITION SUPPORT CERTIFICATE*"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 503,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "EN ORDERS",
+      "line": 505
+    },
+    {
+      "type": "text",
+      "section": "EN ORDERS",
+      "line": 507,
+      "preview": "- These templates can be used to build EN order sets into an EHR"
+    },
+    {
+      "type": "text",
+      "section": "EN ORDERS",
+      "line": 508,
+      "preview": "- Carefully consider what would be a \"hard stop\""
+    },
+    {
+      "type": "text",
+      "section": "EN ORDERS",
+      "line": 509,
+      "preview": "- Critical components of the order"
+    },
+    {
+      "type": "text",
+      "section": "EN ORDERS",
+      "line": 510,
+      "preview": "- Example: a provider enters an EN order, but does not specify the patient's enteral access device"
+    },
+    {
+      "type": "text",
+      "section": "EN ORDERS",
+      "line": 511,
+      "preview": "- The EHR could be programmed to not allow the order to be signed until that part of the order set i"
+    },
+    {
+      "type": "text",
+      "section": "EN ORDERS",
+      "line": 513,
+      "preview": "Boullata Jlet al. JPENJ Parenter Enteral Nutr. 2017; 41(1):15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#2",
+      "line": 515
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 517,
+      "preview": "Mrs Jones is a 70 year-old female with COPD who was admitted to the ICU with pneumonia. She requires"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 519,
+      "preview": "- She is 5 feet ( 152.4 cm ) tall and weighs 48 kg (105.6 lbs)"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 520,
+      "preview": "- She needs $\\sim 25 \\mathrm{kcal} / \\mathrm{kg}=1200 \\mathrm{kcals}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 521,
+      "preview": "- She needs 1.5 g protein $/ \\mathrm{kg}=72 \\mathrm{~g}$ protein"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 522,
+      "preview": "- Her needs can be met with a standard, high nitrogen formula that has $1 \\mathrm{kcal} / \\mathrm{mL"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 523,
+      "preview": "- 1200 mL of formula will provide 1200 kcals, 75 g protein, 156 g carbohydrate, 31 g fat, and 1008 m"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 525,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SUPPLEMENTARY ORDER FORM",
+      "line": 527
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SUPPLEMENTARY ORDERS",
+      "line": 529
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "Auxiliary Orders:",
+      "line": 531
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 533,
+      "preview": "- \u2610 Assess gastric residual volume (GRV) every 6 hours or before each bolus/internist feeding"
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 534,
+      "preview": "- If GRV > 500 mL hold feeding for 2 hours and recheck GRV. If GRV recheck < 500 mL, restart feeding"
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 535,
+      "preview": "- \u2610 May give appropriate medications via enteral feeding tube, follow each medication by at least 15"
+    },
+    {
+      "type": "text",
+      "section": "Auxiliary Orders:",
+      "line": 536,
+      "preview": "- \u2610 Consult Nutrition Support Team or Nutrition Support Clinician"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "Monitoring:",
+      "line": 538
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 540,
+      "preview": "- \u2610 Observe for signs of EN intolerance (include signs and symptoms of intolerance) every _______ ho"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 541,
+      "preview": "- \u2610 Enteral feeding tube site care and assessment every _______ hours"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 542,
+      "preview": "- \u2610 Obtain body weight: every day, or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 543,
+      "preview": "- \u2610 Strict fluid volume IncOsm"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring:",
+      "line": 544,
+      "preview": "- \u2610 Capillary blood glucose: per institutional protocol"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "Laboratory Orders:",
+      "line": 546
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 548,
+      "preview": "- \u2610 Comprehensive Metabolic Panel every day or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 549,
+      "preview": "- \u2610 Serum Magnesium every day or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 550,
+      "preview": "- \u2610 Serum Phosphorus every day or every _______ days"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 552,
+      "preview": "**Figure 4.** Suggested enteral nutrition (EN) supplementary orders (specific content can be customi"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 554,
+      "preview": "*Used with permission from: Boullata Jlet al. JPEN J Parenter Enteral Nutr. 2017; 41:15-103.*"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 556,
+      "preview": "*Used with permission from: Boullata Jlet al. JPEN J Parenter Enteral Nutr. 2017; 41:15-103.*"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 558,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 560,
+      "preview": "If we use the template, the completed order for Mrs. Jones may look like this:"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 562,
+      "preview": "She is getting plenty of fluid from IV meds, so we will just plan flushes for tube patency."
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 564,
+      "preview": "*Boullata Jlet al. JPENJ Parenter Enteral Nutr. 2017; 41:15-103.*"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 566,
+      "preview": "|  INHIBITED ENTERAL NUTRITION ORDER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 567,
+      "preview": "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 568,
+      "preview": "|  Patient Name: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 569,
+      "preview": "|  Room Number: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 570,
+      "preview": "|  000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 571,
+      "preview": "|  Total Energy kcal/day |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 572,
+      "preview": "|  1000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 573,
+      "preview": "|  Total Carbohydrate g/day |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 574,
+      "preview": "|  75 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 575,
+      "preview": "|  Total Fat g/day |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 576,
+      "preview": "|  31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 577,
+      "preview": "|  Total Fluid mL/day |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 578,
+      "preview": "|  1000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 579,
+      "preview": "|  ENTERAL NUTRITION FORMULA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 580,
+      "preview": "|  - Standard |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 581,
+      "preview": "|  - Standard |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 582,
+      "preview": "|  - Standard High protein |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 583,
+      "preview": "|  - Standard High Calorie |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 584,
+      "preview": "|  - Filter Containing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 585,
+      "preview": "|  DELIVERY SITE (BOUTE AND ACCESS) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 586,
+      "preview": "|  - Bounce |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 587,
+      "preview": "|  - Grasses |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 588,
+      "preview": "|  - Detergents |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 589,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 590,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 591,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 592,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 593,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 594,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 595,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 596,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 597,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 598,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 599,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 600,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 601,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 602,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 603,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 604,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 605,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 606,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 607,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 608,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 609,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 610,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 611,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 612,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 613,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 614,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 615,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 616,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 617,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 618,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Laboratory Orders:",
+      "line": 619,
+      "preview": "|  - Steamed |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Orders:",
+      "line": 622,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ORDER REVIEW",
+      "line": 624
+    },
+    {
+      "type": "text",
+      "section": "ORDER REVIEW",
+      "line": 626,
+      "preview": "- How often should you check to determine if the order is still correct and valid?"
+    },
+    {
+      "type": "text",
+      "section": "ORDER REVIEW",
+      "line": 627,
+      "preview": "- Will depend on the institution and type of patient"
+    },
+    {
+      "type": "text",
+      "section": "ORDER REVIEW",
+      "line": 628,
+      "preview": "- ICU may be daily to every other day"
+    },
+    {
+      "type": "text",
+      "section": "ORDER REVIEW",
+      "line": 629,
+      "preview": "- Stable non-ICU, acute care patient may be every 2-7 days"
+    },
+    {
+      "type": "text",
+      "section": "ORDER REVIEW",
+      "line": 630,
+      "preview": "- On transfer long-term acute care or a skilled nursing facility may be every 14 weeks, or depending"
+    },
+    {
+      "type": "text",
+      "section": "ORDER REVIEW",
+      "line": 632,
+      "preview": "Boullata Jlet al. JPENJ Parenter Enteral Nutr. 2017;41:15-103"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 634
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 636,
+      "preview": "- A change in clinical status that may require a change in the type of formula"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 637,
+      "preview": "- Change in renal function"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 638,
+      "preview": "- Change in hydration status (need for more concentrated or dilute formula)"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 639,
+      "preview": "- A major change in weight prompting a recalculation of energy and protein requirements"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 640,
+      "preview": "- A change in the administration method:"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 641,
+      "preview": "- Continuous to cycled"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 642,
+      "preview": "- Continuous to bolus/intermittent"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 643,
+      "preview": "- Cycled or bolus back to continuous"
+    },
+    {
+      "type": "text",
+      "section": "WHAT MAY PROMPT AN ORDER CHANGE?",
+      "line": 645,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 647
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 649,
+      "preview": "Mrs. Jones has extubated, but was found to have dysphagia on her swallowing evaluation. A nasogastri"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 651,
+      "preview": "- Review the order: is it still appropriate? How will you decide?"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 652,
+      "preview": "- Has her clinical status changed?"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 653,
+      "preview": "- Are her energy and protein needs the same or does she need reassessment?"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 654,
+      "preview": "- Should the order be changed?"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 656,
+      "preview": "Boullata Jlet al. JPENJ Parenter Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 658
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 660,
+      "preview": "- Clinical status - changed?"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 661,
+      "preview": "- Yes! Extubated, ambulatory, working with PT!"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 662,
+      "preview": "- Energy and protein needs changed?"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 663,
+      "preview": "- Yes, she needs a little more calories now"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 664,
+      "preview": "- Steroids tapered down so can decrease protein"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 665,
+      "preview": "- Change the order?"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 666,
+      "preview": "- Yes!"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 668,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 670
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 672,
+      "preview": "- Needs:"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 673,
+      "preview": "- $30 \\mathrm{kcal} / \\mathrm{kg}=1440 \\mathrm{kcals} ; 1.3 \\mathrm{~g}$ protein $/ \\mathrm{kg}=62 \\"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 674,
+      "preview": "- Since she hates the pump and is ambulatory, consider a bolus feeding schedule"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 675,
+      "preview": "- Change to a standard formula: 250 kcals, 10.5 g protein, 34 g carbohydrate, 8 g fat, and 199 mL wa"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 676,
+      "preview": "- If we do a bolus schedule, she would need 6 cartons/day:"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 677,
+      "preview": "- 2 cartons ( 474 mL ) three times/day $=1500 \\mathrm{kcals}, 63 \\mathrm{~g}$ protein, 204 g carbohy"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 678,
+      "preview": "- She needs an additional $\\sim 300 \\mathrm{~mL}$ to provide 1 mL of water $/ \\mathrm{kcal}$ (RDA)"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 680,
+      "preview": "If we use the template, the revised order for Mrs. Jones may look like this:"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 682,
+      "preview": "| INHIBITENT ENTERAL NUTRITION ORDER |  |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 683,
+      "preview": "| :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 684,
+      "preview": "| Patient Names: Jones, Sally | Medical Record Number: 123-40-6799 |  | Dosing Weight (kg): 48 |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 685,
+      "preview": "| Room Number: 30927 |  |  | Date of Birth: 01/01/1949 |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 686,
+      "preview": "| Total Energy kcal/day | Total Protein g/day | Total Carbohydrate g/day |  | Allergies: Home |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 687,
+      "preview": "| 1500 | 63 | 204 |  | Total Fluid mL $/ \\mathrm{kg}$ 1194 |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 688,
+      "preview": "| ENTERAL NUTRITION FORMELLA |  |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 689,
+      "preview": "| - Standard <br> Standard High protein <br> Standard High Calorie <br> - Fitter Consuming |  |  | C"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 690,
+      "preview": "| DELIVERY SITE (BOUTE AND ACCESS) |  |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 691,
+      "preview": "| Room: | Access: |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 692,
+      "preview": "| - Calorie | - Therapeutic | - Therapeutic |  | - Gastrostomy |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 693,
+      "preview": "| - Small bowel | - Transgenital | - Oesophageal |  | - Gastrostomy <br> - Transgenital G3 tube |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 694,
+      "preview": "|  | - Transpigment | - Oesipigment |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 695,
+      "preview": "| ADMINISTRATION (Medical and Basic) |  |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 696,
+      "preview": "| Medical: |  | Rate: |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 697,
+      "preview": "| - Continuous |  | - Initial | $\\mathrm{mL} / \\mathrm{h}$ |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 698,
+      "preview": "|  |  | - Advance by | mL/h every | 8 to goal of $\\qquad$ mL/h |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 699,
+      "preview": "| - Intermittent |  | - Initial | mL feeding over $\\qquad$ min $\\qquad$ times daily |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 700,
+      "preview": "|  |  | - Advance by | mL each day to goal of $\\qquad$ mL feeding |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 701,
+      "preview": "|  |  | over $\\qquad$ min $\\qquad$ times daily |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 702,
+      "preview": "| - Bolus |  | - Initial 237 | mL bolus over 30 min 3 | 3 times daily |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 703,
+      "preview": "|  |  | - Advance by 237 | mL each day to goal of 474 | mL bolus |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 704,
+      "preview": "|  |  | over 30 min 3 |  | times daily |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 705,
+      "preview": "| OTHER |  |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 706,
+      "preview": "| - Fresh feeding ratio with 100 |  | mL of water every 8 | hours (minimum of 30 mL per flush) |  |"
+    },
+    {
+      "type": "table",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 707,
+      "preview": "| - Elevate band of fast 30-45 degrees |  |  |  |  |"
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 709,
+      "preview": "Boullata Jlet al. JPEN J Parenter Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "text",
+      "section": "MRS. JONES ORDER REVIEW",
+      "line": 711,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 713
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 715,
+      "preview": "- Consider:"
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 716,
+      "preview": "- Change in frequency of lab monitoring"
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 717,
+      "preview": "- Change in monitoring of clinical parameters"
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 718,
+      "preview": "- More frequent in ICU"
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 719,
+      "preview": "- Less frequent on floor or in a sub-acute setting"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 721,
+      "preview": "|  SUPPLEMENTARY ORDERS | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 722,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 723,
+      "preview": "|  **Auxiliary Orders:** | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 724,
+      "preview": "|  - Assess gastric residual volume (GRV) every 6 hours or before each bolus/intermittent feeding | "
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 725,
+      "preview": "|  If GRV > 500 mL hold feeding for 2 hours and recheck GRV. If GRV recheck < 500 mL, restart feedin"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 726,
+      "preview": "|  - May give appropriate medications via enteral feeding tube, follow each medication by at least 1"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 727,
+      "preview": "|  - Consult Nutrition Support Team or Nutrition Support Clinician | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 728,
+      "preview": "|  **Monitoring:** | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 729,
+      "preview": "|  - Observe for signs of EN intolerance (include signs and symptoms of intolerance) every 8 hours |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 730,
+      "preview": "|  - Enteral feeding tube site care and assessment every 8 hours | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 731,
+      "preview": "|  - Obtain body weight every day, or every days | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 732,
+      "preview": "|  - Strict fluid volume Ins/Outs | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 733,
+      "preview": "|  - Capillary blood glucose: per institutional protocol | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 734,
+      "preview": "|  **Laboratory Orders:** | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 735,
+      "preview": "|  - Comprehensive Metabolic Panel every day or every 3 days | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 736,
+      "preview": "|  - Serum Magnesium every day or every 3 days | |"
+    },
+    {
+      "type": "table",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 737,
+      "preview": "|  - Serum Phosphorus every day or every 3 days | |"
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 739,
+      "preview": "If she has been stable, can cut down monitoring"
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 741,
+      "preview": "**Figure 4.** Suggested enteral nutrition (EN) supplementary orders (specific content can be customi"
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 743,
+      "preview": "*Boullata Jlet al. JPEN J Parenter Enteral Nutr. 2017; 41:15-103. McMahon MM et al. JPEN J Parenter "
+    },
+    {
+      "type": "text",
+      "section": "DO THE SUPPLEMENTARY ORDERS NEED TO CHANGE?",
+      "line": 745,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TRANSITION OF CARE",
+      "line": 747
+    },
+    {
+      "type": "text",
+      "section": "TRANSITION OF CARE",
+      "line": 749,
+      "preview": "- Mrs. Jones continues to make progress, but because of her prolonged intubation, she has not regain"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITION OF CARE",
+      "line": 750,
+      "preview": "- The care coordinating nurse reviews Mrs. Jones' insurance and she has Medicare as a primary insura"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HOME EN COVERAGE: MEDICARE",
+      "line": 753
+    },
+    {
+      "type": "text",
+      "section": "HOME EN COVERAGE: MEDICARE",
+      "line": 755,
+      "preview": "- Must be \"permanent\" = EN for $\\geq 3$ months"
+    },
+    {
+      "type": "text",
+      "section": "HOME EN COVERAGE: MEDICARE",
+      "line": 756,
+      "preview": "- Involves non-function or disease of structures that permit food to reach the small bowel"
+    },
+    {
+      "type": "text",
+      "section": "HOME EN COVERAGE: MEDICARE",
+      "line": 757,
+      "preview": "- Presence of small bowel disease that impairs digestion/absorption of oral diet; oral diet modifica"
+    },
+    {
+      "type": "text",
+      "section": "HOME EN COVERAGE: MEDICARE",
+      "line": 758,
+      "preview": "- Specialty formula may be approved if patient has diabetes/hyperglycemia on a standard enteral form"
+    },
+    {
+      "type": "text",
+      "section": "HOME EN COVERAGE: MEDICARE",
+      "line": 759,
+      "preview": "- Must be receiving between 750-2000 kcals/day, otherwise document medical necessity if outside of t"
+    },
+    {
+      "type": "text",
+      "section": "HOME EN COVERAGE: MEDICARE",
+      "line": 761,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 763
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 765,
+      "preview": "- Referral to short term skilled nursing facility"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 766,
+      "preview": "- What information should be covered in the transition?"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 767,
+      "preview": "- Clinical data (height, weight, weight history)"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 768,
+      "preview": "- Current energy, protein, and fluid needs"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 769,
+      "preview": "- Current EN formula, route of administration, method of administration, goal volume or rate"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 770,
+      "preview": "- Water flushes"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 771,
+      "preview": "- Summary of current tolerance"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 772,
+      "preview": "- Ultimate goal (eg., long-term EN or transition back to oral diet)"
+    },
+    {
+      "type": "image",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 773,
+      "content": "![img-8.jpeg](images/4420f8ebed9a0943.png)"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 775,
+      "preview": "Figure 12. Central nutrition transition template. EN, mental nutrition; GT, gastrojejunostomy; PN, p"
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 777,
+      "preview": "Boullata Jlet al. JPEN J Parenter Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "text",
+      "section": "HOME TF NOT COVERED, NOW WHAT?",
+      "line": 779,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 781
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 783,
+      "preview": "TA is a 79 year-old man is 7 days s/p bowel resection for a colon mass. A nasogastric tube is in pla"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 784,
+      "preview": "A. Comprehensive metabolic panel"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 785,
+      "preview": "B. Phosphorus"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 786,
+      "preview": "C. Prealbumin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 787,
+      "preview": "D. Magnesium"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 789
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 791,
+      "content": "![img-9.jpeg](images/97286f0450911984.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 793,
+      "preview": "TA is a 79 year-old man is 7 days s/p bowel resection for a colon mass. A nasogastric tube is in pla"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 794,
+      "preview": "A. Comprehensive metabolic panel"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 795,
+      "preview": "B. Phosphorus"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 796,
+      "preview": "C. Prealbumin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 797,
+      "preview": "D. Magnesium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 799,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 801
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 803,
+      "preview": "A 68 year-old male is transferred from a long-term acute care hospital to the acute care ICU with wo"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 804,
+      "preview": "A. Check a KUB to confirm tube placement before starting tube feeds"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 805,
+      "preview": "B. Order the formula he was receiving at the LTACH"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 806,
+      "preview": "C. Tell the team to order an aggressive bowel regimen"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 807,
+      "preview": "D. Hold EN and start PN until his abdominal pain is fully evaluated"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 809
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 811,
+      "preview": "A 68 year-old male is transferred from a long-term acute care hospital to the acute care ICU with wo"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 812,
+      "preview": "A. Check a KUB to confirm tube placement before starting tube feeds"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 813,
+      "preview": "B. Order the formula he was receiving at the LTACH"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 814,
+      "preview": "C. Tell the team to order an aggressive bowel regimen"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 815,
+      "preview": "D. Hold EN and start PN until his abdominal pain is fully evaluated"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#2",
+      "line": 817,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 819
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 821,
+      "preview": "- PN and EN should be ordered using a standardized process"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 822,
+      "preview": "- A system should be developed to assist in communicating the daily macro and micro nutrient provisi"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 823,
+      "preview": "- Successful transitions of care involve communication to the next provider and well-defined orders "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 826
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 828,
+      "preview": "- Ayers P, Adams S, Boullata JI et al. A.S.P.E.N. parenteral nutrition safety consensus recommendati"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 829,
+      "preview": "- Bonnes SL, Salonem BR, Hurt RT et al. Parenteral and enteral nutrition-from hospital to home: Will"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 830,
+      "preview": "- Boullata, JI. Overview of the parenteral nutrition use process. JPEN J Parenter Enteral Nutr. 2012"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 831,
+      "preview": "- Boullata JI, Carrera AL, Harvey L et al. ASPEN safe practices for enteral nutrition therapy. JPEN "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 832,
+      "preview": "- Henderickson E, Corrigan M. Navigating reimbursement for home parenteral nutrition. Nutr Clin Prac"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 834,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 836
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 838,
+      "preview": "- Institute for Medication Safety. Medication Safety Alert. Philadelphia: Institute for Medication S"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 839,
+      "preview": "- Kirby DF, Corrigan ML, Hendrickson E et al. Overview of home parenteral nutrition: an update. Nutr"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 840,
+      "preview": "- Muller CM, ed. The ASPEN adult nutrition support core curriculum. 3rd ed. Maryland: 2017; 565-86."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 841,
+      "preview": "- McMahon MM, Nystrom E, Braunschweig C et al. ASPEN clinical guidelines: nutrition support of adult"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 842,
+      "preview": "- Worthington P, Balint J, Bechtold M et al. When is parenteral nutrition appropriate? JPEN J Parent"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 844,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 846,
+      "content": "![img-10.jpeg](images/7be24b4b6d5f4c9e.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 848,
+      "preview": "Phil Ayers, Pharm.D., BSNCP, FASHP"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 849,
+      "preview": "Chief, Clinical Pharmacy Services"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 850,
+      "preview": "Mississippi Baptist Medical Center"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 851,
+      "preview": "Clinical Associate Professor, Pharmacy Practice"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 852,
+      "preview": "University of Mississippi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 853,
+      "preview": "Jackson, Mississippi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 854,
+      "preview": "Phil Ayers received his Bachelor of Science degree in pharmacy and Doctor of Pharmacy Degree from th"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 856,
+      "preview": "Dr. Ayers is currently serving the American Society for Parenteral and Enteral Nutrition (ASPEN) on "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 858,
+      "preview": "Dr. Ayers was awarded the Excellence in Nutrition Support Education Award by ASPEN in 2011 and the S"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 860,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 862,
+      "content": "![img-11.jpeg](images/738fd29ad236fb83.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 864
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 866,
+      "preview": "Team Leader Dietitian Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 867,
+      "preview": "Brigham and Women's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 868,
+      "preview": "Boston, Massachusetts"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 869,
+      "preview": "Kris Mogensen is a Team Leader Dietitian Specialist in the Department of Nutrition at Brigham and Wo"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 871,
+      "preview": "She has a Bachelor of Science in Nutritional Sciences from Rutgers University, completed her dieteti"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 873,
+      "preview": "She has coauthored numerous research and review articles in professional journals, textbook chapters"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 875,
+      "preview": "--- page 35 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 877
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 879,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 881,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 883,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 885,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 886,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 887,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 888,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 889,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 891,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 893,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 895
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 897,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 899,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 901
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 903,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 905
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 907,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 909,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "9c01a79eee8ab186.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/9c01a79eee8ab186.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/9c01a79eee8ab186.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c01a79eee8ab186"
+    },
+    {
+      "sha_name": "0954b22afc0d2774.png",
+      "original_ref": "img-1.jpeg",
+      "page": 3,
+      "relative_path": "images/0954b22afc0d2774.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/0954b22afc0d2774.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0954b22afc0d2774"
+    },
+    {
+      "sha_name": "10d0f97091d9ad25.png",
+      "original_ref": "img-2.jpeg",
+      "page": 3,
+      "relative_path": "images/10d0f97091d9ad25.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/10d0f97091d9ad25.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "10d0f97091d9ad25"
+    },
+    {
+      "sha_name": "4f512fdfe8353c37.png",
+      "original_ref": "img-3.jpeg",
+      "page": 4,
+      "relative_path": "images/4f512fdfe8353c37.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/4f512fdfe8353c37.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4f512fdfe8353c37"
+    },
+    {
+      "sha_name": "8f41f30e5687225d.png",
+      "original_ref": "img-4.jpeg",
+      "page": 7,
+      "relative_path": "images/8f41f30e5687225d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/8f41f30e5687225d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8f41f30e5687225d"
+    },
+    {
+      "sha_name": "33d316900d9fa4e7.png",
+      "original_ref": "img-5.jpeg",
+      "page": 10,
+      "relative_path": "images/33d316900d9fa4e7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/33d316900d9fa4e7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "33d316900d9fa4e7"
+    },
+    {
+      "sha_name": "7d5d8279fb1aa365.png",
+      "original_ref": "img-6.jpeg",
+      "page": 12,
+      "relative_path": "images/7d5d8279fb1aa365.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/7d5d8279fb1aa365.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7d5d8279fb1aa365"
+    },
+    {
+      "sha_name": "b38b75872f3cbc18.png",
+      "original_ref": "img-7.jpeg",
+      "page": 17,
+      "relative_path": "images/b38b75872f3cbc18.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/b38b75872f3cbc18.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b38b75872f3cbc18"
+    },
+    {
+      "sha_name": "4420f8ebed9a0943.png",
+      "original_ref": "img-8.jpeg",
+      "page": 28,
+      "relative_path": "images/4420f8ebed9a0943.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/4420f8ebed9a0943.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4420f8ebed9a0943"
+    },
+    {
+      "sha_name": "97286f0450911984.png",
+      "original_ref": "img-9.jpeg",
+      "page": 29,
+      "relative_path": "images/97286f0450911984.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/97286f0450911984.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "97286f0450911984"
+    },
+    {
+      "sha_name": "7be24b4b6d5f4c9e.png",
+      "original_ref": "img-10.jpeg",
+      "page": 33,
+      "relative_path": "images/7be24b4b6d5f4c9e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/7be24b4b6d5f4c9e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7be24b4b6d5f4c9e"
+    },
+    {
+      "sha_name": "738fd29ad236fb83.png",
+      "original_ref": "img-11.jpeg",
+      "page": 34,
+      "relative_path": "images/738fd29ad236fb83.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5_NutritionSupportOrdering/images/738fd29ad236fb83.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "738fd29ad236fb83"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696116",
+    "ts": "2025-08-08T23:35:16.637008+00:00"
+  }
+}

@@ -1,0 +1,2000 @@
+{
+  "doc_id": "shc_tpn_guidelines__081577",
+  "original_filename": "SHC TPN Guidelines.pdf",
+  "md_path": "data/parsed/SHC TPN Guidelines/SHC TPN Guidelines.md",
+  "rmd_path": "data/parsed/SHC TPN Guidelines/SHC TPN Guidelines.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 2,
+      "preview": "I. Introduction"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 3,
+      "preview": "A. Purpose"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 4,
+      "preview": "B. Definition of Terms"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 5,
+      "preview": "C. Indications"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 6,
+      "preview": "D. Considerations"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 7,
+      "preview": "E. Responsibilities"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 8,
+      "preview": "II. Parenteral Nutrition Access"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 9,
+      "preview": "III. Nutritional Requirements"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 10,
+      "preview": "A. Caloric requirements"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 11,
+      "preview": "B. Carbohydrates requirements"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 12,
+      "preview": "C. Protein requirements"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 13,
+      "preview": "D. Fat requirements"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 14,
+      "preview": "E. Vitamins"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 15,
+      "preview": "F. Trace elements"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 16,
+      "preview": "G. Electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 17,
+      "preview": "IV. Total Parenteral Nutrition (TPN)"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 18,
+      "preview": "A. Purpose"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 19,
+      "preview": "B. Initiation"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 20,
+      "preview": "C. Administration"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 21,
+      "preview": "D. Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 22,
+      "preview": "E. Complications"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 23,
+      "preview": "V. Peripheral Parenteral Nutrition (PPN)"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 24,
+      "preview": "A. Purpose"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 25,
+      "preview": "B. Initiation"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 26,
+      "preview": "C. Limitations"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 27,
+      "preview": "D. Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 28,
+      "preview": "VI. Intravenous Fat Emulsions"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 29,
+      "preview": "A. Purpose"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 30,
+      "preview": "B. Administration"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 31,
+      "preview": "C. Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 32,
+      "preview": "D. Complications"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 34,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 36,
+      "preview": "VII. Transitional Feedings"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 37,
+      "preview": "A. Cyclic TPN"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 38,
+      "preview": "B. Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 39,
+      "preview": "C. Transitioning to Home TPN"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 40,
+      "preview": "VIII. Appendix"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 41,
+      "preview": "A. References"
+    },
+    {
+      "type": "text",
+      "section": "2024 Adult Parenteral Nutrition Guidelines Stanford Health Care",
+      "line": 42,
+      "preview": "B. Contributors"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "I. INTRODUCTION",
+      "line": 44
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 46,
+      "preview": "A. Purpose: To provide guidance in the assessment, surveillance, and provision of parenteral nutriti"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 47,
+      "preview": "B. Definition of Terms: Parenteral Nutrition (PN) refers to both Central Parenteral Nutrition (CPN) "
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 49,
+      "preview": "1. PN is the intravenous mode of nutrition support therapy that bypasses the gastrointestinal tract "
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 50,
+      "preview": "C. Indications: The evaluation of indications and contraindications should be conducted prior to PN "
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 51,
+      "preview": "2. Clinical settings where PN is likely indicated:"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 52,
+      "preview": "a) Anastomotic leak/bowel perforation/GI discontinuity"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 53,
+      "preview": "b) Bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 54,
+      "preview": "c) Distal high output enterocutaneous fistula"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 55,
+      "preview": "d) Failed trial of enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 56,
+      "preview": "e) High output chylous leak"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 57,
+      "preview": "f) High risk for bowel ischemia"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 58,
+      "preview": "g) Ileus"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 59,
+      "preview": "h) Inability to obtain enteral access"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 60,
+      "preview": "i) Intolerance to PO/enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 62,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 64,
+      "preview": "j) Intractable vomiting or diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 65,
+      "preview": "k) Massive small bowel resection"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 66,
+      "preview": "l) Peritonitis"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 67,
+      "preview": "m) Primary team preference"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 68,
+      "preview": "n) Requiring supplemental PN to meet full nutritional needs"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 69,
+      "preview": "o) Severe malabsorption"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 70,
+      "preview": "p) Severe mucositis"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 71,
+      "preview": "q) Slow post-operative PO/EN advancement"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 72,
+      "preview": "2. Clinical setting where PN is contraindicated:"
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 73,
+      "preview": "a) There is a functional and accessible gastrointestinal tract."
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 74,
+      "preview": "b) The use of PN is anticipated to be less than five days."
+    },
+    {
+      "type": "text",
+      "section": "I. INTRODUCTION",
+      "line": 75,
+      "preview": "c) When aggressive nutrition support is not warranted by the patient's wishes or prognosis."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "D. Considerations:",
+      "line": 77
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 79,
+      "preview": "1. Do not use PN solely to treat poor oral intake and/or cachexia associated with advanced malignanc"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 80,
+      "preview": "2. Evaluate clinical factors and performance status when selecting candidates for PN at the end of l"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 81,
+      "preview": "3. Limit the use of PN in palliative care to appropriate candidates with an expected survival of at "
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 82,
+      "preview": "4. Define criteria for discontinuing PN depending on the patient's goals of care; consider stopping "
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 83,
+      "preview": "5. Time Frame for Initiating PN:"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 84,
+      "preview": "a) PPN is indicated in 2 situations: as a bridge therapy to TPN when central access cannot be obtain"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 85,
+      "preview": "b) Delay the initiation of PN in a patient with severe metabolic instability until the patient's con"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 86,
+      "preview": "(1) Hyperglycemia: Glucose greater than $180 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 87,
+      "preview": "(2) Azotemia: Blood urea nitrogen greater than $100 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 88,
+      "preview": "(3) Hypertriglyceridemia: Serum triglycerides greater than $200 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 90,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 92,
+      "preview": "(4) Hyponatremia: Serum sodium less than $130 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 93,
+      "preview": "(5) Hypernatremia: Serum sodium greater than $150 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 94,
+      "preview": "(6) Hypokalemia: Serum potassium less than $3 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 95,
+      "preview": "(7) Hypomagnesemia: Serum magnesium less than $1.3 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 96,
+      "preview": "(8) Hypocalcemia: Ionized calcium less than $4.5 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 97,
+      "preview": "(9) Hypophosphatemia: Serum phosphorus less than $2 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 98,
+      "preview": "c) For patients who are unable to achieve the desired intake orally or through EN, PN should be init"
+    },
+    {
+      "type": "table",
+      "section": "D. Considerations:",
+      "line": 100,
+      "preview": "| Nutritional Status | When to initiate PN |"
+    },
+    {
+      "type": "table",
+      "section": "D. Considerations:",
+      "line": 101,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "D. Considerations:",
+      "line": 102,
+      "preview": "| well-nourished, stable adult patients | after 7 days |"
+    },
+    {
+      "type": "table",
+      "section": "D. Considerations:",
+      "line": 103,
+      "preview": "| are nutritionally-at-risk | within 3 to 5 days |"
+    },
+    {
+      "type": "table",
+      "section": "D. Considerations:",
+      "line": 104,
+      "preview": "| baseline moderate or severe malnutrition | soon as feasible |"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 106,
+      "preview": "6. High-Risk Cardiac Surgery Populations per CVICU High-Risk EN Guidelines:"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 107,
+      "preview": "a) POD 0-1: Initiate TPN if severely malnourished and EN is not feasible."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 108,
+      "preview": "b) POD 3: Exclusive or supplemental TPN if no malnutrition and unable (or anticipated barriers) to m"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 109,
+      "preview": "E. Responsibilities: It is incumbent upon all medical providers who provide direct patient care to u"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 110,
+      "preview": "7. Licensed Independent Practitioner: assumes ultimate responsibility for management decisions relat"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 111,
+      "preview": "a) Orders the PN therapy, the solution, additives, infusion time, and duration."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 112,
+      "preview": "b) Orders the placement of the catheter as well as nursing care."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 113,
+      "preview": "c) Monitors, assesses, and responds to adverse effects."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 114,
+      "preview": "d) Evaluates appropriateness of initiating and continuing PN in partnership with the dietitian."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 115,
+      "preview": "8. Pharmacist:"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 116,
+      "preview": "a) Assesses and provides recommendations to adjust PN additives (components) as needed."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 117,
+      "preview": "b) Coordinates compounding, labeling, and dispensing of the PN solution."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 118,
+      "preview": "c) Monitors parameters influenced by PN additives."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 119,
+      "preview": "9. Registered Nurse:"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 120,
+      "preview": "a) Administers the solution."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 122,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 124,
+      "preview": "b) Provides line and access care."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 125,
+      "preview": "c) Monitors for adverse effects."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 126,
+      "preview": "4. Registered Dietitian:"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 127,
+      "preview": "a) Determines nutritional requirements."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 128,
+      "preview": "b) Monitors the appropriateness of PN therapy in partnership with the provider."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 129,
+      "preview": "c) Assesses and provides recommendations to adjust PN additives (components) as needed."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 130,
+      "preview": "d) Monitors for adverse effects."
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 131,
+      "preview": "5. Case Manager:"
+    },
+    {
+      "type": "text",
+      "section": "D. Considerations:",
+      "line": 132,
+      "preview": "a) Coordinates interdisciplinary discharge planning process for home PN therapy."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "II. PARENTERAL NUTRITION ACCESS",
+      "line": 134
+    },
+    {
+      "type": "text",
+      "section": "II. PARENTERAL NUTRITION ACCESS",
+      "line": 136,
+      "preview": "A. Please refer to the following procedure in the Patient Care Manual for more information: Intraven"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 138
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 140,
+      "preview": "A. Caloric Requirements: The Registered Dietitian determines the appropriate energy goal based on va"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 142,
+      "preview": "1. In general, ASPEN guidelines recommend a range of 20 to $35 \\mathrm{kcals} / \\mathrm{kg}$ when ca"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 143,
+      "preview": "2. Indirect Calorimetry (IC) is considered the gold standard for determining metabolic rate. When pr"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 144,
+      "preview": "B. Carbohydrate Requirements: The minimum recommended amount is 100 grams of carbohydrates for adult"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 145,
+      "preview": "3. Dextrose provides 3.4 kilocalories/g. To minimize adverse metabolic consequences (e.g., hyperglyc"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 147,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 149,
+      "preview": "infusion of carbohydrates should not exceed $5 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$. Patients o"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 150,
+      "preview": "C. Protein Requirements: Requirements range from $0.8-2.5 \\mathrm{~g} / \\mathrm{kg} /$ day depending"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 152,
+      "preview": "| Protein Dose | Condition |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 153,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 154,
+      "preview": "| $0.8-1.0 \\mathrm{~g} / \\mathrm{kg}$ | Well-nourished and non-stressed and CKD stage 3-4 not on dia"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 155,
+      "preview": "| $1.0-1.2 \\mathrm{~g} / \\mathrm{kg}$ | Well-nourished and non-stressed, moderately active |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 156,
+      "preview": "| $1.2-1.5 \\mathrm{~g} / \\mathrm{kg}$ | Malnourished or stressed (ex., Post-op, wounds, intermittent"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 157,
+      "preview": "| $1.5-2.0 \\mathrm{~g} / \\mathrm{kg}$ | Malnourished and/or severely stressed, or overweight/obese ("
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 158,
+      "preview": "| $2.0-2.5 \\mathrm{~g} / \\mathrm{kg}$ | Malnourished, obese, severe whole body trauma, CRRT |"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 160,
+      "preview": "1. Protein provides 4 kilocalories/g."
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 161,
+      "preview": "D. Fat Requirements: Essential fatty acid (EFA) deficiency occurs when less than 4\\% kilocalories ar"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 162,
+      "preview": "2. SMOFLipids (soybean, MCT, olive oil, fish oil):"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 163,
+      "preview": "a) The usual daily dosage in adults is 1 to 2 grams $/ \\mathrm{kg}$ per day and should not exceed 2."
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 164,
+      "preview": "b) SMOFlipid is a lipid injectable emulsion with a lipid content of $0.2 \\mathrm{~g} / \\mathrm{mL}$ "
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 165,
+      "preview": "c) Hypersensitivity Reactions"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 166,
+      "preview": "(1) SMOFlipid contains soybean oil, fish oil, peanut, and egg phospholipids, which may cause hyperse"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 167,
+      "preview": "E. Vitamins: Multiple vitamins for infusion (MVI) given daily will supply the recommended daily intr"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 169,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 171,
+      "preview": "1. Standard daily parenteral multivitamin Infuvite ${ }^{\\circledR}$ for adults are as follows:"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 173,
+      "preview": "| Thiamine | 6 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 174,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 175,
+      "preview": "| Riboflavin | 3.6 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 176,
+      "preview": "| Niacin | 40 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 177,
+      "preview": "| Folic acid | 600 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 178,
+      "preview": "| Pantothenic acid | 15 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 179,
+      "preview": "| Vitamin B-6 | 6 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 180,
+      "preview": "| Vitamin B-12 | 5 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 181,
+      "preview": "| Biotin | 60 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 182,
+      "preview": "| Choline | Not Defined |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 183,
+      "preview": "| Vitamin C | 200 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 184,
+      "preview": "| Vitamin A | 1 mg (3300 IU) |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 185,
+      "preview": "| Vitamin D | 5 mcg (200 IU) |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 186,
+      "preview": "| Vitamin E | 10 mg (10 IU) |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 187,
+      "preview": "| Vitamin K | 150 mcg |"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 189,
+      "preview": "F. Trace Elements: The addition of trace elements should be individualized according to patient need"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 191,
+      "preview": "Exceptions should be made for patients on CRRT, who have higher copper needs. Even in the setting of"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 193,
+      "preview": "1. Trace elements provision in standard 1 mL Tralement ${ }^{\\circledR}$ solution are as follows:"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 195,
+      "preview": "| Copper | 0.3 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 196,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 197,
+      "preview": "| Manganese | 55 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 198,
+      "preview": "| Selenium | 60 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 199,
+      "preview": "| Zinc | 3 mg |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 200,
+      "preview": "| Fluoride | Not routinely added |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 201,
+      "preview": "| Iodine | Not routinely added |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 202,
+      "preview": "| Iron | Not routinely added due to |"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 204,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 206,
+      "preview": "|  | compatibility limitations |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 207,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 208,
+      "preview": "| Molybdenum | Not routinely added |"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 210,
+      "preview": "G. Electrolytes: Requirements are extremely variable and must be individualized."
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 212,
+      "preview": "1. General guidelines for reasonable daily amounts in parenteral nutrition are as follows:"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 214,
+      "preview": "| Sodium | $1-2 \\mathrm{mEq} / \\mathrm{kg}$ (up to $154 \\mathrm{mEq} / \\mathrm{L}$ ) |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 215,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 216,
+      "preview": "| Potassium | $1-2 \\mathrm{mEq} / \\mathrm{kg}$ (10 to $30 \\mathrm{mEq} / \\mathrm{d}$ is generally |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 217,
+      "preview": "|  | sufficient to prevent hypokalemia) |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 218,
+      "preview": "| Calcium | $10-15 \\mathrm{mEq}$ |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 219,
+      "preview": "| Magnesium | $8-20 \\mathrm{mEq}$ |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 220,
+      "preview": "| Phosphorus | $20-40 \\mathrm{mmol}$ |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 221,
+      "preview": "| Chloride | as needed to maintain acid-base balance |"
+    },
+    {
+      "type": "table",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 222,
+      "preview": "| Acetate | as needed to maintain acid-base balance |"
+    },
+    {
+      "type": "text",
+      "section": "III. NUTRITIONAL REQUIREMENTS",
+      "line": 224,
+      "preview": "2. Consider using oral or enterally administered multivitamins, electrolytes, or mineral products wh"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 226
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 228,
+      "preview": "A. This is a hypertonic solution that requires infusion through a central line. It allows sufficient"
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 229,
+      "preview": "B. Initiation"
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 231,
+      "preview": "1. Confirm placement or access of a central venous catheter."
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 232,
+      "preview": "2. Enter initial orders in the IP GEN TPN/PPN Adult Protocol Order Set in the Electronic Medical Rec"
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 233,
+      "preview": "3. Renew TPN daily by entering an order in the EMR."
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 234,
+      "preview": "4. Providers must enter the order in Epic or give a verbal order with readback to the pharmacist by "
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 235,
+      "preview": "C. Administration"
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 236,
+      "preview": "5. When initiating TPN, check blood glucose levels every 6 hours for the first 24 hours."
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 238,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 240,
+      "preview": "2. If TPN must be suddenly stopped, check blood glucose within 30 to 60 minutes and monitor for hypo"
+    },
+    {
+      "type": "text",
+      "section": "IV. TOTAL PARENTERAL NUTRITION (TPN)",
+      "line": 241,
+      "preview": "3. When stopping TPN, decrease the rate by $50 \\%$ for 1 to 2 hours before discontinuation to minimi"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "D. Monitoring",
+      "line": 243
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 245,
+      "preview": "1. The following labs are recommended prior to starting parenteral nutrition:"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 246,
+      "preview": "a) Comprehensive Metabolic Panel"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 247,
+      "preview": "b) Phosphorus, Magnesium"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 248,
+      "preview": "c) Triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 249,
+      "preview": "d) Direct bilirubin"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 250,
+      "preview": "2. The following are recommended while the patient is on parenteral nutrition:"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 251,
+      "preview": "a) Basic Metabolic Panel, Phosphorus, and Magnesium daily, then weekly once stable"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 252,
+      "preview": "b) Triglycerides, liver function tests, and direct bilirubin once weekly"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 253,
+      "preview": "c) CBC once weekly"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 254,
+      "preview": "d) Other labs as needed"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 255,
+      "preview": "3. Albumin and prealbumin are not sensitive or specific enough to have any value in assessing nutrit"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 256,
+      "preview": "E. Complications: Common complications can be divided into three groups: mechanical, metabolic, and "
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 257,
+      "preview": "4. Mechanical: Mechanical complications occur in up to 5\\% of PN patients. Please see CVC procedures"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 258,
+      "preview": "a) Central Venous Catheter - Insertion, Maintenance, Patency, and Removal found at Central Vascular "
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 259,
+      "preview": "Central Venous Catheter - Peripherally Inserted Central Catheter (PICC) Insertion and Exchange found"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 260,
+      "preview": "5. Metabolic: Below is a table of possible metabolic complications and appropriate interventions."
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 262,
+      "preview": "| Complications | Possible Etiology | Interventions |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 263,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 264,
+      "preview": "| A. Abnormalities related to metabolic disorders of the patient |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 265,
+      "preview": "| Hyperglycemia (with <br> resultant dextrose <br> glycosuria, osmotic | - Excessive intake (either "
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 267,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 269,
+      "preview": "| diuresis rate, and possible dehydration) | - Change in metabolic rate (sepsis, surgical stress)"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 270,
+      "preview": "- Medications: steroids, octreotide | - Carbohydrate administration should not exceed a rate of $4-5"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 271,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 272,
+      "preview": "| Hypoglycemia | - Sudden cessation of infusion <br> - Excessive administration of insulin | - If PN"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 273,
+      "preview": "| Electrolyte disorders | - Excessive or inadequate intake | - PN electrolyte changes based on clini"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 274,
+      "preview": "| Mineral disorders | - Excessive or inadequate intake | - PN mineral changes based on clinical asse"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 276,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 278,
+      "preview": "| Trace element disorders | - Excessive or inadequate intake | - PN trace element changes based on c"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 279,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 280,
+      "preview": "| Essential fatty acid deficiency | - Inadequate intake | - Provide 20\\% IV lipids 250 mL twice week"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 281,
+      "preview": "| Hypertriglyceridemia | - Dextrose overfeeding <br> - Poor glycemic control <br> - Rapid administra"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 282,
+      "preview": "| Acid-base Imbalance | - Use of hydrochloride salts of cationic electrolytes or inadequate administ"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 283,
+      "preview": "| Azotemia | - Dehydration, excess protein, and/or inadequate nonprotein calories <br> - Patients wi"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 285,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 287,
+      "preview": "| Refeeding Syndrome | - Aggressive nutrition support, especially in severely malnourished patients,"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 288,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 289,
+      "preview": "| Respiratory Failure | - Overfeeding causing elevated $\\mathrm{CO}_{2}$ production and increased re"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 290,
+      "preview": "| B. Miscellaneous |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 291,
+      "preview": "| Congestive Heart Failure | - Excessive rapid infusion of PN solution <br> - Pulmonary edema | - Co"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 292,
+      "preview": "| Anemia | - Failure to replace blood loss, iron deficiency | - Iron repletion per primary team. |"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 293,
+      "preview": "| Demineralization of bone | - Inactivity, inadequate intake of calcium and phosphate, and/or inadeq"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 294,
+      "preview": "| Hepatic disorders <br> - Steatosis | - Concerning for long-term PN support $>2$ weeks | - Remove m"
+    },
+    {
+      "type": "text",
+      "section": "D. Monitoring",
+      "line": 296,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 298,
+      "preview": "| - Cholestasis <br> - Biochemical and histopathologic tract abnormalities | - Excessive <br> lipid/"
+    },
+    {
+      "type": "table",
+      "section": "D. Monitoring",
+      "line": 299,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 301
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 303,
+      "preview": "A. This solution contains amounts of dextrose and amino acids in concentrations that may be administ"
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 304,
+      "preview": "B. Initiation:"
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 306,
+      "preview": "1. Order entry follows the same guidelines and process as TPN (see section IV)"
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 307,
+      "preview": "2. A new peripheral catheter should be placed prior to starting PPN."
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 308,
+      "preview": "C. Limitations:"
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 309,
+      "preview": "3. The osmolarity of the final PPN mixture should not exceed $1100 \\mathrm{mOsm} / \\mathrm{L}$."
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 310,
+      "preview": "4. Due to limitations in osmolarity and volume, PPN solutions may provide inadequate nutrition for s"
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 311,
+      "preview": "5. The recommended use for PPN is 5-14 days. Consider TPN if PPN provides insufficient nutrition and"
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 312,
+      "preview": "6. Patients cannot be discharged to home on PPN."
+    },
+    {
+      "type": "text",
+      "section": "V. PERIPHERAL PARENTERAL NUTRITION (PPN)",
+      "line": 313,
+      "preview": "D. Monitoring: Similar to TPN, routine monitoring of metabolic and nutritional parameters is recomme"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 315
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 317,
+      "preview": "A. Purpose: Fat emulsion may be used as a concentrated caloric source and as a source of essential f"
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 319,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 321,
+      "preview": "the US have been soybean oil based. In 2016, the FDA approved a new combination product, SMOFlipid, "
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 322,
+      "preview": "B. Administration:"
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 324,
+      "preview": "1. Specify volume, concentration (20\\%), and administration rate for fat emulsion in order entry."
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 325,
+      "preview": "2. Fat Emulsion Hang-Time: Per CDC guidelines, fat emulsions should be hung for a 12-hour time perio"
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 326,
+      "preview": "3. For more information, please see Intravenous Infusion - Parenteral Nutrition TPN, PPN, Lipid Emul"
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 327,
+      "preview": "C. Monitoring: Liver function tests, prothrombin time, and platelets should be ordered at least once"
+    },
+    {
+      "type": "text",
+      "section": "VI. INTRAVENOUS FAT EMULSION",
+      "line": 328,
+      "preview": "D. Complications: Hypertriglyceridemia can occur if fat emulsion is administered at a rate > $0.11 \\"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 330
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 332,
+      "preview": "A. Cyclic TPN: Parenteral Nutrition should be initiated as a 24-hour continuous infusion prior to cy"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 333,
+      "preview": "B. Enteral Nutrition: Before transitioning off TPN, adequate enteral intake must be attained. After "
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 335,
+      "preview": "1. TPN is decreased as enteral intake is increased in order for total intake to meet nutritional nee"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 337,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 339,
+      "preview": "C. Transitioning to Home TPN: Prior to starting home TPN, it must be determined if the burden of hom"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 341,
+      "preview": "1. Cultural/religious values."
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 342,
+      "preview": "2. Ability for patient or caregiver to manage home TPN (comprehension, manual dexterity, and the abi"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 343,
+      "preview": "3. Home safety (clean environment with storage capability, non-hostile environment)."
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 344,
+      "preview": "4. Access to care (an outpatient provider willing to oversee the TPN, infusion, and home care nursin"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 345,
+      "preview": "5. Health insurance and costs."
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 346,
+      "preview": "a) Once a patient is determined as an appropriate candidate for TPN, he/she should be clinically sta"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 347,
+      "preview": "b) The primary team must identify an outpatient provider who will continue to sign the TPN orders an"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 348,
+      "preview": "VIII. APPENDIX"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 349,
+      "preview": "A. References:"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 350,
+      "preview": "6. Ayers P, Adams S, Boullata J, et al. A.S.P.E.N. Parenteral Nutrition Safety Consensus Recommendat"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 351,
+      "preview": "7. Ayers P, Bobo E, Hurt R, Mays A, Worthington P. ASPEN Parenteral Nutrition Handbook: Third Editio"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 352,
+      "preview": "8. Barr LH, Dunn GD, Brennan MF. Essential fatty acid deficiency during total parenteral nutrition. "
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 353,
+      "preview": "9. Berger MM, Shenkin A, Schweinlin A, et al. ESPEN micronutrient guideline. Clin Nutr. 2022 Jun;41("
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 354,
+      "preview": "10. Crill CM, Hak EB, Robinson LA. Evaluation for microbial contamination associated with different "
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 356,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 358,
+      "preview": "6. Crocker KS, Noga R, Filibeck DJ, et al. Microbial growth comparisons of five commercial parentera"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 359,
+      "preview": "7. DeDonato BM, Bickford LI and Gates RJ. Microbial growth in neonatal intravenous fat emulsion admi"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 360,
+      "preview": "8. Ellery G, Stanner H, Lockwood S, et al. Utilization of Topical Safflower Oil in the Treatment of "
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 361,
+      "preview": "9. Gramlich L, Ireton-Jones C, Miles JM, Morrison M, Pontes-Arruda A. Essential Fatty Acid Requireme"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 362,
+      "preview": "10. McClave SA, Taylor BE, Martindale RG, et al. Guidelines for the provision and assessment of nutr"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 363,
+      "preview": "11. Merritt RM (ed). The A.S.P.E.N. Nutrition Support Practice Manual. 2nd ed. Silver Spring, MD: Am"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 364,
+      "preview": "12. Mirtallo J, Canada T, Johnson D, et al.; A.S.P.E.N. Board of Directors and Task Force for the Re"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 365,
+      "preview": "13. Mogensen KM. Essential Fatty Acid Deficiency. Nutrition Issues in Gastroenterology. 2017."
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 366,
+      "preview": "14. Mueller C (ed). The A.S.P.E.N. Adult Nutrition Support Core Curriculum. 2nd ed. Silver Spring, M"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 367,
+      "preview": "15. Mueller C. The ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. Silver Spring, MD: America"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 368,
+      "preview": "16. Guidelines for the prevention of intravascular catheter-related infections. Am J Infect Control."
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 369,
+      "preview": "17. Vanek VW, Seidner DL, Allen P, et al. A.S.P.E.N. position paper: Clinical role for alternative i"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 370,
+      "preview": "18. Worthington P, Bechtold M, Bingham A, et al. When is Parenteral Nutrition Appropriate? JPEN J Pa"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 371,
+      "preview": "B. Contributors:"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 372,
+      "preview": "19. ORIGINALLY PUBLISHED IN 1996 BY THE TOTAL PARENTERAL NUTRITION COMMITTEE CONTRIBUTORS TO THE 201"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 374,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 376,
+      "preview": "a) Ron Pearl, M.D.; Paul Maggio, M.D.; Trevor Winter, M.D.; Marina Basina, M.D.; Lynn Dennie, R.D., "
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 377,
+      "preview": "b) Reviewed and approved by the Nutrition Committee: March 22, 2013"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 378,
+      "preview": "c) Reviewed and approved by the Pharmacy \\& Therapeutics Committee: (Date lost)"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 379,
+      "preview": "2. CONTRIBUTORS TO THE 2016 REVISION"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 380,
+      "preview": "a) Jami Baltz, RD, CNSC; Yvonne Best, MS, RD; Qingshan (Sandy) Sun, MS, RD Neha Shah, MPH, RD, CNSC "
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 381,
+      "preview": "(1) Reviewed and approved by the Nutrition Committee: 7/7/2016"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 382,
+      "preview": "(2) Reviewed and approved by the Pharmacy \\& Therapeutics Committee: (Date lost)"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 383,
+      "preview": "3. CONTRIBUTORS TO THE 2018 REVISION"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 384,
+      "preview": "a) Janine Berta, MS, RD, CNSC, Martino Maranghi, MS, RD, CNSC, Leanna Tu, MS, RD, Andrea Wolf, RD, C"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 385,
+      "preview": "b) Reviewed and approved by the Nutrition Committee: 2/15/2018"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 386,
+      "preview": "c) Reviewed and approved by the Pharmacy \\& Therapeutics Committee: 2/16/2018."
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 387,
+      "preview": "4. CONTRIBUTORS TO THE 2021 REVISION"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 388,
+      "preview": "a) Janine Berta, MS, RD-AP, CNSC, May Carr, MS, RD, CNSC, CSO, Natalie Chan, RD, CNSC, CCTD, Katie M"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 389,
+      "preview": "b) Reviewed and approved by the Nutrition Committee: 10/2021"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 390,
+      "preview": "c) Reviewed and approved by the Pharmacy \\& Therapeutics Committee: $11 / 2021$"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 391,
+      "preview": "5. CONTRIBUTORS TO THE 2024 REVISION"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 392,
+      "preview": "a) Janine Berta, MS, RD-AP, CNSC, Chunyun Xiao, MCN, RD-AP, CSO, CNSC, CMI, FAND, Ann Hill, MS, RD, "
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 393,
+      "preview": "b) Reviewed and approved by the Nutrition Committee: 9/2024"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 394,
+      "preview": "c) Reviewed and approved by the Pharmacy \\& Therapeutics Committee: 2/2025"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 395,
+      "preview": "d) Addendum to Section III, part F"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 396,
+      "preview": "(1) Janine Berta, MS, RD-AP, CNSC, Ranna Modir, MS, RD, CDECS, CNSC, CCTP"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 397,
+      "preview": "(2) Reviewed and Approved by Nutrition Committee: 2/2025"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 399,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 401,
+      "preview": "(3) Reviewed and Approved by Pharmacy \\& Therapeutics Committee: $3 / 2025$"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 402,
+      "preview": "e) Addendum to Section V, part A"
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 403,
+      "preview": "(1) Janine Berta, MS, RD-AP, CNSC, April Fong, Pharm D. Cherywn Nguyen, Pharm D."
+    },
+    {
+      "type": "text",
+      "section": "VII. TRANSITIONAL FEEDINGS",
+      "line": 404,
+      "preview": "(2) Reviewed and Approved by Nutrition Committee: 5/2025"
+    }
+  ],
+  "images": [],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696503",
+    "ts": "2025-08-08T23:41:43.065924+00:00"
+  }
+}

@@ -1,0 +1,163 @@
+# NUTRITION SUPPORT CERTIFICATE 
+
+## Essential Fatty Acid Deficiency
+
+![img-0.jpeg](images/8c5f43f4bf7b01e4.png)
+
+Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the American Society for Parenteral and Enteral Nutrition (ASPEN).
+(C)2022 American Society of Health-System Pharmacists, Inc. All rights reserved.
+
+No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, microfilming, and recording, or by any information storage and retrieval system, without written permission from the American Society of Health-System Pharmacists.
+
+--- page 1 ---
+
+# ESSENTIAL FATTY ACID DEFICIENCY (EFAD) 
+
+Jay M Mirtallo, M.S., R.Ph., BCNSP, FASHP FASPEN
+The Ohio State University ASPEN
+
+NUTRITION SUPPORT CERTIFICATE
+
+## RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE
+
+The following persons in control of this activity's content have relevant financial relationships:
+
+- Jay Mirtallo: Fresenius Kabi, consultant
+
+All other persons in control of content do not have any relevant financial relationships with an ineligible company.
+
+--- page 2 ---
+
+# LEARNING OBJECTIVE 
+
+- Recognize essential fatty acid deficiency in parenteral nutrition patients.
+
+
+## ETIOLOGY
+
+- Most common cause of EFAD is the omission of ILE from PN
+- Prescribing error
+- Conserve product due to shortage
+- Termed 'Fat-free PN'
+- For EN (Enteral Nutrition)
+- Inadequate linoleic acid intake
+- Intestinal failure with fat intolerance and/or malabsorption as with short bowel syndrome
+- Anytime the intake of linoleic acid is $<2-4 \%$ and linolenic acid is $<0.25-0.5 \%$ of energy requirements for prolonged periods ( $>2-4$ weeks)
+
+--- page 3 ---
+
+# EFAD SYMPTOMS 
+
+- Most noted is 'dry, scaly skin rash' known as scaly dermatitis
+- Alopecia
+- Hepatomegaly
+- Thrombocytopenia
+- Fatty liver
+- Impairment in immune function and wound healing
+
+
+## SOURCES OF ESSENTIAL FATTY ACIDS
+
+| Oils | Linoleic acid | Linolenic acid |
+| :-- | :-- | :-- |
+| Soybean ${ }^{*}$ | 54 | 7 |
+| Safflower | 77 | Trace |
+| Sunflower | 69 | 0 |
+| Canola | 22 | 10 |
+| Corn | 61 | 0 |
+| *Source for both enteral and parenteral diets |  |  |
+
+--- page 4 ---
+
+# MONITORING 
+
+## Assess for Symptoms at Risk:
+
+- Malnutrition
+- Documented poor nutritional intake in the past month
+- Intestinal failure
+- Fat malabsorption
+- Short bowel syndrome
+- Fat-free PN
+
+
+## MONITORING
+
+- Biochemical:
+- Triene:Tetraene ratio (also known as Holman index)
+- Value of 0.2 indicates biochemical changes
+- May be identified in 7-10 days of Fat-free PN
+- 0.4 most often associated with symptoms
+- Usually appear after 3 weeks of Fat-free PN
+- Prevention is recommended
+- Provide 2-4\% of energy as linoleic acid and 0.25-0.5\% if energy as linolenic acid
+
+--- page 5 ---
+
+# CONCLUSIONS 
+
+- Patients receiving enteral or parenteral nutrition are at risk for micronutrient and essential fatty acid deficiency
+- Deficiency symptoms take time to manifest and are more likely to be caused by inadequate dosing of nutrients in nutrition support
+- Monitoring should be established to identify deficiencies early however, prevention by providing adequate doses in nutrition support is the optimal approach towards managing micronutrient and EFA deficiency
+
+
+## REFERENCES
+
+- Kumpf VJ, Gervasio J. Complications of parenteral nutrition. In: Mueller CM, ed. The ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. Maryland: The American Society for Parenteral and Enteral Nutrition; 2017:348.
+- Hise M, Brown JL. Lipids. In: Mueller CM, ed. The ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. Maryland: The American Society for Parenteral and Enteral Nutrition; 2017:79.
+
+--- page 6 ---
+
+NUTRITION SUPPORT CERTIFICATE
+
+--- page 7 ---
+
+![img-1.jpeg](images/4d44f444ade286bb.png)
+
+Jay M. Mirtallo, M.S., R.Ph, BCNSP, FASHP, FASPEN
+The Professor Emeritus
+The Ohio State University, College of Pharmacy
+Clinical Practice Specialist
+American Society for Parenteral and Enteral Nutrition
+Delaware, Ohio
+As one of the pharmacy specialist pioneers, Professor Mirtallo was instrumental in leading cost-effective practices in parenteral nutrition and advancing the role of the pharmacist on nutrition support services.
+
+Professor Mirtallo has been very active in professional societies and is Past President of the American Society for Parenteral and Enteral Nutrition (ASPEN). He also spent many years on the ASPEN Public Policy Committee, where he advocated for reimbursement of enteral and parenteral nutrition in the hospital and home, dealt with drug shortage issues and worked to improve the safety and efficacy of parenteral nutrition.
+
+As a representative to the Joint Commission, he served on the task force that created the Nutrition Care Standards. Mr. Mirtallo has been actively involved with nutrition support guidelines. Recently, he coauthored an etiology-based definition of malnutrition which is the basis for an inter-professional malnutrition strategy. He chaired a parenteral nutrition safety summit in the fall of 2011 which led to the development of the safety consensus recommendations released by ASPEN and the American Society for Health System Pharmacists. Currently Professor Mirtallo is Professor Emeritus at The Ohio State University, College of Pharmacy, Division of Pharmacy Practice and Administration. He is also a Clinical Practice Specialist with ASPEN.
+
+--- page 8 ---
+
+# Relevant Financial Relationship Disclosure
+
+In accordance with our accreditor’s Standards of Integrity and Independence in Accredited Continuing Education, ASHP requires that all individuals in control of content disclose all financial relationships with ineligible companies. An individual has a relevant financial relationship if they have had a financial relationship with ineligible company in any dollar amount in the past 24 months and the educational content that the individual controls is related to the business lines or products of the ineligible company.
+
+An ineligible company is any entity producing, marketing, re-selling, or distributing health care goods or services consumed by, or used on, patients. The presence or absence of relevant financial relationships will be disclosed to the activity audience.
+
+The following persons in control of this activity’s content have relevant financial relationships:
+
+- Phil Ayers: Fresenius Kabi, consultant and speaker
+- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; CVS/OptionCare, consultant; Alcresta, consultant and speaker
+- Andrew Mays: Fresenius Kabi, speaker
+- Jay Mirtallo: Fresenius Kabi, consultant
+- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board
+
+All other persons in control of content do not have any relevant financial relationships with an ineligible company.
+
+As required by the Standards of Integrity and Independence in Accredited Continuing Education definition of ineligible company, all relevant financial relationships have been mitigated prior to the CPE activity.
+
+# Methods and CE Requirements
+
+This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians are eligible to receive a total of 20 hours of continuing education credit by completing all 12 modules within this certificate.
+
+Participants must participate in the entire activity, complete the evaluation and all required components to claim continuing pharmacy education credit online at ASHP Learning Center http://elearning.ashp.org. Follow the prompts to claim credit and view your statement of credit within 60 days after completing the activity.
+
+# Important Note – ACPE 60 Day Deadline:
+
+Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you have completed the required steps and to ensure your credits have been reported to CPE Monitor, check your NABP eProfile account to validate that your credits were transferred successfully before the ACPE 60-day deadline. After the 60 day deadline, ASHP will no longer be able to award credit for this activity.
+
+# System Technical Requirements
+
+Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should have a basic comfort level using a computer and navigating websites.
+
+View Frequently Asked Questions for more information.

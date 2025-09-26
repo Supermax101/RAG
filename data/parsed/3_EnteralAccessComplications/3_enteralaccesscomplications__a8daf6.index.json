@@ -1,0 +1,2814 @@
+{
+  "doc_id": "3_enteralaccesscomplications__a8daf6",
+  "original_filename": "3_EnteralAccessComplications.pdf",
+  "md_path": "data/parsed/3_EnteralAccessComplications/3_EnteralAccessComplications.md",
+  "rmd_path": "data/parsed/3_EnteralAccessComplications/3_EnteralAccessComplications.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Enteral Access Complications",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Enteral Access Complications",
+      "line": 4,
+      "content": "![img-0.jpeg](images/7a59eca193e03de3.png)"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Access Complications",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Access Complications",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Enteral Access Complications",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Access Complications",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT ACCESS",
+      "line": 13
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ENTERAL ACCESS COMPLICATIONS",
+      "line": 15
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL ACCESS COMPLICATIONS",
+      "line": 17,
+      "preview": "David Evans, M.D."
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL ACCESS COMPLICATIONS",
+      "line": 18,
+      "preview": "The Ohio State University"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL ACCESS COMPLICATIONS",
+      "line": 20,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 32,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVE",
+      "line": 34
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVE",
+      "line": 36,
+      "preview": "- Describe strategies for preventing potential complications of enteral access devices."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 39
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 41,
+      "preview": "- CRBSI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 42,
+      "preview": "- EGD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 43,
+      "preview": "- G-tube:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 44,
+      "preview": "- NG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 45,
+      "preview": "- OG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 46,
+      "preview": "- PEG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 47,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 48,
+      "preview": "- VAP:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 49,
+      "preview": "catheter-related bloodstream infections"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 50,
+      "preview": "esophagogastroduodenoscopy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 51,
+      "preview": "gastrostomy tube"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 52,
+      "preview": "nasogastric"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 53,
+      "preview": "orogastric"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 54,
+      "preview": "percutaneous endoscopic gastrostomy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 55,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 56,
+      "preview": "ventilator-associated pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS / DEFINITIONS",
+      "line": 58,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT",
+      "line": 60
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 62,
+      "preview": "Your patient is a 53-year-old female who had a PEG placed after a recent stroke. She is tube-feed de"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 63,
+      "preview": "A. Frequent flushing of the feeding tube helps maintain patency"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 64,
+      "preview": "B. Coca-Cola ${ }^{\\oplus}$ flushes are effective to resolve clogs"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 65,
+      "preview": "C. Crushed medications increase the risk of tube clogging"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 66,
+      "preview": "D. Tension on the feeding tube can result in tube dislodgement"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 68
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 70,
+      "preview": "- If dislodged $\\rightarrow$ Call surgeon / surgical team promptly"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 71,
+      "preview": "- Major problems"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 72,
+      "preview": "- Tube clogging (diameter, content administered)"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 73,
+      "preview": "- Balloon rupture"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 74,
+      "preview": "- Dislodgement"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 75,
+      "preview": "- Bowel obstruction (J-tubes)"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 76,
+      "preview": "- Leakage around the tube (both externally and internally)"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 77,
+      "preview": "- Assessment of external bumper tension"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 78,
+      "preview": "- Avoid \"compulsive\" bumper tightening"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 79,
+      "preview": "- Risk of \"buried bumper\" syndrome"
+    },
+    {
+      "type": "text",
+      "section": "PEG / PEJ / G- / J-TUBES",
+      "line": 81,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 83
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 85,
+      "preview": "- Flush tube at regular intervals and after each use to maintain patency (15-30 mL every 4 hours and"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 86,
+      "preview": "- Clogging or luminal obstruction"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 87,
+      "preview": "- The most common mechanical complication"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 88,
+      "preview": "- Often due to inadequate flushing"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 89,
+      "preview": "- If naso- or oroenteric tube involved:"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 90,
+      "preview": "- Try to unclog"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 91,
+      "preview": "- If unsuccessful or recurrent obstruction, replace the tube"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 92,
+      "preview": "- For surgical tubes:"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 93,
+      "preview": "- Try everything possible to unclog"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 94,
+      "preview": "- If unable to unclog, consult the physician(s) who placed the tube"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 95,
+      "preview": "- Tube replacement should prompt post-procedure position verification"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 98
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 100,
+      "preview": "- Tube dressing"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 101,
+      "preview": "- No dressing is best"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 102,
+      "preview": "- Simple gauze is acceptable if leakage or bleeding"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 103,
+      "preview": "- External bumper $\\rightarrow$ Ensure 0.5-0.75 cm clearance"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 104,
+      "preview": "- Avoid overzealous external bumper tightening!"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 105,
+      "preview": "- If tube is leaking"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 106,
+      "preview": "- Avoid \"upsizing\" the tube"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 107,
+      "preview": "- Provide adequate wound care"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 108,
+      "preview": "- Consider delayed gastric emptying / obstruction"
+    },
+    {
+      "type": "image",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 109,
+      "content": "![img-1.jpeg](images/d1dc19108315dc40.png)"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE MAINTENANCE",
+      "line": 111,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 113
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 115,
+      "preview": "- Why do tubes clog?"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 116,
+      "preview": "- Thickened formula residue"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 117,
+      "preview": "- Medication particles"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 118,
+      "preview": "- Incompatible substances"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 119,
+      "preview": "- Inadequate flushing"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 120,
+      "preview": "- Prevention:"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 121,
+      "preview": "- Flush tube with water every 4 hours"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 122,
+      "preview": "- Flush with water before / after medications"
+    },
+    {
+      "type": "text",
+      "section": "FEEDING TUBE CLOGGING",
+      "line": 124,
+      "preview": "Marcuard SP et al. JPEN J Parenter Enteral Nutr. 1989; 13(1):81."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DE-CLOGGING",
+      "line": 126
+    },
+    {
+      "type": "text",
+      "section": "DE-CLOGGING",
+      "line": 128,
+      "preview": "\"Success Rating for De-Clogging\" [Scale from 0 \"worst\" to 3 \"best\"]"
+    },
+    {
+      "type": "image",
+      "section": "DE-CLOGGING",
+      "line": 129,
+      "content": "![img-2.jpeg](images/d1d66b6b3cbbad1f.png)"
+    },
+    {
+      "type": "text",
+      "section": "DE-CLOGGING",
+      "line": 131,
+      "preview": "1 and 4: Image and graphic courtesy S.A. McClave."
+    },
+    {
+      "type": "text",
+      "section": "DE-CLOGGING",
+      "line": 132,
+      "preview": "2: CC Image courtesy Pixabay. https://pixabay.com/service/terms/ (accessed 2019 Mar 9)."
+    },
+    {
+      "type": "text",
+      "section": "DE-CLOGGING",
+      "line": 133,
+      "preview": "3: CC Image courtesy Rainer Zenz / Wikimedia Commons."
+    },
+    {
+      "type": "text",
+      "section": "DE-CLOGGING",
+      "line": 134,
+      "preview": "https://commons.wikimedia.org/wiki/User:Rainer_Zenz (accessed 2019 Mar 9)."
+    },
+    {
+      "type": "text",
+      "section": "DE-CLOGGING",
+      "line": 136,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENFIT\u00ae CONNECTOR CLEANING",
+      "line": 138
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae CONNECTOR CLEANING",
+      "line": 140,
+      "content": "![img-3.jpeg](images/72e31f6f8fb89b42.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTOR CLEANING",
+      "line": 142,
+      "preview": "- New design requires attention to cleaning, care with medication preparation"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTOR CLEANING",
+      "line": 143,
+      "preview": "- See \"Nutrition Support Access: Enteral Overview\" for More Info about ENFit\u00ae"
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae CONNECTOR CLEANING",
+      "line": 145,
+      "content": "![img-4.jpeg](images/8e5d269287f4516e.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTOR CLEANING",
+      "line": 147,
+      "preview": "*Image courtesy of Global Enteral Device Supplier Association (GEDSA). http://stayconnected.org (acc"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTOR CLEANING",
+      "line": 149,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "OTHER COMPLICATIONS \\& PREVENTIVE STRATEGIES",
+      "line": 151
+    },
+    {
+      "type": "text",
+      "section": "OTHER COMPLICATIONS \\& PREVENTIVE STRATEGIES",
+      "line": 153,
+      "preview": "- Delayed gastric emptying $\\rightarrow$ Elevate HOB $30^{\\circ}$ during and at least 1 hour after f"
+    },
+    {
+      "type": "text",
+      "section": "OTHER COMPLICATIONS \\& PREVENTIVE STRATEGIES",
+      "line": 154,
+      "preview": "- Nasopharyngeal breakdown / irritation $\\rightarrow$ Use soft, small-bore tube; tape the tube prope"
+    },
+    {
+      "type": "text",
+      "section": "OTHER COMPLICATIONS \\& PREVENTIVE STRATEGIES",
+      "line": 155,
+      "preview": "- Can't miss this! [Medico-legal risk]"
+    },
+    {
+      "type": "text",
+      "section": "OTHER COMPLICATIONS \\& PREVENTIVE STRATEGIES",
+      "line": 156,
+      "preview": "- Bridle device- umbilical tape passed around nasal septum- prevents dislodgement"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 159
+    },
+    {
+      "type": "image",
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 161,
+      "content": "![img-5.jpeg](images/f497f415eae58d3d.png)"
+    },
+    {
+      "type": "text",
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 163,
+      "preview": "- Many strategies tried; few outcomes reported"
+    },
+    {
+      "type": "text",
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 164,
+      "preview": "- Attaching \"decoy\" devices to apron or abdominal binders"
+    },
+    {
+      "type": "text",
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 165,
+      "preview": "- Geriatric \"activity aprons\""
+    },
+    {
+      "type": "text",
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 166,
+      "preview": "- Works very well for agitated patients"
+    },
+    {
+      "type": "image",
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 167,
+      "content": "![img-6.jpeg](images/51795acc437f2bae.png)"
+    },
+    {
+      "type": "text",
+      "section": "AN \"OUNCE\" OF PREVENTION",
+      "line": 169,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TUBES DON'T LAST FOREVER",
+      "line": 171
+    },
+    {
+      "type": "image",
+      "section": "TUBES DON'T LAST FOREVER",
+      "line": 173,
+      "content": "![img-7.jpeg](images/ab834ec5370c2309.png)"
+    },
+    {
+      "type": "text",
+      "section": "TUBES DON'T LAST FOREVER",
+      "line": 175,
+      "preview": "Image courtesy of Dr. Mike Cadogan"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "BLEEDING",
+      "line": 177
+    },
+    {
+      "type": "text",
+      "section": "BLEEDING",
+      "line": 179,
+      "preview": "- Granulation or ulceration is often the cause"
+    },
+    {
+      "type": "text",
+      "section": "BLEEDING",
+      "line": 180,
+      "preview": "- Bleeding not due to skin changes needs a physician's evaluation"
+    },
+    {
+      "type": "text",
+      "section": "BLEEDING",
+      "line": 181,
+      "preview": "- Bleeding from the GI tract is less common"
+    },
+    {
+      "type": "image",
+      "section": "BLEEDING",
+      "line": 182,
+      "content": "![img-8.jpeg](images/5ebd308d7d2689c7.png)"
+    },
+    {
+      "type": "text",
+      "section": "BLEEDING",
+      "line": 184,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SKIN ULCERATION",
+      "line": 186
+    },
+    {
+      "type": "text",
+      "section": "SKIN ULCERATION",
+      "line": 188,
+      "preview": "This bumper"
+    },
+    {
+      "type": "text",
+      "section": "SKIN ULCERATION",
+      "line": 189,
+      "preview": "was too tight"
+    },
+    {
+      "type": "image",
+      "section": "SKIN ULCERATION",
+      "line": 190,
+      "content": "![img-9.jpeg](images/2f769cd9c0334fea.png)"
+    },
+    {
+      "type": "text",
+      "section": "SKIN ULCERATION",
+      "line": 192,
+      "preview": "Image courtesy of S.A. McClave"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "APPROPRIATE TENSION",
+      "line": 194
+    },
+    {
+      "type": "image",
+      "section": "APPROPRIATE TENSION",
+      "line": 196,
+      "content": "![img-10.jpeg](images/14c7f9c2ba3fbc0c.png)"
+    },
+    {
+      "type": "text",
+      "section": "APPROPRIATE TENSION",
+      "line": 198,
+      "preview": "This bumper is just loose enough"
+    },
+    {
+      "type": "image",
+      "section": "APPROPRIATE TENSION",
+      "line": 199,
+      "content": "![img-11.jpeg](images/02d0663cb94628ee.png)"
+    },
+    {
+      "type": "text",
+      "section": "APPROPRIATE TENSION",
+      "line": 201,
+      "preview": "No gauze typically needed after first few days"
+    },
+    {
+      "type": "text",
+      "section": "APPROPRIATE TENSION",
+      "line": 203,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PREVENTION AND TREATMENT OF SKIN ULCERATION",
+      "line": 205
+    },
+    {
+      "type": "image",
+      "section": "PREVENTION AND TREATMENT OF SKIN ULCERATION",
+      "line": 207,
+      "content": "![img-12.jpeg](images/039ec96a3be37af5.png)"
+    },
+    {
+      "type": "text",
+      "section": "PREVENTION AND TREATMENT OF SKIN ULCERATION",
+      "line": 209,
+      "preview": "Horizontal Hollister Clamp for J tube"
+    },
+    {
+      "type": "text",
+      "section": "PREVENTION AND TREATMENT OF SKIN ULCERATION",
+      "line": 210,
+      "preview": "\"Vertical\" Hollister Clamps also exist"
+    },
+    {
+      "type": "image",
+      "section": "PREVENTION AND TREATMENT OF SKIN ULCERATION",
+      "line": 211,
+      "content": "![img-13.jpeg](images/fe059d5828565c17.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "INFECTION",
+      "line": 213
+    },
+    {
+      "type": "text",
+      "section": "INFECTION",
+      "line": 215,
+      "preview": "- Skin changes only- consider ET/ostomy RN evaluation"
+    },
+    {
+      "type": "text",
+      "section": "INFECTION",
+      "line": 216,
+      "preview": "- Concerns for deeper infection- MD evaluation"
+    },
+    {
+      "type": "image",
+      "section": "INFECTION",
+      "line": 217,
+      "content": "![img-14.jpeg](images/cc4824ea8c05fc30.png)"
+    },
+    {
+      "type": "text",
+      "section": "INFECTION",
+      "line": 219,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 221
+    },
+    {
+      "type": "text",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 223,
+      "preview": "- Often moist, in skin folds"
+    },
+    {
+      "type": "text",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 224,
+      "preview": "- Can be seen around wounds, tube sites"
+    },
+    {
+      "type": "text",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 225,
+      "preview": "- Typically treat with nystatin topical powder, sometimes oral fluconazole"
+    },
+    {
+      "type": "image",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 226,
+      "content": "![img-15.jpeg](images/a5a41f3d80288429.png)"
+    },
+    {
+      "type": "text",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 228,
+      "preview": "LEAKAGE / ENLARGING HOLE"
+    },
+    {
+      "type": "image",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 229,
+      "content": "![img-16.jpeg](images/64bac8f1d4f2643c.png)"
+    },
+    {
+      "type": "image",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 230,
+      "content": "![img-17.jpeg](images/4943490333e02d87.png)"
+    },
+    {
+      "type": "text",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 232,
+      "preview": "Image courtesy of S.A. McClave"
+    },
+    {
+      "type": "text",
+      "section": "CANDIDAL SKIN INFECTIONS",
+      "line": 234,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 236
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 238,
+      "preview": "- Consider Vertical Hollister Clamp to keep straight"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 239,
+      "preview": "- Avoid tension on the tube"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 240,
+      "preview": "- Pad tube with multiple layers of gauze to keep tension off (Patient of Laszlo Kiraly)"
+    },
+    {
+      "type": "image",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 241,
+      "content": "![img-18.jpeg](images/d9deef2e60139965.png)"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 243,
+      "preview": "LEAKAGE / ENLARGING HOLE"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 245,
+      "preview": "- Feeding post-pyloric may be necessary"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 246,
+      "preview": "- Bad wounds may require tube relocation"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 247,
+      "preview": "- Consider skin protective barriers / dressing (ask an ostomy nurse)"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 248,
+      "preview": "- Evaluate meds for corrosive substances"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 249,
+      "preview": "- Treat with PPI (acid suppression)"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 250,
+      "preview": "- PN- worst-case scenario"
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 251,
+      "preview": "- Answer is never to use a larger tube to \"plug the hole\""
+    },
+    {
+      "type": "text",
+      "section": "LEAKAGE / ENLARGING HOLE",
+      "line": 253,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 255
+    },
+    {
+      "type": "image",
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 257,
+      "content": "![img-19.jpeg](images/84aaa93114db93fd.png)"
+    },
+    {
+      "type": "text",
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 259,
+      "preview": "Heximer B. Nutr Clin Pract. 1997; 12(6):256."
+    },
+    {
+      "type": "image",
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 260,
+      "content": "![img-20.jpeg](images/56b1736b0e9bb2ea.png)"
+    },
+    {
+      "type": "text",
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 262,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 264
+    },
+    {
+      "type": "text",
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 266,
+      "preview": "- History of recent pulling / tugging / bumper at new cm mark"
+    },
+    {
+      "type": "text",
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 267,
+      "preview": "- Everything flushed in leaks out around the tube"
+    },
+    {
+      "type": "text",
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 268,
+      "preview": "- Can palpate internal bumper (disk) in thin person"
+    },
+    {
+      "type": "text",
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 269,
+      "preview": "- Significant Pain (often sudden onset)"
+    },
+    {
+      "type": "text",
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 270,
+      "preview": "- Cellulitis (usually with another symptom)"
+    },
+    {
+      "type": "text",
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 271,
+      "preview": "- N.B. Tube may continue to work until stomach heals"
+    },
+    {
+      "type": "text",
+      "section": "SUSPECT BURIED BUMPER SYNDROME WHEN",
+      "line": 273,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 275
+    },
+    {
+      "type": "image",
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 277,
+      "content": "![img-21.jpeg](images/806ed4997fc4ffc1.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "X-RAY CONFIRMATION OF PEG IN THE STOMACH",
+      "line": 279
+    },
+    {
+      "type": "image",
+      "section": "X-RAY CONFIRMATION OF PEG IN THE STOMACH",
+      "line": 281,
+      "content": "![img-22.jpeg](images/1951eae78a3a5ef2.png)"
+    },
+    {
+      "type": "text",
+      "section": "X-RAY CONFIRMATION OF PEG IN THE STOMACH",
+      "line": 283,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 285
+    },
+    {
+      "type": "image",
+      "section": "BURIED BUMPER SYNDROME",
+      "line": 287,
+      "content": "![img-23.jpeg](images/bca22c795f73c975.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "BURIED BUMPER SYNDROME \u2013 TYPICAL CASE",
+      "line": 289
+    },
+    {
+      "type": "text",
+      "section": "BURIED BUMPER SYNDROME \u2013 TYPICAL CASE",
+      "line": 291,
+      "preview": "This tube still flushed normally and the patient tolerated feeding"
+    },
+    {
+      "type": "image",
+      "section": "BURIED BUMPER SYNDROME \u2013 TYPICAL CASE",
+      "line": 293,
+      "content": "![img-24.jpeg](images/aeccc5f026763f24.png)"
+    },
+    {
+      "type": "text",
+      "section": "BURIED BUMPER SYNDROME \u2013 TYPICAL CASE",
+      "line": 295,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "BURIED BUMPER SYNDROME EASY FIX",
+      "line": 297
+    },
+    {
+      "type": "image",
+      "section": "BURIED BUMPER SYNDROME EASY FIX",
+      "line": 299,
+      "content": "![img-25.jpeg](images/1fef09a2bf2cf35f.png)"
+    },
+    {
+      "type": "text",
+      "section": "BURIED BUMPER SYNDROME EASY FIX",
+      "line": 301,
+      "preview": "Wire placed in old tube tract"
+    },
+    {
+      "type": "image",
+      "section": "BURIED BUMPER SYNDROME EASY FIX",
+      "line": 302,
+      "content": "![img-26.jpeg](images/0b36e0e3c64b8667.png)"
+    },
+    {
+      "type": "text",
+      "section": "BURIED BUMPER SYNDROME EASY FIX",
+      "line": 304,
+      "preview": "New PEG placed"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ACUTE PEG DISPLACEMENT POSTPROCEDURE",
+      "line": 306
+    },
+    {
+      "type": "image",
+      "section": "ACUTE PEG DISPLACEMENT POSTPROCEDURE",
+      "line": 308,
+      "content": "![img-27.jpeg](images/32daab49c002c436.png)"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PEG DISPLACEMENT POSTPROCEDURE",
+      "line": 310,
+      "preview": "White is oral contrast that was put in the PEG"
+    },
+    {
+      "type": "image",
+      "section": "ACUTE PEG DISPLACEMENT POSTPROCEDURE",
+      "line": 311,
+      "content": "![img-28.jpeg](images/ea4541713ba8cfc0.png)"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PEG DISPLACEMENT POSTPROCEDURE",
+      "line": 313,
+      "preview": "Tube seems to work but..."
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PEG DISPLACEMENT POSTPROCEDURE",
+      "line": 315,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ACUTE PEG DISPLACEMENT / EROSION",
+      "line": 317
+    },
+    {
+      "type": "image",
+      "section": "ACUTE PEG DISPLACEMENT / EROSION",
+      "line": 319,
+      "content": "![img-29.jpeg](images/272962f0cf950de5.png)"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PEG DISPLACEMENT / EROSION",
+      "line": 321,
+      "preview": "Heximer B. Nutr Clin Pract. 1997; 12(6):256."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HEMATOMA AFTER PEG",
+      "line": 323
+    },
+    {
+      "type": "image",
+      "section": "HEMATOMA AFTER PEG",
+      "line": 325,
+      "content": "![img-30.jpeg](images/b6dc769005ecfa97.png)"
+    },
+    {
+      "type": "text",
+      "section": "HEMATOMA AFTER PEG",
+      "line": 327,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 329
+    },
+    {
+      "type": "text",
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 331,
+      "preview": "PEG at 6.5 cm"
+    },
+    {
+      "type": "image",
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 332,
+      "content": "![img-31.jpeg](images/523a7df78e43cd57.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 334
+    },
+    {
+      "type": "image",
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 336,
+      "content": "![img-32.jpeg](images/b719f246336cd583.png)"
+    },
+    {
+      "type": "text",
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 338,
+      "preview": "PEG at 6.5 cm"
+    },
+    {
+      "type": "image",
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 339,
+      "content": "![img-33.jpeg](images/68bcb8e1e551e931.png)"
+    },
+    {
+      "type": "text",
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 341,
+      "preview": "Transcolonic PEG"
+    },
+    {
+      "type": "text",
+      "section": "ERYTHEMA AND FOUL ODOR AT PEG SITE",
+      "line": 343,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DISPLACED PEG (> 1 MONTH OLD)",
+      "line": 345
+    },
+    {
+      "type": "text",
+      "section": "DISPLACED PEG (> 1 MONTH OLD)",
+      "line": 347,
+      "preview": "Necrotizing soft tissue infection"
+    },
+    {
+      "type": "image",
+      "section": "DISPLACED PEG (> 1 MONTH OLD)",
+      "line": 348,
+      "content": "![img-34.jpeg](images/c5227fa99adaee7e.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NEW PEG PLACED, ABDOMINAL WALL DEBRIDED",
+      "line": 350
+    },
+    {
+      "type": "image",
+      "section": "NEW PEG PLACED, ABDOMINAL WALL DEBRIDED",
+      "line": 352,
+      "content": "![img-35.jpeg](images/2a2c2c961c78aeaf.png)"
+    },
+    {
+      "type": "text",
+      "section": "NEW PEG PLACED, ABDOMINAL WALL DEBRIDED",
+      "line": 354,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "X-RAY CONFIRMATION OF J-TUBE PLACEMENT",
+      "line": 356
+    },
+    {
+      "type": "image",
+      "section": "X-RAY CONFIRMATION OF J-TUBE PLACEMENT",
+      "line": 358,
+      "content": "![img-36.jpeg](images/95a18ac98d9d5c98.png)"
+    },
+    {
+      "type": "text",
+      "section": "X-RAY CONFIRMATION OF J-TUBE PLACEMENT",
+      "line": 360,
+      "preview": "SMALL BOWEL OBSTRUCTION OR ISCHEMIA"
+    },
+    {
+      "type": "text",
+      "section": "X-RAY CONFIRMATION OF J-TUBE PLACEMENT",
+      "line": 362,
+      "preview": "J-tube Insertion Site \"fixes\" bowel to abdominal wall, creates point around which bowel can kink/twi"
+    },
+    {
+      "type": "image",
+      "section": "X-RAY CONFIRMATION OF J-TUBE PLACEMENT",
+      "line": 363,
+      "content": "![img-37.jpeg](images/2dd8c54bb0e096cd.png)"
+    },
+    {
+      "type": "text",
+      "section": "X-RAY CONFIRMATION OF J-TUBE PLACEMENT",
+      "line": 365,
+      "preview": "CC Image courtesy of Encyclopedia Britannica / Wikimedia Commons. https://upload.wikimedia.org/wikip"
+    },
+    {
+      "type": "text",
+      "section": "X-RAY CONFIRMATION OF J-TUBE PLACEMENT",
+      "line": 367,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "J TUBE OBSTRUCTION / ISCHEMIA",
+      "line": 369
+    },
+    {
+      "type": "image",
+      "section": "J TUBE OBSTRUCTION / ISCHEMIA",
+      "line": 371,
+      "content": "![img-38.jpeg](images/8845d68b8c806c32.png)"
+    },
+    {
+      "type": "text",
+      "section": "J TUBE OBSTRUCTION / ISCHEMIA",
+      "line": 373,
+      "preview": "WHAT'S WRONG WITH THIS PEG REPLACEMENT?"
+    },
+    {
+      "type": "image",
+      "section": "J TUBE OBSTRUCTION / ISCHEMIA",
+      "line": 374,
+      "content": "![img-39.jpeg](images/f0bfe1b9d90b0b97.png)"
+    },
+    {
+      "type": "text",
+      "section": "J TUBE OBSTRUCTION / ISCHEMIA",
+      "line": 376,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "A FOLEY IS NOT A PERMANENT REPLACEMENT!",
+      "line": 378
+    },
+    {
+      "type": "image",
+      "section": "A FOLEY IS NOT A PERMANENT REPLACEMENT!",
+      "line": 380,
+      "content": "![img-40.jpeg](images/f16c188f953ccae7.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "A FOLEY IS NOT A PERMANENT REPLACEMENT!",
+      "line": 382
+    },
+    {
+      "type": "image",
+      "section": "A FOLEY IS NOT A PERMANENT REPLACEMENT!",
+      "line": 384,
+      "content": "![img-41.jpeg](images/e0fab29a95bc9c4d.png)"
+    },
+    {
+      "type": "text",
+      "section": "A FOLEY IS NOT A PERMANENT REPLACEMENT!",
+      "line": 386,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "image",
+      "section": "A FOLEY IS NOT A PERMANENT REPLACEMENT!",
+      "line": 388,
+      "content": "![img-42.jpeg](images/b1f7a1a6d230f003.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NASOENTERIC ACCESS",
+      "line": 390
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 392,
+      "preview": "- Placement considerations:"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 393,
+      "preview": "- Difficulty during placement?"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 394,
+      "preview": "- STOP"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 395,
+      "preview": "- Re-assess"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 396,
+      "preview": "- Ask for assistance"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 397,
+      "preview": "- X-ray verification"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 398,
+      "preview": "- Awareness of complications:"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 399,
+      "preview": "- Dislodgement"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 400,
+      "preview": "- Epistaxis"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 401,
+      "preview": "- Sinusitis"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 402,
+      "preview": "- Nasal erosion / necrosis"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 403,
+      "preview": "- Perforation"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 404,
+      "preview": "- Aspiration"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 405,
+      "preview": "- Pain / discomfort"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 406,
+      "preview": "- Migration / displacement"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC ACCESS",
+      "line": 408,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TUBE PLACEMENT IN THE AIRWAY",
+      "line": 410
+    },
+    {
+      "type": "image",
+      "section": "TUBE PLACEMENT IN THE AIRWAY",
+      "line": 412,
+      "content": "![img-43.jpeg](images/30496aff89bd6108.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 414
+    },
+    {
+      "type": "text",
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 416,
+      "preview": "- Aspiration"
+    },
+    {
+      "type": "text",
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 417,
+      "preview": "- Airway perforation leading to pneumothorax and bronchopleural fistula"
+    },
+    {
+      "type": "text",
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 418,
+      "preview": "- Pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 419,
+      "preview": "- Coughing is the main warning sign of misplacement"
+    },
+    {
+      "type": "text",
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 420,
+      "preview": "- Auscultation of tube flushing in the stomach is insufficient"
+    },
+    {
+      "type": "text",
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 421,
+      "preview": "- X-ray confirmation is required before feeding"
+    },
+    {
+      "type": "text",
+      "section": "AIRWAY PLACEMENT RISKS",
+      "line": 423,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 425
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 427,
+      "preview": "- Persistent kinking of the tube"
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 428,
+      "preview": "- Once kinked, tube significantly more likely to kink in the same location"
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 429,
+      "preview": "- Tube kinking leads to either discomfort, obstruction, or both"
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 430,
+      "preview": "- Injury would occur if tube left in place"
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 431,
+      "preview": "- Nasal / facial tissue erosions $\\rightarrow$ Immediately remove; Place PEG or surgical tube"
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 432,
+      "preview": "- Sinusitis $\\rightarrow$ Replace nasal tube with PEG or surgical tube"
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 433,
+      "preview": "- Bleeding $\\rightarrow$ Remove tube; Ensure coagulation status OK; Replace when bleeding resolved"
+    },
+    {
+      "type": "text",
+      "section": "WHEN A NASOENTERIC TUBE REQUIRES REMOVAL",
+      "line": 434,
+      "preview": "- Significant discomfort (risk-benefit)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 437
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 439,
+      "preview": "Placement tips:"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 441,
+      "preview": "- Estimate the expected distance of tube insertion"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 442,
+      "preview": "- Based on how the \"nose-to-ear-to-stomach\" distance"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 443,
+      "preview": "- Assess the mental status, gag reflex, nostrils"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 444,
+      "preview": "- Is the patient cooperative?"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 445,
+      "preview": "- If rubber tube, place on ice for $5 \\mathrm{~min} \\rightarrow$ Tube stiffens making the insertion "
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 446,
+      "preview": "- If plastic tube, place in warm water $\\rightarrow$ Softens the tube, making it more flexible"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 447,
+      "preview": "- Use appropriate (water-based) lubricant, possibly analgesic spray"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT",
+      "line": 449,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NASOENTERIC PLACEMENT, CONT.",
+      "line": 451
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT, CONT.",
+      "line": 453,
+      "preview": "Placement tips:"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT, CONT.",
+      "line": 455,
+      "preview": "- If possible, the patient is sitting in the \"high Fowler's\" position"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT, CONT.",
+      "line": 456,
+      "preview": "- Head facing forward (chin-toward-chest, sipping water, etc)"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT, CONT.",
+      "line": 457,
+      "preview": "- Advance the tube in downward and backward direction as the patient swallows"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC PLACEMENT, CONT.",
+      "line": 458,
+      "preview": "- Stop when the patient is breathing"
+    },
+    {
+      "type": "image",
+      "section": "NASOENTERIC PLACEMENT, CONT.",
+      "line": 459,
+      "content": "![img-44.jpeg](images/35a0489b98fbe254.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT",
+      "line": 462
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT",
+      "line": 464,
+      "content": "![img-45.jpeg](images/eac0ce738e4b5afa.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 466,
+      "preview": "Your patient is a 53-year-old female who had a PEG placed after a recent stroke. She is tube-feed de"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 467,
+      "preview": "A. Frequent flushing of the feeding tube helps maintain patency"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 468,
+      "preview": "B. Coca-Cola ${ }^{\\oplus}$ flushes are effective to resolve clogs"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 469,
+      "preview": "C. Crushed medications increase the risk of tube clogging"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 470,
+      "preview": "D. Tension on the feeding tube can result in tube dislodgement"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 472,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT",
+      "line": 474
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 476,
+      "preview": "Your patient is a 53-year-old female who had a PEG placed after a recent stroke. She is tube-feed de"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 477,
+      "preview": "A. Frequent flushing of the feeding tube helps maintain patency"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 478,
+      "preview": "B. Coca-Cola ${ }^{\\oplus}$ flushes are effective to resolve clogs"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 479,
+      "preview": "C. Crushed medications increase the risk of tube clogging"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 480,
+      "preview": "D. Tension on the feeding tube can result in tube dislodgement"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 482
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 484,
+      "preview": "- Heximer B. Pressure necrosis: implications and interventions for PEG tubes. Nutr Clin Pract. 1997;"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 485,
+      "preview": "- Prabhakaran S et al. Nasoenteric tube complications. Scand J Surg. 2012; 101(3):147-55."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 486,
+      "preview": "- Marcuard SP, Stegall KL, Trogdon S. Clearing obstructed feeding tubes. JPEN J Parenter Enteral Nut"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 487,
+      "preview": "- Jones C, Stawicki SP, Evans DC. Mechanical Complications of Nasoenteric Tubes. Diet and Nutrition "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 488,
+      "preview": "- Enteral Feeding Connectors (ENFit ${ }^{\\circledR}$ ). stayconnected.org/enteral-enfit/ (accessed "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 490,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 492,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 494,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 496,
+      "content": "![img-46.jpeg](images/e78e02a6de84e59d.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 498,
+      "preview": "David C. Evans, M.D., FACS"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 499,
+      "preview": "Trauma and Acute Care Surgeon"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 500,
+      "preview": "OhioHealth Trauma and Surgical Services"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 501,
+      "preview": "Columbus, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 503,
+      "preview": "David C. Evans served as Director of Nutrition Support Services, Trauma Medical Director, and Associ"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 505,
+      "preview": "His special interests include nutrition support in surgical and ICU patients and research in surgery"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 507,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 509
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 511,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 513,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 515,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 517,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 518,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 519,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 520,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 521,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 523,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 525,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 527
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 529,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 531,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 533
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 535,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 537
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 539,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 541,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "7a59eca193e03de3.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/7a59eca193e03de3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/7a59eca193e03de3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7a59eca193e03de3"
+    },
+    {
+      "sha_name": "d1dc19108315dc40.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/d1dc19108315dc40.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/d1dc19108315dc40.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d1dc19108315dc40"
+    },
+    {
+      "sha_name": "d1d66b6b3cbbad1f.png",
+      "original_ref": "img-2.jpeg",
+      "page": 5,
+      "relative_path": "images/d1d66b6b3cbbad1f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/d1d66b6b3cbbad1f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d1d66b6b3cbbad1f"
+    },
+    {
+      "sha_name": "72e31f6f8fb89b42.png",
+      "original_ref": "img-3.jpeg",
+      "page": 6,
+      "relative_path": "images/72e31f6f8fb89b42.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/72e31f6f8fb89b42.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "72e31f6f8fb89b42"
+    },
+    {
+      "sha_name": "8e5d269287f4516e.png",
+      "original_ref": "img-4.jpeg",
+      "page": 6,
+      "relative_path": "images/8e5d269287f4516e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/8e5d269287f4516e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8e5d269287f4516e"
+    },
+    {
+      "sha_name": "f497f415eae58d3d.png",
+      "original_ref": "img-5.jpeg",
+      "page": 7,
+      "relative_path": "images/f497f415eae58d3d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/f497f415eae58d3d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f497f415eae58d3d"
+    },
+    {
+      "sha_name": "51795acc437f2bae.png",
+      "original_ref": "img-6.jpeg",
+      "page": 7,
+      "relative_path": "images/51795acc437f2bae.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/51795acc437f2bae.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "51795acc437f2bae"
+    },
+    {
+      "sha_name": "ab834ec5370c2309.png",
+      "original_ref": "img-7.jpeg",
+      "page": 8,
+      "relative_path": "images/ab834ec5370c2309.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/ab834ec5370c2309.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ab834ec5370c2309"
+    },
+    {
+      "sha_name": "5ebd308d7d2689c7.png",
+      "original_ref": "img-8.jpeg",
+      "page": 8,
+      "relative_path": "images/5ebd308d7d2689c7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/5ebd308d7d2689c7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "5ebd308d7d2689c7"
+    },
+    {
+      "sha_name": "2f769cd9c0334fea.png",
+      "original_ref": "img-9.jpeg",
+      "page": 9,
+      "relative_path": "images/2f769cd9c0334fea.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/2f769cd9c0334fea.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2f769cd9c0334fea"
+    },
+    {
+      "sha_name": "14c7f9c2ba3fbc0c.png",
+      "original_ref": "img-10.jpeg",
+      "page": 9,
+      "relative_path": "images/14c7f9c2ba3fbc0c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/14c7f9c2ba3fbc0c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "14c7f9c2ba3fbc0c"
+    },
+    {
+      "sha_name": "02d0663cb94628ee.png",
+      "original_ref": "img-11.jpeg",
+      "page": 9,
+      "relative_path": "images/02d0663cb94628ee.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/02d0663cb94628ee.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "02d0663cb94628ee"
+    },
+    {
+      "sha_name": "039ec96a3be37af5.png",
+      "original_ref": "img-12.jpeg",
+      "page": 10,
+      "relative_path": "images/039ec96a3be37af5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/039ec96a3be37af5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "039ec96a3be37af5"
+    },
+    {
+      "sha_name": "fe059d5828565c17.png",
+      "original_ref": "img-13.jpeg",
+      "page": 10,
+      "relative_path": "images/fe059d5828565c17.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/fe059d5828565c17.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "fe059d5828565c17"
+    },
+    {
+      "sha_name": "cc4824ea8c05fc30.png",
+      "original_ref": "img-14.jpeg",
+      "page": 10,
+      "relative_path": "images/cc4824ea8c05fc30.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/cc4824ea8c05fc30.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "cc4824ea8c05fc30"
+    },
+    {
+      "sha_name": "a5a41f3d80288429.png",
+      "original_ref": "img-15.jpeg",
+      "page": 11,
+      "relative_path": "images/a5a41f3d80288429.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/a5a41f3d80288429.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a5a41f3d80288429"
+    },
+    {
+      "sha_name": "64bac8f1d4f2643c.png",
+      "original_ref": "img-16.jpeg",
+      "page": 11,
+      "relative_path": "images/64bac8f1d4f2643c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/64bac8f1d4f2643c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "64bac8f1d4f2643c"
+    },
+    {
+      "sha_name": "4943490333e02d87.png",
+      "original_ref": "img-17.jpeg",
+      "page": 11,
+      "relative_path": "images/4943490333e02d87.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/4943490333e02d87.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4943490333e02d87"
+    },
+    {
+      "sha_name": "d9deef2e60139965.png",
+      "original_ref": "img-18.jpeg",
+      "page": 12,
+      "relative_path": "images/d9deef2e60139965.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/d9deef2e60139965.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d9deef2e60139965"
+    },
+    {
+      "sha_name": "84aaa93114db93fd.png",
+      "original_ref": "img-19.jpeg",
+      "page": 13,
+      "relative_path": "images/84aaa93114db93fd.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/84aaa93114db93fd.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "84aaa93114db93fd"
+    },
+    {
+      "sha_name": "56b1736b0e9bb2ea.png",
+      "original_ref": "img-20.jpeg",
+      "page": 13,
+      "relative_path": "images/56b1736b0e9bb2ea.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/56b1736b0e9bb2ea.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "56b1736b0e9bb2ea"
+    },
+    {
+      "sha_name": "806ed4997fc4ffc1.png",
+      "original_ref": "img-21.jpeg",
+      "page": 14,
+      "relative_path": "images/806ed4997fc4ffc1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/806ed4997fc4ffc1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "806ed4997fc4ffc1"
+    },
+    {
+      "sha_name": "1951eae78a3a5ef2.png",
+      "original_ref": "img-22.jpeg",
+      "page": 14,
+      "relative_path": "images/1951eae78a3a5ef2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/1951eae78a3a5ef2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1951eae78a3a5ef2"
+    },
+    {
+      "sha_name": "bca22c795f73c975.png",
+      "original_ref": "img-23.jpeg",
+      "page": 15,
+      "relative_path": "images/bca22c795f73c975.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/bca22c795f73c975.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "bca22c795f73c975"
+    },
+    {
+      "sha_name": "aeccc5f026763f24.png",
+      "original_ref": "img-24.jpeg",
+      "page": 15,
+      "relative_path": "images/aeccc5f026763f24.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/aeccc5f026763f24.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "aeccc5f026763f24"
+    },
+    {
+      "sha_name": "1fef09a2bf2cf35f.png",
+      "original_ref": "img-25.jpeg",
+      "page": 16,
+      "relative_path": "images/1fef09a2bf2cf35f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/1fef09a2bf2cf35f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1fef09a2bf2cf35f"
+    },
+    {
+      "sha_name": "0b36e0e3c64b8667.png",
+      "original_ref": "img-26.jpeg",
+      "page": 16,
+      "relative_path": "images/0b36e0e3c64b8667.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/0b36e0e3c64b8667.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0b36e0e3c64b8667"
+    },
+    {
+      "sha_name": "32daab49c002c436.png",
+      "original_ref": "img-27.jpeg",
+      "page": 16,
+      "relative_path": "images/32daab49c002c436.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/32daab49c002c436.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "32daab49c002c436"
+    },
+    {
+      "sha_name": "ea4541713ba8cfc0.png",
+      "original_ref": "img-28.jpeg",
+      "page": 16,
+      "relative_path": "images/ea4541713ba8cfc0.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/ea4541713ba8cfc0.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ea4541713ba8cfc0"
+    },
+    {
+      "sha_name": "272962f0cf950de5.png",
+      "original_ref": "img-29.jpeg",
+      "page": 17,
+      "relative_path": "images/272962f0cf950de5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/272962f0cf950de5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "272962f0cf950de5"
+    },
+    {
+      "sha_name": "b6dc769005ecfa97.png",
+      "original_ref": "img-30.jpeg",
+      "page": 17,
+      "relative_path": "images/b6dc769005ecfa97.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/b6dc769005ecfa97.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b6dc769005ecfa97"
+    },
+    {
+      "sha_name": "523a7df78e43cd57.png",
+      "original_ref": "img-31.jpeg",
+      "page": 18,
+      "relative_path": "images/523a7df78e43cd57.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/523a7df78e43cd57.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "523a7df78e43cd57"
+    },
+    {
+      "sha_name": "b719f246336cd583.png",
+      "original_ref": "img-32.jpeg",
+      "page": 18,
+      "relative_path": "images/b719f246336cd583.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/b719f246336cd583.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b719f246336cd583"
+    },
+    {
+      "sha_name": "68bcb8e1e551e931.png",
+      "original_ref": "img-33.jpeg",
+      "page": 18,
+      "relative_path": "images/68bcb8e1e551e931.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/68bcb8e1e551e931.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "68bcb8e1e551e931"
+    },
+    {
+      "sha_name": "c5227fa99adaee7e.png",
+      "original_ref": "img-34.jpeg",
+      "page": 19,
+      "relative_path": "images/c5227fa99adaee7e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/c5227fa99adaee7e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c5227fa99adaee7e"
+    },
+    {
+      "sha_name": "2a2c2c961c78aeaf.png",
+      "original_ref": "img-35.jpeg",
+      "page": 19,
+      "relative_path": "images/2a2c2c961c78aeaf.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/2a2c2c961c78aeaf.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2a2c2c961c78aeaf"
+    },
+    {
+      "sha_name": "95a18ac98d9d5c98.png",
+      "original_ref": "img-36.jpeg",
+      "page": 20,
+      "relative_path": "images/95a18ac98d9d5c98.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/95a18ac98d9d5c98.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "95a18ac98d9d5c98"
+    },
+    {
+      "sha_name": "2dd8c54bb0e096cd.png",
+      "original_ref": "img-37.jpeg",
+      "page": 20,
+      "relative_path": "images/2dd8c54bb0e096cd.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/2dd8c54bb0e096cd.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2dd8c54bb0e096cd"
+    },
+    {
+      "sha_name": "8845d68b8c806c32.png",
+      "original_ref": "img-38.jpeg",
+      "page": 21,
+      "relative_path": "images/8845d68b8c806c32.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/8845d68b8c806c32.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8845d68b8c806c32"
+    },
+    {
+      "sha_name": "f0bfe1b9d90b0b97.png",
+      "original_ref": "img-39.jpeg",
+      "page": 21,
+      "relative_path": "images/f0bfe1b9d90b0b97.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/f0bfe1b9d90b0b97.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f0bfe1b9d90b0b97"
+    },
+    {
+      "sha_name": "f16c188f953ccae7.png",
+      "original_ref": "img-40.jpeg",
+      "page": 22,
+      "relative_path": "images/f16c188f953ccae7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/f16c188f953ccae7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f16c188f953ccae7"
+    },
+    {
+      "sha_name": "e0fab29a95bc9c4d.png",
+      "original_ref": "img-41.jpeg",
+      "page": 22,
+      "relative_path": "images/e0fab29a95bc9c4d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/e0fab29a95bc9c4d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e0fab29a95bc9c4d"
+    },
+    {
+      "sha_name": "b1f7a1a6d230f003.png",
+      "original_ref": "img-42.jpeg",
+      "page": 23,
+      "relative_path": "images/b1f7a1a6d230f003.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/b1f7a1a6d230f003.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b1f7a1a6d230f003"
+    },
+    {
+      "sha_name": "30496aff89bd6108.png",
+      "original_ref": "img-43.jpeg",
+      "page": 24,
+      "relative_path": "images/30496aff89bd6108.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/30496aff89bd6108.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "30496aff89bd6108"
+    },
+    {
+      "sha_name": "35a0489b98fbe254.png",
+      "original_ref": "img-44.jpeg",
+      "page": 26,
+      "relative_path": "images/35a0489b98fbe254.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/35a0489b98fbe254.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "35a0489b98fbe254"
+    },
+    {
+      "sha_name": "eac0ce738e4b5afa.png",
+      "original_ref": "img-45.jpeg",
+      "page": 26,
+      "relative_path": "images/eac0ce738e4b5afa.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/eac0ce738e4b5afa.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "eac0ce738e4b5afa"
+    },
+    {
+      "sha_name": "e78e02a6de84e59d.png",
+      "original_ref": "img-46.jpeg",
+      "page": 29,
+      "relative_path": "images/e78e02a6de84e59d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralAccessComplications/images/e78e02a6de84e59d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e78e02a6de84e59d"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695959",
+    "ts": "2025-08-08T23:32:39.687054+00:00"
+  }
+}

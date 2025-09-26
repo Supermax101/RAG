@@ -1,0 +1,393 @@
+{
+  "doc_id": "3pn_clinical_indications__978baa",
+  "original_filename": "3PN Clinical Indications.pdf",
+  "md_path": "data/parsed/3PN Clinical Indications/3PN Clinical Indications.md",
+  "rmd_path": "data/parsed/3PN Clinical Indications/3PN Clinical Indications.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Clinical Indications for Pediatric PN",
+      "line": 0
+    },
+    {
+      "type": "image",
+      "section": "Clinical Indications for Pediatric PN",
+      "line": 2,
+      "content": "![img-0.jpeg](images/ccfca2ac4446485e.png)"
+    },
+    {
+      "type": "image",
+      "section": "Clinical Indications for Pediatric PN",
+      "line": 4,
+      "content": "![img-1.jpeg](images/458a13a2e1f902e9.png)"
+    },
+    {
+      "type": "text",
+      "section": "Clinical Indications for Pediatric PN",
+      "line": 6,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Timing of PN Initiation",
+      "line": 8
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 10,
+      "preview": "- Important consideration for clinical outcomes"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 11,
+      "preview": "- Typically, early nutrition favored"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 12,
+      "preview": "- reverse macronutrient deficits"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 13,
+      "preview": "- prevent worsening malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 14,
+      "preview": "- Emerging evidence suggests in ICU settings delayed PN initiation ( $\\leq 1$ week) may be acceptabl"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 15,
+      "preview": "- Pediatric Guidelines"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 16,
+      "preview": "- Preterm infants; PN should be started promptly after birth"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 17,
+      "preview": "- If EN nutrition is not anticipated to be sufficient, PN should be started within"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 18,
+      "preview": "- 1-3 days in infants"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 19,
+      "preview": "- 4-5 days in older children"
+    },
+    {
+      "type": "text",
+      "section": "Timing of PN Initiation",
+      "line": 21,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Indication: Intestinal Failure",
+      "line": 23
+    },
+    {
+      "type": "text",
+      "section": "Indication: Intestinal Failure",
+      "line": 25,
+      "preview": "\"Intestinal failure (IF) is the reduction of functional intestinal mass below that which can sustain"
+    },
+    {
+      "type": "text",
+      "section": "Indication: Intestinal Failure",
+      "line": 27,
+      "preview": "AKA:"
+    },
+    {
+      "type": "text",
+      "section": "Indication: Intestinal Failure",
+      "line": 29,
+      "preview": "- Inability to maintain hydration"
+    },
+    {
+      "type": "text",
+      "section": "Indication: Intestinal Failure",
+      "line": 30,
+      "preview": "- Inability to absorb sufficient calories and or electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "Indication: Intestinal Failure",
+      "line": 32,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Intestinal Failure Characterization",
+      "line": 34
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 36,
+      "preview": "|  Subtype | Presentation"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 37,
+      "preview": "Timing | Speed of"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 38,
+      "preview": "Onset | Locality of"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 39,
+      "preview": "Disease | Pathology | Duration  |"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 40,
+      "preview": "| --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 41,
+      "preview": "|  Type 1 | Acquired | Acute | GI and"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 42,
+      "preview": "systemic | Benign and"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 43,
+      "preview": "malignant | $<28$ days  |"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 44,
+      "preview": "|  Type 2 | Congenital /"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 45,
+      "preview": "acquired | Acute | GI and"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 46,
+      "preview": "systemic | Benign and"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 47,
+      "preview": "malignant | Weeks to"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 48,
+      "preview": "months  |"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 49,
+      "preview": "|  Type 3 | Congenital /"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 50,
+      "preview": "acquired | Chronic | GI and"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 51,
+      "preview": "systemic | Benign and"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 52,
+      "preview": "malignant | Months to"
+    },
+    {
+      "type": "table",
+      "section": "Intestinal Failure Characterization",
+      "line": 53,
+      "preview": "years  |"
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Characterization",
+      "line": 55,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 57
+    },
+    {
+      "type": "table",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 59,
+      "preview": "|  Short Bowel Syndrome | Motility Disorders | Intestinal Enteropathy | Other  |"
+    },
+    {
+      "type": "table",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 60,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 61,
+      "preview": "|  - Necrotizing Enterocolitis"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 62,
+      "preview": "- Intestinal Atresia"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 63,
+      "preview": "- Gastroschisis"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 64,
+      "preview": "- Malrotation + Volvulus"
+    },
+    {
+      "type": "table",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 65,
+      "preview": "- Abdominal trauma + intestinal resection | - Hirschsprung disease"
+    },
+    {
+      "type": "table",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 66,
+      "preview": "- Chronic Intestinal Pseudoobstruction | - Severe small bowel Crohn's disease"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 67,
+      "preview": "- Tufting enteropathy"
+    },
+    {
+      "type": "table",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 68,
+      "preview": "- Microvillus inclusion disease | - Prematurity"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 69,
+      "preview": "- Small bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 70,
+      "preview": "- Ileus"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 71,
+      "preview": "- Severe chemotherapy induced nausea/vomiting"
+    },
+    {
+      "type": "text",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 72,
+      "preview": "- Radiation enteritis"
+    },
+    {
+      "type": "table",
+      "section": "Etiologies of Chronic Pediatric Intestinal Failure",
+      "line": 73,
+      "preview": "- Gastrointestinal fistula  |"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "ccfca2ac4446485e.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/ccfca2ac4446485e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3PN Clinical Indications/images/ccfca2ac4446485e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ccfca2ac4446485e"
+    },
+    {
+      "sha_name": "458a13a2e1f902e9.png",
+      "original_ref": "img-1.jpeg",
+      "page": 1,
+      "relative_path": "images/458a13a2e1f902e9.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3PN Clinical Indications/images/458a13a2e1f902e9.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "458a13a2e1f902e9"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695950",
+    "ts": "2025-08-08T23:32:30.061986+00:00"
+  }
+}

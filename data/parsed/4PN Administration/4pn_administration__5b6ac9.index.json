@@ -1,0 +1,594 @@
+{
+  "doc_id": "4pn_administration__5b6ac9",
+  "original_filename": "4PN Administration.pdf",
+  "md_path": "data/parsed/4PN Administration/4PN Administration.md",
+  "rmd_path": "data/parsed/4PN Administration/4PN Administration.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Administration of Pediatric PN**",
+      "line": 0
+    },
+    {
+      "type": "image",
+      "section": "**Administration of Pediatric PN**",
+      "line": 2,
+      "content": "![img-0.jpeg](images/ccfca2ac4446485e.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Administration of Pediatric PN**",
+      "line": 4,
+      "content": "![img-1.jpeg](images/e9ad0e7c39c2d342.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Administration of Pediatric PN**",
+      "line": 6,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Venous Access",
+      "line": 8
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Central Access",
+      "line": 10
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 12,
+      "preview": "- Tip is positioned in a central vein"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 13,
+      "preview": "- Superior vena cava (SVC)"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 14,
+      "preview": "- Inferior vena cava (IVC)"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 15,
+      "preview": "- Right atrium (RA)"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 16,
+      "preview": "- Risk of cardiac perforation/arrhythmia (particularly small neonates)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Peripheral Access",
+      "line": 18
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 20,
+      "preview": "- Tip is not positioned in the SVC, IVC, or RA"
+    },
+    {
+      "type": "image",
+      "section": "Peripheral Access",
+      "line": 22,
+      "content": "![img-2.jpeg](images/21ca15e6bfc51d8e.png)"
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 24,
+      "preview": "Vein Institute of New Jersey. Last Accessed: July, 2024"
+    },
+    {
+      "type": "image",
+      "section": "Peripheral Access",
+      "line": 26,
+      "content": "![img-3.jpeg](images/eefa03b0fcb76cb7.png)"
+    },
+    {
+      "type": "image",
+      "section": "Peripheral Access",
+      "line": 28,
+      "content": "![img-4.jpeg](images/a344da8c839a3d65.png)"
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 34,
+      "preview": "Scalp veins (neonates)"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 36,
+      "preview": "- Alternative site of venous access"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 37,
+      "preview": "- Often visible and easily accessible (lack of hair, thin skin)"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 38,
+      "preview": "- Not preferred for long-term access"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 40,
+      "content": "![img-5.jpeg](images/2daf08e24d9f94a0.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 42,
+      "content": "![img-6.jpeg](images/80b1cda08e342fe4.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 44,
+      "content": "![img-7.jpeg](images/bfdc0a4b59f2a239.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 46,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Venous Access Considerations",
+      "line": 48
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Peripheral Access",
+      "line": 50
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 52,
+      "preview": "- Used for $<2$ weeks"
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 53,
+      "preview": "- Nutrient needs can be met by peripheral PN"
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 54,
+      "preview": "- No fluid restriction"
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 55,
+      "preview": "- Osmolality <900 mOsm/L"
+    },
+    {
+      "type": "text",
+      "section": "Peripheral Access",
+      "line": 56,
+      "preview": "- Maximum 10 - 12.5\\% dextrose"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Central Access",
+      "line": 59
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 61,
+      "preview": "- Used for $>2$ weeks"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 62,
+      "preview": "- Nutrient needs cannot be met by peripheral PN"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 63,
+      "preview": "- Peripheral access limited"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 64,
+      "preview": "- Patient is fluid restricted"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 65,
+      "preview": "- Need for hypertonic solutions"
+    },
+    {
+      "type": "text",
+      "section": "Central Access",
+      "line": 67,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Venous Access Additional Considerations**",
+      "line": 69
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 71,
+      "preview": "- The more lumens, the higher the chances of infection"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 72,
+      "preview": "- Impregnated, or locked catheters can be useful to prevent infection, thromboses"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 73,
+      "preview": "- May contain antibiotics, antiseptics, antithrombolytics, antifibrinolytics"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 74,
+      "preview": "- May cause allergic response, potentially higher rates of catheter breakage"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 75,
+      "preview": "- Line must be secured, and meticulous sterile technique used with access"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 77,
+      "content": "![img-8.jpeg](images/bd3940e5d0315930.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 79,
+      "preview": "Wendel. JPGN 2021"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 81,
+      "content": "![img-9.jpeg](images/1b77d5df44b19393.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 83,
+      "content": "![img-10.jpeg](images/815425590a49ce68.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access Additional Considerations**",
+      "line": 85,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 87
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 89,
+      "preview": "- Filters are placed between the PN solution and patient to remove hazardous particulate matter (e.g"
+    },
+    {
+      "type": "text",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 90,
+      "preview": "- Traditionally two filter sizes available (0.22 microns + 1.2 microns)"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 92,
+      "content": "![img-11.jpeg](images/23ce87247fa8dcb2.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 94,
+      "content": "![img-12.jpeg](images/9831a4c6d8c6b8cd.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 96,
+      "content": "![img-13.jpeg](images/71b1a7a273f1a58a.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Venous Access: Alternative Sites**",
+      "line": 98,
+      "content": "![img-14.jpeg](images/6089afbb178d6f75.png)"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "ccfca2ac4446485e.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/ccfca2ac4446485e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/ccfca2ac4446485e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ccfca2ac4446485e"
+    },
+    {
+      "sha_name": "e9ad0e7c39c2d342.png",
+      "original_ref": "img-1.jpeg",
+      "page": 1,
+      "relative_path": "images/e9ad0e7c39c2d342.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/e9ad0e7c39c2d342.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e9ad0e7c39c2d342"
+    },
+    {
+      "sha_name": "21ca15e6bfc51d8e.png",
+      "original_ref": "img-2.jpeg",
+      "page": 1,
+      "relative_path": "images/21ca15e6bfc51d8e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/21ca15e6bfc51d8e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "21ca15e6bfc51d8e"
+    },
+    {
+      "sha_name": "eefa03b0fcb76cb7.png",
+      "original_ref": "img-3.jpeg",
+      "page": 1,
+      "relative_path": "images/eefa03b0fcb76cb7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/eefa03b0fcb76cb7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "eefa03b0fcb76cb7"
+    },
+    {
+      "sha_name": "a344da8c839a3d65.png",
+      "original_ref": "img-4.jpeg",
+      "page": 1,
+      "relative_path": "images/a344da8c839a3d65.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/a344da8c839a3d65.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a344da8c839a3d65"
+    },
+    {
+      "sha_name": "2daf08e24d9f94a0.png",
+      "original_ref": "img-5.jpeg",
+      "page": 2,
+      "relative_path": "images/2daf08e24d9f94a0.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/2daf08e24d9f94a0.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2daf08e24d9f94a0"
+    },
+    {
+      "sha_name": "80b1cda08e342fe4.png",
+      "original_ref": "img-6.jpeg",
+      "page": 2,
+      "relative_path": "images/80b1cda08e342fe4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/80b1cda08e342fe4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "80b1cda08e342fe4"
+    },
+    {
+      "sha_name": "bfdc0a4b59f2a239.png",
+      "original_ref": "img-7.jpeg",
+      "page": 2,
+      "relative_path": "images/bfdc0a4b59f2a239.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/bfdc0a4b59f2a239.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "bfdc0a4b59f2a239"
+    },
+    {
+      "sha_name": "bd3940e5d0315930.png",
+      "original_ref": "img-8.jpeg",
+      "page": 4,
+      "relative_path": "images/bd3940e5d0315930.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/bd3940e5d0315930.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "bd3940e5d0315930"
+    },
+    {
+      "sha_name": "1b77d5df44b19393.png",
+      "original_ref": "img-9.jpeg",
+      "page": 4,
+      "relative_path": "images/1b77d5df44b19393.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/1b77d5df44b19393.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1b77d5df44b19393"
+    },
+    {
+      "sha_name": "815425590a49ce68.png",
+      "original_ref": "img-10.jpeg",
+      "page": 4,
+      "relative_path": "images/815425590a49ce68.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/815425590a49ce68.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "815425590a49ce68"
+    },
+    {
+      "sha_name": "23ce87247fa8dcb2.png",
+      "original_ref": "img-11.jpeg",
+      "page": 5,
+      "relative_path": "images/23ce87247fa8dcb2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/23ce87247fa8dcb2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "23ce87247fa8dcb2"
+    },
+    {
+      "sha_name": "9831a4c6d8c6b8cd.png",
+      "original_ref": "img-12.jpeg",
+      "page": 5,
+      "relative_path": "images/9831a4c6d8c6b8cd.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/9831a4c6d8c6b8cd.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9831a4c6d8c6b8cd"
+    },
+    {
+      "sha_name": "71b1a7a273f1a58a.png",
+      "original_ref": "img-13.jpeg",
+      "page": 5,
+      "relative_path": "images/71b1a7a273f1a58a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/71b1a7a273f1a58a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "71b1a7a273f1a58a"
+    },
+    {
+      "sha_name": "6089afbb178d6f75.png",
+      "original_ref": "img-14.jpeg",
+      "page": 5,
+      "relative_path": "images/6089afbb178d6f75.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4PN Administration/images/6089afbb178d6f75.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6089afbb178d6f75"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695980",
+    "ts": "2025-08-08T23:33:00.099881+00:00"
+  }
+}

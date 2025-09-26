@@ -1,0 +1,284 @@
+{
+  "doc_id": "numeta_uk_oct_2020_clean_v2__0a7283",
+  "original_filename": "Numeta_UK_Oct_2020_clean_V2.pdf",
+  "md_path": "data/parsed/Numeta_UK_Oct_2020_clean_V2/Numeta_UK_Oct_2020_clean_V2.md",
+  "rmd_path": "data/parsed/Numeta_UK_Oct_2020_clean_V2/Numeta_UK_Oct_2020_clean_V2.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 2,
+      "preview": "Name and composition: Numeta G13\\%E Preterm, Numeta G16\\%E, Numeta G19\\%E. Active Substance: Reconst"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 4,
+      "preview": "|  Active Ingredients | Numeta G13\\%E Preterm | Numeta G16\\%E | Numeta G19\\%E  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 5,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 6,
+      "preview": "|  Amino Acid Chamber |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 7,
+      "preview": "|  Alanine | 0.75 g | 1.03 g | 1.83 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 8,
+      "preview": "|  Arginine | 0.78 g | 1.08 g | 1.92 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 9,
+      "preview": "|  Aspartic acid | 0.56 g | 0.77 g | 1.37 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 10,
+      "preview": "|  Cysteine | 0.18 g | 0.24 g | 0.43 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 11,
+      "preview": "|  Glutamic acid | 0.93 g | 1.29 g | 2.29 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 12,
+      "preview": "|  Glycine | 0.37 g | 0.51 g | 0.91 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 13,
+      "preview": "|  Histidine | 0.35 g | 0.49 g | 0.87 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 14,
+      "preview": "|  Isoleucine | 0.62 g | 0.86 g | 1.53 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 15,
+      "preview": "|  Leucine | 0.93 g | 1.29 g | 2.29 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 16,
+      "preview": "|  Lysine monohydrate (equivalent to Lysine) | $1.15 \\mathrm{~g}(1.03 \\mathrm{~g})$ | $1.59 \\mathrm{"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 17,
+      "preview": "|  Methionine | 0.22 g | 0.31 g | 0.55 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 18,
+      "preview": "|  Ornithine hydrochloride (equivalent to ornithine) | $0.30 \\mathrm{~g}(0.23 \\mathrm{~g})$ | $0.41 "
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 19,
+      "preview": "|  Phenylalanine | 0.39 g | 0.54 g | 0.96 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 20,
+      "preview": "|  Proline | 0.28 g | 0.39 g | 0.69 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 21,
+      "preview": "|  Serine | 0.37 g | 0.51 g | 0.91 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 22,
+      "preview": "|  Taurine | 0.06 g | 0.08 g | 0.14 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 23,
+      "preview": "|  Threonine | 0.35 g | 0.48 g | 0.85 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 24,
+      "preview": "|  Tryptophan | 0.19 g | 0.26 g | 0.46 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 25,
+      "preview": "|  Tyrosine | 0.07 g | 0.10 g | 0.18 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 26,
+      "preview": "|  Valine | 0.71 g | 0.98 g | 1.74 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 27,
+      "preview": "|  Sodium chloride | 0 g | 0.30 g | 1.79 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 28,
+      "preview": "|  Potassium acetate | 0.61 g | 1.12 g | 3.14 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 29,
+      "preview": "|  Calcium chloride dihydrate | 0.55 g | 0.46 g | 0.56 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 30,
+      "preview": "|  Magnesium acetate tetrahydrate | 0.10 g | 0.33 g | 0.55 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 31,
+      "preview": "|  Sodium glycerophosphate hydrated | 0.98 g | 0.98 g | 2.21 g  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 32,
+      "preview": "|  Glucose Chamber |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 33,
+      "preview": "|  Glucose Anhydrous (equivalent to glucose monohydrate) | $44.00 \\mathrm{~g}(40.00 \\mathrm{~g})$ | "
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 34,
+      "preview": "|  Lipid Chamber |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 35,
+      "preview": "|  Refined olive oil ( 80\\%) + refined soya oil ( 20\\%) | 7.5 g | 15.5 g | 28.1 g  |"
+    },
+    {
+      "type": "text",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 37,
+      "preview": "If lipids not required, bag design allows activation of peel seals between amino acids/electrolytes "
+    },
+    {
+      "type": "text",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 39,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "text",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 41,
+      "preview": "cholestasis, Hyperlipidaemia and fat overload syndrome (reversible when lipid infusion stopped). Not"
+    },
+    {
+      "type": "text",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 43,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "text",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 45,
+      "preview": "POM Marketing Authorisation Holder: Baxter Healthcare Limited, Caxton Way, Thetford, Norfolk IP24 3S"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 47,
+      "preview": "|  Product Name | Marketing Authorisation | Code | Basic NHS Price  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 48,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 49,
+      "preview": "|  Numeta G13\\%E Preterm | PL 00116/0659 | FDB9601 | $\u00a3 73.04$  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 50,
+      "preview": "|  Numeta G16\\%E | PL 00116/0648 | FDB9612 | $\u00a3 84.35$  |"
+    },
+    {
+      "type": "table",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 51,
+      "preview": "|  Numeta G19\\%E | PL 00116/0649 | FDB9623 | $\u00a3 107.55$  |"
+    },
+    {
+      "type": "text",
+      "section": "NUMETA RANGE PRESCRIBING INFORMATION - UK",
+      "line": 53,
+      "preview": "Date of preparation: October 2020"
+    }
+  ],
+  "images": [],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696475",
+    "ts": "2025-08-08T23:41:15.577562+00:00"
+  }
+}

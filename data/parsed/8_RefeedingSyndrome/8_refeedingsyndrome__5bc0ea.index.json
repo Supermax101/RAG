@@ -1,0 +1,1092 @@
+{
+  "doc_id": "8_refeedingsyndrome__5bc0ea",
+  "original_filename": "8_RefeedingSyndrome.pdf",
+  "md_path": "data/parsed/8_RefeedingSyndrome/8_RefeedingSyndrome.md",
+  "rmd_path": "data/parsed/8_RefeedingSyndrome/8_RefeedingSyndrome.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Refeeding Syndrome",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Refeeding Syndrome",
+      "line": 4,
+      "content": "![img-0.jpeg](images/c0f701b2e5f1633f.png)"
+    },
+    {
+      "type": "text",
+      "section": "Refeeding Syndrome",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Refeeding Syndrome",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Refeeding Syndrome",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Refeeding Syndrome",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT COMPLICATIONS: <br> REFEEDING SYNDROME",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: <br> REFEEDING SYNDROME",
+      "line": 15,
+      "preview": "Ainsley Malone, MS, RD, LD, CNSC, FASPEN ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: <br> REFEEDING SYNDROME",
+      "line": 16,
+      "preview": "Mt. Carmel Grove City Hospital"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: <br> REFEEDING SYNDROME",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined bythe Standards of Integrity and Independence definition of ineligible company. All relev"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Identify nutrition support patients at risk for refeeding syndrome."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Propose adjustments in enteral and parenteral nutrition delivery to minimize refeeding syndrome oc"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ABBREVIATIONS",
+      "line": 38
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 40,
+      "preview": "- BMI:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 41,
+      "preview": "- COPD:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 42,
+      "preview": "- $\\mathrm{CHO}:$"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 43,
+      "preview": "- IV:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 44,
+      "preview": "- K :"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 45,
+      "preview": "- Mg :"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 46,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 47,
+      "preview": "- $\\mathrm{PO}_{4}$ :"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 48,
+      "preview": "- TPP:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 49,
+      "preview": "body mass index"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 50,
+      "preview": "chronic obstructive pulmonary disease"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 51,
+      "preview": "carbohydrate"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 52,
+      "preview": "intravenous"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 53,
+      "preview": "potassium"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 54,
+      "preview": "magnesium"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 55,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 56,
+      "preview": "phosphate"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 57,
+      "preview": "thiamine pryophosphate"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 59,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 61
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 63,
+      "preview": "The sequalae of potential symptoms that can occur with refeeding syndrome include:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 64,
+      "preview": "A. Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 65,
+      "preview": "B. Hypokalemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 66,
+      "preview": "C. Hypophosphatemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 67,
+      "preview": "D. All of the above"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REF EEDING SYNDROME",
+      "line": 69
+    },
+    {
+      "type": "text",
+      "section": "REF EEDING SYNDROME",
+      "line": 71,
+      "preview": "- A collection of metabolic complications seen with initiation of feeding in a malnourished or starv"
+    },
+    {
+      "type": "text",
+      "section": "REF EEDING SYNDROME",
+      "line": 72,
+      "preview": "- First recognized in refeeding prisoners after World War II"
+    },
+    {
+      "type": "text",
+      "section": "REF EEDING SYNDROME",
+      "line": 73,
+      "preview": "- Re-emerged with parenteral nutrition utilization"
+    },
+    {
+      "type": "text",
+      "section": "REF EEDING SYNDROME",
+      "line": 74,
+      "preview": "- Example:"
+    },
+    {
+      "type": "text",
+      "section": "REF EEDING SYNDROME",
+      "line": 75,
+      "preview": "- 1981 publication \"Death resulting from overzealous total parenteral nutrition: the refeeding syndr"
+    },
+    {
+      "type": "text",
+      "section": "REF EEDING SYNDROME",
+      "line": 77,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFEEDING SYNDROME METABOLISM",
+      "line": 79
+    },
+    {
+      "type": "image",
+      "section": "REFEEDING SYNDROME METABOLISM",
+      "line": 81,
+      "content": "![img-1.jpeg](images/3cfdfa247a407632.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 83
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 85,
+      "preview": "- Malignancy"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 86,
+      "preview": "- Chronic alcoholism"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 87,
+      "preview": "- Malabsorptive states"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 88,
+      "preview": "- Short bow el syndrome"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 89,
+      "preview": "- Crohn's disease"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 90,
+      "preview": "- Pancreatic insufficiency"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 91,
+      "preview": "- Eating disorders (anorexia nervosa)"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 92,
+      "preview": "- Minimal or no nutrient intake $>5-7$ days"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 93,
+      "preview": "- Surgery with complications"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 94,
+      "preview": "- Critical illness with impaired intake"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 95,
+      "preview": "- Prolonged fasting"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 96,
+      "preview": "- Bariatric surgery"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 97,
+      "preview": "- Protracted vomiting"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 98,
+      "preview": "- Hyperemesis gravidarum"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 99,
+      "preview": "- Gastroparesis"
+    },
+    {
+      "type": "text",
+      "section": "RE-FEEDING SYNDROME RISK FACTORS",
+      "line": 101,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 103
+    },
+    {
+      "type": "image",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 105,
+      "content": "![img-2.jpeg](images/96b01accbb79ac99.png)"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 107,
+      "preview": "Significant Risk: One or More Criteria"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 108,
+      "preview": "BMI $<16$"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 109,
+      "preview": "Unintentional weight loss of $7.5 \\%$ in 3 months or $>10 \\%$ in 6 months"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 110,
+      "preview": "Little or no nutrient intake for 7 days $<50 \\%$ requirements $>5$ days illness or $>1$ month"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 111,
+      "preview": "Moderately low potassium, phosphate, magnesium levels"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 113,
+      "preview": "Moderate Risk: Two or More Criteria"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 114,
+      "preview": "BMI: 16 - 18.5"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 115,
+      "preview": "Unintentional weight loss of 5\\% in 1 month"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 116,
+      "preview": "Little or no nutrient intake for 5-6 days $<75 \\%$ requirements $>7$ days illness or $>1$ month"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 117,
+      "preview": "Mildly low potassium, phosphate, magnesium levels"
+    },
+    {
+      "type": "text",
+      "section": "RISKASSESSMENT FOR REFEEDING SYNDROME",
+      "line": 119,
+      "preview": "DaSilva JS, Seres DS, Sabino K, et al. ASPEN consensus recommendations for refeeding syndrome. Nutr "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 121
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 123,
+      "preview": "- Check baseline electrolytes prior to start of nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 124,
+      "preview": "- Replete if levels low (refer to recommendations in this module)"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 125,
+      "preview": "- Nutrient provision"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 126,
+      "preview": "- 10-20 kcals/kg day or 1000 kcals/day - at most"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 127,
+      "preview": "- In PN, limit dextrose to $100-150 \\mathrm{~g} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 128,
+      "preview": "- In EN, limit to $50 \\%$ of total energy requirements"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 129,
+      "preview": "- Multivitamins"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 130,
+      "preview": "- MVI for PN; multivitamin supplement for EN"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 131,
+      "preview": "- Advance to goal energy intake over 3-4 days"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 132,
+      "preview": "- Increase by $33 \\%$ of goal calories or dextrose q 1-2 days"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 133,
+      "preview": "- Monitor electrolyte levels daily and advance energy intakes when stabilized"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 134,
+      "preview": "- Consider all sources of dextrose"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 135,
+      "preview": "- Monitor weight status daily"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 136,
+      "preview": "- $0.5-1 \\mathrm{~kg} / \\mathrm{w}$ eight gain per week acceptable"
+    },
+    {
+      "type": "text",
+      "section": "MANAGEMENT STRATEGIES",
+      "line": 138,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 140
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 142,
+      "preview": "- Thiamine pyrophosphate"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 143,
+      "preview": "- Component of key metabolic cycles"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 144,
+      "preview": "- Glycolysis"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 145,
+      "preview": "- Kreb's cycle"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 146,
+      "preview": "- Pentose-phosphate shunt"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 147,
+      "preview": "- Thiamine supplementation"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 148,
+      "preview": "- Provide 100 mg IV prior to nutrition support initiation"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 149,
+      "preview": "- Include 100 mg IV or enteral thiamine for 5-7 days"
+    },
+    {
+      "type": "text",
+      "section": "THIAMINE SUPPLEMENTATION",
+      "line": 151,
+      "preview": "Manzanares W., Hardy G. Thiamine supplementation in the critically ill. Curr Opinion in Clin Nutr Me"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFEEDING SYNDROME",
+      "line": 153
+    },
+    {
+      "type": "text",
+      "section": "REFEEDING SYNDROME",
+      "line": 155,
+      "preview": "- The most important aspect of this syndrome is recognizing those who are at risk"
+    },
+    {
+      "type": "text",
+      "section": "REFEEDING SYNDROME",
+      "line": 156,
+      "preview": "- Cautious use of nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "REFEEDING SYNDROME",
+      "line": 157,
+      "preview": "- Monitoring is crucial for all at risk patients including those receiving only maintenance IV's wit"
+    },
+    {
+      "type": "text",
+      "section": "REFEEDING SYNDROME",
+      "line": 159,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 161
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 163,
+      "preview": "The sequalae of potential symptoms that can occur with refeeding syndrome include:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 164,
+      "preview": "A. Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 165,
+      "preview": "B. Hypokalemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 166,
+      "preview": "C. Hypophosphatemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 167,
+      "preview": "D. All of the above"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 169
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 171,
+      "preview": "The sequalae of potential symptoms that can occur with refeeding syndrome include:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 172,
+      "preview": "A. Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 173,
+      "preview": "B. Hypokalemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 174,
+      "preview": "C. Hypophosphatemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 175,
+      "preview": "D. All of the above"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT\\#1",
+      "line": 177,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 179
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 181,
+      "preview": "- Crook M. Refeeding syndrome: problems with definition and management. Nutrition 2014;30:1448-1455."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 182,
+      "preview": "- Kraft MD, Btaiche IF, Sacks GS. Review of the refeeding syndrome. Nutr Clin Pract 2005;20:625-633."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 183,
+      "preview": "- Manzanares W., Hardy G. Thiamine supplementation in the critically ill. Curr Opinion in Clin Nutr "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 184,
+      "preview": "- Mehanna HM, Moledina J, Travis J. Refeeding syndrome: what it is and how to prevent and treat it. "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 185,
+      "preview": "- Weinsier RL, Krumdieck CL. Death resulting from overzealous total parenteral nutrition: the refeed"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 186,
+      "content": "![img-3.jpeg](images/f0da804bf4449c0e.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 188,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 190,
+      "content": "![img-4.jpeg](images/d587e98a379b2e93.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 192
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 194,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 195,
+      "preview": "The American Society for Parenteral and Enteral Nutrition (ASPEN)"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 196,
+      "preview": "Nutrition Support Dietitian"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 197,
+      "preview": "Mount Carmel Grove City"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 198,
+      "preview": "Columbus, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 199,
+      "preview": "Ainsley Malone is a Dietitian member of the Nutrition Support Team at Mount Carmel Grove City in Col"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 200,
+      "preview": "Clinical Practice Specialist for the American Society for Parenteral and Enteral Nutrition (ASPEN) w"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 202,
+      "preview": "Ms. Malone is a certified nutrition support clinician and has given international, national and loca"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 204,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 206
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 208,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 210,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 212,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 214,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 215,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 216,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 217,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 218,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 220,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 222,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 224
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 226,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 228,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 230
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 232,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 234
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 236,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 238,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "c0f701b2e5f1633f.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/c0f701b2e5f1633f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8_RefeedingSyndrome/images/c0f701b2e5f1633f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c0f701b2e5f1633f"
+    },
+    {
+      "sha_name": "3cfdfa247a407632.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/3cfdfa247a407632.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8_RefeedingSyndrome/images/3cfdfa247a407632.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "3cfdfa247a407632"
+    },
+    {
+      "sha_name": "96b01accbb79ac99.png",
+      "original_ref": "img-2.jpeg",
+      "page": 5,
+      "relative_path": "images/96b01accbb79ac99.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8_RefeedingSyndrome/images/96b01accbb79ac99.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "96b01accbb79ac99"
+    },
+    {
+      "sha_name": "f0da804bf4449c0e.png",
+      "original_ref": "img-3.jpeg",
+      "page": 8,
+      "relative_path": "images/f0da804bf4449c0e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8_RefeedingSyndrome/images/f0da804bf4449c0e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f0da804bf4449c0e"
+    },
+    {
+      "sha_name": "d587e98a379b2e93.png",
+      "original_ref": "img-4.jpeg",
+      "page": 9,
+      "relative_path": "images/d587e98a379b2e93.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8_RefeedingSyndrome/images/d587e98a379b2e93.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d587e98a379b2e93"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696241",
+    "ts": "2025-08-08T23:37:21.021575+00:00"
+  }
+}

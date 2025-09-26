@@ -1,0 +1,788 @@
+{
+  "doc_id": "lab_values_table_pedsap__733d7b",
+  "original_filename": "Lab_Values_Table_PedSAP.pdf",
+  "md_path": "data/parsed/Lab_Values_Table_PedSAP/Lab_Values_Table_PedSAP.md",
+  "rmd_path": "data/parsed/Lab_Values_Table_PedSAP/Lab_Values_Table_PedSAP.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PedSAP",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "PedSAP",
+      "line": 2,
+      "preview": "Pediatric Self-Assessment Program"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 4
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 6,
+      "preview": "|  Serum Chemistries |  | Reference Range  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 7,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 8,
+      "preview": "|  Albumin | Premature 1 day | $1.8-3 \\mathrm{~g} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 9,
+      "preview": "|   | Full-term $<6$ days | $2.5-3.9 \\mathrm{~g} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 10,
+      "preview": "|   | 8 days-1 year | $1.9-4.9 \\mathrm{~g} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 11,
+      "preview": "|   | 1-3 years | $3.4-5.2 \\mathrm{~g} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 12,
+      "preview": "|   | 4-19 years | $3.5-5.6 \\mathrm{~g} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 13,
+      "preview": "|  Ammonia | Newborn - Child | $29-150 \\mathrm{mcg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 14,
+      "preview": "|   | Adult | $15-60 \\mathrm{mcg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 15,
+      "preview": "|  Amylase | 1-19 years | $30-100 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 16,
+      "preview": "|  Alanine aminotransferase (ALT) | $<7$ days | $6-40 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 17,
+      "preview": "|   | 8-30 days: |   |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 18,
+      "preview": "|   | Male | $10 \\mathrm{to} 40 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 19,
+      "preview": "|   | Female | $8-12 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 20,
+      "preview": "|   | 1-12 months | $12-45 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 21,
+      "preview": "|   | 1-19 years | $5-55 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 22,
+      "preview": "|  Alkaline phosphatase (ALP) | 1-12 months | $150-420 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 23,
+      "preview": "|   | 1-9 years | $100-420 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 24,
+      "preview": "|   | 10-11 years | $140-560 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 25,
+      "preview": "|   | 12-13 years: |   |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 26,
+      "preview": "|   | Male | $100-495 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 27,
+      "preview": "|   | Female | $100-420 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 28,
+      "preview": "|   | 14-15 years: |   |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 29,
+      "preview": "|   | Male | $100-525 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 30,
+      "preview": "|   | Female | $70-320 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 31,
+      "preview": "|   | 16-19 years: |   |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 32,
+      "preview": "|   | Male | $65-260 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 33,
+      "preview": "|   | Female | $50-320 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 34,
+      "preview": "|  Aspartate aminotransferase (AST) | Newborn $<7$ days: |   |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 35,
+      "preview": "|   | Male | $30-150 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 36,
+      "preview": "|   | Female | $24-150 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 37,
+      "preview": "|   | 8 days - $<12$ months | $9-80 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 38,
+      "preview": "|   | 1-3 years | $20-60 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 39,
+      "preview": "|   | 3-9 years | $15-50 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 40,
+      "preview": "|   | 10-15 years | $10-40 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 41,
+      "preview": "|   | 16-19 years: |   |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 42,
+      "preview": "|   | Male | $15-45 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 43,
+      "preview": "|   | Female | $5 \\mathrm{to} 30 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 44,
+      "preview": "|  Bilirubin, direct | Newborn | $<0.6 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 45,
+      "preview": "|   | $>2$ month | $<0.2 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 46,
+      "preview": "|  Bilirubin, total | Cord blood | $<2 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 47,
+      "preview": "|   | Premature $<6$ days | $<16 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 48,
+      "preview": "|   | Full-term $<6$ days | $<12 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 49,
+      "preview": "|   | 1 month- $<12$ months | $<2 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 50,
+      "preview": "|   | 1-19 years | $<1.5 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 51,
+      "preview": "|  Blood urea nitrogen (BUN) | All ages | $2-20 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 52,
+      "preview": "|  Calcium, ionized | Cord blood | $5-6 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 53,
+      "preview": "|   | Newborn 3-24 hours | $4.3-5.1 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 54,
+      "preview": "|   | Newborn 24-38 hours | $4-4.7 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 55,
+      "preview": "|   | $>2$ days | $4.8-4.92 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 56,
+      "preview": "|  Calcium, total serum | Cord blood | $9.5-11.5 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 57,
+      "preview": "|   | Newborn 3-24 hours | $9-10.6 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 58,
+      "preview": "|   | Newborn 24-48 hours | $7-12 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 59,
+      "preview": "|   | 4-7 days | $6.7-10.9 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 60,
+      "preview": "|   | Child | $8.8-10.8 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 61,
+      "preview": "|   | Adolescent-Adult | $8.4-10.2 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 62,
+      "preview": "|  Carbon dioxide (venous) ( $\\mathrm{CO}_{2}$ ) | All ages | $20-30 \\mathrm{mEq} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 63,
+      "preview": "|  Chloride (Cl) | All ages | $95-108 \\mathrm{mEq} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 64,
+      "preview": "|  C-reactive protein (CRP) | All ages | $<0.8 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 65,
+      "preview": "|  Creatine kinase (CK) | Cord blood | $70-380 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 66,
+      "preview": "|   | Newborn 5-8 hours | $214-1175 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 67,
+      "preview": "|   | Newborn 24-33 hours | $130-1200 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 68,
+      "preview": "|   | Newborn 72-100 hours | $87-1578 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 69,
+      "preview": "|   | Adult | $5-200 \\mathrm{units} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 70,
+      "preview": "|  Creatinine, serum (SCr) | Cord blood | $0.6-1.2 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 71,
+      "preview": "|   | Newborn | $0.3-1 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 72,
+      "preview": "|   | Child | $0.3-0.7 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 73,
+      "preview": "|   | Adolescent | $0.5-1 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 74,
+      "preview": "|   | Adult male | $0.9-1.2 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 75,
+      "preview": "|   | Adult Yemale | $0.6-1.1 \\mathrm{mg} / \\mathrm{dL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 76,
+      "preview": "|  Creatinine (clearance) (CrCl) | All ages | $90-140 \\mathrm{~mL} /$ minute $/ 1.73 \\mathrm{~m}^{2}"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 78,
+      "preview": "|  y-Glutamyl transpeptidase (GGT) | Newborn - $<2$ months | 12-147 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 79,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 80,
+      "preview": "|   | 2- $<4$ months | 8-90 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 81,
+      "preview": "|   | 4 months - 19 years | 5-32 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 82,
+      "preview": "|   | Adult | 7-49 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 83,
+      "preview": "|  Glucose, serum | Cord blood | 45-96 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 84,
+      "preview": "|   | Premature | 20-60 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 85,
+      "preview": "|   | Newborn 1 day | 40-60 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 86,
+      "preview": "|   | Newborn $>1$ day | 50-90 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 87,
+      "preview": "|   | Child | 60-100 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 88,
+      "preview": "|   | Adult | 70-105 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 89,
+      "preview": "|  Hemoglobin A1C (A1C) | All ages | $4 \\%-6 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 90,
+      "preview": "|  Lactate dehydrogenase (LDH) | Newborn | 180-2000 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 91,
+      "preview": "|   | 1 month - $<1$ year | 170-500 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 92,
+      "preview": "|   | 1-9 years | 110-500 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 93,
+      "preview": "|   | 10-19 years | 100-330 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 94,
+      "preview": "|  Lipase | 1-18 years | 1-216 units/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 95,
+      "preview": "|  Magnesium | All ages | $1.5-2.5 \\mathrm{mEq} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 96,
+      "preview": "|  Osmolality, serum | All ages | 266-295 mOsm/kg  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 97,
+      "preview": "|  Phosphorus (inorganic) $\\left(\\mathrm{PO}_{4}\\right)$ | Newborn 0-5 days | 4.5-9 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 98,
+      "preview": "|   | 1-3 years | 3.8-6.5 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 99,
+      "preview": "|   | 4-11 years | 3.2-5.8 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 100,
+      "preview": "|   | 12-15 years | 2.9-5.4 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 101,
+      "preview": "|   | 16-19 years | 2.4-4.7 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 102,
+      "preview": "|  Potassium (K) | Newborn | 3.7-7.2 mEq/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 103,
+      "preview": "|   | 1- $<3$ months | 4.0-6.2 mEq/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 104,
+      "preview": "|   | 3 months-1 year | 3.4-5.6 mEq/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 105,
+      "preview": "|   | 1-16 years | 3.5-5.1 mEq/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 106,
+      "preview": "|  Prealbumin | $>1$ month | 8-42 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 107,
+      "preview": "|  Sodium (Na) | All ages | 130-147 mEq/L  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 108,
+      "preview": "|  Transferrin saturation | All ages | 10-50\\%  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 109,
+      "preview": "|  Uric acid, serum | Newborn-14 years | 1-7 mg/dL  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 110,
+      "preview": "|  Age | Hemoglobin ( $\\mathrm{g} / \\mathrm{dL}$ ) | $\\begin{aligned} & \\text { Hematocrit } \\ & \\te"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 111,
+      "preview": "|   |  | $\\begin{aligned} & \\text { MCV } \\ & \\text { (fL) } \\end{aligned}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 112,
+      "preview": "|   |  | $\\begin{aligned} & \\text { MCV } \\ & \\text { (pg/cell) } \\end{aligned}$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 113,
+      "preview": "|  $\\leq 30$ | $15-24$ | $44-70$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 114,
+      "preview": "|  $\\begin{aligned} & 4-5.5 \\ & 11-23 \\end{aligned}$ | $15-24$ | $44-70$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 115,
+      "preview": "|  $\\begin{aligned} & 10-17 \\ & 10-17 \\end{aligned}$ | $10-14$ | $32-42$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 116,
+      "preview": "|  $\\begin{aligned} & 2-9 \\mathrm{yr} \\ & 10-17 \\end{aligned}$ | $11.5-14.5$ | $33-43$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 117,
+      "preview": "|  $\\begin{aligned} & 10-17 \\ & 10-17 \\end{aligned}$ | $12.5-16.1$ | $36-47$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 118,
+      "preview": "|  $\\begin{aligned} & 18-17 \\ & 95 \\end{aligned}$ | $12-15$ | $35-45$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 119,
+      "preview": "|  $\\begin{aligned} & 18-17 \\ & 95 \\end{aligned}$ | $12-15$ | $35-45$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 120,
+      "preview": "|  $\\begin{aligned} & 2-18 \\mathrm{yr} \\ & 10-18 \\end{aligned}$ | $13.5-18$ | $42-52$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 121,
+      "preview": "|  $\\begin{aligned} & 2-18 \\mathrm{yr} \\ & 10-18 \\end{aligned}$ | $12.5-16$ | $37-47$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 122,
+      "preview": "|  $\\begin{aligned} & 2-18 \\mathrm{yr} \\ & 10-18 \\end{aligned}$ | $12.5-16$ | $37-47$  |"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 124,
+      "preview": "Value for ages 0-7 days; for age $>7$ days, similar to range for all patient ages."
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 126,
+      "preview": "|  Blood Gases |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 127,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 128,
+      "preview": "|   | Arterial | Capillary | Venous  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 129,
+      "preview": "|  pH | 7.35-7.45 | 7.35-7.45 | 7.32-7.42  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 130,
+      "preview": "|  Partial pressure of carbon dioxide $\\left(\\mathrm{PCO}_{2}\\right)$ | $32-48 \\mathrm{~mm} \\mathrm{"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 131,
+      "preview": "|  Partial pressure of oxygen $\\left(\\mathrm{PO}_{2}\\right)$ | $70-108 \\mathrm{~mm} \\mathrm{Hg}$ | $"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 132,
+      "preview": "|  Oxygen saturation $\\left(\\mathrm{SaO}_{2}\\right)$ | $90-95 \\%$ | $90-95 \\%$ | $40-70 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 133,
+      "preview": "|  Serum bicarbonate $\\left(\\mathrm{HCO}_{3}\\right)$ | $19-28 \\mathrm{mEq} / \\mathrm{L}$ | $19-25 \\m"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$",
+      "line": 135,
+      "preview": "*Values given in this table are commonly accepted reference ranges compiled from many sources. Patie"
+    }
+  ],
+  "images": [],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696472",
+    "ts": "2025-08-08T23:41:12.192885+00:00"
+  }
+}

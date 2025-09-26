@@ -1,0 +1,2565 @@
+{
+  "doc_id": "6pn_complications_and_monitoring__4d07fd",
+  "original_filename": "6PN Complications and Monitoring.pdf",
+  "md_path": "data/parsed/6PN Complications and Monitoring/6PN Complications and Monitoring.md",
+  "rmd_path": "data/parsed/6PN Complications and Monitoring/6PN Complications and Monitoring.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Parenteral Nutrition (PN): Complications and Monitoring",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition (PN): Complications and Monitoring",
+      "line": 2,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Overview",
+      "line": 4
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 6,
+      "preview": "- Cases"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 7,
+      "preview": "- Complications"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 8,
+      "preview": "- Nutrition excess and deficiencies"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 9,
+      "preview": "- Refeeding syndrome"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 10,
+      "preview": "- Metabolic bone disease (MBD)"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 11,
+      "preview": "- Intestinal failure associated liver disease (IFALD)"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 12,
+      "preview": "- Renal disease"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 13,
+      "preview": "- Central venous access"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 14,
+      "preview": "- Central line complications"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 15,
+      "preview": "- Central line associated blood stream infections (CLABSIs)"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 16,
+      "preview": "- Cases: review"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 18,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Introduction",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 22,
+      "preview": "- PN can be life-saving but has several complications"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 23,
+      "preview": "- Metabolic"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 24,
+      "preview": "- Catheter-related"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 25,
+      "preview": "- Infectious"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 26,
+      "preview": "- Non-infectious"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 27,
+      "preview": "- Liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 28,
+      "preview": "- Progress has been made to ensure PN is safer and more effective"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 29,
+      "preview": "- Patients on PN require careful monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 30,
+      "preview": "- Growth and anthropometric measurements"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 31,
+      "preview": "- Laboratory"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 32,
+      "preview": "- The practitioner must be aware of the risks of PN and be able to monitor the patients adequately"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 34,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#1",
+      "line": 36
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 38,
+      "preview": "- A 2-year-old boy with short bowel syndrome ( 70 cm of jejunum anastomosed to the transverse colon)"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 39,
+      "preview": "- Copper had been removed from his PN because of the cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 40,
+      "preview": "- He presents with microcytic anemia (Hb $6.3 \\mathrm{~g} / \\mathrm{dL}$ ) requiring weekly transfus"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 41,
+      "preview": "- Investigation"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 42,
+      "preview": "- Abdominal ultrasound with doppler: no portal hypertension"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 43,
+      "preview": "- Fecal occult blood negative"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 44,
+      "preview": "- Folate, vitamin B12, vitamin E: normal"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 45,
+      "preview": "- Bone marrow biopsy: changes compatible with myelodysplasia"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 46,
+      "preview": "- What would you do?"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 48,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#2",
+      "line": 50
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 52,
+      "preview": "- During a regular follow up, the parents of a 12-year-old patient on home PN mentions that she has "
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 53,
+      "preview": "- There are no other symptoms, fever resolves spontaneously within 1 hour and they elected not to se"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 54,
+      "preview": "- When questioned, they mention that the episodes of fever seem to occur shortly after they connect "
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 55,
+      "preview": "- What is your next step?"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 57,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case #3",
+      "line": 59
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 61,
+      "preview": "- An 8-year-old M with short bowel syndrome on long term PN is tolerating only small amounts of elem"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 62,
+      "preview": "- Patient is on PN with SMOFlipid ${ }^{\\circledR}$ and multivitamins daily"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 63,
+      "preview": "- He receives $2 \\mathrm{mEq} / \\mathrm{kg}$ of calcium (rec: $0.5-4 \\mathrm{mEq} / \\mathrm{kg}$ ) i"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 64,
+      "preview": "- Laboratory testing yields the following results"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 66,
+      "preview": "|  - Vit A | $67 \\mathrm{mcg} / \\mathrm{dL}$ | $(26-49)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 67,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 68,
+      "preview": "|  - Vit D | $18 \\mathrm{ng} / \\mathrm{dL}$ | $(30-100)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 69,
+      "preview": "|  - Vit E | $16 \\mathrm{mg} / \\mathrm{L}$ | $(4.6-14.8)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 70,
+      "preview": "|  - Calcium | $8.5 \\mathrm{mg} / \\mathrm{dL}$ | $(8.8-10.1)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 71,
+      "preview": "|  - Albumin | $2.5 \\mathrm{~g} / \\mathrm{dL}$ | $(3.8-5.4)$  |"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 73,
+      "preview": "- What adjustments do you make to his PN and supplements?"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 75,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 77
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 79,
+      "preview": "- Caloric needs should be evaluated according to age-related requirements and adjusted to the patien"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 80,
+      "preview": "- Catch-up growth"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 81,
+      "preview": "- Conditions that may increase needs (surgery, chronic disease, burn, trauma etc.)"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 82,
+      "preview": "- Conditions with increased losses"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 83,
+      "preview": "- PN needs are generally 10-15\\% lower than EN needs"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 84,
+      "preview": "- Overfeeding has been linked to PN associated liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 85,
+      "preview": "- Underfeeding leads to growth failure"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 87,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 89
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 91,
+      "preview": "- Glucose"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 92,
+      "preview": "- Excess glucose may cause hyperglycemia, hyperosmolarity and osmotic diuresis"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 93,
+      "preview": "- Hypercarbia may also occur as well as increased risk of sepsis"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 94,
+      "preview": "- Inadequate glucose infusion ( $<2 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$ ) may cause ketosis, s"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 95,
+      "preview": "- Lipids"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 96,
+      "preview": "- Excess lipids may cause hypertriglyceridemia and ketosis"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 97,
+      "preview": "- Inadequate lipid provision may lead to essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 98,
+      "preview": "- Lipid infusion rate goal: $<0.15 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{hour}$"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 100,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 102
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 104,
+      "preview": "- Glucose infusion rate (GIR) is a measure of the rate in which a patient receives intravenous dextr"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 105,
+      "preview": "- Calculating GIR"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 106,
+      "preview": "- Grams of carbohydrate $\\times 1000 \\div$ patient weight $(\\mathrm{kg}) \\div$ number of minutes PN "
+    },
+    {
+      "type": "table",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 108,
+      "preview": "|  Age (Years) | Goal GIR (mg/kg/min)  |"
+    },
+    {
+      "type": "table",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 109,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 110,
+      "preview": "|  Preterm Infant | $\\sim 12$  |"
+    },
+    {
+      "type": "table",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 111,
+      "preview": "|  Term Infant | $10-14$  |"
+    },
+    {
+      "type": "table",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 112,
+      "preview": "|  Child (1-10 years) | $8-10$  |"
+    },
+    {
+      "type": "table",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 113,
+      "preview": "|  Adolescent (> 10 years) | $5-6$  |"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 115,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 117
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 119,
+      "preview": "- Electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 120,
+      "preview": "- PN should not be used to correct metabolic disturbances"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 121,
+      "preview": "- Fluid output and intake should be monitored to avoid fluid overload and dehydration especially whe"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 122,
+      "preview": "- Urinary sodium should be monitored in patients with excessive losses since inadequate sodium intak"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 123,
+      "preview": "- Serum sodium should be between 135 and 145 mmol/L"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 124,
+      "preview": "- Urinary sodium should be $>30 \\mathrm{mmol} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 126,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 128
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 130,
+      "preview": "- Trace elements"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 131,
+      "preview": "- Zinc often needs to be supplemented in patients with excessive GI losses"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 132,
+      "preview": "- Selenium deficiency may occur in patients on long-term PN"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 133,
+      "preview": "- Chromium is a contaminant and may accumulate affecting glucose metabolism"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 134,
+      "preview": "- Copper is excreted in bile and can accumulate in patients with cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 135,
+      "preview": "- Parenteral manganese has high bioavailability and is cleared through the liver, increasing the ris"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Nutrient Excess/Deficiency",
+      "line": 137,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 139
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 141,
+      "preview": "- Severe shifts in fluids and electrolytes that may occur in malnourished patients receiving artific"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 142,
+      "preview": "- Manifestations include"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 143,
+      "preview": "- Hypophosphoremia"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 144,
+      "preview": "- Hypomagnesemia"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 145,
+      "preview": "- Thiamine deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 146,
+      "preview": "- Cardiac arrythmia"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 147,
+      "preview": "- Hypokalemia"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 148,
+      "preview": "- Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 149,
+      "preview": "- Fluid overload leading to congestive heart failure and pulmonary edema"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 150,
+      "preview": "- Respiratory failure"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Refeeding Syndrome",
+      "line": 152,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Management of Refeeding Syndrome",
+      "line": 154
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 156,
+      "preview": "- Identification of patients at risk"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 157,
+      "preview": "- Low BMI"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 158,
+      "preview": "- Significant weight loss"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 159,
+      "preview": "- Little or no nutritional intake in the past 5-10 days"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 160,
+      "preview": "- Preexisting hypokalemia, hypophosphoremia and hypomagnesemia"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 161,
+      "preview": "- Monitor electrolytes several times a day after initiation of PN until stable"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 162,
+      "preview": "- Stabilize electrolytes before initiating PN"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 163,
+      "preview": "- Start with providing 50-75\\% estimated energy needs or give current intake"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 164,
+      "preview": "- Increase calories by 10-20\\% daily until goal reached"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 165,
+      "preview": "- Supplement thiamine"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 166,
+      "preview": "- Supplement phosphorus as needed"
+    },
+    {
+      "type": "text",
+      "section": "Management of Refeeding Syndrome",
+      "line": 168,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 170
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 172,
+      "preview": "- The term Metabolic Done Disease (MBD) includes several conditions including rickets, osteomalacia,"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 173,
+      "preview": "- Reduction of bone mineral density may be evident before clinical signs appear"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 174,
+      "preview": "- Diagnosis relies on dual-energy X-ray absorptiometry (DEXA)"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 175,
+      "preview": "- Multifactorial pathogenesis"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 176,
+      "preview": "- Malabsorption of Ca, Phos, Mg"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 177,
+      "preview": "- Decreased physical activity"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 178,
+      "preview": "- Vit D deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 179,
+      "preview": "- Toxicity of some PN components such as aluminum"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 180,
+      "preview": "- Underlying inflammatory condition"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 182,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 184
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 186,
+      "preview": "- Risk higher in growth failure and longer PN duration"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 187,
+      "preview": "- Possibility of MBD remains significant even when enteral autonomy is achieved"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 188,
+      "preview": "- Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 189,
+      "preview": "- Annual DEXA with adequate correction for anthropometric measures"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 190,
+      "preview": "- Careful evaluation of calcium balance and vitamin D"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 191,
+      "preview": "- Treatment"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 192,
+      "preview": "- Adequate Ca, Phos, Mg and vitamin D"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 193,
+      "preview": "- Weight bearing exercise"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 194,
+      "preview": "- Change medications (such as diuretics), if possible"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 195,
+      "preview": "- Referral to a bone specialist and consider use of bisphosphonates"
+    },
+    {
+      "type": "text",
+      "section": "Metabolic Complications: Bone Disease",
+      "line": 197,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Complications: IFALD",
+      "line": 199
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 201,
+      "preview": "- Intestinal failure associated liver disease (IFALD) is a well described complication of PN"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 202,
+      "preview": "- Risk factors"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 203,
+      "preview": "- Prolonged duration of PN"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 204,
+      "preview": "- Prematurity"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 205,
+      "preview": "- Short Bowel Syndrome"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 206,
+      "preview": "- Reduced enterohepatic circulation"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 207,
+      "preview": "- Use of soybean lipid emulsion, phytosterols"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 208,
+      "preview": "- Lack of enteral feedings"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 209,
+      "preview": "- Recurrent sepsis"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 210,
+      "preview": "- Bacterial overgrowth"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 211,
+      "preview": "- Overfeeding"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD",
+      "line": 213,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Complications: IFALD**",
+      "line": 215
+    },
+    {
+      "type": "text",
+      "section": "**Complications: IFALD**",
+      "line": 217,
+      "preview": "- Range of injury"
+    },
+    {
+      "type": "text",
+      "section": "**Complications: IFALD**",
+      "line": 218,
+      "preview": "- Gallstones"
+    },
+    {
+      "type": "text",
+      "section": "**Complications: IFALD**",
+      "line": 219,
+      "preview": "- Gallstones"
+    },
+    {
+      "type": "text",
+      "section": "**Complications: IFALD**",
+      "line": 220,
+      "preview": "- Cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "**Complications: IFALD**",
+      "line": 221,
+      "preview": "- Steatosis"
+    },
+    {
+      "type": "text",
+      "section": "**Complications: IFALD**",
+      "line": 222,
+      "preview": "- Cirrhosis and liver failure"
+    },
+    {
+      "type": "image",
+      "section": "**Complications: IFALD**",
+      "line": 224,
+      "content": "![img-0.jpeg](images/b5eceaa366e31bfd.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Complications: IFALD**",
+      "line": 226,
+      "content": "![img-1.jpeg](images/d26eea3d01739ead.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Complications: IFALD**",
+      "line": 228,
+      "content": "![img-2.jpeg](images/80b1cda08e342fe4.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Complications: IFALD**",
+      "line": 230,
+      "content": "![img-3.jpeg](images/cc97c7e02901645a.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Complications: IFALD**",
+      "line": 232,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Complications: IFALD Management",
+      "line": 234
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management",
+      "line": 236,
+      "preview": "- Cycling PN as soon as metabolic and fluid status allows"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management",
+      "line": 237,
+      "preview": "- Continuous infusion of dextrose can be associated with high levels of insulin which may contribute"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management",
+      "line": 238,
+      "preview": "- Maximize enteral nutrition if tolerated"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management",
+      "line": 239,
+      "preview": "- Limit intravenous lipid emulsion (ILE) to $1 \\mathrm{~g} / \\mathrm{kg} /$ day for long-term PN if "
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management",
+      "line": 241,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 243
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 245,
+      "preview": "- Limit soybean oil ILE and use alternate lipid solution"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 246,
+      "preview": "- Pure soybean-based lipid emulsions should be avoided in the presence of cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 247,
+      "preview": "- The use of mixed lipid emulsions may be encouraged for patients on long term PN"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 248,
+      "preview": "- Fish-oil based lipids should be considered if other strategies fail"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 249,
+      "preview": "- Treat bacterial overgrowth"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 250,
+      "preview": "- Ursodeoxycholic acid may be considered in the presence of biochemical signs of cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Complications: IFALD Management - Cont'd",
+      "line": 252,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Complications: Renal Disease",
+      "line": 254
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 256,
+      "preview": "- Renal disease in patients with SBS is multifactorial"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 257,
+      "preview": "- Chronic dehydration and electrolyte imbalances"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 258,
+      "preview": "- Recurrent sepsis"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 259,
+      "preview": "- Nephrocalcinosis"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 260,
+      "preview": "- Nephrotoxic effect of medications"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 261,
+      "preview": "- Management"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 262,
+      "preview": "- Avoidance of dehydration"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 263,
+      "preview": "- Regular renal ultrasound should be obtained"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 264,
+      "preview": "- Glomerular Filtration rate should be monitored in patients at risk"
+    },
+    {
+      "type": "text",
+      "section": "Complications: Renal Disease",
+      "line": 266,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Venous Access",
+      "line": 268
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 270,
+      "preview": "- The maximum osmolarity that can be administered in a peripheral vein in $900 \\mathrm{mOsm} / \\math"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 271,
+      "preview": "- The osmolarity of an intravenous solution can be calculated using the equation:"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 273,
+      "preview": "$$"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 274,
+      "preview": "\\mathrm{mOsm} / \\mathrm{L}=(\\mathrm{AA} \\mathrm{~g} / \\mathrm{L} \\times 10)+(\\text { dextrose } \\mat"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 275,
+      "preview": "$$"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 277,
+      "preview": "- PN is usually administered through a central venous catheter whose tip is in the distal vena cava "
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 278,
+      "preview": "- Peripherally inserted central catheter (PICC line)"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 279,
+      "preview": "- Tunneled cuffed central catheter (Broviac/Hickman)"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 280,
+      "preview": "- Implanted port (Port-o-cath)"
+    },
+    {
+      "type": "text",
+      "section": "Central Venous Access",
+      "line": 282,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Line Complications: Mechanical",
+      "line": 284
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Mechanical",
+      "line": 286,
+      "preview": "- Pneumo/hemothorax"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Mechanical",
+      "line": 287,
+      "preview": "- Hematoma"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Mechanical",
+      "line": 288,
+      "preview": "- Malposition"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Mechanical",
+      "line": 289,
+      "preview": "- Arrhythmia, perforation of the heart"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Mechanical",
+      "line": 290,
+      "preview": "- Non thrombotic occlusion (precipitates, kink)"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Mechanical",
+      "line": 291,
+      "preview": "- Extravasation of infusate into surrounding tissues"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Mechanical",
+      "line": 293,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Line Complications: Thrombosis",
+      "line": 295
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 297,
+      "preview": "- Venous thrombosis may result in loss of venous access in patients on long-term PN"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 298,
+      "preview": "- Most thromboses are asymptomatic"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 299,
+      "preview": "- Prevention"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 300,
+      "preview": "- Adequate care of the line"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 301,
+      "preview": "- Avoid drawing blood from catheter"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 302,
+      "preview": "- Annual doppler ultrasound of vascular access may not detect thrombosis, consider CT or MRV"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 303,
+      "preview": "- In patients on long-term PN who have lost vascular access because of a thrombus, consider prophyla"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 305,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Line Complications: Thrombosis",
+      "line": 307
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 309,
+      "preview": "- Diagnosis"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 310,
+      "preview": "- Ultrasound is non-invasive and easy to perform but may not be adequate for diagnosis of subclavian"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 311,
+      "preview": "- If the ultrasound is negative and clinical suspicion is high, venography may be required for accur"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 312,
+      "preview": "- Management"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 313,
+      "preview": "- Thrombotic central line occlusion and central line related thrombosis require thorough investigati"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 314,
+      "preview": "- Fibrinolytics such as alteplase is the drug class of choice to restore line patency of thrombus-oc"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 315,
+      "preview": "- The recommended management of acute and symptomatic catheter-related thrombosis usually requires a"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Thrombosis",
+      "line": 317,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 319
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 321,
+      "preview": "- Central Line Associated Bloodstream Infections (CLABSIs) are a significant cause of mortality and "
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 322,
+      "preview": "- Incidence of CLABSI in pediatric patients is between 3.8-11.3/1000 catheter days"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 323,
+      "preview": "- Causes"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 324,
+      "preview": "- Colonization of biofilm"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 325,
+      "preview": "- Skin contamination"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 326,
+      "preview": "- Bacterial translocation"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 327,
+      "preview": "- Contaminated PN solution"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs",
+      "line": 329,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 331
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 333,
+      "preview": "- Sterile technique during placement"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 334,
+      "preview": "- Use line only for PN and not for blood draws"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 335,
+      "preview": "- Dressing changes per protocol"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 336,
+      "preview": "- Tubing changes for dextrose AA solutions and IV lipid"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 337,
+      "preview": "- Avoid multi-lumen catheters"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 338,
+      "preview": "- Avoid catheters in groin/diaper area"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Prevention",
+      "line": 340,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 342
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 344,
+      "preview": "- Ethanol lock"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 345,
+      "preview": "- Significantly reduces CLABSI"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 346,
+      "preview": "- Concerns with precipitate formation in catheters and shortages"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 347,
+      "preview": "- Taurolidine lock"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 348,
+      "preview": "- Used mostly in Europe with good results"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 349,
+      "preview": "- Antibiotic lock"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 350,
+      "preview": "- May induces resistances to antibiotics"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 351,
+      "preview": "- 4\\% EDTA lock (Kite lock)"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 352,
+      "preview": "- Approved in Canada"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 353,
+      "preview": "- Non-antibiotic, anti-bacterial, anti-coagulant, anti-biofilm"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 354,
+      "preview": "- Significantly reduces the rate of CLABSI"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs - Lock Therapy",
+      "line": 356,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Central Line Complications: Infections / CLABSIs Management",
+      "line": 358
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Management",
+      "line": 360,
+      "preview": "- Any fever (>38.5) in a patient with a central line is considered a CLABSI until proven otherwise"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Management",
+      "line": 361,
+      "preview": "- Blood cultures should be taken from both the CVC and a peripheral vein before starting antibiotic"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Management",
+      "line": 362,
+      "preview": "- Empirical antibiotic therapy should include coverage for cutaneous as well as intestinal bacteria"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Management",
+      "line": 363,
+      "preview": "- The duration of antimicrobial therapy for CLABSI with retained catheter is generally 10-14-days"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Management",
+      "line": 364,
+      "preview": "- Central line should be removed if there is clinical deterioration, persisting or relapsing bactere"
+    },
+    {
+      "type": "text",
+      "section": "Central Line Complications: Infections / CLABSIs Management",
+      "line": 366,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Monitoring: Anthropometrics",
+      "line": 368
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 370,
+      "preview": "- Weight"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 371,
+      "preview": "- Obtain naked under the age of 2 years"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 372,
+      "preview": "- Children 2 years and older should be in light clothing without shoes"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 373,
+      "preview": "- Length/Height"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 374,
+      "preview": "- Use length board for children $\\leq 2$ years"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 375,
+      "preview": "- Obtain standing height for children $>2$ years"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 376,
+      "preview": "- Use adult length board or alternate measure of height for older children unable to stand"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 377,
+      "preview": "- Head Circumference"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 378,
+      "preview": "- Measured until 3 years of age"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 379,
+      "preview": "- Mid-Upper Arm Circumference"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 380,
+      "preview": "- Useful when weight skewed by fluid retention, casts or other medical devices"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 382,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Monitoring: Anthropometrics",
+      "line": 384
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 386,
+      "preview": "- Physical Exam"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 387,
+      "preview": "- Presence/absence of edema"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 388,
+      "preview": "- Cardiac status"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 389,
+      "preview": "- Liver size, jaundice"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 390,
+      "preview": "- Neurologic status"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 391,
+      "preview": "- Central venous catheter insertion sites"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 392,
+      "preview": "- Daily Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 393,
+      "preview": "- Weight"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 394,
+      "preview": "- Weekly Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 395,
+      "preview": "- Length or height"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 396,
+      "preview": "- Head circumference"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Anthropometrics",
+      "line": 398,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Monitoring: Labs and Radiology",
+      "line": 400
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 402,
+      "preview": "- Laboratory measurements must be obtained at baseline and periodically after initiation of PN"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 403,
+      "preview": "- Electrolytes, calcium, phosphorus, magnesium, blood glucose, albumin"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 404,
+      "preview": "- Renal function"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 405,
+      "preview": "- Liver function"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 406,
+      "preview": "- Vitamins and oligoelements"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 407,
+      "preview": "- Iron status"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 408,
+      "preview": "- Radiological monitoring includes"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 409,
+      "preview": "- Chest X-ray to assess positioning of the central line"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 410,
+      "preview": "- Bone densitometry"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 411,
+      "preview": "- Abdominal ultrasound"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 412,
+      "preview": "- Doppler of the veins or venography"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 414,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Monitoring: Labs and Radiology",
+      "line": 416
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 418,
+      "preview": "|  Parameter | Initially / Hospitalized | Home PN  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 419,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 420,
+      "preview": "|  Electrolytes, glucose, acid-base status, triglycerides | Daily to weekly | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 421,
+      "preview": "|  Calcium, phosphorus, magnesium | Twice weekly | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 422,
+      "preview": "|  BUN/creatinine | Weekly | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 423,
+      "preview": "|  Albumin | Weekly | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 424,
+      "preview": "|  Prealbumin | Weekly | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 425,
+      "preview": "|  Liver function (ALT, GGT, ALP, bilirubin) | Weekly | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 426,
+      "preview": "|  Complete blood count | Weekly | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 427,
+      "preview": "|  Ferritin, \\% saturation | As indicated | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 428,
+      "preview": "|  PTT | As indicated | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 429,
+      "preview": "|  TSH |  | Every 3 months  |"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology",
+      "line": 431,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 433
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 435,
+      "preview": "|  Parameter | Initially / Hospitalized | Home PN  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 436,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 437,
+      "preview": "|  Trace elements ( $\\mathrm{Zn}, \\mathrm{Mn}, \\mathrm{Cu}$ and ceruloplasmin, $\\mathrm{Se}, \\mathrm"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 438,
+      "preview": "|  Vitamins (folate, B12, A, 25-OH-D, E) |  | Biannually to annually  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 439,
+      "preview": "|  Carnitine | As indicated | Biannually to annually  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 440,
+      "preview": "|  CRP | As indicated | As indicated  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 441,
+      "preview": "|  Urinary sodium | As needed if excessive losses | As needed if excessive losses  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 442,
+      "preview": "|  Liver ultrasound |  | Annually  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 443,
+      "preview": "|  Bone densitometry |  | Annually  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 444,
+      "preview": "|  Vascular ultrasound |  | Annually  |"
+    },
+    {
+      "type": "table",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 445,
+      "preview": "|  Chest X-ray to assess position of central line | At placement | As needed  |"
+    },
+    {
+      "type": "text",
+      "section": "Monitoring: Labs and Radiology - Cont'd",
+      "line": 447,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#1",
+      "line": 449
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 451,
+      "preview": "- A 2-year-old boy with short bowel syndrome ( 70 cm of jejunum anastomosed to the transverse colon)"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 452,
+      "preview": "- Copper had been removed from his PN because of the cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 453,
+      "preview": "- He presents with microcytic anemia ( $\\mathrm{Hb} 6.3 \\mathrm{~g} / \\mathrm{dL}$ ) requiring weekl"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 454,
+      "preview": "- Investigation"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 455,
+      "preview": "- Abdominal ultrasound with doppler: no portal hypertension"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 456,
+      "preview": "- Fecal occult blood negative"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 457,
+      "preview": "- Folate, vitamin B12, vitamin E: normal"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 458,
+      "preview": "- Bone marrow biopsy: changes compatible with myelodysplasia"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 459,
+      "preview": "- What would you do?"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 461,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#1: Review",
+      "line": 463
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 465,
+      "preview": "- A 2-year-old boy with short bowel syndrome ( 70 cm of jejunum anastomosed to the transverse colon)"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 466,
+      "preview": "- A copper level was done. Copper was nearly undetectable"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 467,
+      "preview": "- Copper was added to PN and anemia, thrombocytopenia, and leucopenia resolved"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 468,
+      "preview": "- In case of copper deficiency, finds on bone marrow may mimic myelodysplastic syndrome"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 469,
+      "preview": "- Abdominal ultrasound with doppler: no portal hypertension"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 470,
+      "preview": "- Fecal occult blood negative"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 471,
+      "preview": "- Folate, vitamin B12, vitamin E: normal"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 472,
+      "preview": "- Bone marrow biopsy: changes compatible with myelodysplasia"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 473,
+      "preview": "- What would you do?"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1: Review",
+      "line": 475,
+      "preview": "--- page 35 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#2",
+      "line": 477
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 479,
+      "preview": "- During a regular follow up, the parents of a 12-year-old patient on home parenteral nutrition ment"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 480,
+      "preview": "- There are no other symptoms, fever resolves spontaneously within 1 hour and they elected not to se"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 481,
+      "preview": "- When questioned, they mention that the episodes of fever seem to occur shortly after they connect "
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 482,
+      "preview": "- What is your next step?"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 484,
+      "preview": "--- page 36 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#2: Review",
+      "line": 486
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2: Review",
+      "line": 488,
+      "preview": "- During a cardiac follow up, the parents of a 12-year-old patient on some part - A blood culture wa"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2: Review",
+      "line": 489,
+      "preview": "- Peripheral vein: negative"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2: Review",
+      "line": 490,
+      "preview": "- The patient may detach and cause spikes of fever"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2: Review",
+      "line": 491,
+      "preview": "- A high index of suspicion is necessary when it comes to fever in a patient with a central line"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2: Review",
+      "line": 492,
+      "preview": "- The patient was admitted and treated with anti-fungal and the central line was replaced"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2: Review",
+      "line": 494,
+      "preview": "--- page 37 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case #3",
+      "line": 496
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 498,
+      "preview": "- An 8-year-old M with short bowel syndrome on long term PN is tolerating only small amounts of elem"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 499,
+      "preview": "- Patient is on PN with SMOFlipid ${ }^{\\circledR}$ and multivitamins daily"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 500,
+      "preview": "- He receives $2 \\mathrm{mEq} / \\mathrm{kg}$ of calcium (rec: $0.5-4 \\mathrm{mEq} / \\mathrm{kg}$ ) i"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 501,
+      "preview": "- Laboratory testing yields the following results"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 503,
+      "preview": "|  - Vit A | $67 \\mathrm{mcg} / \\mathrm{dL}$ | $(26-49)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 504,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 505,
+      "preview": "|  - Vit D | $18 \\mathrm{ng} / \\mathrm{dL}$ | $(30-100)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 506,
+      "preview": "|  - Vit E | $16 \\mathrm{mg} / \\mathrm{L}$ | $(4.6-14.8)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 507,
+      "preview": "|  - Calcium | $8.5 \\mathrm{mg} / \\mathrm{dL}$ | $(8.8-10.1)$  |"
+    },
+    {
+      "type": "table",
+      "section": "Case #3",
+      "line": 508,
+      "preview": "|  - Albumin | $2.5 \\mathrm{~g} / \\mathrm{dL}$ | $(3.8-5.4)$  |"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 510,
+      "preview": "- What adjustments do you make to his PN and supplements?"
+    },
+    {
+      "type": "text",
+      "section": "Case #3",
+      "line": 512,
+      "preview": "--- page 38 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#3: Review",
+      "line": 514
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 516,
+      "preview": "- A Interventions"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 517,
+      "preview": "- Vit A"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 518,
+      "preview": "- Vit A toxicity leads to complications including liver damage"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 519,
+      "preview": "- Plan: Decrease parenteral MVI to 3 days/week and recheck level in 3 months."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 520,
+      "preview": "- Vit D"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 521,
+      "preview": "- B"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 522,
+      "preview": "- Begin $75 \\mathrm{IU} / \\mathrm{kg}$ vitamin D enterally or as dissolvable quick melt."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 523,
+      "preview": "- Vit E"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 524,
+      "preview": "- Elevated levels are common with patients on SMOF."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 525,
+      "preview": "- Decreasing MVI to 3 days/week will address elevated vit E."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 526,
+      "preview": "- Calcium"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 527,
+      "preview": "- Correct calcium for low albumin."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 528,
+      "preview": "- Equation $=0.8(4(\\mathrm{nl}$ albumin $)-2.5$ (pt's albumin $))=1.2+8.5$ (serum Ca) $=9.7$."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 529,
+      "preview": "- Pt's Ca dose is within rec'd range. Corrected level is normal. No intervention required."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3: Review",
+      "line": 531,
+      "preview": "--- page 39 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Conclusion",
+      "line": 533
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 535,
+      "preview": "- A multidisciplinary team should be involved in the initiation and the follow up of patients on PN"
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 536,
+      "preview": "- Physician"
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 537,
+      "preview": "- Dietitian"
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 538,
+      "preview": "- Nurse"
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 539,
+      "preview": "- Pharmacist"
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 540,
+      "preview": "- Surgeon"
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 541,
+      "preview": "- Interventional radiologist"
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 542,
+      "preview": "- With adequate monitoring PN can be administered safely and complications can be minimized"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "b5eceaa366e31bfd.png",
+      "original_ref": "img-0.jpeg",
+      "page": 16,
+      "relative_path": "images/b5eceaa366e31bfd.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6PN Complications and Monitoring/images/b5eceaa366e31bfd.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b5eceaa366e31bfd"
+    },
+    {
+      "sha_name": "d26eea3d01739ead.png",
+      "original_ref": "img-1.jpeg",
+      "page": 16,
+      "relative_path": "images/d26eea3d01739ead.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6PN Complications and Monitoring/images/d26eea3d01739ead.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d26eea3d01739ead"
+    },
+    {
+      "sha_name": "80b1cda08e342fe4.png",
+      "original_ref": "img-2.jpeg",
+      "page": 16,
+      "relative_path": "images/80b1cda08e342fe4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6PN Complications and Monitoring/images/80b1cda08e342fe4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "80b1cda08e342fe4"
+    },
+    {
+      "sha_name": "cc97c7e02901645a.png",
+      "original_ref": "img-3.jpeg",
+      "page": 16,
+      "relative_path": "images/cc97c7e02901645a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6PN Complications and Monitoring/images/cc97c7e02901645a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "cc97c7e02901645a"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696126",
+    "ts": "2025-08-08T23:35:26.118235+00:00"
+  }
+}

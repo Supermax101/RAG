@@ -1,0 +1,663 @@
+{
+  "doc_id": "9_essentialfattyaciddeficiency__1d622d",
+  "original_filename": "9_EssentialFattyAcidDeficiency.pdf",
+  "md_path": "data/parsed/9_EssentialFattyAcidDeficiency/9_EssentialFattyAcidDeficiency.md",
+  "rmd_path": "data/parsed/9_EssentialFattyAcidDeficiency/9_EssentialFattyAcidDeficiency.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 4,
+      "content": "![img-0.jpeg](images/8c5f43f4bf7b01e4.png)"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 7,
+      "preview": "(C)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ESSENTIAL FATTY ACID DEFICIENCY (EFAD)",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "ESSENTIAL FATTY ACID DEFICIENCY (EFAD)",
+      "line": 15,
+      "preview": "Jay M Mirtallo, M.S., R.Ph., BCNSP, FASHP FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ESSENTIAL FATTY ACID DEFICIENCY (EFAD)",
+      "line": 16,
+      "preview": "The Ohio State University ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ESSENTIAL FATTY ACID DEFICIENCY (EFAD)",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVE",
+      "line": 30
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVE",
+      "line": 32,
+      "preview": "- Recognize essential fatty acid deficiency in parenteral nutrition patients."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ETIOLOGY",
+      "line": 35
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 37,
+      "preview": "- Most common cause of EFAD is the omission of ILE from PN"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 38,
+      "preview": "- Prescribing error"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 39,
+      "preview": "- Conserve product due to shortage"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 40,
+      "preview": "- Termed 'Fat-free PN'"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 41,
+      "preview": "- For EN (Enteral Nutrition)"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 42,
+      "preview": "- Inadequate linoleic acid intake"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 43,
+      "preview": "- Intestinal failure with fat intolerance and/or malabsorption as with short bowel syndrome"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 44,
+      "preview": "- Anytime the intake of linoleic acid is $<2-4 \\%$ and linolenic acid is $<0.25-0.5 \\%$ of energy re"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY",
+      "line": 46,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "EFAD SYMPTOMS",
+      "line": 48
+    },
+    {
+      "type": "text",
+      "section": "EFAD SYMPTOMS",
+      "line": 50,
+      "preview": "- Most noted is 'dry, scaly skin rash' known as scaly dermatitis"
+    },
+    {
+      "type": "text",
+      "section": "EFAD SYMPTOMS",
+      "line": 51,
+      "preview": "- Alopecia"
+    },
+    {
+      "type": "text",
+      "section": "EFAD SYMPTOMS",
+      "line": 52,
+      "preview": "- Hepatomegaly"
+    },
+    {
+      "type": "text",
+      "section": "EFAD SYMPTOMS",
+      "line": 53,
+      "preview": "- Thrombocytopenia"
+    },
+    {
+      "type": "text",
+      "section": "EFAD SYMPTOMS",
+      "line": 54,
+      "preview": "- Fatty liver"
+    },
+    {
+      "type": "text",
+      "section": "EFAD SYMPTOMS",
+      "line": 55,
+      "preview": "- Impairment in immune function and wound healing"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 58
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 60,
+      "preview": "| Oils | Linoleic acid | Linolenic acid |"
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 61,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 62,
+      "preview": "| Soybean ${ }^{*}$ | 54 | 7 |"
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 63,
+      "preview": "| Safflower | 77 | Trace |"
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 64,
+      "preview": "| Sunflower | 69 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 65,
+      "preview": "| Canola | 22 | 10 |"
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 66,
+      "preview": "| Corn | 61 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 67,
+      "preview": "| *Source for both enteral and parenteral diets |  |  |"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF ESSENTIAL FATTY ACIDS",
+      "line": 69,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MONITORING",
+      "line": 71
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Assess for Symptoms at Risk:",
+      "line": 73
+    },
+    {
+      "type": "text",
+      "section": "Assess for Symptoms at Risk:",
+      "line": 75,
+      "preview": "- Malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "Assess for Symptoms at Risk:",
+      "line": 76,
+      "preview": "- Documented poor nutritional intake in the past month"
+    },
+    {
+      "type": "text",
+      "section": "Assess for Symptoms at Risk:",
+      "line": 77,
+      "preview": "- Intestinal failure"
+    },
+    {
+      "type": "text",
+      "section": "Assess for Symptoms at Risk:",
+      "line": 78,
+      "preview": "- Fat malabsorption"
+    },
+    {
+      "type": "text",
+      "section": "Assess for Symptoms at Risk:",
+      "line": 79,
+      "preview": "- Short bowel syndrome"
+    },
+    {
+      "type": "text",
+      "section": "Assess for Symptoms at Risk:",
+      "line": 80,
+      "preview": "- Fat-free PN"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING",
+      "line": 83
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 85,
+      "preview": "- Biochemical:"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 86,
+      "preview": "- Triene:Tetraene ratio (also known as Holman index)"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 87,
+      "preview": "- Value of 0.2 indicates biochemical changes"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 88,
+      "preview": "- May be identified in 7-10 days of Fat-free PN"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 89,
+      "preview": "- 0.4 most often associated with symptoms"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 90,
+      "preview": "- Usually appear after 3 weeks of Fat-free PN"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 91,
+      "preview": "- Prevention is recommended"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 92,
+      "preview": "- Provide 2-4\\% of energy as linoleic acid and 0.25-0.5\\% if energy as linolenic acid"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING",
+      "line": 94,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 96
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 98,
+      "preview": "- Patients receiving enteral or parenteral nutrition are at risk for micronutrient and essential fat"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 99,
+      "preview": "- Deficiency symptoms take time to manifest and are more likely to be caused by inadequate dosing of"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 100,
+      "preview": "- Monitoring should be established to identify deficiencies early however, prevention by providing a"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 103
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 105,
+      "preview": "- Kumpf VJ, Gervasio J. Complications of parenteral nutrition. In: Mueller CM, ed. The ASPEN Adult N"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 106,
+      "preview": "- Hise M, Brown JL. Lipids. In: Mueller CM, ed. The ASPEN Adult Nutrition Support Core Curriculum. 3"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 108,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 110,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 112,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 114,
+      "content": "![img-1.jpeg](images/4d44f444ade286bb.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 116,
+      "preview": "Jay M. Mirtallo, M.S., R.Ph, BCNSP, FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 117,
+      "preview": "The Professor Emeritus"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 118,
+      "preview": "The Ohio State University, College of Pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 119,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 120,
+      "preview": "American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 121,
+      "preview": "Delaware, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 122,
+      "preview": "As one of the pharmacy specialist pioneers, Professor Mirtallo was instrumental in leading cost-effe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 124,
+      "preview": "Professor Mirtallo has been very active in professional societies and is Past President of the Ameri"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 126,
+      "preview": "As a representative to the Joint Commission, he served on the task force that created the Nutrition "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 128,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 130
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 132,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 134,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 136,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 138,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 139,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 140,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 141,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 142,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 144,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 146,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 148
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 150,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 152,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 154
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 156,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 158
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 160,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 162,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "8c5f43f4bf7b01e4.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/8c5f43f4bf7b01e4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_EssentialFattyAcidDeficiency/images/8c5f43f4bf7b01e4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8c5f43f4bf7b01e4"
+    },
+    {
+      "sha_name": "4d44f444ade286bb.png",
+      "original_ref": "img-1.jpeg",
+      "page": 7,
+      "relative_path": "images/4d44f444ade286bb.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_EssentialFattyAcidDeficiency/images/4d44f444ade286bb.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4d44f444ade286bb"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696267",
+    "ts": "2025-08-08T23:37:47.073897+00:00"
+  }
+}

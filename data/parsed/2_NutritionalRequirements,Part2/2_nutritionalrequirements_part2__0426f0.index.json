@@ -1,0 +1,2871 @@
+{
+  "doc_id": "2_nutritionalrequirements_part2__0426f0",
+  "original_filename": "2_NutritionalRequirements,Part2.pdf",
+  "md_path": "data/parsed/2_NutritionalRequirements,Part2/2_NutritionalRequirements,Part2.md",
+  "rmd_path": "data/parsed/2_NutritionalRequirements,Part2/2_NutritionalRequirements,Part2.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Nutritional",
+      "line": 2
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 4,
+      "preview": "Requirements, Part 2"
+    },
+    {
+      "type": "image",
+      "section": "Nutritional",
+      "line": 5,
+      "content": "![img-0.jpeg](images/9c01a79eee8ab186.png)"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 7,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 8,
+      "preview": "\u00a92022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITIONAL REQUIREMENTS",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS",
+      "line": 15,
+      "preview": "PART 2"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS",
+      "line": 16,
+      "preview": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS",
+      "line": 17,
+      "preview": "University of Texas MD Anderson"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS",
+      "line": 18,
+      "preview": "Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS",
+      "line": 20,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22
+    },
+    {
+      "type": "image",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "content": "![img-1.jpeg](images/95661183b74a919d.png)"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "No one in control of the content of this activity has a relevant financial relationship (RFR) with a"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence in Accredited Continuing Education definit"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Assess the electrolyte content of an initial parenteral nutrition formulation."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Recommend appropriate electrolyte content adjustments in a parenteral nutrition order, based on a "
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Discuss the importance of providing the full dose of intravenous multivitamin daily in parenteral "
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Evaluate the trace element content of a parenteral nutrition formulation."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 38,
+      "preview": "- Discuss the assessment timeline and potential consequences for continuing \"empiric\" additions or d"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 41
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- AA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- ABW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- ALA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- CrCl :"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- Dex:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- EFA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- EFAD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "- Gl:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "- IBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "amino acids"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "adjusted body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "alpha-linolenic acid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "creatinine clearance"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "essential fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 60,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 61,
+      "preview": "gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 62,
+      "preview": "ideal body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 64,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 66
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 68,
+      "preview": "- ILE: lipid injectable emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 69,
+      "preview": "- IV: intravenous"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 70,
+      "preview": "- LA: linoleic acid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 71,
+      "preview": "- MCT: medium chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 72,
+      "preview": "- NPO: nil per os (nothing by mouth)"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 73,
+      "preview": "- PN: parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 74,
+      "preview": "- CRRT: continuous renal replacement therapy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 75,
+      "preview": "- TBW: total body water"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 78
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 80,
+      "preview": "RC is a malnourished 52-year-old male with a postoperative ileus on hospital day 3. His nasogastric "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 81,
+      "preview": "A. Sodium, Phosphorus and Calcium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 82,
+      "preview": "B. Sodium and Potassium only"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 83,
+      "preview": "C. Potassium and Magnesium only"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 84,
+      "preview": "D. Potassium, Phosphorus and Magnesium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 86,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 88
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 90,
+      "preview": "- Evaluate all measurable electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 91,
+      "preview": "- Rarely is there only one electrolyte abnormality"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 92,
+      "preview": "- Evaluate patient's renal (blood urea nitrogen, serum creatinine) \\& GI function"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 93,
+      "preview": "- What is their urine output?"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 94,
+      "preview": "- Normally $0.5-2 \\mathrm{~mL} / \\mathrm{kg} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 95,
+      "preview": "- What is their GI anatomy?"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 96,
+      "preview": "- Prior surgeries or medical history"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 97,
+      "preview": "- Evaluate medications for drug-nutrient interactions"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT SPECIFIC ELECTROLYTE CONSIDERATIONS",
+      "line": 99,
+      "preview": "Canada TW et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017:113-37."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 101
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 103,
+      "preview": "- Most abnormal electrolytes need to be corrected over a chronic period"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 104,
+      "preview": "- 3 to 7 days in most patients to replace total body stores"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 105,
+      "preview": "- Substantial portions ( $>50 \\%$ ) of the electrolyte may be lost in the urine"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 106,
+      "preview": "- Serum concentrations approximate renal threshold"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 107,
+      "preview": "- Infusion may exceed the renal reabsorption threshold of the electrolyte"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 108,
+      "preview": "- Most are approximately 90-99\\% reabsorbed by kidney"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE REPLACEMENT CONSIDERATIONS",
+      "line": 110,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CORRECTING ELECTROLYTE DISORDERS",
+      "line": 112
+    },
+    {
+      "type": "image",
+      "section": "CORRECTING ELECTROLYTE DISORDERS",
+      "line": 114,
+      "content": "![img-2.jpeg](images/4f56eb7ebda1a0dd.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "LAG TIME BETWEEN LAB DRAWS AND INITIATION OF PN INPATIENT",
+      "line": 116
+    },
+    {
+      "type": "image",
+      "section": "LAG TIME BETWEEN LAB DRAWS AND INITIATION OF PN INPATIENT",
+      "line": 118,
+      "content": "![img-3.jpeg](images/09f4109c6384fe18.png)"
+    },
+    {
+      "type": "text",
+      "section": "LAG TIME BETWEEN LAB DRAWS AND INITIATION OF PN INPATIENT",
+      "line": 120,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CORRECTING ELECTROLYTE DISORDERS",
+      "line": 122
+    },
+    {
+      "type": "image",
+      "section": "CORRECTING ELECTROLYTE DISORDERS",
+      "line": 124,
+      "content": "![img-4.jpeg](images/13d1966887faa978.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 126
+    },
+    {
+      "type": "image",
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 128,
+      "content": "![img-5.jpeg](images/0f112e7542ef57b2.png)"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 130,
+      "preview": "| Electrolyte | Standard Daily <br> Requirement | Factors Increasing <br> Daily Requirement | Salts "
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 131,
+      "preview": "| :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 132,
+      "preview": "| Sodium | $1-2 \\mathrm{mEq} / \\mathrm{kg}^{*}$ | Diarrhea, vomiting, <br> nasogastric or Gl <br> lo"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 133,
+      "preview": "| Potassium | $1-2 \\mathrm{mEq} / \\mathrm{kg}^{*}$ | Diarrhea, vomiting, <br> nasogastric or Gl <br>"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 135,
+      "preview": "* Multiple salts may be used to meet dosage"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS",
+      "line": 137,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 139
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 141,
+      "preview": "|  Electrolyte | Standard Daily"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 142,
+      "preview": "Requirement | Factors Increasing"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 143,
+      "preview": "Daily Requirement | Salts Available | Therapeutic"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 144,
+      "preview": "Index  |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 145,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 146,
+      "preview": "|  Chloride | As needed to"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 147,
+      "preview": "maintain acid-base"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 148,
+      "preview": "balance | Metabolic alkalosis,"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 149,
+      "preview": "vomiting or nasogastric"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 150,
+      "preview": "losses | NaCl, KCl,"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 151,
+      "preview": "Magnesium"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 152,
+      "preview": "chloride | Wide  |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 153,
+      "preview": "|  Acetate* | As needed to"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 154,
+      "preview": "maintain acid-base"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 155,
+      "preview": "balance | Acute/Chronic kidney"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 156,
+      "preview": "disease, metabolic"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 157,
+      "preview": "acidosis, ileostomy,"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 158,
+      "preview": "diarrhea | NaAcetate,"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 159,
+      "preview": "KAcetate | Wide  |"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 161,
+      "preview": "- Liver function must be adequate to convert to bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 163,
+      "preview": "*Mirtallo J et al. JPEN J Parent Enteral Nutr. 2004; 28:S39-S70.*"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 165
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 167,
+      "preview": "|  Electrolyte | Standard Daily"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 168,
+      "preview": "Requirement | Factors Increasing Daily"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 169,
+      "preview": "Requirement | Salts Available | Therapeutic"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 170,
+      "preview": "Index  |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 171,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 172,
+      "preview": "|  Calcium | $10-15 \\mathrm{mEq}$ | Vitamin D deficiency,"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 173,
+      "preview": "acute pancreatitis,"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 174,
+      "preview": "parathyroidectomy | Calcium gluconate"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 175,
+      "preview": "preferred | Narrow  |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 176,
+      "preview": "|  Magnesium | $8-20 \\mathrm{mEq}$ | Diarrhea, ileostomy,"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 177,
+      "preview": "diuretics, diabetes"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 178,
+      "preview": "mellitus, alcoholism,"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 179,
+      "preview": "refractoryhypokalemia | Magnesium"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 180,
+      "preview": "sulfate,"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 181,
+      "preview": "Magnesium"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 182,
+      "preview": "chloride | Wide  |"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 183,
+      "preview": "|  Phosphate | $20-40 \\mathrm{mmol}^{\\star}$ | Insulin, dextrose"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 184,
+      "preview": "administration, alcoholics,"
+    },
+    {
+      "type": "table",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 185,
+      "preview": "refeeding syndrome | $\\mathrm{NaPO}_{4}, \\mathrm{KPO}_{4}$ | Wide  |"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 187,
+      "preview": "- Multiple salts may be used to meet dosage"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 189,
+      "preview": "Mirtallo J et al. JPEN J Parent Enteral Nutr. 2004; 28:S39-S70."
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING ELECTROLYTE NEEDS, CONT.",
+      "line": 191,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 193
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 195,
+      "preview": "- What is the bioavailability of the specified route of administration?"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 196,
+      "preview": "- Oral, nasogastric tube, nasojejunostomy tube"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 197,
+      "preview": "- Dependent on rate of administration, tolerance"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 198,
+      "preview": "- May be $<70 \\%$ with distention, ileus, diarrhea, vomiting, prior surgical resection(s) of small i"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 199,
+      "preview": "- Absence of ileocecal valve results in increased colonic transit times"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 200,
+      "preview": "- Central or Peripheral IV"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 201,
+      "preview": "- 100\\% bioavailable as bypassing Gl tract"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 202,
+      "preview": "- Is the rate of administration safe for electrolytes?"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 203,
+      "preview": "- Oral is always safer than IV administration"
+    },
+    {
+      "type": "text",
+      "section": "DIFFERENCES IN EN VS PN PROVISION",
+      "line": 204,
+      "preview": "\u00bb If the Gl tract is functional"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 207
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 209,
+      "preview": "RC is a malnourished 52-year-old male with a postoperative ileus on hospital day 3. His nasogastric "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 210,
+      "preview": "A. Sodium, Phosphorus and Calcium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 211,
+      "preview": "B. Sodium and Potassium only"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 212,
+      "preview": "C. Potassium and Magnesium only"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 213,
+      "preview": "D. Potassium, Phosphorus and Magnesium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 215,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 217
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 219,
+      "preview": "RC is a malnourished 52-year-old male with a postoperative ileus on hospital day 3. His nasogastric "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 220,
+      "preview": "A. Sodium, Phosphorus and Calcium"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 221,
+      "preview": "B. Sodium and Potassium only"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 222,
+      "preview": "C. Potassium and Magnesium only"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 223,
+      "preview": "D. Potassium, Phosphorus and Magnesium"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 225
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 227,
+      "preview": "- Multivitamins"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 228,
+      "preview": "- Adult MVI"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 229,
+      "preview": "- Daily requirement of 10 mL"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 230,
+      "preview": "- During shortages reserve supply for long-term PN patients"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 231,
+      "preview": "- Additional Thiamine 100 mg if no MVI supply"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 232,
+      "preview": "- Thiamine is required to convert dextrose for use in the Krebs Cycle"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 233,
+      "preview": "- In thiamine deficiency, dextrose leads to excessive production of lactate"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 235,
+      "preview": "Mundi MS et al. JPEN J Parenter Enteral Nutr. 2017; 41(4):535-49."
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN REQUIREMENTS",
+      "line": 237,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 239
+    },
+    {
+      "type": "table",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 241,
+      "preview": "| Trace Element | Standard Daily <br> Requirement | Factors Affecting Daily <br> Requirement | Long-"
+    },
+    {
+      "type": "table",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 242,
+      "preview": "| :-- | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 243,
+      "preview": "| Zinc | $2.5-5 \\mathrm{mg}$ | Increased for diarrhea, Gl losses, <br> burns | No |"
+    },
+    {
+      "type": "table",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 244,
+      "preview": "| Copper | $0.3-0.5 \\mathrm{mg}$ | Increasedfor burns or CRRT, <br> Reduce in severe hepatic <br> dy"
+    },
+    {
+      "type": "table",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 245,
+      "preview": "| Selenium | $60-100 \\mathrm{mcg}$ | Increased for CRRT | No |"
+    },
+    {
+      "type": "table",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 246,
+      "preview": "| Manganese | 55 mcg | Reduce in severe hepatic <br> dysfunction or cholestasis | Yes |"
+    },
+    {
+      "type": "table",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 247,
+      "preview": "| Chromium | None | Common parenteral contaminant | Yes |"
+    },
+    {
+      "type": "text",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 249,
+      "preview": "Mirtallo J et al. JPEN J ParentEnteral Nutr. 2004; 28:S39-S70."
+    },
+    {
+      "type": "text",
+      "section": "MICRONUTRIENTS (TRACE ELEMENTS)",
+      "line": 250,
+      "preview": "Vanek VW et al. Nutr Clin Pract. 2015; 30(4):559-69."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 252
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 254,
+      "preview": "- Multivitamin shortages create the greatest risk for long-term PN patients"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 255,
+      "preview": "- Minimum of 10 mL three times per week"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 256,
+      "preview": "- Use individual vitamins if available"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 257,
+      "preview": "- Thiamine, folic acid, cyanocobalamin"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 258,
+      "preview": "- Oral or enteral vitamin preparations"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 259,
+      "preview": "- Trace elements concerns with commercially available multi-component products"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 260,
+      "preview": "- Manganese toxicity with Parkinson's disease"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 261,
+      "preview": "- Copper deposition in liver with possible Wilson's disease"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 262,
+      "preview": "- If trace elements are removed for worsening hepatic disease"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 263,
+      "preview": "- Reassess after 4 weeks (Serum monitoring in select patients)"
+    },
+    {
+      "type": "text",
+      "section": "VITAMIN AND TRACE ELEMENTS LONG-TERM CONSIDERATIONS",
+      "line": 265,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 267
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 269,
+      "preview": "RC is a malnourished 52-year-old male with a postoperative ileus on hospital day 3. His weight is 60"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 271,
+      "preview": "How would you determine his PN goal and initiation?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 273
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 275,
+      "preview": "- Step 1 - What is your dosing weight? 60 kg"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 276,
+      "preview": "- Step 2 - How much protein is needed? $1.5 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 277,
+      "preview": "- Step 3 - How many calories are needed? $25 \\mathrm{kcal} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 278,
+      "preview": "- Step 4 - What is your volume limit? $2100 \\mathrm{~mL} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 279,
+      "preview": "- Step 5 - Is the patient malnourished or NPO > 7 days? Yes"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 280,
+      "preview": "- Step 6 - Any electrolyte disorders present? Yes"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 281,
+      "preview": "- Step 7 - Is renal function normal? Yes"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 282,
+      "preview": "- Step 8 - What electrolyte dosages are needed?"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 283,
+      "preview": "- Step 9 - What other items should be added?"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 284,
+      "preview": "- Step 10 - Can the current PN be administered peripherally or centrally?"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 285,
+      "preview": "- Step 11 - When should the PN be advanced to goal?"
+    },
+    {
+      "type": "text",
+      "section": "HOW TO WRITE A PN ORDER",
+      "line": 287,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ORDER STEP 2",
+      "line": 289
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 291,
+      "preview": "- Step 2 - How much protein is needed?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 292,
+      "preview": "- Daily protein requirement"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 293,
+      "preview": "- Minimum: $0.8 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 294,
+      "preview": "- Stable: $0.8-1 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 295,
+      "preview": "- Critically ill: $1.2-2 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 296,
+      "preview": "- Obesity: 2 - 2.5 g IBW/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 297,
+      "preview": "- ( 1.5 g Protein $/ \\mathrm{kg} /$ day (post-operative) $\\times 60 \\mathrm{~kg})=90 \\mathrm{~g}$ Pr"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 298,
+      "preview": "- $(90 \\mathrm{~g}$ Protein $\\times 4 \\mathrm{kcal} / \\mathrm{g})=360 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 299,
+      "preview": "- Stock Amino Acids $10 \\%=10 \\mathrm{~g} / 100 \\mathrm{~mL}=100 \\mathrm{~g} / 1000 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 2",
+      "line": 300,
+      "preview": "- 90 g Protein $=900 \\mathrm{~mL}$ Stock Amino Acids $10 \\%$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN ORDER STEP 3",
+      "line": 303
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 305,
+      "preview": "- Step 3 - How many calories are needed?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 306,
+      "preview": "- Daily total caloric requirement"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 307,
+      "preview": "$-20-30 \\mathrm{kcal} / \\mathrm{kg} /$ day $\\times 60 \\mathrm{~kg}=1200-1800 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 308,
+      "preview": "- $1500 \\mathrm{kcal} /$ day is our selection"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 309,
+      "preview": "- ( 4 g Dextrose $/ \\mathrm{kg} /$ day $\\times 60 \\mathrm{~kg})=240 \\mathrm{~g}$ Dextrose/day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 310,
+      "preview": "- $((240 \\mathrm{~g}$ Dextrose/day $\\div 60 \\mathrm{~kg}) \\times 1000 \\mathrm{mg} / \\mathrm{g}) \\div"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 311,
+      "preview": "- $(240 \\mathrm{~g}$ Dextrose $\\times 3.4 \\mathrm{kcal} / \\mathrm{g})=816 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 312,
+      "preview": "- Stock Dextrose $70 \\%=70 \\mathrm{~g} / 100 \\mathrm{~mL}=700 \\mathrm{~g} / 1000 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 313,
+      "preview": "- 240 g Dextrose $=342 \\mathrm{~mL}$ Stock Dextrose $70 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3",
+      "line": 315,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 317
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 319,
+      "preview": "- Step 3 - How many calories are needed?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 320,
+      "preview": "- Daily total caloric requirement"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 321,
+      "preview": "- (1500 kcal/day (our selection) - 816 kcal Dextrose/day) $=684 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 322,
+      "preview": "- (684 kcal/day - 360 kcal Protein/day) $=324 \\mathrm{kcal} /$ day as ILE"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 323,
+      "preview": "- (324 kcal/day $\\div 10 \\mathrm{kcal} / \\mathrm{g}(20 \\% \\mathrm{ILE}))=32 \\mathrm{~g}$ ILE/day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 324,
+      "preview": "- Stock 20\\% ILE $=20 \\mathrm{~g} / 100 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 325,
+      "preview": "- 32 g ILE/day $=160 \\mathrm{~mL}$ Stock 20\\% ILE"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 326,
+      "preview": "- 816 kcal Dextrose +360 kcal Protein +320 kcal ILE $=1496 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 3, CONT.",
+      "line": 327,
+      "preview": "- $25 \\mathrm{kcal} / \\mathrm{kg} /$ day based upon dosing weight of 60 kg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN ORDER STEP 4",
+      "line": 330
+    },
+    {
+      "type": "image",
+      "section": "PN ORDER STEP 4",
+      "line": 332,
+      "content": "![img-6.jpeg](images/9329333f7e9bfc9f.png)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4",
+      "line": 334,
+      "preview": "- Step 4 - What is your volume limit?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4",
+      "line": 335,
+      "preview": "- Daily volume estimation"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4",
+      "line": 336,
+      "preview": "- Age and weight based"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4",
+      "line": 338,
+      "preview": "Most adults (18-55 yrs) ( $35 \\mathrm{~mL} / \\mathrm{kg} /$ day $\\times 60 \\mathrm{~kg})=2100 \\mathr"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4",
+      "line": 340,
+      "preview": "- [2100 mL/day (our selection) - ( 900 mL Stock Amino Acids 10\\% + 342 mL Stock Dextrose $70 \\%+160 "
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4",
+      "line": 341,
+      "preview": "- Therefore, add 698 mL of Sterile Water for Injection for a total volume of $2100 \\mathrm{~mL} /$ d"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4",
+      "line": 343,
+      "preview": "| Final Amino Acid 4.3\\% |"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4",
+      "line": 344,
+      "preview": "| :-- |"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4",
+      "line": 345,
+      "preview": "| Final Dextrose 11.4\\% |"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4",
+      "line": 346,
+      "preview": "| Final ILE 1.5\\% |"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4",
+      "line": 348,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 350
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 352,
+      "preview": "- Not stable as a 3-in-1, also known as a total nutrient admixture"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 353,
+      "preview": "- Ideally final amino acid $\\geq 4 \\%+$ dextrose $\\geq 10 \\%+$ ILE $\\geq 2 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 354,
+      "preview": "- Change dose of ILE to 50 g to meet above recommendations ( $1676 \\mathrm{kcal} /$ day $)$"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 356,
+      "preview": "| Final Amino Acid 4.3\\% |"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 357,
+      "preview": "| :-- |"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 358,
+      "preview": "| Final Dextrose 11.4\\% |"
+    },
+    {
+      "type": "table",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 359,
+      "preview": "| Final ILE 2.4\\% |"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 361,
+      "preview": "- May alternatively use PN formulation without sterile water for injection only adding amino acids, "
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 4, CONT.",
+      "line": 362,
+      "preview": "- IV fluids may be infusing for other IV medications (e.g., patient controlled analgesia, antimicrob"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN ORDER STEP 5",
+      "line": 365
+    },
+    {
+      "type": "image",
+      "section": "PN ORDER STEP 5",
+      "line": 367,
+      "content": "![img-7.jpeg](images/9329333f7e9bfc9f.png)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 369,
+      "preview": "- Step 5 - Is the patient malnourished or NPO $>7$ days?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 370,
+      "preview": "- Yes"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 371,
+      "preview": "- Start with 2 g Dextrose $/ \\mathrm{kg} /$ day to prevent refeeding and assess glucose tolerance"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 372,
+      "preview": "- 120 g Dextrose/day $=171 \\mathrm{~mL}$ Stock Dextrose $70 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 373,
+      "preview": "- No"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 374,
+      "preview": "- Start with 3 g Dextrose/kg/day to assess glucose tolerance"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 375,
+      "preview": "- 180 g Dextrose/day $=257 \\mathrm{~mL}$ Stock Dextrose $70 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 376,
+      "preview": "- Begin 1 g Protein/kg/day with either of the above"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 377,
+      "preview": "- (1 g Protein/kg/day (post-operative) $\\times 60 \\mathrm{~kg}$ ) $=60 \\mathrm{~g}$ Protein/day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 5",
+      "line": 379,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 381
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 383,
+      "preview": "- Day 1 Malnourished PN regimen"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 384,
+      "preview": "- PN Volume $=2100 \\mathrm{~mL} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 385,
+      "preview": "- 600 mL Stock Amino Acids 10\\%"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 386,
+      "preview": "- 171 mL Stock Dextrose 70\\%"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 387,
+      "preview": "- 1329 mL Sterile Water for Injection"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 388,
+      "preview": "- 240 kcal from Protein +407 kcal from Dextrose $=648 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 389,
+      "preview": "- Step 6 - Any electrolyte disorders present?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 390,
+      "preview": "- Yes"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 391,
+      "preview": "- Potassium $3.2 \\mathrm{mEq} / \\mathrm{L}$, Phosphorus $2.5 \\mathrm{mg} / \\mathrm{dL}$, Magnesium $"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 392,
+      "preview": "- Step 7 - Is renal function normal?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 393,
+      "preview": "- Yes"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 394,
+      "preview": "- Serum creatinine $0.9 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 396,
+      "preview": "Final Amino Acid 2.9\\%"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 397,
+      "preview": "Final Dextrose 5.7\\%"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 398,
+      "preview": "- Step 8 - What electrolyte dosages are needed?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 400,
+      "preview": "- Sodium 1-2 mEq/kg $\\times 60 \\mathrm{~kg}=60-120 \\mathrm{mEq} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 401,
+      "preview": "- Select 120 mEq (wide therapeutic index)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 402,
+      "preview": "- 57 mEq Sodium/L of current PN (2.1 L)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 403,
+      "preview": "- Phosphate 20-40 mmol* (wide therapeutic index)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 404,
+      "preview": "- Select $40 \\mathrm{mmol} /$ day as Potassium Phosphate $=59 \\mathrm{mEq}$ of Potassium/day"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 405,
+      "preview": "- Approximately 19 mmol Phosphate/L of current PN (2.1 L)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 406,
+      "preview": "* Based on compatibility limits with calcium"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEPS 6 \\& 7",
+      "line": 408,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 410
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 412,
+      "preview": "- Step 8 - What electrolyte dosages are needed?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 413,
+      "preview": "- Potassium 1-2 mEq/kg $\\times 60 \\mathrm{~kg}=60-120 \\mathrm{mEq} /$ day (narrow therapeutic index)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 414,
+      "preview": "- Select 90 mEq /day - potassium contribution from Potassium Phosphate"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 415,
+      "preview": "- Therefore, add 30 mEq Potassium Chloride/day for a total of 89 mEq"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 416,
+      "preview": "- 42 mEq Potassium/L of current PN (2.1 L)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 417,
+      "preview": "- Magnesium 8-20 mEq"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 418,
+      "preview": "- Select 20 mEq/day (wide therapeutic index)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 421
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 423,
+      "preview": "- Step 8 - What electrolyte dosages are needed? Calcium 10-15 mEq*"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 424,
+      "preview": "- Select 10 mEq of Calcium Gluconate"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 425,
+      "preview": "- Approximately 4.8 mEq Calcium/L of current PN (2.1 L)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 426,
+      "preview": "- Check manufacturer information for compatibility"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 427,
+      "preview": "- Unable to add dose based upon graphs on next slide"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 428,
+      "preview": "* Based on compatibility limits with calcium"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 430,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 432
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 434,
+      "preview": "- Determine appropriate compatibility curve for the brand of amino acids"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 436,
+      "preview": "1. Final PN volume (L)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 437,
+      "preview": "2. Final amino acid concentration (\\%)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 438,
+      "preview": "3. Final dextrose concentration (\\%)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 439,
+      "preview": "4. Final calcium gluconate concentration (mEq/L)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 440,
+      "preview": "5. Final phosphate concentration (mmol/L)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 441,
+      "preview": "6. Select the most appropriate curve (use most conservative estimate)"
+    },
+    {
+      "type": "image",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 442,
+      "content": "![img-8.jpeg](images/b99e493308c2b67c.png)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 8, CONT.",
+      "line": 444,
+      "preview": "Higher concentrations of amino acids and dextrose improve solubility of calciumphosphate"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN ORDER STEP 9",
+      "line": 446
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 448,
+      "preview": "- Step 9 - What other items should be added?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 449,
+      "preview": "- Multivitamins (consider adding additional thiamine)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 450,
+      "preview": "- Trace Elements (zinc, copper, selenium, manganese)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 451,
+      "preview": "- $\\mathrm{H}_{2}$ antagonist (ranitidine, famotidine)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 452,
+      "preview": "- Regular Human Insulin"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 453,
+      "preview": "- What is the baseline serum glucose?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 454,
+      "preview": "- Should insulin be added initially?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 455,
+      "preview": "- Only if serum glucoses dictate ( $>180 \\mathrm{mg} / \\mathrm{dL}$ )"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 456,
+      "preview": "- How much with 120 g Dextrose/day in current PN?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 457,
+      "preview": "- 12 units Regular Insulin is 1 unit Insulin for every 10 g of Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 9",
+      "line": 459,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ORDER STEP 10",
+      "line": 461
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 463,
+      "preview": "- Step 10 - Can the current PN be administered peripherally or centrally?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 464,
+      "preview": "- Final Concentrations = Dextrose 5.7\\%, Amino Acids 2.9\\%"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 466,
+      "preview": "Dextrose $5.7 \\% \\times 50=$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 467,
+      "preview": "285 mOsm/L"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 468,
+      "preview": "Amino Acids $2.9 \\% \\times 100=$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 469,
+      "preview": "290 mOsm/L"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 470,
+      "preview": "Electrolytes (1 per mEq) $=$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 471,
+      "preview": "229 mOsm/L"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 472,
+      "preview": "Total Osmolarity $=$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 473,
+      "preview": "804 mOsm/L"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 474,
+      "preview": "(ILE contributes 15"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 475,
+      "preview": "mOsm/Lper 1\\%"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 476,
+      "preview": "final concentration when added)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 478,
+      "preview": "- Infusion Nurses Society"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 479,
+      "preview": "- Maximum osmolarity of 500 mOsm/L for peripheral IV"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 480,
+      "preview": "- Nutrition Support literature"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 481,
+      "preview": "- Maximum of $900 \\mathrm{mOsm} / \\mathrm{L}$ for peripheral PN"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 482,
+      "preview": "- Yes, it can be administered peripherally or centrally"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 10",
+      "line": 484,
+      "preview": "Mirtallo J et al.JPEN J Parent Enteral Nutr. 2004; 28:S39-S70."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN ORDER STEP 11",
+      "line": 486
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 488,
+      "preview": "- Step 11 - When should the PN be advanced to goal?"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 489,
+      "preview": "- When electrolytes are trending the right way or corrected"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 490,
+      "preview": "- Potassium, phosphorus, magnesium"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 491,
+      "preview": "- Sodium may be falsely low from hyperglycemia or hypertriglyceridemia"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 492,
+      "preview": "- When serum glucoses are consistently $<180 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 493,
+      "preview": "- Generally within 72-96 hours"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 494,
+      "preview": "- Serum triglycerides are acceptable ( $<400 \\mathrm{mg} / \\mathrm{dL}$ )"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 495,
+      "preview": "- Separate ILE (based upon bag sizes - 100, 250, 500 mL )"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 496,
+      "preview": "- Total Nutrient Admixture (requires $\\geq 2 \\%$ final ILE for stability)"
+    },
+    {
+      "type": "text",
+      "section": "PN ORDER STEP 11",
+      "line": 498,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GENERAL GUIDELINES FOR PN INITIATION",
+      "line": 500
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION",
+      "line": 502,
+      "preview": "- Provide at least 1 g protein $/ \\mathrm{kg} /$ day (based on dosing weight) for nitrogen losses re"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION",
+      "line": 503,
+      "preview": "- Otherwise gluconeogenesis continues to catabolize muscle as an energy source"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION",
+      "line": 504,
+      "preview": "- Provide at least 2 g dextrose $/ \\mathrm{kg} /$ day (based on dosing weight) for proteinsparing ef"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION",
+      "line": 505,
+      "preview": "- Evaluate for the addition of at least 1 unit of regular insulin for every 10 grams of dextrose if "
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION",
+      "line": 506,
+      "preview": "- More conservative insulin dosing may be needed in underweight patients"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION",
+      "line": 508,
+      "preview": "Doig GS et al. LancetRespir Med. 2015; 3(12):943-52."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 510
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 512,
+      "preview": "- If serum phosphorus $<2 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 513,
+      "preview": "- Start with $480 \\mathrm{kcal} /$ day for at least 2 days"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 514,
+      "preview": "- Then $960 \\mathrm{kcal} /$ day for 1 day"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 515,
+      "preview": "- Then $1440 \\mathrm{kcal} /$ day or $80 \\%$ of energy goal (whichever is lower) for 1 day"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 516,
+      "preview": "- Then $100 \\%$ of energy goal until serum electrolytes and glucoses are stabilized"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 518,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 520
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 522,
+      "preview": "- For adult patients with normal renal function ( $\\mathrm{CrCl}>50 \\mathrm{~mL} / \\mathrm{min}$ ), "
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 523,
+      "preview": "- Sodium $80 \\mathrm{mEq} / \\mathrm{L}$ based on fluid needs \\& losses from tubes, drains, etc."
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 524,
+      "preview": "- Potassium $1 \\mathrm{mEq} / \\mathrm{kg}$ (based on dosing weight)"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 525,
+      "preview": "- Presence of metabolic acidosis or use of medications resulting in potassium retention will also af"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 526,
+      "preview": "- Magnesium $8-20 \\mathrm{mEq}$"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 527,
+      "preview": "- Phosphate $20-40 \\mathrm{mmol}$"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 528,
+      "preview": "- Assess need for calcium gluconate with above dosage of phosphate given compatibility limits of ami"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 530,
+      "preview": "Mirtallo J et al.JPEN J ParentEnteral Nutr. 2004; 28:S39-S70."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 532
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 534,
+      "preview": "- For patients with normal renal function ( CrCl greater than $50 \\mathrm{~mL} / \\mathrm{min}$ ), th"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 535,
+      "preview": "- Use of chloride-based salts (all commercially available amino acids solutions are acetate-based)"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 536,
+      "preview": "- Use acetate-based salts if metabolic acidosis present"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 537,
+      "preview": "- Anticipate effects of refeeding syndrome and drug-nutrient interactions based upon patient history"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 538,
+      "preview": "- Consider additional thiamine initially for severely malnourished"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 539,
+      "preview": "- Order daily basic metabolic panel, serum phosphorus, magnesium and total calcium for at least 2-3 "
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 540,
+      "preview": "- Consider ionized calcium if total calcium is $<7 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES FOR PN INITIATION, CONT.",
+      "line": 542,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 544
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 546,
+      "preview": "- Primary goal of nutrition support is to provide the required amounts of nitrogen (protein) and ene"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 547,
+      "preview": "- Electrolyte requirements are dependent on patient age, renal function, drugnutrient interactions a"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 548,
+      "preview": "- Oral or enteral route is preferred (if available) due to safety concerns compared to IV administra"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 549,
+      "preview": "- Multivitamins and trace elements (e.g., Zinc, Selenium, Copper) are necessary requirements in all "
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 550,
+      "preview": "- Reviewing PN orders for adequacy and efficacy are required daily"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 551,
+      "preview": "- Including the determination of osmolarity"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 554
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 556,
+      "preview": "- Boullata JI, Gilbert K, Sacks G et al. A.S.P.E.N. clinical guidelines: Parenteral nutrition orderi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 557,
+      "preview": "- Canada TW, Lord LM. Chapter 7 Fluid, Electrolytes, and Acid-Base Disorders. In: Mueller CM, ed. Th"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 558,
+      "preview": "- Doig GS, Simpson F, Heighes PT et al. Restricted versus continued standard caloric intake during t"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 559,
+      "preview": "- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parent Ente"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 561,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 563
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 565,
+      "preview": "- Mundi MS, Nystrom EM, Hurley DL et al. Management of parenteral nutrition in hospitalized adult pa"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 566,
+      "preview": "- Schmidt GL. Techniques and procedures: Guidelines for managing electrolytes in total parenteral nu"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 567,
+      "preview": "- Vanek VW, Borum P, Buchman A et al. A call to action to bring safer parenteral micronutrient produ"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 569,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 571,
+      "content": "![img-9.jpeg](images/f88d6ef789286d4c.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 573
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 575,
+      "preview": "Clinical Pharmacy Services Manager"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 576,
+      "preview": "Nutrition Support Team Coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 577,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 578,
+      "preview": "Houston, Texas"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 579,
+      "preview": "Todd W. Canada serves as a clinical pharmacy services manager and nutrition support team coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 581,
+      "preview": "Dr. Canada completed a specialized residency in Critical Care / Nutrition Support at the University "
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 583,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 585
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 587,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 589,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 591,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 593,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 594,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 595,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 596,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 597,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 599,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 601,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 603
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 605,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 607,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 609
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 611,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 613
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 615,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 617,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "9c01a79eee8ab186.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/9c01a79eee8ab186.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/9c01a79eee8ab186.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c01a79eee8ab186"
+    },
+    {
+      "sha_name": "95661183b74a919d.png",
+      "original_ref": "img-1.jpeg",
+      "page": 1,
+      "relative_path": "images/95661183b74a919d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/95661183b74a919d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "95661183b74a919d"
+    },
+    {
+      "sha_name": "4f56eb7ebda1a0dd.png",
+      "original_ref": "img-2.jpeg",
+      "page": 5,
+      "relative_path": "images/4f56eb7ebda1a0dd.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/4f56eb7ebda1a0dd.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4f56eb7ebda1a0dd"
+    },
+    {
+      "sha_name": "09f4109c6384fe18.png",
+      "original_ref": "img-3.jpeg",
+      "page": 5,
+      "relative_path": "images/09f4109c6384fe18.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/09f4109c6384fe18.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "09f4109c6384fe18"
+    },
+    {
+      "sha_name": "13d1966887faa978.png",
+      "original_ref": "img-4.jpeg",
+      "page": 6,
+      "relative_path": "images/13d1966887faa978.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/13d1966887faa978.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "13d1966887faa978"
+    },
+    {
+      "sha_name": "0f112e7542ef57b2.png",
+      "original_ref": "img-5.jpeg",
+      "page": 6,
+      "relative_path": "images/0f112e7542ef57b2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/0f112e7542ef57b2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0f112e7542ef57b2"
+    },
+    {
+      "sha_name": "9329333f7e9bfc9f.png",
+      "original_ref": "img-6.jpeg",
+      "page": 13,
+      "relative_path": "images/9329333f7e9bfc9f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/9329333f7e9bfc9f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9329333f7e9bfc9f"
+    },
+    {
+      "sha_name": "9329333f7e9bfc9f.png",
+      "original_ref": "img-7.jpeg",
+      "page": 14,
+      "relative_path": "images/9329333f7e9bfc9f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/9329333f7e9bfc9f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9329333f7e9bfc9f"
+    },
+    {
+      "sha_name": "b99e493308c2b67c.png",
+      "original_ref": "img-8.jpeg",
+      "page": 17,
+      "relative_path": "images/b99e493308c2b67c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/b99e493308c2b67c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b99e493308c2b67c"
+    },
+    {
+      "sha_name": "f88d6ef789286d4c.png",
+      "original_ref": "img-9.jpeg",
+      "page": 23,
+      "relative_path": "images/f88d6ef789286d4c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part2/images/f88d6ef789286d4c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f88d6ef789286d4c"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695946",
+    "ts": "2025-08-08T23:32:26.679414+00:00"
+  }
+}

@@ -1,0 +1,2112 @@
+{
+  "doc_id": "6_enteralnutritionproducts__5db708",
+  "original_filename": "6_EnteralNutritionProducts.pdf",
+  "md_path": "data/parsed/6_EnteralNutritionProducts/6_EnteralNutritionProducts.md",
+  "rmd_path": "data/parsed/6_EnteralNutritionProducts/6_EnteralNutritionProducts.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Enteral Nutrition",
+      "line": 2
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Products",
+      "line": 4
+    },
+    {
+      "type": "image",
+      "section": "Products",
+      "line": 6,
+      "content": "![img-0.jpeg](images/9c01a79eee8ab186.png)"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 8,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 9,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 11,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 13,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENTERAL AND PARENTERAL PRODUCT PREPARATION AND DISTRIBUTION ENTERAL NUTRITION",
+      "line": 15
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCT PREPARATION AND DISTRIBUTION ENTERAL NUTRITION",
+      "line": 17,
+      "preview": "Anne M. Tucker, Pharm.D., BCNSP"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCT PREPARATION AND DISTRIBUTION ENTERAL NUTRITION",
+      "line": 18,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCT PREPARATION AND DISTRIBUTION ENTERAL NUTRITION",
+      "line": 20,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "No one in control of the content of this activity has a relevant financial relationship (RFR) with a"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "As defined by the Standards of Integrity and Independence in Accredited Continuing Education definit"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 30
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 32,
+      "preview": "- Compare the differences between preparing closed- vs. open-system enteral nutrition products."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 33,
+      "preview": "- Review safe practices for labeling enteral and parenteral nutrition products."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Identify safe transition practices in patient care from hospital to home for enteral and parentera"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 37
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 39,
+      "preview": "- ASPEN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 40,
+      "preview": "- DOB:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- ID:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- RTU:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "date of birth"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "identification"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "ready to use"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 55
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 57,
+      "preview": "An institution's nutrition support team has noticed an increase in the incidence of diarrhea in crit"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 58,
+      "preview": "A. Use of an open enteral formula system."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 59,
+      "preview": "B. Use of ready to hang EN product."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 60,
+      "preview": "C. Use of EN formulas beyond specified hang time."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 61,
+      "preview": "D. Use of EN in sicker patients."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 63
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 65,
+      "preview": "It is determined that a patient will go home on PN as the primary means of nutrition. The patient ha"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 66,
+      "preview": "A. Provide patient and caregiver home PN education on the day of discharge."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 67,
+      "preview": "B. Contact home infusion company to determine stock products and potential shortages."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 68,
+      "preview": "C. Allow home infusion company to provide patient and caregiver education."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 69,
+      "preview": "D. Change nutrition support formulation upon transition to home or alternative care site."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 71,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENTERAL NUTRITION SYSTEMS AND PREPARATION",
+      "line": 73
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ENTERAL NUTRITION",
+      "line": 75
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION",
+      "line": 77,
+      "preview": "- Provision of nutrients to the gastrointestinal tract through the use of an enteral access device"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION",
+      "line": 78,
+      "preview": "- 250,000 hospitalized patients are supported using enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION",
+      "line": 79,
+      "preview": "- Used in a variety of settings"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION",
+      "line": 80,
+      "preview": "- Hospital $\\rightarrow$ long term care / rehab $\\rightarrow$ home"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION",
+      "line": 82,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "INDICATIONS",
+      "line": 84
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS",
+      "line": 86,
+      "preview": "- Patients with or expected to have prolonged inadequate oral intake"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS",
+      "line": 87,
+      "preview": "- Functional gastrointestinal tract and clinical condition(s) for which oral intake is"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS",
+      "line": 88,
+      "preview": "- Impossible (intubated, unable to swallow or protect airway)"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS",
+      "line": 89,
+      "preview": "- Inadequate (poor appetite; high metabolic demands; unable to eat enough)"
+    },
+    {
+      "type": "text",
+      "section": "INDICATIONS",
+      "line": 90,
+      "preview": "- Unsafe (confused, altered mental status)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CLOSED SYSTEM",
+      "line": 93
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 95,
+      "preview": "- Sterile container or bag, pre-filled with sterile, liquid enteral formula by the manufacturer"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 96,
+      "preview": "- Considered ready to administer products (\"ready to hang\")"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 97,
+      "preview": "- Large volume bags or containers ( 1000 mL and 1500 mL )"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 98,
+      "preview": "- Longer hang time: 24 to 48 hours"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 99,
+      "preview": "- Administration sets/tubing must be changed every 24 hours"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 100,
+      "preview": "- Per manufacturer, no more than 1 tubing spike per container/bag"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 101,
+      "preview": "- Less contamination risk (infection), less diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 102,
+      "preview": "- Addition of medications and modular products not recommended"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 103,
+      "preview": "- Reduced nursing time"
+    },
+    {
+      "type": "text",
+      "section": "CLOSED SYSTEM",
+      "line": 105,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "OPEN SYSTEM",
+      "line": 107
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 109,
+      "preview": "- Enteral system in which the clinician, patient, or caregiver is required to decant formula into an"
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 110,
+      "preview": "- 2 main categories"
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 111,
+      "preview": "- Small volume liquid cans, bags and cartons"
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 112,
+      "preview": "- Powdered formulas for reconstitution"
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 113,
+      "preview": "- Able to add modular products"
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 114,
+      "preview": "- Increased nursing time due to preparation"
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 115,
+      "preview": "- Increased contamination risk"
+    },
+    {
+      "type": "text",
+      "section": "OPEN SYSTEM",
+      "line": 117,
+      "preview": "Boullata Jlet al. JPEN J Parent Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 119
+    },
+    {
+      "type": "text",
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 121,
+      "preview": "- Open system"
+    },
+    {
+      "type": "text",
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 122,
+      "preview": "- Require preparation prior to administration"
+    },
+    {
+      "type": "text",
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 123,
+      "preview": "- Enteral formula is sterile within distribution container"
+    },
+    {
+      "type": "text",
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 124,
+      "preview": "- Decanted into non-sterile bag for administration"
+    },
+    {
+      "type": "text",
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 125,
+      "preview": "- Able to add modular products"
+    },
+    {
+      "type": "text",
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 126,
+      "preview": "- Hang time: 8 hours"
+    },
+    {
+      "type": "text",
+      "section": "SMALL VOLUME LIQUID CANS, BAGS AND CARTONS",
+      "line": 128,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "POWDERED FORMULAS",
+      "line": 130
+    },
+    {
+      "type": "text",
+      "section": "POWDERED FORMULAS",
+      "line": 132,
+      "preview": "- Not sterile upon manufacture"
+    },
+    {
+      "type": "text",
+      "section": "POWDERED FORMULAS",
+      "line": 133,
+      "preview": "- Requires meticulous handling and reconstitution process using sterile water"
+    },
+    {
+      "type": "text",
+      "section": "POWDERED FORMULAS",
+      "line": 134,
+      "preview": "- Shortest hang time: 4 hours"
+    },
+    {
+      "type": "text",
+      "section": "POWDERED FORMULAS",
+      "line": 135,
+      "preview": "- Increased infection risk"
+    },
+    {
+      "type": "text",
+      "section": "POWDERED FORMULAS",
+      "line": 136,
+      "preview": "- Increased nursing time"
+    },
+    {
+      "type": "text",
+      "section": "POWDERED FORMULAS",
+      "line": 137,
+      "preview": "- Not recommended for immunocompromised patients"
+    },
+    {
+      "type": "text",
+      "section": "POWDERED FORMULAS",
+      "line": 139,
+      "preview": "Boullata Jlet al. JPEN J Parent Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 141
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 143,
+      "preview": "- Nutritionally incomplete / single nutrient products"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 144,
+      "preview": "- Protein, amino acids"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 145,
+      "preview": "- Carbohydrates"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 146,
+      "preview": "- Fiber"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 147,
+      "preview": "- Fats (medium-chain triglycerides, oral fat emulsion)"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 148,
+      "preview": "- Thickeners"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 149,
+      "preview": "- Can be combined with diet or enteral nutrition to meet nutrient(s) requirement"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 150,
+      "preview": "- Liquid and powder products"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 151,
+      "preview": "- Typically given as a \"flush\" to enteral nutrition patients"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR SUPPLEMENTS",
+      "line": 153,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FORMULA CONTAMINATION",
+      "line": 155
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 157,
+      "preview": "- High incidence"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 158,
+      "preview": "- Up to $57 \\%$ of formulas prepared in hospitals"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 159,
+      "preview": "- Over $80 \\%$ of formulas prepared in the home setting"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 160,
+      "preview": "- Steps associated with contamination risk"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 161,
+      "preview": "- When the feeding is transferred to the administration container"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 162,
+      "preview": "- During preparation, including when modular supplements are added"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 163,
+      "preview": "- During assembly of the feeding system"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 164,
+      "preview": "- During administration to the patient"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 166,
+      "preview": "Boullata Jlet al. JPEN J Parent Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FORMULA CONTAMINATION",
+      "line": 168
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 170,
+      "preview": "- Consequences"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 171,
+      "preview": "- Abdominal distension"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 172,
+      "preview": "- Diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 173,
+      "preview": "- Nosocomial infections"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 174,
+      "preview": "- Prevention"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 175,
+      "preview": "- Strict aseptic technique during preparation and administration"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 176,
+      "preview": "- Reconstitute powders with sterile water"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 177,
+      "preview": "- Store reconstituted formula in refrigerator immediately; discard after 24 hours"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 178,
+      "preview": "- Discard reconstituted formula at room temperature after 4 hours"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 179,
+      "preview": "- Use formula decanted from screw top instead of flip top"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA CONTAMINATION",
+      "line": 181,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 183
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 185,
+      "preview": "- The maximum time enteral formula is considered safe for delivery to the patient"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 186,
+      "preview": "- Begins with the time the formula has either been reconstituted, warmed, decanted, or has had the o"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 187,
+      "preview": "- Differs by system type"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 188,
+      "preview": "- Closed systems: 24-48 hours"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 189,
+      "preview": "- Tubing must be changed every 24 hours or per manufacturer recommendations"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 190,
+      "preview": "- Open systems (small volume cans, bags, cartons): 8 hours"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 191,
+      "preview": "- Reconstituted powdered formulas: 4 hours"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIME / BEYOND USE DATING",
+      "line": 193,
+      "preview": "Boullata Jlet al. JPEN J Parent Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ADVANTAGES AND DISADVANTAGES",
+      "line": 195
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Advantages",
+      "line": 197
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 199,
+      "preview": "- Formula and container are sterilized prior to distribution"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 200,
+      "preview": "- Decreased manipulation"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 201,
+      "preview": "- Decreased human contact"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 202,
+      "preview": "- Reduced contamination $\\rightarrow$ infection"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 203,
+      "preview": "- Increased hang time"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 204,
+      "preview": "- Decreased nursing time"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 205,
+      "preview": "- Reduced waste"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 206,
+      "preview": "- Cost effective"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 208,
+      "preview": "Boullata Jlet al. JPEN J Parent Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Disadvantages",
+      "line": 210
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 212,
+      "preview": "- Increased product cost"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 213,
+      "preview": "- Standardized product size ( 1000 mL , 1500 mL and 2000 mL sizes) potential increased waste if into"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 214,
+      "preview": "- Potential misconnection errors"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 216,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LABELING RECOMMENDATIONS",
+      "line": 218
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "LABELING RECOMMENDATIONS",
+      "line": 220
+    },
+    {
+      "type": "text",
+      "section": "LABELING RECOMMENDATIONS",
+      "line": 222,
+      "preview": "- Express clearly and accurately what the patient is receiving at any time"
+    },
+    {
+      "type": "text",
+      "section": "LABELING RECOMMENDATIONS",
+      "line": 223,
+      "preview": "- Reflect order elements, including expiration or beyond use dates"
+    },
+    {
+      "type": "text",
+      "section": "LABELING RECOMMENDATIONS",
+      "line": 224,
+      "preview": "- Size that fits neatly on the EN product or PN formulation"
+    },
+    {
+      "type": "text",
+      "section": "LABELING RECOMMENDATIONS",
+      "line": 226,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 228
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 230,
+      "preview": "| Labeling of Enteral Formula |  |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 231,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 232,
+      "preview": "| Patient identifiers (name, DOB, ID) | Date/time enteral formula hung |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 233,
+      "preview": "| Formula name and strength (if diluted) | Initials of clinician who hung and checked <br> enteral n"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 234,
+      "preview": "| Date/time enteral formula prepared | Appropriate hang time (expiration date/time) |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 235,
+      "preview": "| Initials of clinician who prepared EN formula | \"Not for IV use\", \"Enteral use only\" |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 236,
+      "preview": "| Enteral delivery site (route and access device) | Dosing weight, if applicable |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 237,
+      "preview": "| Administration method, infusion rate, duration (if cycled or intermittent) |  |"
+    },
+    {
+      "type": "image",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 239,
+      "content": "![img-1.jpeg](images/4ffa047eadbc2633.png)"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 241,
+      "preview": "Figure 5. Standard enteral nutrition (EN) label template (adult patient). ID, identification; IV, in"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS: EN LABEL",
+      "line": 243,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 245
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 247,
+      "preview": "| Labeling of Parenteral Nutrition Formulation |  |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 248,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 249,
+      "preview": "| Two patient identifiers | Patient location or address |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 250,
+      "preview": "| Dosing weight | Administration date and time |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 251,
+      "preview": "| Beyond use date (BUD) and time | Route of administration |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 252,
+      "preview": "| Prescribed volume and overfill volume | Infusion rate ( $\\mathrm{mL} / \\mathrm{hr}$ ) |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 253,
+      "preview": "| Duration of infusion (continuous vs. cyclic) | Size of in-line filter (1.2 or 0.22 micron) |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 254,
+      "preview": "| Complete name of all ingredients | Barcode |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 255,
+      "preview": "| Ingredients (amounts/day for adults)* | List electrolyte as complete salts |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 256,
+      "preview": "| Phosphorus as mmol, others as mEq | Patient additives (home PN) |"
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 257,
+      "preview": "| Name of pharmacy and contact information | Auxiliary labels or information may be used |"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 259,
+      "preview": "*specify product name, when appropriate"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 260,
+      "preview": "Ayers P et al. JPENJ Parent Enteral Nutr. 2014; 38:296-333."
+    },
+    {
+      "type": "table",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 262,
+      "preview": "| Patient Name $\\qquad$ <br> Births Average $\\qquad$ <br> Patient location $\\qquad$ <br> Height and "
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 264,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 266,
+      "preview": "Patient Name Medical Record Number"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 267,
+      "preview": "Birthdate/age"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 268,
+      "preview": "Patient location"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 269,
+      "preview": "Height and dosing weight: HI: cm Dosing WI: kg"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 270,
+      "preview": "Diagnosis(es)/Indication(s) for PN:"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 271,
+      "preview": "Vascular access device/location CVC type Location"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 272,
+      "preview": "Administration date Administration time"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 273,
+      "preview": "Macronutrients Amount/day"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 274,
+      "preview": "Amino acids* g"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 275,
+      "preview": "Dextrose g"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 276,
+      "preview": "IV Fat emulsion* g"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 277,
+      "preview": "Electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 278,
+      "preview": "Sodium phosphate mmol of phosphate (Sodium mEq)"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 279,
+      "preview": "Sodium chloride mEq"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 280,
+      "preview": "Sodium acetate mEq"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 281,
+      "preview": "Potassium phosphate mmol of phosphate (Potassium mEq)"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 282,
+      "preview": "Potassium chloride mEq"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 283,
+      "preview": "Potassium acetate mEq"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 284,
+      "preview": "Magnesium sulfate/chloride mEq"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 285,
+      "preview": "Calcium gluconate mEq"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 286,
+      "preview": "Vitamins, Trace Elements"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 287,
+      "preview": "Multi-component Vitamins* mL"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 288,
+      "preview": "Multi-component Trace Elements* mL"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 289,
+      "preview": "Other Additives (eg, individual vitamins or trace elements, regular insulin)"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 290,
+      "preview": "Ayers P et al. JPEN J Parent Enteral Nutr. 2014; 38:296-333."
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 292,
+      "preview": "PN Instructions"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 293,
+      "preview": "For Central (peripheral) Vein Administration Only"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 294,
+      "preview": "Total volume mL Overfill volume mL"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 295,
+      "preview": "Infusion rate mL/h"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 296,
+      "preview": "Start and Stop times"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 297,
+      "preview": "Cycle information"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 298,
+      "preview": "Do not use after date/time"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 299,
+      "preview": "***** Discard any unused volume after 24 hours*****"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 300,
+      "preview": "Prescriber and Contact information"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 301,
+      "preview": "Institution/Pharmacy Name"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 302,
+      "preview": "Institution/Pharmacy Address"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 303,
+      "preview": "Pharmacy Telephone number"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 305,
+      "preview": "Ayers P et al. JPEN J Parent Enteral Nutr. 2014; 38:296-333."
+    },
+    {
+      "type": "text",
+      "section": "ASPEN RECOMMENDATIONS - PN LABEL",
+      "line": 307,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TRANSITIONS OF CARE",
+      "line": 309
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TRANSITIONS OF CARE",
+      "line": 311
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 313,
+      "preview": "- Multiple phases"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 314,
+      "preview": "- Transition between institutional levels of care"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 315,
+      "preview": "- Transition from institution to home or alternative care site"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 316,
+      "preview": "- Goals"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 317,
+      "preview": "- Ensure safety and prevention of errors"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 318,
+      "preview": "- Prevent untoward adverse effects or consequences"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 319,
+      "preview": "- Prevent hospital readmission"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE",
+      "line": 321,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 323
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 325,
+      "preview": "- Standardized ordering and administration"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 326,
+      "preview": "- Ingredients listed in the same sequence and measurements"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 327,
+      "preview": "- Clear and complete orders"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 328,
+      "preview": "- Accurate documentation for transfer of nutrition orders"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 329,
+      "preview": "- Collaboration among all disciplines and professions involved"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 330,
+      "preview": "- Clinician to clinician communication (EN orders)"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 331,
+      "preview": "- Pharmacist to pharmacist communication (PN orders)"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 332,
+      "preview": "- Determine company stock solutions and product shortages"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 334,
+      "preview": "Ayers P et al. JPENJ Parent Enteral Nutr. 2014; 38:296-333."
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 335,
+      "preview": "Boullata Jlet al. JPEN J Parent Enteral Nutr. 2017; 41:15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 337
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 339,
+      "preview": "- Establish tolerance and stability to goal regimen prior to transfer"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 340,
+      "preview": "- Patient and caregiver education"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 341,
+      "preview": "- Evaluation of home or alternative care site"
+    },
+    {
+      "type": "text",
+      "section": "TRANSITIONS OF CARE, CONT.",
+      "line": 343,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 345
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 347,
+      "preview": "- Begin early"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 348,
+      "preview": "- Assess learning styles to provide most effective educational strategy"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 349,
+      "preview": "- Standard checklist"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 350,
+      "preview": "- Nutrition support indication and goals"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 351,
+      "preview": "- Feeding regimen and safe preparation"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 352,
+      "preview": "- How to use infusion pump and supplies needed"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 353,
+      "preview": "- Access device and site care"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 354,
+      "preview": "- Access device flushing, hydration, and how to troubleshoot problems"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 355,
+      "preview": "- Monitoring (weight, temperature, inputs/outputs, labs)"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 356,
+      "preview": "- Recognition of complications including emergency plan \\& contacts"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER EDUCATION",
+      "line": 357,
+      "preview": "- Return demonstration and teach-back method"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PATIENT \\& CAREGIVER SUPPORT",
+      "line": 360
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER SUPPORT",
+      "line": 362,
+      "preview": "- Written and verbal education"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER SUPPORT",
+      "line": 363,
+      "preview": "- Oley Foundation"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER SUPPORT",
+      "line": 364,
+      "preview": "- Feeding Tube Awareness Foundation"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER SUPPORT",
+      "line": 365,
+      "preview": "- Home health company"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER SUPPORT",
+      "line": 366,
+      "preview": "- Contact numbers for providers"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT \\& CAREGIVER SUPPORT",
+      "line": 368,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Self Assessment Questions and Answers",
+      "line": 370
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 372
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 374,
+      "preview": "An institution's nutrition support team has noticed an increase in the incidence of diarrhea in crit"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 375,
+      "preview": "A. Use of an open enteral formula system."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 376,
+      "preview": "B. Use of ready to hang enteral nutrition product."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 377,
+      "preview": "C. Use of enteral nutrition formulas beyond specified hang time."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 378,
+      "preview": "D. Use of enteral nutrition in sicker patients."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 380,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 382
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 384,
+      "preview": "An institution's nutrition support team has noticed an increase in the incidence of diarrhea in crit"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 385,
+      "preview": "A. Use of an open enteral formula system."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 386,
+      "preview": "B. Use of ready to hang enteral nutrition product."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 387,
+      "preview": "C. Use of enteral nutrition formulas beyond specified hang time."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 388,
+      "preview": "D. Use of enteral nutrition in sicker patients."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 390
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 392,
+      "preview": "It is determined that a patient will go home on PN as the primary means of nutrition. The patient ha"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 393,
+      "preview": "A. Provide patient and caregiver home PN education the day of discharge."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 394,
+      "preview": "B. Contact home infusion company to determine stock products and potential shortages."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 395,
+      "preview": "C. Allow home infusion company to provide patient and caregiver education."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 396,
+      "preview": "D. Change nutrition support formulation upon transition to home or alternative care site."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 398,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 400
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 402,
+      "preview": "It is determined that a patient will go home on PN as the primary means of nutrition. The patient ha"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 403,
+      "preview": "A. Provide patient and caregiver home PN education the day of discharge."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 404,
+      "preview": "B. Contact home infusion company to determine stock products and potential shortages."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 405,
+      "preview": "C. Allow home infusion company to provide patient and caregiver education."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 406,
+      "preview": "D. Change nutrition support formulation upon transition to home or alternative care site."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONCLUSIONS",
+      "line": 408
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 410,
+      "preview": "- Enteral nutrition formulas can be delivered as part of a closed or open system."
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 411,
+      "preview": "- Closed enteral nutrition systems provide decreased contamination risk, reduced nursing time, and c"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 412,
+      "preview": "- ASPEN recommendations exist for both enteral and parenteral nutrition labeling."
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 413,
+      "preview": "- Clear communication and detailed education can provide a smooth transition of patients from hospit"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 415,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 417
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 419,
+      "preview": "- Ayers P, Adams S, Boullata J et al. ASPEN parenteral nutrition safety consensus recommendations. J"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 420,
+      "preview": "- Boullata JI, Carrera AL, Harvey L et al. ASPEN safe practices for enteral nutrition therapy. JPEN "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 421,
+      "preview": "- Herlick S J, Vogt C, Pangman V, Fallis W. Comparison of open versus closed systems of intermittent"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 424
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 426,
+      "preview": "- Okuma T, Nakamura M, Totake H et al. Microbial contamination of enteral feeding formulas and diarr"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 427,
+      "preview": "- Phillips W. Economic impact of switching from an open to a closed enteral nutrition feeding system"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 428,
+      "preview": "- Silva SM, Assis MC, Silveira CR et al. Open versus closed enteral nutrition systems for critically"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 430,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 432,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 434,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 436,
+      "content": "![img-2.jpeg](images/d0651196d10662d6.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 438
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 440,
+      "preview": "Clinical pharmacy Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 441,
+      "preview": "University of Texas MD Anderson Cancer Center Houston, Texas"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 443,
+      "preview": "Anne M. Tucker is clinical pharmacy specialist at the MD Anderson Cancer Center, Houston, Texas. She"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 445,
+      "preview": "Dr. Tucker is currently the Chair of the American Society for Parenteral and Enteral Nutrition (ASPE"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 447,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 449
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 451,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 453,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 455,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 457,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 458,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 459,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 460,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 461,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 463,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 465,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 467
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 469,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 471,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 473
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 475,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 477
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 479,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 481,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "9c01a79eee8ab186.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/9c01a79eee8ab186.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_EnteralNutritionProducts/images/9c01a79eee8ab186.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c01a79eee8ab186"
+    },
+    {
+      "sha_name": "4ffa047eadbc2633.png",
+      "original_ref": "img-1.jpeg",
+      "page": 11,
+      "relative_path": "images/4ffa047eadbc2633.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_EnteralNutritionProducts/images/4ffa047eadbc2633.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4ffa047eadbc2633"
+    },
+    {
+      "sha_name": "d0651196d10662d6.png",
+      "original_ref": "img-2.jpeg",
+      "page": 22,
+      "relative_path": "images/d0651196d10662d6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_EnteralNutritionProducts/images/d0651196d10662d6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d0651196d10662d6"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696134",
+    "ts": "2025-08-08T23:35:34.067783+00:00"
+  }
+}

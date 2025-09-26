@@ -1,0 +1,2676 @@
+{
+  "doc_id": "4_enteralnutritionproducts__ca33f3",
+  "original_filename": "4_EnteralNutritionProducts.pdf",
+  "md_path": "data/parsed/4_EnteralNutritionProducts/4_EnteralNutritionProducts.md",
+  "rmd_path": "data/parsed/4_EnteralNutritionProducts/4_EnteralNutritionProducts.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Enteral Nutrition",
+      "line": 2
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Products",
+      "line": 4
+    },
+    {
+      "type": "image",
+      "section": "Products",
+      "line": 6,
+      "content": "![img-0.jpeg](images/7a59eca193e03de3.png)"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 8,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 9,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 11,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 13,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENTERAL AND PARENTERAL PRODUCTS: ENTERAL NUTRITION",
+      "line": 15
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCTS: ENTERAL NUTRITION",
+      "line": 17,
+      "preview": "Kris M. Mogensen, M.S., R.D.-A.P., L.D.N., CNSC Brigham and Women's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCTS: ENTERAL NUTRITION",
+      "line": 19,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 21
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 27,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 29,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 31,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 33
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Differentiate broad categories of enteral formulas: polymeric, defined diet (elemental), disease s"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Identify appropriate enteral formulas for the critically ill population."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Analyze enteral formula labels for key characteristics."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 40
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- ALP:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- ALT:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- AST:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- BMI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- CHO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- COPD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- CRRT:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- DHA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "- EFAD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "- EPA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "alkaline phosphatase"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "alanine aminotransferase"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "aspartate aminotransferase"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "body mass index"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "carbohydrate"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "chronic obstructive pulmonary disease"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "continuous renal replacement therapy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 60,
+      "preview": "docosahexaenoic acid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 61,
+      "preview": "essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 62,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 63,
+      "preview": "eicosapentaenoic acid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 65,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 67
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 69,
+      "preview": "- FO: $\\square$ fish oil"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 70,
+      "preview": "- IBW: ideal body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 71,
+      "preview": "- ICU: intensive care unit"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 72,
+      "preview": "- ID: identification"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 73,
+      "preview": "- IV: intravenous"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 74,
+      "preview": "- MICU: medical intensive care unit"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 75,
+      "preview": "- MCT: medium chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 76,
+      "preview": "- OR: operating room"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 77,
+      "preview": "- RDI: recommended dietary intake"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 78,
+      "preview": "- SCCM: society of critical care medicine"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 79,
+      "preview": "- SICU: surgical intensive care unit"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 82
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 84,
+      "preview": "Mrs. Jones is a 70 yo female with COPD who was admitted to the ICU with pneumonia. She requires mech"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 85,
+      "preview": "A. A polymeric, fiber-free enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 86,
+      "preview": "B. A polymeric, fiber-containing enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 87,
+      "preview": "C. An immune-enhancing enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 88,
+      "preview": "D. A semi-elemental enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 90,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 92
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 94
+    },
+    {
+      "type": "image",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 96,
+      "content": "![img-1.jpeg](images/765472f58a430dd7.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 98,
+      "preview": "- Broad categories of enteral formulas:"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 99,
+      "preview": "- Polymeric"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 100,
+      "preview": "- Semi-elemental/elemental"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 101,
+      "preview": "- Also called defined diets or chemically defined diets"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 102,
+      "preview": "- Modular"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 103,
+      "preview": "- Individual supplements of protein, CHO, or fat"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 104,
+      "preview": "- Disease specific"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 105,
+      "preview": "- May be polymeric or elemental"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL FORMULA TYPES",
+      "line": 107,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "POLYMERIC FORMULAS",
+      "line": 109
+    },
+    {
+      "type": "text",
+      "section": "POLYMERIC FORMULAS",
+      "line": 111,
+      "preview": "- Sometimes referred to as \"standard\" formulas"
+    },
+    {
+      "type": "text",
+      "section": "POLYMERIC FORMULAS",
+      "line": 112,
+      "preview": "- Contain intact protein, CHO, fat"
+    },
+    {
+      "type": "text",
+      "section": "POLYMERIC FORMULAS",
+      "line": 113,
+      "preview": "- Require ability to digest and absorb macronutrients"
+    },
+    {
+      "type": "text",
+      "section": "POLYMERIC FORMULAS",
+      "line": 114,
+      "preview": "- Come in a variety of concentrations"
+    },
+    {
+      "type": "text",
+      "section": "POLYMERIC FORMULAS",
+      "line": 115,
+      "preview": "- 1-2 kcal/mL"
+    },
+    {
+      "type": "text",
+      "section": "POLYMERIC FORMULAS",
+      "line": 116,
+      "preview": "- Also available with and without fiber"
+    },
+    {
+      "type": "text",
+      "section": "POLYMERIC FORMULAS",
+      "line": 118,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 120
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 122,
+      "preview": "- Protein is either partially or completely hydrolyzed"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 123,
+      "preview": "- Protein source is typically small peptides"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 124,
+      "preview": "- CHO may be partially hydrolyzed (e.g., maltodextrin or hydrolyzed corn starch)"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 125,
+      "preview": "- Fat content is modified"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 126,
+      "preview": "- May be primarily medium chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 127,
+      "preview": "- May be lower in fat than standard formulas"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 128,
+      "preview": "- Also come in a variety of concentrations"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 129,
+      "preview": "- 1-1.5 kcal/mL"
+    },
+    {
+      "type": "text",
+      "section": "SEMI-ELEMENTAL FORMULAS",
+      "line": 131,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 133
+    },
+    {
+      "type": "text",
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 135,
+      "preview": "- Protein is completely hydrolyzed - free amino acids"
+    },
+    {
+      "type": "text",
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 136,
+      "preview": "- CHO is partially hydrolyzed (e.g., maltodextrin or hydrolyzed corn starch)"
+    },
+    {
+      "type": "text",
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 137,
+      "preview": "- Fat content is modified"
+    },
+    {
+      "type": "text",
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 138,
+      "preview": "- May be primarily medium chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 139,
+      "preview": "- May be lower in fat than standard formulas"
+    },
+    {
+      "type": "text",
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 140,
+      "preview": "- Generally $1 \\mathrm{kcal} / \\mathrm{mL}$; some powdered formulas may be able to reconstituted to "
+    },
+    {
+      "type": "text",
+      "section": "DEFINED DIET/ELEMENTAL FORMULAS",
+      "line": 142,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MODULAR PRODUCTS",
+      "line": 144
+    },
+    {
+      "type": "text",
+      "section": "MODULAR PRODUCTS",
+      "line": 146,
+      "preview": "- These are generally a single macronutrient to provide additional protein, CHO, or fat"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR PRODUCTS",
+      "line": 147,
+      "preview": "- There are some that are a combination of CHO and fat to provide more calories"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR PRODUCTS",
+      "line": 148,
+      "preview": "- Available in powder or liquid form"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR PRODUCTS",
+      "line": 149,
+      "preview": "- Often given as a bolus supplement to an EN regimen, but may be mixed with an enteral product"
+    },
+    {
+      "type": "text",
+      "section": "MODULAR PRODUCTS",
+      "line": 151,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 153
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 155,
+      "preview": "- Designed for a specific clinical condition"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 156,
+      "preview": "- Renal failure"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 157,
+      "preview": "- Liver failure"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 158,
+      "preview": "- Diabetes"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 159,
+      "preview": "- Respiratory failure"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 160,
+      "preview": "- Designed for a specific outcome or clinical scenario"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 161,
+      "preview": "- Hypocaloric, high-protein feeding"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 162,
+      "preview": "- Trauma, wound healing"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 163,
+      "preview": "- Immunomodulation"
+    },
+    {
+      "type": "text",
+      "section": "DISEASE SPECIFIC FORMULAS",
+      "line": 165,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 167
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 169,
+      "preview": "- There is a wide range of protein content of specific formulas:"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 170,
+      "preview": "- $10 \\%$ to almost $40 \\%$ of total calories"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 171,
+      "preview": "- The low end is for patients who need protein restriction (or who have very low absolute protein re"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 172,
+      "preview": "- The high end is for those with very high protein needs in relation to their energy requirements"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 173,
+      "preview": "- Type of protein varies"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 174,
+      "preview": "- Whey, casein, soy"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 175,
+      "preview": "- Partially hydrolyzed protein"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 176,
+      "preview": "- Free amino acids"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: PROTEIN",
+      "line": 178,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 180
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 182,
+      "preview": "- CHO content will range depending on the product"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 183,
+      "preview": "- $40 \\%$ up to $70 \\%$ of total calories"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 184,
+      "preview": "- Low end often seen in low-CHO formulas"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 185,
+      "preview": "- High end often seen in low-protein/low-fat formulas"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 186,
+      "preview": "- Type of CHO"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 187,
+      "preview": "- Corn syrup solids"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 188,
+      "preview": "- Sucrose"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 189,
+      "preview": "- Maltodextrin"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 190,
+      "preview": "- Cornstarch"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 191,
+      "preview": "- Lactose is generally not used"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: CHO",
+      "line": 193,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 195
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 197,
+      "preview": "- Some formulas have fiber added"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 198,
+      "preview": "- Often a blend of soluble and insoluble fiber"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 199,
+      "preview": "- May be from pureed foods"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 200,
+      "preview": "- Proprietary blends of fiber"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 201,
+      "preview": "- Some have fructooligosaccharides"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 202,
+      "preview": "- Fiber content may range from 15-22 g fiber/L"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 203,
+      "preview": "- Be careful in patients who don't have a high-fiber diet prior to needing EN"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 204,
+      "preview": "- May lead to intolerance"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 205,
+      "preview": "- Avoid insoluble fiber in critically ill patients and those with intestinal dysmotility"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FIBER",
+      "line": 207,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 209
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 211,
+      "preview": "- $1.5 \\%$ to $55 \\%$ of kcals"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 212,
+      "preview": "- $2 \\%$ to $4 \\%$ as linoleic acid to prevent EFAD"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 213,
+      "preview": "- Types of fat include"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 214,
+      "preview": "- Corn oil"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 215,
+      "preview": "- Canola oil"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 216,
+      "preview": "- Soybean oil"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 217,
+      "preview": "- MCT oil"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 218,
+      "preview": "- Fish oil"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: FAT",
+      "line": 220,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 222
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 224,
+      "preview": "- Varying amounts of water in enteral formulas"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 225,
+      "preview": "- Generally $70 \\%-85 \\%$ water, depending on the concentration"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 226,
+      "preview": "- Low end typically for $2 \\mathrm{kcal} / \\mathrm{mL}$ formulas"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 227,
+      "preview": "- High end typically for $1 \\mathrm{kcal} / \\mathrm{mL}$ formulas"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 228,
+      "preview": "- 1.2-1.5 kcal/mL formulas are somewhere in between"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 229,
+      "preview": "- Carefully consider the patient's fluid needs and determine the best formula concentration"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 230,
+      "preview": "- May need to provide additional water via tube as needed"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: WATER",
+      "line": 232,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 234
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 236,
+      "preview": "- Product literature will state the amount of formula required to meet the RDIs for vitamins and min"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 237,
+      "preview": "- Anywhere between 1000-1500 mL required to meet basic micronutrient requirements"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 238,
+      "preview": "- Patients with low energy requirements may need supplementation"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 239,
+      "preview": "- Some formulas have additional micronutrients added"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 240,
+      "preview": "- Metabolic stress or trauma may have more antioxidants added"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 241,
+      "preview": "- Formulas designed for wound healing may have additional ascorbic acid and zinc"
+    },
+    {
+      "type": "text",
+      "section": "SPECIFIC INGREDIENTS: VITAMINS AND MINERALS",
+      "line": 243,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VITAMINS AND MINERALS",
+      "line": 245
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS AND MINERALS",
+      "line": 247,
+      "preview": "- Most enteral products are designed to meet basic vitamin and mineral needs in a specific volume"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS AND MINERALS",
+      "line": 248,
+      "preview": "- As long as the patient is receiving that volume, they shouldn't need supplementation"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS AND MINERALS",
+      "line": 249,
+      "preview": "- HOWEVER"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS AND MINERALS",
+      "line": 250,
+      "preview": "- How often is EN interrupted?"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS AND MINERALS",
+      "line": 251,
+      "preview": "- If frequent, may want to supplement anyway"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS AND MINERALS",
+      "line": 252,
+      "preview": "- In critically ill patients, antioxidant supplementation may be beneficial"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS AND MINERALS",
+      "line": 254,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "OSMOLALITY",
+      "line": 256
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 258,
+      "preview": "- The concentration of particles in a solution"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 259,
+      "preview": "- Preferred term for enteral formulas"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 260,
+      "preview": "- Unit of measure is $\\mathrm{mOsm} / \\mathrm{kg}$ of water"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 261,
+      "preview": "- Function of size and quantity of ionic and molecular particles within a given volume"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 262,
+      "preview": "- Protein, CHO, electrolytes, minerals"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 263,
+      "preview": "- Free amino acids"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 264,
+      "preview": "- Glucose polymers"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 266,
+      "preview": "More particles = higher osmolality"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 268,
+      "preview": "- Electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 269,
+      "preview": "- Minerals"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 270,
+      "preview": "- Higher osmolality may contribute to diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 272,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 274,
+      "preview": "| Product | Osmolite ${ }^{\\circledR}$ 1Csl | Nutren ${ }^{\\circledR} 1.0$ | Jeyity ${ }^{\\circledR}"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 275,
+      "preview": "| :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 276,
+      "preview": "| kcal/mL | 1.06 | 1.0 | 1.06 | 1.0 |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 277,
+      "preview": "| Protein g/L (\\%kcals) | 44.3 (16.7) | 40 (16) | 44.3 (16.7) | 40 (16) |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 278,
+      "preview": "| CHO g/L (\\%kcals) | 143.9 (54.3) | 136 (54) | 154.7 (54.3) | 148 (54) |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 279,
+      "preview": "| Fiber g/L | 0 | 0 | 14.4 | 15.2 |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 280,
+      "preview": "| Fat g/L (\\%kcals) | 34.7 (29) | 34 (30) | 34.7 (29) | 34 (30) |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 281,
+      "preview": "| Water mL/L | 842 | 844 | 835 | 832 |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 282,
+      "preview": "| Osmolality $\\mathrm{mOsm} / \\mathrm{kg}$ water | 300 | 330 | 300 | 340 |"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 283,
+      "preview": "| Protein source | Sodium \\& calcium caseinates, soy protein isolate | Soy protein isolate, sodium c"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 284,
+      "preview": "| CHO source | Corn maltodextrin, corn syrup solids | Corn syrup, maltodextrin | Corn maltodextrin, "
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 285,
+      "preview": "| Fiber source | Not applicable | Not applicable | Soy fiber | Pea fiber, gum acacia, fructooligosac"
+    },
+    {
+      "type": "table",
+      "section": "OSMOLALITY",
+      "line": 286,
+      "preview": "| Fat source | Canola oil, corn oil, MCT, soy lecithin | Canola oil, MCT, soy lethicin | Canola oil,"
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 288,
+      "preview": "Nestle Health Science. nestlehealthscience.us/brands/Nutren/home-hcp (accessed 2019 Feb 2)."
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 289,
+      "preview": "Abbott. abbottnutrition.com/adult (accessed 2019 Feb 2)."
+    },
+    {
+      "type": "text",
+      "section": "OSMOLALITY",
+      "line": 291,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "image",
+      "section": "OSMOLALITY",
+      "line": 293,
+      "content": "![img-2.jpeg](images/d765ef4500b9b2e2.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 295
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 297
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "Clinical Guidelines",
+      "line": 299
+    },
+    {
+      "type": "text",
+      "section": "Clinical Guidelines",
+      "line": 301,
+      "preview": "Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill"
+    },
+    {
+      "type": "text",
+      "section": "Clinical Guidelines",
+      "line": 303,
+      "preview": "**Stephen A. McClave, MD**\u00b9; **Beth E. Taylor, RD, DCN**\u00b2; **Robert G. Martindale, MD, PhD**\u00b3; **Mal"
+    },
+    {
+      "type": "text",
+      "section": "Clinical Guidelines",
+      "line": 305,
+      "preview": "*McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40(8):159-211.*"
+    },
+    {
+      "type": "text",
+      "section": "Clinical Guidelines",
+      "line": 307,
+      "preview": "**NUTRITION SUPPORT CERTIFICATE**"
+    },
+    {
+      "type": "image",
+      "section": "Clinical Guidelines",
+      "line": 309,
+      "content": "![img-3.jpeg](images/6847735621d471e4.png)"
+    },
+    {
+      "type": "text",
+      "section": "Clinical Guidelines",
+      "line": 311,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 313
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "E. Selection of Appropriate Enteral Formulation",
+      "line": 315
+    },
+    {
+      "type": "text",
+      "section": "E. Selection of Appropriate Enteral Formulation",
+      "line": 317,
+      "preview": "Question: Which formula should be used when initiating EN in the critically ill patient?"
+    },
+    {
+      "type": "text",
+      "section": "E. Selection of Appropriate Enteral Formulation",
+      "line": 319,
+      "preview": "E1. Based on expert consensus, we suggest using a standard polymeric formula when initiating EN in t"
+    },
+    {
+      "type": "text",
+      "section": "E. Selection of Appropriate Enteral Formulation",
+      "line": 321,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40(8):159-211."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 323
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 325,
+      "preview": "- Mr. Smith is a 67 year old man who was admitted with heart failure and was intubated. He was diure"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 326,
+      "preview": "- What would be the best formula to start with?"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 328,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 330
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 332,
+      "preview": "- This is a case where a specialized formula is not necessary"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 333,
+      "preview": "- A more concentrated standard formula would be appropriate to restrict volume"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 334,
+      "preview": "- Pulmonary-specific formulas have not been shown to have significant benefit, and are designed for "
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 335,
+      "preview": "- Mr. Smith developed respiratory failure because of volume overload"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 337,
+      "preview": "| I. Pulmonary Failure | Question: Does use of energy-dense EN formulas to |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 338,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 339,
+      "preview": "| Question: What is the optimal carbohydrate/fat ratio for | restrict fluid administration benefit t"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 340,
+      "preview": "| the adult ICU patient with pulmonary failure? | with acute respiratory failure? |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 341,
+      "preview": "| 11. We suggest that specialty high-fat/low-carbohydrate | 12. Based on expert consensus, we sugges"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 342,
+      "preview": "| formulations designed to manipulate the respiratory | restricted energy-dense EN formulations be c"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 343,
+      "preview": "| quotient and reduce $\\mathrm{CO}_{2}$ production not be used in ICU | for patients with acute resp"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 344,
+      "preview": "| patients with acute respiratory failure (not to be | in a state of volume overload). |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 345,
+      "preview": "| confused with recommendation E3). |  |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 346,
+      "preview": "| [Quality of Evidence: Very Low] |  |"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 348,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40(8):159-211."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 350
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 352,
+      "preview": "- Mr. Smith develops AKI and new hyperkalemia."
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 353,
+      "preview": "- Should his formula be changed?"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 355,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 357
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "J. Renal Failure",
+      "line": 359
+    },
+    {
+      "type": "text",
+      "section": "J. Renal Failure",
+      "line": 361,
+      "preview": "Question: In adult critically ill patients with acute kidney injury (AKI), what are the indications "
+    },
+    {
+      "type": "text",
+      "section": "J. Renal Failure",
+      "line": 363,
+      "preview": "J1. Based on expert consensus, we suggest that ICU patients with acute renal failure (ARF) or AKI be"
+    },
+    {
+      "type": "text",
+      "section": "J. Renal Failure",
+      "line": 365,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40(8):159-211."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 367
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 369,
+      "preview": "- Yes, this would be a time to change to a renal-specific formula to restrict potassium and he may a"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 370,
+      "preview": "- If Mr. Smith starts CRRT, he may be able to change back to a standard formula"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 371,
+      "preview": "- CRRT is generally very effective in removing electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 372,
+      "preview": "- A standard formula may help maintain normal electrolyte status, which is especially important if t"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 374,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 376
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 378,
+      "preview": "- Mrs. Davis is a 66 year old woman with severe respiratory failure from Influenza A. She is intubat"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 379,
+      "preview": "- Anthropometric data:"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 380,
+      "preview": "- Height: 167.6 cm , Weight: 107 kg , IBW: 59.1 kg , BMI: $38.1 \\mathrm{~kg} / \\mathrm{m}^{2}$"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 381,
+      "preview": "- She would benefit from hypocaloric, high-protein EN"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 382,
+      "preview": "- 11-14kcal/kg; actual weight: 1175-1500kcals/day"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 383,
+      "preview": "- 2g protein $/ \\mathrm{kg}$ IBW: $\\sim 118 \\mathrm{~g} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 385,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40(8):159-211."
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 386,
+      "preview": "Mogensen KM et al. JPEN J Parenter Enteral Nutr. 2016; 40(5):713-721."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 388
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 390,
+      "preview": "| Product | Peptomen ${ }^{\\circledR}$ Intense VHP | Vital ${ }^{\\circledR}$ HP |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 391,
+      "preview": "| :-- | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 392,
+      "preview": "| kcal/mL | 1 | 1 |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 393,
+      "preview": "| Protein g/L (\\% kcals) | $92(37)$ | $87.5(35)$ |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 394,
+      "preview": "| CHO g/L (\\% kcals) | $76(29)$ | $112(45)$ |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 395,
+      "preview": "| Fat g/L (\\% kcals) | $38(34)$ | $23.2(20)$ |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 396,
+      "preview": "| Water g/L | 840 | 840 |"
+    },
+    {
+      "type": "table",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 397,
+      "preview": "| Osmolality mOsm/kg water | 345 | 353 |"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 399,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 401
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 403,
+      "preview": "- If we select Peptamen Intense VHP"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 404,
+      "preview": "- 118 g protein $\\div 92 \\mathrm{~g}$ protein/L $=1282 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 405,
+      "preview": "- $1282 \\div 24$ hours $=53 \\mathrm{~mL} / \\mathrm{hr}$ - round up to $55 \\mathrm{~mL} / \\mathrm{hr}"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 406,
+      "preview": "- $55 \\mathrm{~mL} / \\mathrm{hr} \\times 24 \\mathrm{hrs}=1320 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 407,
+      "preview": "- 1320 kcals"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 408,
+      "preview": "- $1.32 \\mathrm{~L} \\times 92 \\mathrm{~g}$ protein/L $=\\sim 121 \\mathrm{~g}$ protein"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 409,
+      "preview": "- $1.32 \\mathrm{~L} \\times 840 \\mathrm{~mL}$ water $/ \\mathrm{L}=\\sim 1109 \\mathrm{~mL}$ water daily"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 412
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 414,
+      "preview": "- Mr. Simpson was admitted to the MICU in septic shock. He has a history of hepatocellular carcinoma"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 415,
+      "preview": "- He is improving, and the team asks for tube feeding with a \"liver friendly\" formula. What is appro"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 417,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 419
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 421,
+      "preview": "Question: Is a disease-specific enteral formulation needed for critically ill patients with liver di"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 423,
+      "preview": "K3. Based on expert consensus, we suggest that standard enteral formulations be used in ICU patients"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 425,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40(8):159-211."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 427
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 429,
+      "preview": "- A standard formula would be indicated in this case"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 430,
+      "preview": "- He is not in fulminant liver failure and his liver function is improving"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 431,
+      "preview": "- He may need a fluid restricted, standard formula if he is volume overloaded after volume resuscita"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 432,
+      "preview": "- Avoid a formula with additional fiber"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 434,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 436
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 438,
+      "preview": "- Ms. Karp was riding her bicycle to work when a truck swerved into her bike lane and hit her. She w"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 439,
+      "preview": "- What would be the best enteral formula for Ms. Karp?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 442
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "M. Surgical Subsets",
+      "line": 444
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 446,
+      "preview": "Trauma"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 447,
+      "preview": "Question: Does the nutrition therapy approach for the trauma patient differ from that for other crit"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 449,
+      "preview": "M1a. We suggest that, similar to other critically ill patients, early enteral feeding with a high pr"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 450,
+      "preview": "[Quality of Evidence: Very Low]"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 452,
+      "preview": "Question: Should immune-modulation formulas be used routinely to improve outcomes in a patient with "
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 454,
+      "preview": "M1b. We suggest that immune-modulating formulations containing arginine and FO be considered in pati"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 455,
+      "preview": "[Quality of Evidence: Very Low]"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 457,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 459,
+      "preview": "| Product | Impact* | Impact* Peptide 1.5 | Perative* | Pivot* 1.5 Cal |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 460,
+      "preview": "| :-- | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 461,
+      "preview": "| kcal $/ \\mathrm{mL}$ | 1.0 | 1.5 | 1.3 | 1.5 |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 462,
+      "preview": "| Protein g/L | $56(22)$ | $94(25)$ | $66.7(20.5)$ | $93.8(25)$ |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 463,
+      "preview": "| CHO g/L | $132(53)$ | $140(37)$ | $180.3(53.7)$ | $172.4(44.5)$ |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 464,
+      "preview": "| Fiber g/L | 0 | 0 | $6.5^{*}$ | $7.5^{*}$ |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 465,
+      "preview": "| Fat g/L | $28(25)$ | $63.6(38)$ | $37.3(25.8)$ | $50.8(30.5)$ |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 466,
+      "preview": "| Water mL/L | 852 | 770 | 790 | 759 |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 467,
+      "preview": "| Arginine g/L | 12.5 | 18.7 | 8 | 13 |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 468,
+      "preview": "| Glutamine g/L | 0 | 0 | 0 | 7.6 |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 469,
+      "preview": "| Nucleotides, <br> g/L | 1.2 | 1.8 | 0 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 470,
+      "preview": "| EPA g/L | 1.7 g | 4.9 g | 0 | 2.6 |"
+    },
+    {
+      "type": "table",
+      "section": "M. Surgical Subsets",
+      "line": 471,
+      "preview": "| DHA g/L | combined | combined | 0 | 1.1 |"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 473,
+      "preview": "*all soluble fiber"
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 474,
+      "preview": "Nestle Health Science. nestlehealthscience.us/brands/Nutren/home-hcp (accessed 2019 Feb 2)."
+    },
+    {
+      "type": "text",
+      "section": "M. Surgical Subsets",
+      "line": 475,
+      "preview": "Abbott. abbottnutrition.com/adult (accessed 2019 Feb 2)."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 477
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 479,
+      "preview": "- Any of these formulas would be fine for Ms. Karp"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 480,
+      "preview": "- None are 100\\% perfect based on the SCCM-ASPEN Critical Care guidelines"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 481,
+      "preview": "- Determine which one is most cost effective for your facility (look at your primary contract) and p"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 483,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 485
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 487,
+      "preview": "- Mr. Green had a subtotal glossectomy for tongue cancer. He had a PEG inserted at the time of his g"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 488,
+      "preview": "- Mr. Green will likely need prolonged (and possibly life-long) EN"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 489,
+      "preview": "- He would benefit from a standard formula with fiber to assure adequate bowel function with long-te"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 490,
+      "preview": "- He does not need a specialized formula as long as he has no specific indication (e.g., heart failu"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 492,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 494
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 496,
+      "preview": "- A bolus schedule would be most convenient"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 497,
+      "preview": "- Consider a standard formula with fiber"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 498,
+      "preview": "- A standard dilution (e.g. $1 \\mathrm{kcal} / \\mathrm{mL}$ formula) would maximize water delivery"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 499,
+      "preview": "- Work with Mr. Green to determine his best administration schedule"
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 500,
+      "preview": "- If he would prefer only 3 \"meals\"/day, consider how much formula he would need for that, etc."
+    },
+    {
+      "type": "text",
+      "section": "DECIDING WHEN TO USE A SPECIALIZED FORMULA",
+      "line": 502,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FORMULA AVAILABILITY",
+      "line": 504
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FORMULA AVAILABILITY",
+      "line": 506
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 508,
+      "preview": "- Closed vs open"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 509,
+      "preview": "- Closed formulas are \"ready to hang\""
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 510,
+      "preview": "- Lower risk of formula contamination"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 511,
+      "preview": "- Bottle of formula does not need to be changed until the bottle runs out"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 512,
+      "preview": "- Open formulas"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 513,
+      "preview": "- Formula is in small containers, typically 237-250 mL containers"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 514,
+      "preview": "- Formula must be decanted into a bag for infusion for pump-assisted formulas"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 515,
+      "preview": "- Hang time restricted to 4-8 hours (may restrict to 12 hours at home)"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 516,
+      "preview": "- Small containers convenient for bolus feeding schedule"
+    },
+    {
+      "type": "text",
+      "section": "FORMULA AVAILABILITY",
+      "line": 518,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FORMULA AVAILABILITY",
+      "line": 520
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Considerations:",
+      "line": 522
+    },
+    {
+      "type": "text",
+      "section": "Considerations:",
+      "line": 524,
+      "preview": "- What is most appropriate for your facility"
+    },
+    {
+      "type": "text",
+      "section": "Considerations:",
+      "line": 525,
+      "preview": "- How are most patients fed?"
+    },
+    {
+      "type": "text",
+      "section": "Considerations:",
+      "line": 526,
+      "preview": "- Pump assisted most frequent? Ready to hang may be best"
+    },
+    {
+      "type": "text",
+      "section": "Considerations:",
+      "line": 527,
+      "preview": "- Lots of bolus feeding? Individual cartons may be better"
+    },
+    {
+      "type": "text",
+      "section": "Considerations:",
+      "line": 529,
+      "preview": "Boullata JI et al. JPEN J Parenter Enteral Nutr. 2017; 41(1):15-103."
+    },
+    {
+      "type": "text",
+      "section": "Considerations:",
+      "line": 530,
+      "preview": "Roberts S et al. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 22-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 532
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 534,
+      "preview": "Mrs Jones is a 70 yo female with COPD who was admitted to the ICU with pneumonia. She requires mecha"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 535,
+      "preview": "A. A polymeric, fiber-free enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 536,
+      "preview": "B. A polymeric, fiber-containing enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 537,
+      "preview": "C. An immune-enhancing enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 538,
+      "preview": "D. A semi-elemental enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 540,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT",
+      "line": 542
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 544,
+      "preview": "- Mrs Jones is a 70 yo female with COPD who was admitted to the ICU with pneumonia. She requires mec"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 545,
+      "preview": "A. A polymeric, fiber-free enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 546,
+      "preview": "B. A polymeric, fiber-containing enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 547,
+      "preview": "C. An immune-enhancing enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 548,
+      "preview": "D. A semi-elemental enteral formula"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONCLUSIONS",
+      "line": 551
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 553,
+      "preview": "- Enteral products can be standard/polymeric, semi-elemental, elemental, and/or disease specific."
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 554,
+      "preview": "- Single macronutrient modules are also available."
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 555,
+      "preview": "- Product choice depends on clinical status of the patient, digestive/absorptive capacity, and under"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 557,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 559
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 561,
+      "preview": "- Abbott. https://abbottnutrition.com/adult (accessed 2019 Feb 2)."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 562,
+      "preview": "- Boullata JI, Carrera AL, Harvey L, et al. ASPEN safe practices for safe enteral nutrition therapy."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 563,
+      "preview": "- McClave SA, Taylor BE, Martindale RG, et al. Guidelines for the provision and assessment of nutrit"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 564,
+      "preview": "- Mogensen KM, Andrew BY, Corona JC, Robinson MK. Validation of the Society of Critical Care Medicin"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 567
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 569,
+      "preview": "- Nestle Health Science. https://www.nestlehealthscience.us/brands/Nutren/homehcp (accessed 2019 Feb"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 570,
+      "preview": "- Roberts S, Kirsch R. Enteral nutrition formulations. In: CM Mueller, LM Lord, M Marian, SA McClave"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 572,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 574,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 576,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 578,
+      "content": "![img-4.jpeg](images/f929f7c51db70ee8.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 580
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 582,
+      "preview": "Team Leader Dietitian Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 583,
+      "preview": "Brigham and Women's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 584,
+      "preview": "Boston, Massachusetts"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 585,
+      "preview": "Kris Mogensen is a Team Leader Dietitian Specialist in the Department of Nutrition at Brigham and Wo"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 587,
+      "preview": "She has a Bachelor of Science in Nutritional Sciences from Rutgers University, completed her dieteti"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 589,
+      "preview": "She has coauthored numerous research and review articles in professional journals, textbook chapters"
+    },
+    {
+      "type": "text",
+      "section": "Kris M. Mogensen, M.S., R.D.-A.P., LDN, CNSC",
+      "line": 591,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 593
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 595,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 597,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 599,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 601,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 602,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 603,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 604,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 605,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 607,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 609,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 611
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 613,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 615,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 617
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 619,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 621
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 623,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 625,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "7a59eca193e03de3.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/7a59eca193e03de3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_EnteralNutritionProducts/images/7a59eca193e03de3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7a59eca193e03de3"
+    },
+    {
+      "sha_name": "765472f58a430dd7.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/765472f58a430dd7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_EnteralNutritionProducts/images/765472f58a430dd7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "765472f58a430dd7"
+    },
+    {
+      "sha_name": "d765ef4500b9b2e2.png",
+      "original_ref": "img-2.jpeg",
+      "page": 12,
+      "relative_path": "images/d765ef4500b9b2e2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_EnteralNutritionProducts/images/d765ef4500b9b2e2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d765ef4500b9b2e2"
+    },
+    {
+      "sha_name": "6847735621d471e4.png",
+      "original_ref": "img-3.jpeg",
+      "page": 12,
+      "relative_path": "images/6847735621d471e4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_EnteralNutritionProducts/images/6847735621d471e4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6847735621d471e4"
+    },
+    {
+      "sha_name": "f929f7c51db70ee8.png",
+      "original_ref": "img-4.jpeg",
+      "page": 27,
+      "relative_path": "images/f929f7c51db70ee8.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_EnteralNutritionProducts/images/f929f7c51db70ee8.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f929f7c51db70ee8"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695992",
+    "ts": "2025-08-08T23:33:12.236528+00:00"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "doc_id": "tpn_considerations__7c3946",
+  "original_filename": "TPN Considerations.pdf",
+  "md_path": "data/parsed/TPN Considerations/TPN Considerations.md",
+  "rmd_path": "data/parsed/TPN Considerations/TPN Considerations.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important considerations when formulation TPN:",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 2,
+      "preview": "1) Electrolytes-concomitant medications, organ function, lab trends, infusion rates"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 3,
+      "preview": "a. Diuretics: Can be K-wasting or K-sparing (team may pre-emptively change the potassium based on di"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 4,
+      "preview": "b. Electrolyte repletion doses: Many ICU patients have \"as needed\" IV electrolyte repletions ordered"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 5,
+      "preview": "c. Lab errors: The team may believe reported lab values are not accurate (Example: falsely elevated "
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 6,
+      "preview": "d. TPN rates are often running at different rates than ordered depending on if other fluids that may"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 7,
+      "preview": "i. Doses actually delivered can be different than the TPN order (double check charting information f"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 8,
+      "preview": "2) Infusion rates- If accounting for volume from other med infusions and enteral feeds in the total "
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 10,
+      "preview": "Could the program identify groups of similar TPN formulations (obtained from the mixing instructions"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 12,
+      "preview": "Ideally, the program could give a recommendation on which formulation is optimal to deliver the desi"
+    },
+    {
+      "type": "image",
+      "section": "Important considerations when formulation TPN:",
+      "line": 13,
+      "content": "![img-0.jpeg](images/240a2c1232b9ecf7.png)"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 15,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 17,
+      "preview": "1) A TPN is entered for following prescription and mixing instructions. The TPN is ordered to run at"
+    },
+    {
+      "type": "image",
+      "section": "Important considerations when formulation TPN:",
+      "line": 18,
+      "content": "![img-1.jpeg](images/9c034760825d3a6f.png)"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 19,
+      "preview": "2) Before starting the bag, the patient looks edematous, and the team wants to decrease the total fl"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 21,
+      "preview": "- If the original bag is used, the patient will receive lower amounts of TPN components if running a"
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 23,
+      "preview": "| Original bag formulation <br> ( 500 mL at rate of 41.7 mL/hr over 12 hours) | Rate of $41.7 \\mathr"
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 24,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 25,
+      "preview": "| Sodium $140 \\mathrm{mEq} / \\mathrm{L}=0.14 \\mathrm{mEq} / \\mathrm{mL}$ | $41.7 \\mathrm{~mL} / \\mat"
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 26,
+      "preview": "| Potassium $45 \\mathrm{mEq} / \\mathrm{L}=0.045 \\mathrm{mEq} / \\mathrm{mL}$ | $41.7 \\mathrm{~mL} / \\"
+    },
+    {
+      "type": "text",
+      "section": "Important considerations when formulation TPN:",
+      "line": 28,
+      "preview": "3) If we wanted to deliver the same doses of sodium and potassium but still run the TPN at a lower r"
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 30,
+      "preview": "| New bag formulation <br> ( 368 mL at rate of 30.7 mL/hr over 12 hours) | Rate of $30.7 \\mathrm{~mL"
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 31,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 32,
+      "preview": "| Sodium $190 \\mathrm{mEq} / \\mathrm{L}=0.19 \\mathrm{mEq} / \\mathrm{mL}$ <br> *HIGHER CONCENTRATION "
+    },
+    {
+      "type": "table",
+      "section": "Important considerations when formulation TPN:",
+      "line": 33,
+      "preview": "| Potassium $61 \\mathrm{mEq} / \\mathrm{L}=0.061 \\mathrm{mEq} / \\mathrm{mL}$ <br> *HIGHER CONCENTRATI"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "240a2c1232b9ecf7.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/240a2c1232b9ecf7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/TPN Considerations/images/240a2c1232b9ecf7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "240a2c1232b9ecf7"
+    },
+    {
+      "sha_name": "9c034760825d3a6f.png",
+      "original_ref": "img-1.jpeg",
+      "page": 1,
+      "relative_path": "images/9c034760825d3a6f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/TPN Considerations/images/9c034760825d3a6f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c034760825d3a6f"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696509",
+    "ts": "2025-08-08T23:41:49.767753+00:00"
+  }
+}

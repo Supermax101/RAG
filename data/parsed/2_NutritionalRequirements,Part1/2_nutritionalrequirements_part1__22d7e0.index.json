@@ -1,0 +1,2886 @@
+{
+  "doc_id": "2_nutritionalrequirements_part1__22d7e0",
+  "original_filename": "2_NutritionalRequirements,Part1.pdf",
+  "md_path": "data/parsed/2_NutritionalRequirements,Part1/2_NutritionalRequirements,Part1.md",
+  "rmd_path": "data/parsed/2_NutritionalRequirements,Part1/2_NutritionalRequirements,Part1.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Nutritional",
+      "line": 2
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 4,
+      "preview": "Requirements, Part 1"
+    },
+    {
+      "type": "image",
+      "section": "Nutritional",
+      "line": 5,
+      "content": "![img-0.jpeg](images/9c01a79eee8ab186.png)"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 7,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 8,
+      "preview": "\u00a92022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITIONAL REQUIREMENTS PART 1",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS PART 1",
+      "line": 15,
+      "preview": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS PART 1",
+      "line": 16,
+      "preview": "University of Texas MD Anderson"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS PART 1",
+      "line": 17,
+      "preview": "Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL REQUIREMENTS PART 1",
+      "line": 19,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 21
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23,
+      "preview": "No one in control of the content of this activity has a relevant financial relationship (RFR) with a"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 27
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 29,
+      "preview": "- Evaluate parenteral nutrition orders for the appropriate content and use of macronutrients based o"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 30,
+      "preview": "- Design a parenteral nutrition formulation that limits dextrose provision while balancing overall n"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 31,
+      "preview": "- Compare minimum requirements of available lipid emulsion formulations to prevent essential fatty a"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 32,
+      "preview": "- Calculate a patient's estimated fluid requirements using the three most common methods."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 33,
+      "preview": "- Evaluate the clinical need to modify fluid provision compared to calculated maintenance fluid requ"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 36
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 38,
+      "preview": "- AA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 39,
+      "preview": "- AdjBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 40,
+      "preview": "- ALA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- CrCl :"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- Dex:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- EFA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- EFAD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- GI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- IBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "amino acids"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "adjusted body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "alpha-linolenic acid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "creatinine clearance"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "essential fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "ideal body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 61
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 63,
+      "preview": "- ILE: lipid injectable emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 64,
+      "preview": "- IV: intravenous"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 65,
+      "preview": "- LA: linoleic acid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 66,
+      "preview": "- MCT: medium chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 67,
+      "preview": "- NPO: nil per os (nothing by mouth)"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 68,
+      "preview": "- PN: parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 69,
+      "preview": "- CRRT: continuous renal replacement therapy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 70,
+      "preview": "- TBW: total body water"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 73
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 75,
+      "preview": "RC is a 52-year-old with rectal cancer admitted for exploratory laparotomy including abdominoperinea"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 76,
+      "preview": "A. No intervention is needed"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 77,
+      "preview": "B. Begin enteral nutrition via his nasogastric tube"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 78,
+      "preview": "C. Add dextrose 5\\% to his IV fluids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 79,
+      "preview": "D. Begin parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 81,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 83,
+      "content": "![img-1.jpeg](images/c9f6a48112b6b737.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 85
+    },
+    {
+      "type": "image",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 87,
+      "content": "![img-2.jpeg](images/9098f1047589edbe.png)"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 89,
+      "preview": "Delay until condition has improved"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 91,
+      "preview": "As soon as feasible"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 93,
+      "preview": "Within 3-5 days"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 95,
+      "preview": "After 7 days of inadequate oral intake or EN"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 97,
+      "preview": "- Severe metabolic or hemodynamic instability"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 98,
+      "preview": "- Baseline moderate or severe malnutrition when oral intake not feasible or sufficient"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 99,
+      "preview": "- Nutritionally-at-risk and unlikely to achieve nutrition goals by other routes"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 100,
+      "preview": "- Well nourished stable adult patients"
+    },
+    {
+      "type": "text",
+      "section": "TIMELINE CONSIDERATIONS FOR PARENTERAL NUTRITION",
+      "line": 102,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN THERAPY GOALS",
+      "line": 104
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 106,
+      "preview": "- Replenishment of malnourished state and protein stores (lean body mass)"
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 107,
+      "preview": "- Normalization of clinical laboratory values"
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 108,
+      "preview": "- Optimization of clinical outcomes"
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 109,
+      "preview": "- Reduction in post-operative complications in the malnourished"
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 110,
+      "preview": "- Reduction in morbidity"
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 111,
+      "preview": "- Stabilization of weight or progress toward goal weight"
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 112,
+      "preview": "- Improvement in quality of life"
+    },
+    {
+      "type": "text",
+      "section": "PN THERAPY GOALS",
+      "line": 114,
+      "preview": "Worthington P et al. JPEN J Parenter Enteral Nutr. 2017; 41(3):324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 116
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 118,
+      "preview": "RC is a 52-year-old with rectal cancer admitted for exploratory laparotomy including abdominoperinea"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 119,
+      "preview": "A. No intervention is needed"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 120,
+      "preview": "B. Begin enteral nutrition via his nasogastric tube"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 121,
+      "preview": "C. Add dextrose 5\\% to his IV fluids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 122,
+      "preview": "D. Begin parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 124,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 126
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 128,
+      "preview": "RC is a 52-year-old with rectal cancer admitted for exploratory laparotomy including abdominoperinea"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 129,
+      "preview": "A. No intervention is needed"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 130,
+      "preview": "B. Begin enteral nutrition via his nasogastric tube"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 131,
+      "preview": "C. Add dextrose $5 \\%$ to his IV fluids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 132,
+      "preview": "D. Begin parenteral nutrition"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 134
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 136,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 137,
+      "preview": "A. 60 kg"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 138,
+      "preview": "B. 63 kg"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 139,
+      "preview": "C. 66 kg"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 140,
+      "preview": "D. 71 kg"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 142,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 144
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 146,
+      "preview": "- Dosing weight shall be determined for each patient"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 147,
+      "preview": "- Determine an ideal body weight (IBW):"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 148,
+      "preview": "- Women IBW $=45.5 \\mathrm{~kg}+(2.3 \\mathrm{~kg} \\times$ each inch over 60 inches $)$"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 149,
+      "preview": "- Men IBW $=50 \\mathrm{~kg}+(2.3 \\mathrm{~kg} \\times$ each inch over 60 inches $)$"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 150,
+      "preview": "- Not applicable if under 60 inches"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 151,
+      "preview": "- Use actual body weight if below IBW"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 152,
+      "preview": "- Methods for adjusting body weight of obese patients have been suggested, but none have been clearl"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 153,
+      "preview": "- IBW is preferred to adjusted body weight (AdjBW) in patients weighing more than $130 \\%$ of their "
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 154,
+      "preview": "$\\operatorname{AdjBW}=I B W+[($ Actual Wt $(\\mathrm{kg})-I B W) \\times 0.25]$"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 156,
+      "preview": "SELF-ASSESSMENT \\#2"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 158,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 159,
+      "preview": "A. 60 kg"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 160,
+      "preview": "B. 63 kg"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 161,
+      "preview": "C. 66 kg"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 162,
+      "preview": "D. 71 kg"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING DOSING WEIGHT",
+      "line": 164,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 166
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 168,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 169,
+      "preview": "A. 60 kg"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 170,
+      "preview": "B. 63 kg"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 171,
+      "preview": "C. 66 kg"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 172,
+      "preview": "D. 71 kg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 174
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 176,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 177,
+      "preview": "A. Begin oral clear liquids with advancement to a regular diet"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 178,
+      "preview": "B. Provide enteral nutrition with a $1.2 \\mathrm{kcal} / \\mathrm{mL}$ formula via his nasogastric tu"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 179,
+      "preview": "C. Add dextrose $10 \\%$ to his IV fluids and increase rate to $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 180,
+      "preview": "D. Begin parenteral nutrition with dextrose $10 \\%$, amino acids $4 \\%$ ILE $2 \\%$ at $100 \\mathrm{~"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 182,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "RESTING ENERGY EXPENDITURE AND NITROGEN EXCRETION",
+      "line": 184
+    },
+    {
+      "type": "image",
+      "section": "RESTING ENERGY EXPENDITURE AND NITROGEN EXCRETION",
+      "line": 186,
+      "content": "![img-3.jpeg](images/1915b04033e96620.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 188
+    },
+    {
+      "type": "image",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 190,
+      "content": "![img-4.jpeg](images/ec9d7633b4669987.png)"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 192,
+      "preview": "- Harris Benedict - oldest for estimating basal energy expenditure (usually $\\times 1.2$ )"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 193,
+      "preview": "- Women $=655+(9.6 \\times$ Weight $(\\mathrm{kg}))+(1.7 \\times$ Height $(\\mathrm{cm}))-(4.7 \\times$ A"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 194,
+      "preview": "- Men $=66+(13.7 \\times$ Weight $(\\mathrm{kg}))+(5 \\times$ Height $(\\mathrm{cm}))-(6.8 \\times$ Age $"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 195,
+      "preview": "- Mifflin-St Jeor - currently most recommended"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 196,
+      "preview": "- Women $=-161+(10 \\times$ Weight $(\\mathrm{kg}))+(6.25 \\times$ Height $(\\mathrm{cm}))-(5 \\times$ Ag"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 197,
+      "preview": "- Men $=5+(10 \\times$ Weight $(\\mathrm{kg}))+(6.25 \\times$ Height $(\\mathrm{cm}))-(5 \\times$ Age $(\\"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 198,
+      "preview": "- Calories/Kilogram - easiest"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 199,
+      "preview": "- $20-30 \\mathrm{kcal} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 200,
+      "preview": "- Should be used as a starting point only and adjusted based on available data and clinical judgment"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 202,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 204
+    },
+    {
+      "type": "image",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 206,
+      "content": "![img-5.jpeg](images/364c467932fd2f85.png)"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 208,
+      "preview": "- Harris Benedict - oldest for estimating basal energy expenditure (usually $\\times 1.2$ )"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 209,
+      "preview": "- Men $=66+(13.7 \\times$ Weight $(\\mathrm{kg}))+(5 \\times$ Height $(\\mathrm{cm}))-(6.8 \\times$ Age $"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 210,
+      "preview": "- $R C=1411 \\mathrm{kcal} /$ day $\\times 1.2=1693 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 211,
+      "preview": "- Mifflin-St Jeor - currently most recommended"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 212,
+      "preview": "- Men $=5+(10 \\times$ Weight $(\\mathrm{kg}))+(6.25 \\times$ Height $(\\mathrm{cm}))-(5 \\times$ Age $(\\"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 213,
+      "preview": "- $R C=1440 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 214,
+      "preview": "- Calories/Kilogram - easiest"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 215,
+      "preview": "- $20-30 \\mathrm{kcal} / \\mathrm{kg} /$ day $\\times 60 \\mathrm{~kg}=1200-1800 \\mathrm{kcal} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PREDICTIVE EQUATIONS OF ENERGY REQUIREMENTS",
+      "line": 217,
+      "preview": "Frankenfield D. The ASPEN adult nutrition supportcore curriculum. 3rd ed. 2017:27-40."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 219
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 221,
+      "preview": "| Nutrient | Standard Intake |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 222,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 223,
+      "preview": "| Protein (AA) | $0.8-2 \\mathrm{~g} / \\mathrm{kg}$ |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 224,
+      "preview": "| Total Calories | $20-30 \\mathrm{kcal} / \\mathrm{kg}$ |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 225,
+      "preview": "| Volume | $30-40 \\mathrm{~mL} / \\mathrm{kg}$ |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 226,
+      "preview": "| Sodium | $1-2 \\mathrm{mEq} / \\mathrm{kg}$ |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 227,
+      "preview": "| Potassium | $1-2 \\mathrm{mEq} / \\mathrm{kg}$ |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 228,
+      "preview": "| Magnesium | $8-20 \\mathrm{mEq}$ |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 229,
+      "preview": "| Phosphate | $20-40 \\mathrm{mmol}^{*}$ |"
+    },
+    {
+      "type": "table",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 230,
+      "preview": "| Calcium | $10-15 \\mathrm{mEq}^{*}$ |"
+    },
+    {
+      "type": "text",
+      "section": "MACRONUTRIENT REQUIREMENTS IN PARENTERAL NUTRITION",
+      "line": 232,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 234
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 236,
+      "preview": "- Typical adult protein intakes are approximately 15-20\\% of total calories"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 237,
+      "preview": "- Minimum: $0.8 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 238,
+      "preview": "- Stable: $0.8-1 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 239,
+      "preview": "- Critically ill: $1.2-2 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 240,
+      "preview": "- Obesity: $2-2.5 \\mathrm{~g}$ IBW/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 241,
+      "preview": "- Maximum: $2.5 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 242,
+      "preview": "- CRRT"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 243,
+      "preview": "- Protein in PN provided as crystalline amino acids"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 244,
+      "preview": "- 1 g of nitrogen $=6 \\mathrm{~g}$ of protein (e.g., 15 g Nitrogen $=90 \\mathrm{~g}$ Protein)"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 245,
+      "preview": "- Provides $4 \\mathrm{kcal} / \\mathrm{g}$"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 247,
+      "preview": "McClave SA et al. JPEN J Parent Enteral Nutr. 2016;40:159-211."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 249
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 251,
+      "preview": "- Catabolism"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 252,
+      "preview": "- Tissue loss; Negative nitrogen balance with $\\uparrow$ nitrogen excretion"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 253,
+      "preview": "- Primarily from skeletal muscle"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 254,
+      "preview": "- Supplies amino acids for gluconeogenesis \\& synthesis of acute phase proteins"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 255,
+      "preview": "- 1 g of Urinary Urea Nitrogen represents the loss of 30 g of lean tissue"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 256,
+      "preview": "- 24-hr Urinary Urea Nitrogen excretion"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 257,
+      "preview": "- 15 g equivalent to $\\sim 0.5 \\mathrm{~kg}$ lean body mass/day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 258,
+      "preview": "- Post-surgery: 0.64 kg lean body mass lost/day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 259,
+      "preview": "- NPO for 5 to 7 days $=2.5$ to 3.5 kg lean body mass loss"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING PROTEIN NEEDS",
+      "line": 261,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PROTEIN-SPARING EFFECT OF CALORIES",
+      "line": 263
+    },
+    {
+      "type": "image",
+      "section": "PROTEIN-SPARING EFFECT OF CALORIES",
+      "line": 265,
+      "content": "![img-6.jpeg](images/d9ff31035db25e54.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "POSTOPERATIVE PROTEIN-",
+      "line": 267
+    },
+    {
+      "type": "text",
+      "section": "POSTOPERATIVE PROTEIN-",
+      "line": 269,
+      "preview": "SPARING REGIMENS"
+    },
+    {
+      "type": "image",
+      "section": "POSTOPERATIVE PROTEIN-",
+      "line": 270,
+      "content": "![img-7.jpeg](images/5023525b0ca14fb5.png)"
+    },
+    {
+      "type": "text",
+      "section": "POSTOPERATIVE PROTEIN-",
+      "line": 272,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CALORIE \\& PROTEIN EFFECTS ON NITROGEN BALANCE",
+      "line": 274
+    },
+    {
+      "type": "image",
+      "section": "CALORIE \\& PROTEIN EFFECTS ON NITROGEN BALANCE",
+      "line": 276,
+      "content": "![img-8.jpeg](images/090fe2cf523c76f6.png)"
+    },
+    {
+      "type": "text",
+      "section": "CALORIE \\& PROTEIN EFFECTS ON NITROGEN BALANCE",
+      "line": 278,
+      "preview": "EIwyn DHet al. Surg Clin North Am. 1981;61(3):545-6."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PROTEIN LOSS AND ENERGY/NITROGEN RATIO",
+      "line": 280
+    },
+    {
+      "type": "image",
+      "section": "PROTEIN LOSS AND ENERGY/NITROGEN RATIO",
+      "line": 282,
+      "content": "![img-9.jpeg](images/bd93209f84ea0387.png)"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN LOSS AND ENERGY/NITROGEN RATIO",
+      "line": 284,
+      "preview": "Critically ill require lower Energy/Nitrogen ratios compared to stable hospitalized patients"
+    },
+    {
+      "type": "image",
+      "section": "PROTEIN LOSS AND ENERGY/NITROGEN RATIO",
+      "line": 285,
+      "content": "![img-10.jpeg](images/c6e25a4d91ba26a0.png)"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN LOSS AND ENERGY/NITROGEN RATIO",
+      "line": 287,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 289
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 291,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 292,
+      "preview": "A. Begin oral clear liquids with advancement to a regular diet"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 293,
+      "preview": "B. Provide enteral nutrition with a $1.2 \\mathrm{kcal} / \\mathrm{mL}$ formula via his nasogastric tu"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 294,
+      "preview": "C. Add dextrose $10 \\%$ to his IV fluids and increase rate to $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 295,
+      "preview": "D. Begin parenteral nutrition with dextrose $10 \\%$, amino acids $4 \\%$ ILE $2 \\%$ at $100 \\mathrm{~"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 297
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 299,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 300,
+      "preview": "A. Begin oral clear liquids with advancement to a regular diet"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 301,
+      "preview": "B. Provide enteral nutrition with a $1.2 \\mathrm{kcal} / \\mathrm{mL}$ formula via his nasogastric tu"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 302,
+      "preview": "C. Add dextrose $10 \\%$ to his IV fluids and increase rate to $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 303,
+      "preview": "D. Begin parenteral nutrition with dextrose $10 \\%$, amino acids $4 \\%$ ILE $2 \\%$ at $100 \\mathrm{~"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 305,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 307
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 309,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 310,
+      "preview": "A. 0.17"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 311,
+      "preview": "B. 1.74"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 312,
+      "preview": "C. 2.16"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 313,
+      "preview": "D. 3.12"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 315
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 317,
+      "preview": "- Typical adult carbohydrate intake is approximately $50 \\%$ of total calories"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 318,
+      "preview": "- Minimum: $50 \\mathrm{~g} /$ day to avoid ketone production"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 319,
+      "preview": "- Carbohydrate in PN provided as dextrose (most common) or glycerol"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 320,
+      "preview": "- 1 g of dextrose monohydrate provides 3.4 kcal"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 321,
+      "preview": "- Hyperglycemia more common in hospitalized patients with $>4$ $\\mathrm{mg} / \\mathrm{kg} /$ minute "
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 322,
+      "preview": "- Approximately $2 \\mathrm{~g} / \\mathrm{kg} /$ day is considered protein-sparing"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 323,
+      "preview": "- D5W at $125 \\mathrm{~mL} / \\mathrm{hr}$ provides $150 \\mathrm{~g} /$ day of dextrose"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 324,
+      "preview": "- Maximum: $7 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 325,
+      "preview": "- 1 g of glycerol provides 4.3 kcal"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CARBOHYDRATE NEEDS",
+      "line": 327,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 329
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 331,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 332,
+      "preview": "A. 0.17"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 333,
+      "preview": "B. 1.74"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 334,
+      "preview": "C. 2.16"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 335,
+      "preview": "D. 3.12"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 337
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 339,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 340,
+      "preview": "A. 0.17"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 341,
+      "preview": "B. 1.74"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 342,
+      "preview": "C. 2.16"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 343,
+      "preview": "D. 3.12"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 345,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 347
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 349,
+      "preview": "- Typical adult fat intake is approximately 15-35\\% of total calories"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 350,
+      "preview": "- With 100\\% soybean oil ILE, intake of $\\leq 1 \\mathrm{~g} / \\mathrm{kg} /$ day in critically ill p"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 351,
+      "preview": "- Essential fatty acids required: LA and ALA"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 352,
+      "preview": "- Minimum amounts of total calories:"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 353,
+      "preview": "- At least 1-4\\% from LA"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "AND",
+      "line": 356
+    },
+    {
+      "type": "text",
+      "section": "AND",
+      "line": 358,
+      "preview": "- $0.25-0.5 \\%$ from ALA"
+    },
+    {
+      "type": "text",
+      "section": "AND",
+      "line": 359,
+      "preview": "- Minimum to prevent EFAD with PN - soybean oil contains 54\\% LA \\& 7\\% ALA"
+    },
+    {
+      "type": "text",
+      "section": "AND",
+      "line": 360,
+      "preview": "- $100 \\mathrm{~g} /$ week of $100 \\%$ soybean oil as $20 \\%$ oil-in-water ILE"
+    },
+    {
+      "type": "text",
+      "section": "AND",
+      "line": 362,
+      "preview": "Hise Met al. The ASPENadult nutrition support core curriculum. $3^{\\text {rd }}$ ed. 2017:71-95."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 364
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 366,
+      "preview": "- Fat in PN provided traditionally as 100\\% soybean oil"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 367,
+      "preview": "- 20\\% oil-in-water ILE"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 368,
+      "preview": "- 1 g provides 10 kcal"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 369,
+      "preview": "- Fat provides $9 \\mathrm{kcal} / \\mathrm{g}$ plus energy from glycerin (for osmolarity)"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 370,
+      "preview": "- Alternative ILEs:"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 371,
+      "preview": "- 30\\% soybean oil, 30\\% MCT oil, 25\\% olive oil, 15\\% fish oil"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 372,
+      "preview": "- 80\\% olive oil, 20\\% soybean oil"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 373,
+      "preview": "- 20\\% oil-in-water ILE"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 374,
+      "preview": "- 1 g provides 10 kcal"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 375,
+      "preview": "- Maximum of ILE: 60\\% of total calories or $2.5 \\mathrm{~g} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FAT (ILE) NEEDS",
+      "line": 377,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 379
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 381,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 382,
+      "preview": "A. Dextrose 5\\% at $60 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 383,
+      "preview": "B. Dextrose 5\\% at $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 384,
+      "preview": "C. Dextrose in $0.45 \\%$ sodium chloride at $60 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 385,
+      "preview": "D. Dextrose in $0.45 \\%$ sodium chloride at $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 387
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 389,
+      "preview": "- Based on calorie intake - least favored in older adults"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 390,
+      "preview": "- $1 \\mathrm{~mL} / \\mathrm{kcal}$ required"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 391,
+      "preview": "- Based on Body Surface Area - 1500 mL/m2/day"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 392,
+      "preview": "- Age and weight based"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 393,
+      "preview": "- Most adults (18-55 yrs): $35 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 394,
+      "preview": "- Older Adults (56-75 yrs): $30 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 395,
+      "preview": "- Elderly (> 75 yrs): $25 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 396,
+      "preview": "- Based on $\\mathrm{mL} / \\mathrm{kg}$ based on weight"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 397,
+      "preview": "- $>20 \\mathrm{~kg}(<50 \\mathrm{yrs}): 1500 \\mathrm{~mL}+20 \\mathrm{~mL} / \\mathrm{kg}$ for each $\\m"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 398,
+      "preview": "- $>20 \\mathrm{~kg}(\\geq 50 \\mathrm{yrs}): 1500 \\mathrm{~mL}+15 \\mathrm{~mL} / \\mathrm{kg}$ for each"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS",
+      "line": 400,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 402
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 404,
+      "preview": "- Based on calorie intake"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 405,
+      "preview": "- $1 \\mathrm{~mL} / \\mathrm{kcal}$ required $=25 \\mathrm{kcal} / \\mathrm{kg} \\times 60 \\mathrm{~kg}="
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 406,
+      "preview": "- Based on Body Surface Area"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 407,
+      "preview": "- Dubois \\& Dubois $=0.20247 \\times$ height $(\\mathrm{m})^{0.725} \\times$ weight $(\\mathrm{kg})^{0.4"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 408,
+      "preview": "- Age and weight based"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 409,
+      "preview": "- Most adults (18-55 yrs): $\\quad 35 \\mathrm{~mL} / \\mathrm{kg} /$ day $\\times 60 \\mathrm{~kg}=2100 "
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 410,
+      "preview": "- Based on $\\mathrm{mL} / \\mathrm{kg}$ based on weight"
+    },
+    {
+      "type": "text",
+      "section": "ESTIMATING FLUID REQUIREMENTS, CONT.",
+      "line": 411,
+      "preview": "- $>20 \\mathrm{~kg}(\\geq 50 \\mathrm{yrs}): 1500 \\mathrm{~mL}+15 \\mathrm{~mL} / \\mathrm{kg}$ for each"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TOTAL BODY WATER",
+      "line": 414
+    },
+    {
+      "type": "image",
+      "section": "TOTAL BODY WATER",
+      "line": 416,
+      "content": "![img-11.jpeg](images/f17ab1118020d7cf.png)"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER",
+      "line": 418,
+      "preview": "- \\% TBW depends on weight, age, sex, and body fat \\%"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER",
+      "line": 419,
+      "preview": "- Average adult male: $60 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER",
+      "line": 420,
+      "preview": "- Example: 60 kg male"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER",
+      "line": 421,
+      "preview": "- $\\quad \\mathrm{TBW}=60 \\mathrm{~kg} \\times 0.60=36 \\mathrm{~L}$"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER",
+      "line": 422,
+      "preview": "- Average adult female: $50 \\%$"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER",
+      "line": 424,
+      "preview": "|  | Extracellular <br> 1/3 | Interstitial 3/4 |"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER",
+      "line": 425,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER",
+      "line": 426,
+      "preview": "| TBW (L) | Intracellular <br> 2/3 |  |"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER",
+      "line": 428,
+      "preview": "Canada TW et al. ASPEN Adult Nutrition Support Core Curriculum 3rd ed. 2017:113-37."
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER",
+      "line": 430,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "IV FLUID COMPOSITION",
+      "line": 432
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 434,
+      "preview": "| Solution | Dextrose $(\\mathrm{a} / \\mathrm{L})$ | Sodium $(\\mathrm{mEq} / \\mathrm{L})^{*}$ | Chlor"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 435,
+      "preview": "| :--: | :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 436,
+      "preview": "| $\\mathrm{D}_{5} \\mathrm{~W}$ | 50 | 0 | 0 | Hypotonic | 1000 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 437,
+      "preview": "| $0.225 \\% \\mathrm{NaCl}$ | 0 | 38.5 | 38.5 | Hypotonic | 750 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 438,
+      "preview": "| $0.45 \\% \\mathrm{NaCl}$ | 0 | 77 | 77 | Hypotonic | 500 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 439,
+      "preview": "| $0.9 \\% \\mathrm{NaCl}$ | 0 | 154 | 154 | Isotonic | 0 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 440,
+      "preview": "| Lactated Ringer's | 0 | 130 | 109 | Isotonic | 0 mL |"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 442,
+      "preview": "* $\\mathrm{mEq}=$ mmol"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 444,
+      "preview": "TOTAL BODY WATER - D5W"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 446,
+      "preview": "- \\% TBW depends on weight, age, sex, and body fat \\%"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 447,
+      "preview": "- Average adult male: 60\\%"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 448,
+      "preview": "- Example: 60 kg male"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 450,
+      "preview": "$$"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 451,
+      "preview": "-\\mathrm{TBW}=60 \\mathrm{~kg} \\times 0.60=36 \\mathrm{~L}"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 452,
+      "preview": "$$"
+    },
+    {
+      "type": "image",
+      "section": "IV FLUID COMPOSITION",
+      "line": 454,
+      "content": "![img-12.jpeg](images/df9ab5c7f6451bc2.png)"
+    },
+    {
+      "type": "text",
+      "section": "IV FLUID COMPOSITION",
+      "line": 456,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 458
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 460,
+      "preview": "- \\% TBW depends on weight, age, sex, and body fat \\%"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 461,
+      "preview": "- Average adult male: $60 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 462,
+      "preview": "- Example: 60 kg male"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 463,
+      "preview": "- TBW $=60 \\mathrm{~kg} \\times 0.60=36 \\mathrm{~L}$"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 465,
+      "preview": "|  |   |"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 466,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 467,
+      "preview": "|  TBW (L) - |   |"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 468,
+      "preview": "|  1 L 0.45\\% NaCl $=$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 469,
+      "preview": "|  0.5 L 0.9\\% NaCl + |   |"
+    },
+    {
+      "type": "table",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 470,
+      "preview": "|  0.5 L Water |   |"
+    },
+    {
+      "type": "image",
+      "section": "TOTAL BODY WATER - 0.45\\% NACL",
+      "line": 472,
+      "content": "![img-13.jpeg](images/b44d16f8171405e5.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 474
+    },
+    {
+      "type": "table",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 476,
+      "preview": "| Location | Volume <br> (L/day) | Sodium <br> $(\\mathrm{mEq} / \\mathrm{L})^{*}$ | Potassium <br> $("
+    },
+    {
+      "type": "table",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 477,
+      "preview": "| :-- | :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 478,
+      "preview": "| Saliva | 1.5 | 10 | 26 | 10 | 30 |"
+    },
+    {
+      "type": "table",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 479,
+      "preview": "| Stomach | 1.5 | 60 | 10 | 130 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 480,
+      "preview": "| Pancreas | Variable | 140 | 5 | 75 | 115 |"
+    },
+    {
+      "type": "table",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 481,
+      "preview": "| Ileum | 3 | 140 | 5 | 104 | 30 |"
+    },
+    {
+      "type": "table",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 482,
+      "preview": "| Colon | Variable | 60 | 30 | 40 | 0 |"
+    },
+    {
+      "type": "text",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 484,
+      "preview": "* $\\mathrm{mEq}=$ mmol"
+    },
+    {
+      "type": "text",
+      "section": "GI FLUID CONTENT \\& COMPOSITION",
+      "line": 486,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "IV FLUID COMPOSITION",
+      "line": 488
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 490,
+      "preview": "| Solution | Dextrose $(\\mathrm{a} / \\mathrm{L})$ | Sodium $(\\mathrm{mEq} / \\mathrm{L})^{*}$ | Chlor"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 491,
+      "preview": "| :--: | :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 492,
+      "preview": "| $\\mathrm{D}_{5} \\mathrm{~W}$ | 50 | 0 | 0 | Hypotonic | 1000 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 493,
+      "preview": "| $0.225 \\% \\mathrm{NaCl}$ | 0 | 38.5 | 38.5 | Hypotonic | 750 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 494,
+      "preview": "| $0.45 \\% \\mathrm{NaCl}$ | 0 | 77 | 77 | Hypotonic | 500 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 495,
+      "preview": "| $0.9 \\% \\mathrm{NaCl}$ | 0 | 154 | 154 | Isotonic | 0 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 496,
+      "preview": "| Lactated Ringer's | 0 | 130 | 109 | Isotonic | 0 mL |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 497,
+      "preview": "|  | * $\\mathrm{mEq}=$ mmol |  |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "IV FLUID COMPOSITION",
+      "line": 498,
+      "preview": "|  | Ideal replacement of nasogastric losses |  |  |  |  |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 500
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 502,
+      "preview": "- Daily volume estimation from one of 4 methods previously mentioned"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 503,
+      "preview": "- Typically between $25-50 \\mathrm{~mL} / \\mathrm{kg} /$ day $\\times 60 \\mathrm{~kg}=1500-3000 \\math"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 504,
+      "preview": "- Dependent on fever, diarrhea, nasogastric \\& ostomy losses, drains, fistulae, hyperglycemia, heart"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 505,
+      "preview": "- $\\sim 500 \\mathrm{~mL}$ from insensible skin losses"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 506,
+      "preview": "- $\\sim 500 \\mathrm{~mL}$ from respiration"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 507,
+      "preview": "- Normal daily fecal fluid loss $50-150 \\mathrm{~mL}$ (assuming functional Gl tract)"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 508,
+      "preview": "- Vital signs"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 509,
+      "preview": "- Heart rate \\& blood pressure"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 510,
+      "preview": "- Urine output \\& renal function"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 511,
+      "preview": "- $0.5-2 \\mathrm{~mL} / \\mathrm{kg} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING FLUID NEEDS",
+      "line": 513,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 515
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 517,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 518,
+      "preview": "A. Dextrose 5\\% at $60 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 519,
+      "preview": "B. Dextrose 5\\% at $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 520,
+      "preview": "C. Dextrose in $0.45 \\%$ sodium chloride at $60 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 521,
+      "preview": "D. Dextrose in $0.45 \\%$ sodium chloride at $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 523
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 525,
+      "preview": "RC is a 52-year-old male with a postoperative ileus on hospital day 3 . His weight is 60 kg and he i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 526,
+      "preview": "A. Dextrose 5\\% at $60 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 527,
+      "preview": "B. Dextrose 5\\% at $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 528,
+      "preview": "C. Dextrose in $0.45 \\%$ sodium chloride at $60 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 529,
+      "preview": "D. Dextrose in $0.45 \\%$ sodium chloride at $125 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#5",
+      "line": 531,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 533
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 535,
+      "preview": "- Primary goal of nutrition support is to provide the required amounts of nitrogen (protein) and ene"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 536,
+      "preview": "- Dependent on patient age, presence of malnutrition and underlying comorbidities"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 537,
+      "preview": "- Protein dosing is dependent upon nitrogen losses and physiologic status"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 538,
+      "preview": "- Providing adequate non-protein calories to have a protein-sparing effect"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 539,
+      "preview": "- Combinations of carbohydrate (e.g., dextrose) and fat (e.g., ILE) with protein are required for me"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 540,
+      "preview": "- Fluid needs are dictated by maintenance requirements in addition to ongoing losses (e.g., diarrhea"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 543
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 545,
+      "preview": "- A.S.P.E.N. Board of Directors. Guidelines for the use of parenteral and enteral nutrition in adult"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 546,
+      "preview": "- Calloway DH, Spector H. Nitrogen balance as related to caloric and protein intake in active young "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 547,
+      "preview": "- Canada TW, Lord LM. Fluids, electrolytes and acid-base disorders. In: Muller CM, ed. The ASPEN adu"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 548,
+      "preview": "- Elwyn DH, Kinney JM, Askanazi J. Energy expenditure in surgical patients. Surg Clin North Am. 1981"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 549,
+      "preview": "- Frankenfield D. Energy. In: Muller CM, ed. The ASPEN adult nutrition support core curriculum. 3rd "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 551,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 553
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 555,
+      "preview": "- Greenberg GR, Marliss EB, Anderson GH et al. Protein-sparing therapy in postoperative patients. Ef"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 556,
+      "preview": "- Hise M, Brown JC. Lipids. In: Muller CM, ed. The ASPEN adult nutrition support core curriculum. 3r"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 557,
+      "preview": "- Kreymann G, DeLegge MH, Luft G et al. The ratio of energy expenditure to nitrogen loss in diverse "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 558,
+      "preview": "- Long CL, Schaffel N, Geiger JW et al. Metabolic response to injury and illness: estimation of ener"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 561
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 563,
+      "preview": "- McClave SA, Taylor BE, Martindale RG et al. Guidelines for the provision and assessment of nutriti"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 564,
+      "preview": "- McGowen KC, Ling P. Carbohydrates. In: Muller CM, ed. The ASPEN adult nutrition support core curri"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 565,
+      "preview": "- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parenter En"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 566,
+      "preview": "- Shizgal HM, Milne CA, Spanier AH. The effect of nitrogen-sparing, intravenously administered fluid"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 567,
+      "preview": "- Worthington P, Balint J, Bechtold M et al. When is parenteral nutrition appropriate? JPEN J Parent"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 569,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 571,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 573,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 575,
+      "content": "![img-14.jpeg](images/f88d6ef789286d4c.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 577
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 579,
+      "preview": "Clinical Pharmacy Services Manager"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 580,
+      "preview": "Nutrition Support Team Coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 581,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 582,
+      "preview": "Houston, Texas"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 583,
+      "preview": "Todd W. Canada serves as a clinical pharmacy services manager and nutrition support team coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 585,
+      "preview": "Dr. Canada completed a specialized residency in Critical Care / Nutrition Support at the University "
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 587,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 589
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 591,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 593,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 595,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 597,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 598,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 599,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 600,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 601,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 603,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 605,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 607
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 609,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 611,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 613
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 615,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 617
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 619,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 621,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "9c01a79eee8ab186.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/9c01a79eee8ab186.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/9c01a79eee8ab186.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c01a79eee8ab186"
+    },
+    {
+      "sha_name": "c9f6a48112b6b737.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/c9f6a48112b6b737.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/c9f6a48112b6b737.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c9f6a48112b6b737"
+    },
+    {
+      "sha_name": "9098f1047589edbe.png",
+      "original_ref": "img-2.jpeg",
+      "page": 4,
+      "relative_path": "images/9098f1047589edbe.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/9098f1047589edbe.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9098f1047589edbe"
+    },
+    {
+      "sha_name": "1915b04033e96620.png",
+      "original_ref": "img-3.jpeg",
+      "page": 9,
+      "relative_path": "images/1915b04033e96620.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/1915b04033e96620.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1915b04033e96620"
+    },
+    {
+      "sha_name": "ec9d7633b4669987.png",
+      "original_ref": "img-4.jpeg",
+      "page": 9,
+      "relative_path": "images/ec9d7633b4669987.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/ec9d7633b4669987.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ec9d7633b4669987"
+    },
+    {
+      "sha_name": "364c467932fd2f85.png",
+      "original_ref": "img-5.jpeg",
+      "page": 10,
+      "relative_path": "images/364c467932fd2f85.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/364c467932fd2f85.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "364c467932fd2f85"
+    },
+    {
+      "sha_name": "d9ff31035db25e54.png",
+      "original_ref": "img-6.jpeg",
+      "page": 12,
+      "relative_path": "images/d9ff31035db25e54.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/d9ff31035db25e54.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d9ff31035db25e54"
+    },
+    {
+      "sha_name": "5023525b0ca14fb5.png",
+      "original_ref": "img-7.jpeg",
+      "page": 12,
+      "relative_path": "images/5023525b0ca14fb5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/5023525b0ca14fb5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "5023525b0ca14fb5"
+    },
+    {
+      "sha_name": "090fe2cf523c76f6.png",
+      "original_ref": "img-8.jpeg",
+      "page": 13,
+      "relative_path": "images/090fe2cf523c76f6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/090fe2cf523c76f6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "090fe2cf523c76f6"
+    },
+    {
+      "sha_name": "bd93209f84ea0387.png",
+      "original_ref": "img-9.jpeg",
+      "page": 13,
+      "relative_path": "images/bd93209f84ea0387.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/bd93209f84ea0387.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "bd93209f84ea0387"
+    },
+    {
+      "sha_name": "c6e25a4d91ba26a0.png",
+      "original_ref": "img-10.jpeg",
+      "page": 13,
+      "relative_path": "images/c6e25a4d91ba26a0.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/c6e25a4d91ba26a0.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c6e25a4d91ba26a0"
+    },
+    {
+      "sha_name": "f17ab1118020d7cf.png",
+      "original_ref": "img-11.jpeg",
+      "page": 19,
+      "relative_path": "images/f17ab1118020d7cf.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/f17ab1118020d7cf.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f17ab1118020d7cf"
+    },
+    {
+      "sha_name": "df9ab5c7f6451bc2.png",
+      "original_ref": "img-12.jpeg",
+      "page": 20,
+      "relative_path": "images/df9ab5c7f6451bc2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/df9ab5c7f6451bc2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "df9ab5c7f6451bc2"
+    },
+    {
+      "sha_name": "b44d16f8171405e5.png",
+      "original_ref": "img-13.jpeg",
+      "page": 21,
+      "relative_path": "images/b44d16f8171405e5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/b44d16f8171405e5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b44d16f8171405e5"
+    },
+    {
+      "sha_name": "f88d6ef789286d4c.png",
+      "original_ref": "img-14.jpeg",
+      "page": 27,
+      "relative_path": "images/f88d6ef789286d4c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/2_NutritionalRequirements,Part1/images/f88d6ef789286d4c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f88d6ef789286d4c"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695934",
+    "ts": "2025-08-08T23:32:14.636437+00:00"
+  }
+}

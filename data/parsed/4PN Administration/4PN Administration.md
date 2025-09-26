@@ -1,0 +1,99 @@
+# **Administration of Pediatric PN**
+
+![img-0.jpeg](images/ccfca2ac4446485e.png)
+
+![img-1.jpeg](images/e9ad0e7c39c2d342.png)
+
+--- page 1 ---
+
+# Venous Access
+
+## Central Access
+
+- Tip is positioned in a central vein
+  - Superior vena cava (SVC)
+  - Inferior vena cava (IVC)
+  - Right atrium (RA)
+    - Risk of cardiac perforation/arrhythmia (particularly small neonates)
+
+## Peripheral Access
+
+- Tip is not positioned in the SVC, IVC, or RA
+
+![img-2.jpeg](images/21ca15e6bfc51d8e.png)
+
+Vein Institute of New Jersey. Last Accessed: July, 2024
+
+![img-3.jpeg](images/eefa03b0fcb76cb7.png)
+
+![img-4.jpeg](images/a344da8c839a3d65.png)
+
+--- page 2 ---
+
+# **Venous Access: Alternative Sites**
+
+Scalp veins (neonates)
+
+- Alternative site of venous access
+- Often visible and easily accessible (lack of hair, thin skin)
+- Not preferred for long-term access
+
+![img-5.jpeg](images/2daf08e24d9f94a0.png)
+
+![img-6.jpeg](images/80b1cda08e342fe4.png)
+
+![img-7.jpeg](images/bfdc0a4b59f2a239.png)
+
+--- page 3 ---
+
+# Venous Access Considerations 
+
+## Peripheral Access
+
+- Used for $<2$ weeks
+- Nutrient needs can be met by peripheral PN
+- No fluid restriction
+- Osmolality <900 mOsm/L
+- Maximum 10 - 12.5\% dextrose
+
+
+## Central Access
+
+- Used for $>2$ weeks
+- Nutrient needs cannot be met by peripheral PN
+- Peripheral access limited
+- Patient is fluid restricted
+- Need for hypertonic solutions
+
+--- page 4 ---
+
+# **Venous Access Additional Considerations**
+
+- The more lumens, the higher the chances of infection
+- Impregnated, or locked catheters can be useful to prevent infection, thromboses
+  - May contain antibiotics, antiseptics, antithrombolytics, antifibrinolytics
+  - May cause allergic response, potentially higher rates of catheter breakage
+- Line must be secured, and meticulous sterile technique used with access
+
+![img-8.jpeg](images/bd3940e5d0315930.png)
+
+Wendel. JPGN 2021
+
+![img-9.jpeg](images/1b77d5df44b19393.png)
+
+![img-10.jpeg](images/815425590a49ce68.png)
+
+--- page 5 ---
+
+# **Venous Access: Alternative Sites**
+
+- Filters are placed between the PN solution and patient to remove hazardous particulate matter (e.g., pathogens)
+- Traditionally two filter sizes available (0.22 microns + 1.2 microns)
+
+![img-11.jpeg](images/23ce87247fa8dcb2.png)
+
+![img-12.jpeg](images/9831a4c6d8c6b8cd.png)
+
+![img-13.jpeg](images/71b1a7a273f1a58a.png)
+
+![img-14.jpeg](images/6089afbb178d6f75.png)

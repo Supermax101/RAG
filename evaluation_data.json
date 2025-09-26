@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the adult daily sodium requirement for parenteral nutrition?",
+    "reference_answer": "According to ASPEN guidelines, the adult daily sodium requirement is 60-100 mEq/day or 1-2 mEq/kg/day."
+  },
+  {
+    "question": "What is the empiric magnesium dose in parenteral nutrition?",
+    "reference_answer": "The empiric magnesium dose in PN is 0.25-0.5 mEq/kg/day, with a total daily requirement of 8-20 mEq/day."
+  },
+  {
+    "question": "What is the daily potassium requirement for adults?",
+    "reference_answer": "The daily potassium requirement for adults is 60-100 mEq/day or 1-2 mEq/kg/day."
+  },
+  {
+    "question": "What is the normal serum magnesium concentration range?",
+    "reference_answer": "The normal serum magnesium concentration is 1.7-2.4 mg/dL, with hypomagnesemia defined as Mg < 1.7 mg/dL."
+  },
+  {
+    "question": "What is the maximum magnesium infusion rate to prevent renal wasting?",
+    "reference_answer": "The maximum magnesium infusion rate should be ≤ 8 mEq Mg per hour to prevent renal wasting and infusion reactions."
+  },
+  {
+    "question": "For a pediatric patient on PN, what's the recommended daily sodium dose, and how does it differ for adolescents over 50 kg?",
+    "reference_answer": "Pediatrics: 2–5 mEq/kg per day; adolescents/children >50 kg: 1–2 mEq/kg per day."
+  },
+  {
+    "question": "What's the typical sodium and potassium concentration range in gastric fluid losses for pediatric patients?",
+    "reference_answer": "Sodium 20–80 mEq/L and potassium 5–20 mEq/L."
+  },
+  {
+    "question": "Can you give me the chloride range and 24-hour volume range we see for gastric fluid losses?",
+    "reference_answer": "Chloride 8–154 mEq/L; volume 100–4000 mL per 24 hours."
+  },
+  {
+    "question": "What potassium supplementation range would be appropriate for PN, and what factors should influence it?",
+    "reference_answer": "Typically individualized, but depends on patient location, type of intravenous access, and renal function."
+  },
+  {
+    "question": "When monitoring electrolytes for a new pediatric PN start, what's the recommended frequency, and what about after stabilization?",
+    "reference_answer": "Daily monitoring for new PN starts; once stable, weekly or twice weekly monitoring is possible."
+  }
+]

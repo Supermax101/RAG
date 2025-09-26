@@ -1,0 +1,2184 @@
+{
+  "doc_id": "3_enteraloverview__090b11",
+  "original_filename": "3_EnteralOverview.pdf",
+  "md_path": "data/parsed/3_EnteralOverview/3_EnteralOverview.md",
+  "rmd_path": "data/parsed/3_EnteralOverview/3_EnteralOverview.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Enteral Overview",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Enteral Overview",
+      "line": 4,
+      "content": "![img-0.jpeg](images/3e6a28d8357085b1.png)"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Overview",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Overview",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Enteral Overview",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Overview",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT ACCESS: ENTERAL OVERVIEW",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ACCESS: ENTERAL OVERVIEW",
+      "line": 15,
+      "preview": "David Evans, M.D."
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ACCESS: ENTERAL OVERVIEW",
+      "line": 16,
+      "preview": "The Ohio State University"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ACCESS: ENTERAL OVERVIEW",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Identify factors that influence the selection of the appropriate enteral access device."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Compare and contrast the access options available for enteral nutrition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 38
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 40,
+      "preview": "- EGD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- G-tube:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- NG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- NPO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- OG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- PEG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- VAP:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "esophagogastroduodenoscopy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "gastrostomy tube"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "nasogastric"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "nil per os; nothing by mouth"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "orogastric"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "percutaneous endoscopic gastrostomy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "ventilator-associated pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT",
+      "line": 59
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 61,
+      "preview": "SP is a 69-year-old man with a newly placed PEG tube after laryngeal cancer resection. The physician"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 62,
+      "preview": "A. Placement of a nasojejunal feeding tube because of aspiration risk"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 63,
+      "preview": "B. Initiation of intermittent bolus feeding via the PEG tube"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 64,
+      "preview": "C. Conversion of the PEG to a G-J tube for continuous postpyloric feeding"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 65,
+      "preview": "D. Make patient NPO and start parenteral nutrition"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NASOENTERIC TUBES",
+      "line": 67
+    },
+    {
+      "type": "image",
+      "section": "NASOENTERIC TUBES",
+      "line": 69,
+      "content": "![img-1.jpeg](images/1e108627de0d931b.png)"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 71,
+      "preview": "CC Image courtesy of Cancer Research UK / Wikimedia Commons. http://www.cancerresearchuk.org/ (acces"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 73,
+      "preview": "- NG tube"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 74,
+      "preview": "- Placed for decompression and/or feeding"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 75,
+      "preview": "- Size varies"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 76,
+      "preview": "- Typically larger, stiffer to permit suction"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 77,
+      "preview": "- OG tubes - trigger gag reflex"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 78,
+      "preview": "- Only used in intubated patients"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 80,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NASOENTERIC TUBES",
+      "line": 82
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 84,
+      "preview": "- Postpyloric Tubes"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 85,
+      "preview": "- Nasojejunal tubes"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 86,
+      "preview": "- Nasoduodenal tubes"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 87,
+      "preview": "- Common names"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 88,
+      "preview": "- \"Dobhoff\""
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 89,
+      "preview": "- \"Corpak\""
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 90,
+      "preview": "- Typically refer to softer small bore tubes can be placed postpyloric"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 91,
+      "preview": "- Placed with blind, fluoroscopic, endoscopic, and magnetic / stereotactic techniques"
+    },
+    {
+      "type": "image",
+      "section": "NASOENTERIC TUBES",
+      "line": 92,
+      "content": "![img-2.jpeg](images/7a49ca05726adc69.png)"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 94,
+      "preview": "Duodenum"
+    },
+    {
+      "type": "image",
+      "section": "NASOENTERIC TUBES",
+      "line": 95,
+      "content": "![img-3.jpeg](images/cb5b7be581276092.png)"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 97,
+      "preview": "Jejunum"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 98,
+      "preview": "CC Image courtesy of Olek Remesz / Wikimedia Commons. https://pl.wikipedia.org/wiki/ Wikipedysta:Ore"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NASOENTERIC TUBES",
+      "line": 100
+    },
+    {
+      "type": "image",
+      "section": "NASOENTERIC TUBES",
+      "line": 102,
+      "content": "![img-4.jpeg](images/4aed9342591f8da1.png)"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 104,
+      "preview": "CC Image courtesy of Cancer Research UK / Wikimedia Commons. http://www.cancerresearchuk.org/ (acces"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 106,
+      "preview": "- Typically used < 4 weeks"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 107,
+      "preview": "- Patient tolerance, comfort often limiting factor"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 108,
+      "preview": "- Prone to dislodgement"
+    },
+    {
+      "type": "text",
+      "section": "NASOENTERIC TUBES",
+      "line": 110,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 112
+    },
+    {
+      "type": "image",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 114,
+      "content": "![img-5.jpeg](images/2b5a93cda4ff79c3.png)"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 116,
+      "preview": "CC Image courtesy of Cancer Research UK / Wikimedia Commons. http://www.cancerresearchuk.org/ (acces"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 118,
+      "preview": "- Percutaneous Endoscopic Gastrostomy"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 119,
+      "preview": "- Requires EGD scope"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 120,
+      "preview": "- Typically indicated if use anticipated $>4$ weeks"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 121,
+      "preview": "- Open Stamm Gastrostomy"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 122,
+      "preview": "- Requires surgical incision"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 123,
+      "preview": "- Laparoscopic Gastrostomy"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 124,
+      "preview": "- Uncommon"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 126,
+      "preview": "PEG REQUIRES A TEAM"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 128,
+      "preview": "Anesthesiologist or Sedation Nurse"
+    },
+    {
+      "type": "image",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 129,
+      "content": "![img-6.jpeg](images/745b5ebeaf45c138.png)"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 131,
+      "preview": "Endoscopist"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 133,
+      "preview": "Assistant at Abdominal Site"
+    },
+    {
+      "type": "text",
+      "section": "GASTROSTOMY (G-)TUBES",
+      "line": 135,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PEG PROCEDURE",
+      "line": 137
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 139,
+      "content": "![img-7.jpeg](images/1457bd46938d6dd5.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 141,
+      "preview": "1. Angiocath with Needle Introduced into Stomach"
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 142,
+      "content": "![img-8.jpeg](images/26112a54800fa687.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 143,
+      "preview": "2. Angiocath now ready to receive wire"
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 144,
+      "content": "![img-9.jpeg](images/92c170e50fe24fef.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 145,
+      "preview": "3. Needle Removed from Angiocath"
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 146,
+      "content": "![img-10.jpeg](images/9108197a3b648031.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 147,
+      "preview": "4. Wire placed through Angiocath"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 149,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PEG PROCEDURE",
+      "line": 151
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 153,
+      "content": "![img-11.jpeg](images/e7794b71583628d7.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 155,
+      "preview": "Wire now goes through skin into the stomach"
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 156,
+      "content": "![img-12.jpeg](images/177ab41f3a8345c6.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 158,
+      "preview": "The wire Is \"lassoed\" with a snare placed through the scope"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 160,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PEG PROCEDURE",
+      "line": 162
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 164,
+      "content": "![img-13.jpeg](images/79afaf26ea2f8adf.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 166,
+      "preview": "PEG tube is connected to the wire. The wire is pulled out through the abdominal wall with the PEG tu"
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 167,
+      "content": "![img-14.jpeg](images/80b52eeebf212bfa.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 169,
+      "preview": "External bumper is placed over the tube and slid down"
+    },
+    {
+      "type": "image",
+      "section": "PEG PROCEDURE",
+      "line": 170,
+      "content": "![img-15.jpeg](images/4f6d2fd7330de267.png)"
+    },
+    {
+      "type": "text",
+      "section": "PEG PROCEDURE",
+      "line": 172,
+      "preview": "External bumper is brought down to the skin while internal bumper abuts gastric wall"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 174
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 176,
+      "preview": "- Gastric Feeding:"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 177,
+      "preview": "- Relatively easy"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 178,
+      "preview": "- Residuals may be monitored"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 179,
+      "preview": "- Aspiration risks are higher"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 180,
+      "preview": "- Can be done safely"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 181,
+      "preview": "- Jejunal Feeding:"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 182,
+      "preview": "- Shorter time to goal"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 183,
+      "preview": "- Increased nutrient delivery"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 184,
+      "preview": "- Decreased VAP rates"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 185,
+      "preview": "- Access can be difficult"
+    },
+    {
+      "type": "text",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 187,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 189,
+      "preview": "| Author | Journal Year | Study Population (N) | Outcome |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 190,
+      "preview": "| :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 191,
+      "preview": "| Strong | JPEN 1992 | Gastric v Jejunal n=17 | No difference in aspiration |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 192,
+      "preview": "| Montecalvo | CCM 1992 | Gastric v Jejunal | Jejunal: Goal faster <br> Decrease pneumonia |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 193,
+      "preview": "| Kortbeek | J Trauma 1999 | Gastric v Jejunal n=80 | Jejunal: Goal faster |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 194,
+      "preview": "| Kearns | CCM 2000 | Gastric v Jejunal n=44 | Jejunal: Goal faster <br> No change VAP |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 195,
+      "preview": "| Heyland | CCM 2001 | Gastric v Jejunal n=33 | Gastric more aspiration |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 196,
+      "preview": "| Montejo | CCM 2002 | MRPCT | Jejunal: decrease complications |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 197,
+      "preview": "| Neumann | CCM 2002 | Prospective descriptive $\\mathrm{n}=60$ | Gastric: goal faster, <br> No incre"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 198,
+      "preview": "| Davies | CCM 2002 | PRCT $n=73$ | Jejunal better tolerance <br> Decrease need for PN |"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 199,
+      "preview": "| Meert | Chest 2004 | PRCT $n=74$ <br> Pediatrics | Jejunal greater goal <br> No change in aspirati"
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 200,
+      "preview": "| Methany | CCM 2006 | Prospective descriptive $\\mathrm{n}=360$ | Gastric increases aspiration <br> "
+    },
+    {
+      "type": "table",
+      "section": "SHOULD WE FEED PROXIMAL OR DISTAL WHAT IS THE OPTIMAL LOCATION?",
+      "line": 201,
+      "preview": "| Hsu CW | CCM 2009 | PRCT N=120 <br> Medical ICU | Nasoduodenal goals earlier, less <br> vomiting a"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 203
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 205,
+      "preview": "- Gastric Feeding:"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 206,
+      "preview": "- Can bolus feed if G-tube (lower esophageal sphincter intact - NG stents sphincter open)"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 207,
+      "preview": "- Larger bore tubes usually accept crushed meds"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 208,
+      "preview": "- Jejunal Feeding:"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 209,
+      "preview": "- Continuous feeds are the standard"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 210,
+      "preview": "- Require home pump"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 211,
+      "preview": "- Smaller diameter, harder to replace tubes"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 212,
+      "preview": "- Minimize medication administration due to clogging, absorption, and pH"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 213,
+      "preview": "- NO CRUSHED MEDS"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL FEEDS?",
+      "line": 215,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 217
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 219,
+      "preview": "- Depends on institutional comfort / experience with placing postpyloric tubes"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 220,
+      "preview": "- Some consider postpyloric to be standard for most patients"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 221,
+      "preview": "- Give stronger consideration to postpyloric feeding in patients with:"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 222,
+      "preview": "- Known aspiration risk / history"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 223,
+      "preview": "- Altered mental status, altered swallowing"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 224,
+      "preview": "- Delayed gastric emptying / gastroparesis (known or suspected)"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 225,
+      "preview": "- Repeatedly elevated gastric residuals (if these are being checked)"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 226,
+      "preview": "- Acute pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR TEMPORARY FEEDING",
+      "line": 227,
+      "preview": "- Failed gastric feedings"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 230
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 232,
+      "preview": "- Greatest advantages PEG and other percutaneous tubes:"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 233,
+      "preview": "- Avoid patient discomfort associated with naso- or oroenteral tubes"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 234,
+      "preview": "- May remain in place for extended periods"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 235,
+      "preview": "- Can be easily concealed, contributing to less patient stigma"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 236,
+      "preview": "- Facilitates intermittent use"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 237,
+      "preview": "- Greatest disadvantages of PEG and other percutaneous tubes:"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 238,
+      "preview": "- Complications may be severe"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 239,
+      "preview": "- Tube clogging is a major problem"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 240,
+      "preview": "- Leakage around the tube site"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 241,
+      "preview": "- Tube breakage, especially in areas of mechanical stress"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 242,
+      "preview": "- Tube may be hard to replace"
+    },
+    {
+      "type": "text",
+      "section": "SELECTING PERCUTANEOUS ACCESS: PROS AND CONS",
+      "line": 244,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 246
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 248,
+      "preview": "- G-tubes are strongly preferred over J-tubes"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 249,
+      "preview": "- G-tubes are larger, easier to maintain, more durable, less prone to dislodgement. G-tube permits b"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 250,
+      "preview": "- J-tube typically requires open surgery or much more complex / difficult endoscopic placement techn"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 251,
+      "preview": "- J-tubes typically reserved for patients with:"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 252,
+      "preview": "- Failed gastric feeding"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 253,
+      "preview": "- Planned gastric surgery"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 255,
+      "preview": "CC Image courtesy of Cancer Research UK / Wikimedia Commons. http://www.cancerresearchuk.org/ (acces"
+    },
+    {
+      "type": "image",
+      "section": "GASTRIC OR JEJUNAL?SELECTION FOR DURABLE FEEDING",
+      "line": 256,
+      "content": "![img-16.jpeg](images/ac276bb0ab78e2b3.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GASTROJEJUNAL (GJ-TUBE)",
+      "line": 258
+    },
+    {
+      "type": "image",
+      "section": "GASTROJEJUNAL (GJ-TUBE)",
+      "line": 260,
+      "content": "![img-17.jpeg](images/2345ff95a603b2c3.png)"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL (GJ-TUBE)",
+      "line": 261,
+      "preview": "\"One-Piece G-J tube\""
+    },
+    {
+      "type": "image",
+      "section": "GASTROJEJUNAL (GJ-TUBE)",
+      "line": 262,
+      "content": "![img-18.jpeg](images/df2092e2784616db.png)"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL (GJ-TUBE)",
+      "line": 264,
+      "preview": "J-Through PEG Extension Set"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL (GJ-TUBE)",
+      "line": 266,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 268
+    },
+    {
+      "type": "image",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 270,
+      "content": "![img-19.jpeg](images/0e6019e6d0dc82ee.png)"
+    },
+    {
+      "type": "image",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 271,
+      "content": "![img-20.jpeg](images/2044c0557efe364d.png)"
+    },
+    {
+      "type": "text",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 273,
+      "preview": "This is ok too"
+    },
+    {
+      "type": "text",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 274,
+      "preview": "Post-pyloric should cross spine once"
+    },
+    {
+      "type": "text",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 275,
+      "preview": "Jejunal should cross spine twice"
+    },
+    {
+      "type": "text",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 276,
+      "preview": "Contrast injected to further confirm position"
+    },
+    {
+      "type": "text",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 278,
+      "preview": "NUTRITION SUPPORT"
+    },
+    {
+      "type": "text",
+      "section": "CONFIRMING POST PYLORIC / SMALL BOWEL POSITION ON X-RAY",
+      "line": 279,
+      "preview": "CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 281
+    },
+    {
+      "type": "image",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 283,
+      "content": "![img-21.jpeg](images/8d989ec5e08c36a3.png)"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 285,
+      "preview": "- Advantage:"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 286,
+      "preview": "- Provide access to both stomach and jejunum through one point"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 287,
+      "preview": "- Disadvantages:"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 288,
+      "preview": "- 2 small lumens- prone to clogging"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 289,
+      "preview": "- Jejunal limb can flip back into stomach (especially if short)"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 290,
+      "preview": "- Requires fluoro and/or endoscopy to replace"
+    },
+    {
+      "type": "text",
+      "section": "GASTROJEJUNAL TUBES (GJ-TUBE)",
+      "line": 292,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 294
+    },
+    {
+      "type": "text",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 296,
+      "preview": "- Low-Profile Tube"
+    },
+    {
+      "type": "text",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 297,
+      "preview": "- Requires \"sizing\" because the distance from skin to stomach is not adjustable"
+    },
+    {
+      "type": "text",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 298,
+      "preview": "- Sizes only available for children, thinner adults"
+    },
+    {
+      "type": "image",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 299,
+      "content": "![img-22.jpeg](images/6b98cd68b14f4a0b.png)"
+    },
+    {
+      "type": "text",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 301,
+      "preview": "TRADITIONAL (LEGACY) CONNECTORS"
+    },
+    {
+      "type": "text",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 303,
+      "preview": "- \"Toomey\" large slip-tip connector"
+    },
+    {
+      "type": "text",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 304,
+      "preview": "- Also accepts some \"Christmas Tree\" connectors"
+    },
+    {
+      "type": "image",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 305,
+      "content": "![img-23.jpeg](images/d1d994bc6a2d65ab.png)"
+    },
+    {
+      "type": "text",
+      "section": "LOW-PROFILE DEVICES / BUTTONS",
+      "line": 307,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 309
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 311,
+      "content": "![img-24.jpeg](images/72e31f6f8fb89b42.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 313,
+      "preview": "- New design standard to prevent catheter misconnections"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 314,
+      "preview": "- Enteral connectors are \"keyed\" so tube feeds cannot be injected anywhere except enteral tubes"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 315,
+      "preview": "- Implementation has primarily been delayed because of availability of devices"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 316,
+      "preview": "- Legally required now in California"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 318,
+      "preview": "*CC Image courtesy Global Enteral Device Supplier Association (GEDSA). http://stayconnected.org (acc"
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae CONNECTORS",
+      "line": 320,
+      "content": "![img-25.jpeg](images/6612e71600b7cc9c.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 322
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 324,
+      "content": "![img-26.jpeg](images/19e38b4b37e736c5.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 326,
+      "preview": "- Most suppliers of administration sets have already converted to ENFit\u00ae and included a transition c"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 327,
+      "preview": "- Transition Connectors will no longer be needed with ENFit\u00ae feeding tubes"
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 329,
+      "content": "![img-27.jpeg](images/9af24c4a81db993c.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 331,
+      "preview": "*CC Image courtesy Global Enteral Device Supplier Association (GEDSA). http://stayconnected.org (acc"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 333,
+      "preview": "*SEPTEMBER 2019 CERTIFICATE*"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae TRANSITION CONNECTORS",
+      "line": 335,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENFIT ${ }^{\\circledR}$ SYRINGES",
+      "line": 337
+    },
+    {
+      "type": "text",
+      "section": "ENFIT ${ }^{\\circledR}$ SYRINGES",
+      "line": 339,
+      "preview": "- ENFit ${ }^{\\circledR}$ requires syringes and other adapted products throughout the supply chain"
+    },
+    {
+      "type": "image",
+      "section": "ENFIT ${ }^{\\circledR}$ SYRINGES",
+      "line": 340,
+      "content": "![img-28.jpeg](images/858ad96c3f8ae985.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT ${ }^{\\circledR}$ SYRINGES",
+      "line": 342,
+      "preview": "CC Image courtesy Global Enteral Device Supplier Association (GEDSA). http://stayconnected.org (acce"
+    },
+    {
+      "type": "image",
+      "section": "ENFIT ${ }^{\\circledR}$ SYRINGES",
+      "line": 343,
+      "content": "![img-29.jpeg](images/556f62a9bc8798cb.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT ${ }^{\\circledR}$ SYRINGES",
+      "line": 345,
+      "preview": "Narrow Channel Low Dose Tip ensures accurate doses at small volumes"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT",
+      "line": 347
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 349,
+      "preview": "SP is a 69-year-old man with a newly placed PEG tube after laryngeal cancer resection. The physician"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 350,
+      "preview": "A. Placement of a nasojejunal feeding tube because of aspiration risk"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 351,
+      "preview": "B. Initiation of intermittent bolus feeding via the PEG tube"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 352,
+      "preview": "C. Conversion of the PEG to a G-J tube for continuous postpyloric feeding"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 353,
+      "preview": "D. Make patient NPO and start parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 355,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT",
+      "line": 357
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 359,
+      "preview": "SP is a 69-year-old man with a newly placed PEG tube after laryngeal cancer resection. The physician"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 360,
+      "preview": "A. Placement of a nasojejunal feeding tube because of aspiration risk"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 361,
+      "preview": "B. Initiation of intermittent bolus feeding via the PEG tube"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 362,
+      "preview": "C. Conversion of the PEG to a G-J tube for continuous postpyloric feeding"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 363,
+      "preview": "D. Make patient NPO and start parenteral nutrition"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 365
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 367,
+      "preview": "- Bledsoe S, Oschman A, Hampson K et al. Transition to ENFit ${ }^{\\circledR}$ enteral devices: Spec"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 368,
+      "preview": "- McClave SA, Taylor BE, Martindale RG et al. Guidelines for the Provision and Assessment of Nutriti"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 370,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 372,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 374,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 376,
+      "content": "![img-30.jpeg](images/e78e02a6de84e59d.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 378,
+      "preview": "David C. Evans, M.D., FACS"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 379,
+      "preview": "Trauma and Acute Care Surgeon"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 380,
+      "preview": "OhioHealth Trauma and Surgical Services"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 381,
+      "preview": "Columbus, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 383,
+      "preview": "David C. Evans served as Director of Nutrition Support Services, Trauma Medical Director, and Associ"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 385,
+      "preview": "His special interests include nutrition support in surgical and ICU patients and research in surgery"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 387,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 389
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 391,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 393,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 395,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 397,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 398,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 399,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 400,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 401,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 403,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 405,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 407
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 409,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 411,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 413
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 415,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 417
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 419,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 421,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "3e6a28d8357085b1.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/3e6a28d8357085b1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/3e6a28d8357085b1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "3e6a28d8357085b1"
+    },
+    {
+      "sha_name": "1e108627de0d931b.png",
+      "original_ref": "img-1.jpeg",
+      "page": 3,
+      "relative_path": "images/1e108627de0d931b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/1e108627de0d931b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1e108627de0d931b"
+    },
+    {
+      "sha_name": "7a49ca05726adc69.png",
+      "original_ref": "img-2.jpeg",
+      "page": 4,
+      "relative_path": "images/7a49ca05726adc69.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/7a49ca05726adc69.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7a49ca05726adc69"
+    },
+    {
+      "sha_name": "cb5b7be581276092.png",
+      "original_ref": "img-3.jpeg",
+      "page": 4,
+      "relative_path": "images/cb5b7be581276092.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/cb5b7be581276092.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "cb5b7be581276092"
+    },
+    {
+      "sha_name": "4aed9342591f8da1.png",
+      "original_ref": "img-4.jpeg",
+      "page": 4,
+      "relative_path": "images/4aed9342591f8da1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/4aed9342591f8da1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4aed9342591f8da1"
+    },
+    {
+      "sha_name": "2b5a93cda4ff79c3.png",
+      "original_ref": "img-5.jpeg",
+      "page": 5,
+      "relative_path": "images/2b5a93cda4ff79c3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/2b5a93cda4ff79c3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2b5a93cda4ff79c3"
+    },
+    {
+      "sha_name": "745b5ebeaf45c138.png",
+      "original_ref": "img-6.jpeg",
+      "page": 5,
+      "relative_path": "images/745b5ebeaf45c138.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/745b5ebeaf45c138.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "745b5ebeaf45c138"
+    },
+    {
+      "sha_name": "1457bd46938d6dd5.png",
+      "original_ref": "img-7.jpeg",
+      "page": 6,
+      "relative_path": "images/1457bd46938d6dd5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/1457bd46938d6dd5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1457bd46938d6dd5"
+    },
+    {
+      "sha_name": "26112a54800fa687.png",
+      "original_ref": "img-8.jpeg",
+      "page": 6,
+      "relative_path": "images/26112a54800fa687.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/26112a54800fa687.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "26112a54800fa687"
+    },
+    {
+      "sha_name": "92c170e50fe24fef.png",
+      "original_ref": "img-9.jpeg",
+      "page": 6,
+      "relative_path": "images/92c170e50fe24fef.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/92c170e50fe24fef.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "92c170e50fe24fef"
+    },
+    {
+      "sha_name": "9108197a3b648031.png",
+      "original_ref": "img-10.jpeg",
+      "page": 6,
+      "relative_path": "images/9108197a3b648031.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/9108197a3b648031.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9108197a3b648031"
+    },
+    {
+      "sha_name": "e7794b71583628d7.png",
+      "original_ref": "img-11.jpeg",
+      "page": 6,
+      "relative_path": "images/e7794b71583628d7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/e7794b71583628d7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e7794b71583628d7"
+    },
+    {
+      "sha_name": "177ab41f3a8345c6.png",
+      "original_ref": "img-12.jpeg",
+      "page": 6,
+      "relative_path": "images/177ab41f3a8345c6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/177ab41f3a8345c6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "177ab41f3a8345c6"
+    },
+    {
+      "sha_name": "79afaf26ea2f8adf.png",
+      "original_ref": "img-13.jpeg",
+      "page": 7,
+      "relative_path": "images/79afaf26ea2f8adf.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/79afaf26ea2f8adf.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "79afaf26ea2f8adf"
+    },
+    {
+      "sha_name": "80b52eeebf212bfa.png",
+      "original_ref": "img-14.jpeg",
+      "page": 7,
+      "relative_path": "images/80b52eeebf212bfa.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/80b52eeebf212bfa.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "80b52eeebf212bfa"
+    },
+    {
+      "sha_name": "4f6d2fd7330de267.png",
+      "original_ref": "img-15.jpeg",
+      "page": 7,
+      "relative_path": "images/4f6d2fd7330de267.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/4f6d2fd7330de267.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4f6d2fd7330de267"
+    },
+    {
+      "sha_name": "ac276bb0ab78e2b3.png",
+      "original_ref": "img-16.jpeg",
+      "page": 10,
+      "relative_path": "images/ac276bb0ab78e2b3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/ac276bb0ab78e2b3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ac276bb0ab78e2b3"
+    },
+    {
+      "sha_name": "2345ff95a603b2c3.png",
+      "original_ref": "img-17.jpeg",
+      "page": 10,
+      "relative_path": "images/2345ff95a603b2c3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/2345ff95a603b2c3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2345ff95a603b2c3"
+    },
+    {
+      "sha_name": "df2092e2784616db.png",
+      "original_ref": "img-18.jpeg",
+      "page": 10,
+      "relative_path": "images/df2092e2784616db.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/df2092e2784616db.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "df2092e2784616db"
+    },
+    {
+      "sha_name": "0e6019e6d0dc82ee.png",
+      "original_ref": "img-19.jpeg",
+      "page": 11,
+      "relative_path": "images/0e6019e6d0dc82ee.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/0e6019e6d0dc82ee.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0e6019e6d0dc82ee"
+    },
+    {
+      "sha_name": "2044c0557efe364d.png",
+      "original_ref": "img-20.jpeg",
+      "page": 11,
+      "relative_path": "images/2044c0557efe364d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/2044c0557efe364d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2044c0557efe364d"
+    },
+    {
+      "sha_name": "8d989ec5e08c36a3.png",
+      "original_ref": "img-21.jpeg",
+      "page": 11,
+      "relative_path": "images/8d989ec5e08c36a3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/8d989ec5e08c36a3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8d989ec5e08c36a3"
+    },
+    {
+      "sha_name": "6b98cd68b14f4a0b.png",
+      "original_ref": "img-22.jpeg",
+      "page": 12,
+      "relative_path": "images/6b98cd68b14f4a0b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/6b98cd68b14f4a0b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6b98cd68b14f4a0b"
+    },
+    {
+      "sha_name": "d1d994bc6a2d65ab.png",
+      "original_ref": "img-23.jpeg",
+      "page": 12,
+      "relative_path": "images/d1d994bc6a2d65ab.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/d1d994bc6a2d65ab.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d1d994bc6a2d65ab"
+    },
+    {
+      "sha_name": "72e31f6f8fb89b42.png",
+      "original_ref": "img-24.jpeg",
+      "page": 13,
+      "relative_path": "images/72e31f6f8fb89b42.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/72e31f6f8fb89b42.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "72e31f6f8fb89b42"
+    },
+    {
+      "sha_name": "6612e71600b7cc9c.png",
+      "original_ref": "img-25.jpeg",
+      "page": 13,
+      "relative_path": "images/6612e71600b7cc9c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/6612e71600b7cc9c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6612e71600b7cc9c"
+    },
+    {
+      "sha_name": "19e38b4b37e736c5.png",
+      "original_ref": "img-26.jpeg",
+      "page": 13,
+      "relative_path": "images/19e38b4b37e736c5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/19e38b4b37e736c5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "19e38b4b37e736c5"
+    },
+    {
+      "sha_name": "9af24c4a81db993c.png",
+      "original_ref": "img-27.jpeg",
+      "page": 13,
+      "relative_path": "images/9af24c4a81db993c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/9af24c4a81db993c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9af24c4a81db993c"
+    },
+    {
+      "sha_name": "858ad96c3f8ae985.png",
+      "original_ref": "img-28.jpeg",
+      "page": 14,
+      "relative_path": "images/858ad96c3f8ae985.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/858ad96c3f8ae985.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "858ad96c3f8ae985"
+    },
+    {
+      "sha_name": "556f62a9bc8798cb.png",
+      "original_ref": "img-29.jpeg",
+      "page": 14,
+      "relative_path": "images/556f62a9bc8798cb.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/556f62a9bc8798cb.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "556f62a9bc8798cb"
+    },
+    {
+      "sha_name": "e78e02a6de84e59d.png",
+      "original_ref": "img-30.jpeg",
+      "page": 17,
+      "relative_path": "images/e78e02a6de84e59d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_EnteralOverview/images/e78e02a6de84e59d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e78e02a6de84e59d"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695968",
+    "ts": "2025-08-08T23:32:48.275461+00:00"
+  }
+}

@@ -1,0 +1,1740 @@
+{
+  "doc_id": "1_interrelationsbetweendiseaseandnutrition__bf911d",
+  "original_filename": "1_InterrelationsBetweenDiseaseandNutrition.pdf",
+  "md_path": "data/parsed/1_InterrelationsBetweenDiseaseandNutrition/1_InterrelationsBetweenDiseaseandNutrition.md",
+  "rmd_path": "data/parsed/1_InterrelationsBetweenDiseaseandNutrition/1_InterrelationsBetweenDiseaseandNutrition.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Interrelations Between Disease and Nutrition",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Interrelations Between Disease and Nutrition",
+      "line": 4,
+      "content": "![img-0.jpeg](images/545f9225f87911e2.png)"
+    },
+    {
+      "type": "text",
+      "section": "Interrelations Between Disease and Nutrition",
+      "line": 6,
+      "preview": "LEADING THE SCIENCE AND PRACTICE OF CLINICAL NUTRITION"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the American Society for Parenteral and Enteral Nutrition (ASPEN).",
+      "line": 8
+    },
+    {
+      "type": "text",
+      "section": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the American Society for Parenteral and Enteral Nutrition (ASPEN).",
+      "line": 10,
+      "preview": "\u00a92022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the American Society for Parenteral and Enteral Nutrition (ASPEN).",
+      "line": 11,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the American Society for Parenteral and Enteral Nutrition (ASPEN).",
+      "line": 13,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "INTERRELATIONS BETWEEN DISEASE AND NUTRITION",
+      "line": 15
+    },
+    {
+      "type": "text",
+      "section": "INTERRELATIONS BETWEEN DISEASE AND NUTRITION",
+      "line": 17,
+      "preview": "Jay M Mirtallo, M.S., R.Ph., BCNSP, FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "INTERRELATIONS BETWEEN DISEASE AND NUTRITION",
+      "line": 18,
+      "preview": "The Ohio State University College of Pharmacy ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "INTERRELATIONS BETWEEN DISEASE AND NUTRITION",
+      "line": 20,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "- Jay M. Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 32,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 34
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Differentiate between disease and nutritional issues in specific disease states."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Select appropriate nutrition interventions to mitigate disease specific consequences on clinical o"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 40
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- Ca:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- GUT or GI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- LBM:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- Mg :"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- NPO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- SBS:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "- SAP:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "- SIRS:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "- Zn : calcium"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "gastrointestinal tract"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "lean body mass"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "magnesium"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "nil per os, nothing by mouth"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "short bowel syndrome"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 60,
+      "preview": "severe acute pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 61,
+      "preview": "systemic inflammatory response syndrome"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 62,
+      "preview": "zinc"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 64,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DEFINITIONS",
+      "line": 66
+    },
+    {
+      "type": "text",
+      "section": "DEFINITIONS",
+      "line": 68,
+      "preview": "- Short Bowel Syndrome: Inadequate absorptive capacity for sustenance with normal diet"
+    },
+    {
+      "type": "text",
+      "section": "DEFINITIONS",
+      "line": 69,
+      "preview": "- Intestinal Failure: Inadequate absorptive capacity for sustenance"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 72
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 74,
+      "preview": "SG is admitted to the intensive care unit with a severe intra-abdominal infection following an intes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 75,
+      "preview": "A. Initiate enteral feeding as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 76,
+      "preview": "B. Initiate parenteral nutrition until enteral feeding access can be obtained"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 77,
+      "preview": "C. Nutrition is not an issue in this patient"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 78,
+      "preview": "D. Withhold nutrition support until the patient stabilizes (within 24-48 hours)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 80,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 82
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 84,
+      "preview": "SM is admitted to the intensive care unit with severe acute pancreatitis. What nutrition approach co"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 85,
+      "preview": "A. Initiate enteral feeding as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 86,
+      "preview": "B. Initiate parenteral nutrition until enteral feeding access can be obtained"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 87,
+      "preview": "C. Nutrition is not an issue in this patient"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 88,
+      "preview": "D. Withhold nutrition support until the patient stabilizes (within 24-48 hours)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "INFLAMMATION",
+      "line": 90
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 92,
+      "preview": "- Inflammation is common to diseases requiring nutrition support and predispose to malnutrition via:"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 93,
+      "preview": "- Anorexia, altered intake"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 94,
+      "preview": "- Increased nutrient losses - gastrointestinal disorders"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 95,
+      "preview": "- Nausea, vomiting"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 96,
+      "preview": "- Fistulas - abnormal communication with two or more organs"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 97,
+      "preview": "- Gastroduodenal - stomach to duodenum"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 98,
+      "preview": "- Nutrient intake may be adequate but poor utilization due to:"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 99,
+      "preview": "- Hyper- or altered metabolism"
+    },
+    {
+      "type": "text",
+      "section": "INFLAMMATION",
+      "line": 101,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 103
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 105,
+      "preview": "| Physiologic Function | Response | Nutritional consequence |"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 106,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 107,
+      "preview": "| Energy expenditure | $\\uparrow \\uparrow \\uparrow$ | Expenditure in excess of energy intake creatin"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 108,
+      "preview": "| Catabolism - protein breakdown | $\\uparrow \\uparrow \\uparrow$ | Breakdown in excess of intake or s"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 109,
+      "preview": "| Protein synthesis | No Change or $\\uparrow$ | Change out of proportion with catabolism |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 111
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 113,
+      "preview": "| Physiologic Function | Response | Nutritional consequence |"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 114,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 115,
+      "preview": "| Ureagenesis (protein waste) | $\\uparrow \\uparrow$ | Limited tolerance to protein doses required to"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 116,
+      "preview": "| Gluconeogenesis | $\\uparrow \\uparrow \\uparrow$ | Glucose difficult to control, creates worse outco"
+    },
+    {
+      "type": "table",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 117,
+      "preview": "| Response to feeding | $\\downarrow \\downarrow$ | Nutritional response dictated by injury response -"
+    },
+    {
+      "type": "text",
+      "section": "METABOLIC RESPONSE TO INJURY",
+      "line": 119,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "RELATIONSHIP OF INFLAMMATORY RESPONSE AND NUTRITION",
+      "line": 121
+    },
+    {
+      "type": "image",
+      "section": "RELATIONSHIP OF INFLAMMATORY RESPONSE AND NUTRITION",
+      "line": 123,
+      "content": "![img-1.jpeg](images/fdca67f5a6069e0e.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CRITICAL CARE AND SURGERY",
+      "line": 125
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE AND SURGERY",
+      "line": 127,
+      "preview": "- Marked elevation of energy expenditure, protein catabolism and mobilization of fat for use as an e"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE AND SURGERY",
+      "line": 128,
+      "preview": "- Predisposition to hyperglycemia, hypertriglyceridemia and azotemia"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE AND SURGERY",
+      "line": 129,
+      "preview": "- Poor tolerance to nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE AND SURGERY",
+      "line": 130,
+      "preview": "- Metabolic support - provide enough substrate to prevent nutrient deficiency or protein/calorie mal"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE AND SURGERY",
+      "line": 131,
+      "preview": "- Accentuated loss of LBM and shortened time to develop malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE AND SURGERY",
+      "line": 133,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CRITICAL CARE",
+      "line": 135
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 137,
+      "preview": "- Severe sepsis - shock"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 138,
+      "preview": "- Dysautoregulation or aberrant metabolism where infusion of nutrients may be harmful"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 139,
+      "preview": "- Clinical application: withhold or withdraw nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 140,
+      "preview": "- Unstable ICU patient unable to maintain blood pressure or tissue oxygenation"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 141,
+      "preview": "- Hold nutrition support (EN, PN) during major operative procedures"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 142,
+      "preview": "- Acute emergency requiring resuscitation (code)"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 143,
+      "preview": "- Discontinue EN/PN until condition stabilizes"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 145,
+      "preview": "Martindale RG et al. The ASPEN adult nutrition support core"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 146,
+      "preview": "NUTRITION SUPPORT"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 147,
+      "preview": "curriculum. 3rd ed. 2017:458-59."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CRITICAL CARE",
+      "line": 149
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 151,
+      "preview": "- Important to recognize transition of care responsibilities when patient moves to or from critical "
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 152,
+      "preview": "- Assume there is a change in the requirement for calories and protein as well as the proportion of "
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 153,
+      "preview": "- Likely increased when transfer to and decreased when discharged from critical care"
+    },
+    {
+      "type": "text",
+      "section": "CRITICAL CARE",
+      "line": 155,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 157
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 159,
+      "preview": "- Metabolic abnormalities"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 160,
+      "preview": "- Carbohydrate"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 161,
+      "preview": "- Protein"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 162,
+      "preview": "- Fat"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 163,
+      "preview": "- Clinical Features"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 164,
+      "preview": "- Tissue wasting"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 165,
+      "preview": "- Anorexia"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 166,
+      "preview": "- Skeletal muscle atrophy"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 167,
+      "preview": "- Anergy"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 168,
+      "preview": "- Fatigue"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 169,
+      "preview": "- Anemia"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA (PROGRESSIVE INVOLUNTARY WEIGHT LOSS)",
+      "line": 170,
+      "preview": "- Hypoalbuminemia"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 173
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 175,
+      "preview": "- Causes"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 176,
+      "preview": "- Anorexia"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 177,
+      "preview": "- Mechanical factors affecting the GI tract from tumors"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 178,
+      "preview": "- Side effects of surgery, chemotherapy, radiation therapy"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 179,
+      "preview": "- Alterations in intermediary and energy metabolism"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 180,
+      "preview": "- Changes in host cytokine and hormonal milieu"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 181,
+      "preview": "- Lean Body Mass = Survival"
+    },
+    {
+      "type": "text",
+      "section": "CANCER CACHEXIA, CONT.",
+      "line": 183,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 185
+    },
+    {
+      "type": "text",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 187,
+      "preview": "- $50 \\%$ of patients with cancer present with weight loss at diagnosis"
+    },
+    {
+      "type": "text",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 188,
+      "preview": "- Unintentional weight loss depletes the LBM"
+    },
+    {
+      "type": "text",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 189,
+      "preview": "- Weight loss correlates with decreased performance status and survival following chemotherapy"
+    },
+    {
+      "type": "table",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 191,
+      "preview": "| Characteristic | \\% Wt Loss | Type of Cancer |"
+    },
+    {
+      "type": "table",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 192,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 193,
+      "preview": "| Lowest | $31-40$ | Sarcoma, breast, hematologic |"
+    },
+    {
+      "type": "table",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 194,
+      "preview": "| Intermediate | $54-64$ | Colon, prostate, lung |"
+    },
+    {
+      "type": "table",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 195,
+      "preview": "| Highest | $>80$ | Pancreas, gastric |"
+    },
+    {
+      "type": "text",
+      "section": "CANCER: PREVALENCE OF MALNUTRITION",
+      "line": 197,
+      "preview": "Dewys WD et al. Am J Med. 1980; 69(9):491-97."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MALNUTRITION IN CANCER",
+      "line": 199
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 201,
+      "preview": "- Affected by:"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 202,
+      "preview": "- Tumor type, location, grade and stage"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 203,
+      "preview": "- Anticancer treatment"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 204,
+      "preview": "- Patient characteristics"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 205,
+      "preview": "- Age, gender"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 206,
+      "preview": "- Comorbidities: diabetes, intestinal disorders"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 207,
+      "preview": "- Associated with longer hospital stay, $\\uparrow$ cost and $\\uparrow$ morbidity/mortality"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION IN CANCER",
+      "line": 209,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT IN CANCER: ETHICAL CONSIDERATIONS",
+      "line": 211
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN CANCER: ETHICAL CONSIDERATIONS",
+      "line": 213,
+      "preview": "- Due to metabolic abnormalities present in cancer patients, the use of nutrition support in those w"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN CANCER: ETHICAL CONSIDERATIONS",
+      "line": 214,
+      "preview": "- Benefits versus Risk"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN CANCER: ETHICAL CONSIDERATIONS",
+      "line": 215,
+      "preview": "- Patient - family considerations"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN CANCER: ETHICAL CONSIDERATIONS",
+      "line": 216,
+      "preview": "- Social situation versus medical benefit"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN CANCER: ETHICAL CONSIDERATIONS",
+      "line": 217,
+      "preview": "- Informed consent"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN CANCER: ETHICAL CONSIDERATIONS",
+      "line": 219,
+      "preview": "Schwartz DB et al. The ASPEN adult nutrition support core curriculum. 3rd ed. 2017:785-804."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ACUTE PANCREATITIS",
+      "line": 221
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 223,
+      "preview": "- Disease progression and phases"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 224,
+      "preview": "- Inflammatory process initiated by intra-acinar activation of proteolytic enzymes causing auto dige"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 225,
+      "preview": "- Local or systemic presence of disease relevant to prognosis"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 226,
+      "preview": "- An acute inflammatory reaction involving cytokines"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 227,
+      "preview": "- Initial phase is local and presents as abdominal pain"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 228,
+      "preview": "- Systemic phase induced by the inflammatory response develops over 13 days"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 229,
+      "preview": "- Severity of this phase (SIRS) influences the outcome of acute pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "ACUTE PANCREATITIS",
+      "line": 231,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 233
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 235,
+      "preview": "- Severe Acute Pancreatitis usually requires nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 236,
+      "preview": "- Disease manifestations complicate the delivery, utilization and beneficial effects of nutrients"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 237,
+      "preview": "- Barriers to implementing best practices for nutrition in pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 238,
+      "preview": "- 'GUT' rest"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 239,
+      "preview": "- Recommendations for specific enteral tube placement"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 240,
+      "preview": "- Metabolic complications of nutrition therapy"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 241,
+      "preview": "- Therapeutic Objectives"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 242,
+      "preview": "- Attenuate Inflammatory response"
+    },
+    {
+      "type": "text",
+      "section": "OVERVIEW OF NUTRITION IN PANCREATITIS",
+      "line": 243,
+      "preview": "- Prevent or treat malnutrition"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITION MANAGEMENT IN SAP",
+      "line": 246
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION MANAGEMENT IN SAP",
+      "line": 248,
+      "preview": "- Metabolic disturbances are common in pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION MANAGEMENT IN SAP",
+      "line": 249,
+      "preview": "- Hyperglycemia - 40-90\\%"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION MANAGEMENT IN SAP",
+      "line": 250,
+      "preview": "- Hypertriglyceridemia - 12-15\\%"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION MANAGEMENT IN SAP",
+      "line": 251,
+      "preview": "- Hypocalcemia - present due to reduced parathyroid function, increased calcitonin levels, reduced m"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION MANAGEMENT IN SAP",
+      "line": 253,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT IN SEVERE ACUTE PANCREATITIS",
+      "line": 255
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN SEVERE ACUTE PANCREATITIS",
+      "line": 257,
+      "preview": "- 'GUT' rest and NPO is no longer considered the primary treatment."
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN SEVERE ACUTE PANCREATITIS",
+      "line": 258,
+      "preview": "- PN should be avoided and only used if EN is not feasible"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN SEVERE ACUTE PANCREATITIS",
+      "line": 259,
+      "preview": "- Persistent gastric ileus or small bowel obstruction and enteral access not possible"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN SEVERE ACUTE PANCREATITIS",
+      "line": 260,
+      "preview": "- Exacerbation of pancreatic symptoms despite nasojejunal delivery and use of elemental formula"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT IN SEVERE ACUTE PANCREATITIS",
+      "line": 261,
+      "preview": "- Gastrointestinal intolerance - abdominal pain, ascites, elevated pancreatic fistula output"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 264
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 266,
+      "preview": "Surgical Resection"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 268,
+      "preview": "- SB length"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 269,
+      "preview": "- 100-120 cm without a colon"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 270,
+      "preview": "- 50 cm with colon"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 271,
+      "preview": "- Etiology"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 272,
+      "preview": "- Crohn's"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 273,
+      "preview": "- Volvulus"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 274,
+      "preview": "- Trauma"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 275,
+      "preview": "- Malignancy"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 276,
+      "preview": "- Radiation enteritis"
+    },
+    {
+      "type": "text",
+      "section": "SHORT BOWEL SYNDROME",
+      "line": 278,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CLINICAL CONSEQUENCES OF SBS",
+      "line": 280
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONSEQUENCES OF SBS",
+      "line": 282,
+      "preview": "- Jejunal resection of 50-60\\% well tolerated"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONSEQUENCES OF SBS",
+      "line": 283,
+      "preview": "- $>30 \\%$ ileal resection poorly tolerated"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONSEQUENCES OF SBS",
+      "line": 284,
+      "preview": "- Severe malabsorption with residual bowel $<60 \\mathrm{~cm}$"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONSEQUENCES OF SBS",
+      "line": 285,
+      "preview": "- Deficiencies fluid and electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONSEQUENCES OF SBS",
+      "line": 286,
+      "preview": "- Severe fluid and electrolyte loss with end jejunostomy"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL CONSEQUENCES OF SBS",
+      "line": 287,
+      "preview": "- $\\mathrm{Mg}, \\mathrm{Ca}, \\mathrm{Zn}$ deficiencies are common"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITIONAL ISSUES",
+      "line": 290
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL ISSUES",
+      "line": 292,
+      "preview": "- Need for long-term and often life-time nutrition support with parenteral nutrition or combined ora"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL ISSUES",
+      "line": 293,
+      "preview": "- Nutrition assessment must be comprehensive with an awareness of increased probability of nutrition"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL ISSUES",
+      "line": 294,
+      "preview": "- Transitions of care are important when patient moves between healthcare settings (hospital - home,"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL ISSUES",
+      "line": 295,
+      "preview": "- For home parenteral nutrition patients with central venous catheter infections and prolonged perio"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONAL ISSUES",
+      "line": 297,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 299
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 301,
+      "preview": "SG is admitted to the intensive care unit with a severe intra-abdominal infection following an intes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 302,
+      "preview": "A. Initiate enteral feeding as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 303,
+      "preview": "B. Initiate parenteral nutrition until enteral feeding access can be obtained"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 304,
+      "preview": "C. Nutrition is not an issue in this patient"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 305,
+      "preview": "D. Withhold nutrition support until the patient stabilizes (within 24-48 hours)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 307
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 309,
+      "preview": "SG is admitted to the intensive care unit with a severe intra-abdominal infection following an intes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 310,
+      "preview": "A. Initiate enteral feeding as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 311,
+      "preview": "B. Initiate parenteral nutrition until enteral feeding access can be obtained"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 312,
+      "preview": "C. Nutrition is not an issue in this patient"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 313,
+      "preview": "D. Withhold nutrition support until the patient stabilizes (within 24-48 hours)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 315,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 317
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 319,
+      "preview": "SM is admitted to the intensive care unit with severe acute pancreatitis. What nutrition approach co"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 320,
+      "preview": "A. Initiate enteral feeding as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 321,
+      "preview": "B. Initiate parenteral nutrition until enteral feeding access can be obtained"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 322,
+      "preview": "C. Nutrition is not an issue in this patient"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 323,
+      "preview": "D. Withhold nutrition support until the patient stabilizes (within 24-48 hours)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 325
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 327,
+      "preview": "SM is admitted to the intensive care unit with severe acute pancreatitis. What nutrition approach co"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 328,
+      "preview": "A. Initiate enteral feeding as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 329,
+      "preview": "B. Initiate parenteral nutrition until enteral feeding access can be obtained"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 330,
+      "preview": "C. Nutrition is not an issue in this patient"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 331,
+      "preview": "D. Withhold nutrition support until the patient stabilizes (within 24-48 hours)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 333,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 335
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 337,
+      "preview": "- Inflammation is common to all disease states which predisposes to malnutrition and impedes the res"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 338,
+      "preview": "- Individual diseases may elicit unique contributions to the development of malnutrition that requir"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 339,
+      "preview": "- Certain conditions where nutrition may not be as beneficial and risk is high may warrant either wi"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 342
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 344,
+      "preview": "- Dewys WD, Begg C, Lavin PT et al. Prognostic effect of weight loss prior to chemotherapy in cancer"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 345,
+      "preview": "- Evans DC, Collier BR. Trauma, surgery and burns. In: Mueller C, ed. The ASPEN adult nutrition supp"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 346,
+      "preview": "- Martindale RG, Patel JJ, Herron TJ, Codner PA. Sepsis and critical illness. In: Mueller C, ed. The"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 348,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 350
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 352,
+      "preview": "- Schwartz DB, Barrocas A. Ethics and law. In: Mueller C, ed. The ASPEN adult nutrition support core"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 354,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 356,
+      "content": "![img-2.jpeg](images/ba081275450fc914.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 358,
+      "preview": "Jay M. Mirtallo, M.S., R.Ph, BCNSP, FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 359,
+      "preview": "The Professor Emeritus"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 360,
+      "preview": "The Ohio State University, College of Pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 361,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 362,
+      "preview": "American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 363,
+      "preview": "Delaware, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 364,
+      "preview": "As one of the pharmacy specialist pioneers, Professor Mirtallo was instrumental in leading cost-effe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 366,
+      "preview": "Professor Mirtallo has been very active in professional societies and is Past President of the Ameri"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 368,
+      "preview": "As a representative to the Joint Commission, he served on the task force that created the Nutrition "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 370,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 372
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 374,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 376,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 378,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 380,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 381,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 382,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 383,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 384,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 386,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 388,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 390
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 392,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 394,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 396
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 398,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 400
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 402,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 404,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "545f9225f87911e2.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/545f9225f87911e2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_InterrelationsBetweenDiseaseandNutrition/images/545f9225f87911e2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "545f9225f87911e2"
+    },
+    {
+      "sha_name": "fdca67f5a6069e0e.png",
+      "original_ref": "img-1.jpeg",
+      "page": 6,
+      "relative_path": "images/fdca67f5a6069e0e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_InterrelationsBetweenDiseaseandNutrition/images/fdca67f5a6069e0e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "fdca67f5a6069e0e"
+    },
+    {
+      "sha_name": "ba081275450fc914.png",
+      "original_ref": "img-2.jpeg",
+      "page": 18,
+      "relative_path": "images/ba081275450fc914.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_InterrelationsBetweenDiseaseandNutrition/images/ba081275450fc914.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ba081275450fc914"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695701",
+    "ts": "2025-08-08T23:28:21.278297+00:00"
+  }
+}

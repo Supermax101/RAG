@@ -1,0 +1,4464 @@
+{
+  "doc_id": "8pn_pn_for_specialized_patient__5f5a3e",
+  "original_filename": "8PN PN for Specialized Patient.pdf",
+  "md_path": "data/parsed/8PN PN for Specialized Patient/8PN PN for Specialized Patient.md",
+  "rmd_path": "data/parsed/8PN PN for Specialized Patient/8PN PN for Specialized Patient.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Parenteral Nutrition (PN) for the Specialized Patient",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition (PN) for the Specialized Patient",
+      "line": 2,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Outline",
+      "line": 4
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 6,
+      "preview": "- Case"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 7,
+      "preview": "- Parenteral nutrition considerations in"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 8,
+      "preview": "- Critical illness"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 9,
+      "preview": "- Extracorporeal membrane oxygenation (ECMO)"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 10,
+      "preview": "- Chylothorax"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 11,
+      "preview": "- GI surgery, high ostomies"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 12,
+      "preview": "- Liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 13,
+      "preview": "- Renal disease"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 14,
+      "preview": "- Inborn errors of metabolism"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 15,
+      "preview": "- Short bowel syndrome/Intestinal Failure"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 16,
+      "preview": "- Case review"
+    },
+    {
+      "type": "text",
+      "section": "Outline",
+      "line": 18,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 22,
+      "preview": "Lucy is a 5-month-old with biliary atresia and progressive end stage liver disease who is listed for"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 24,
+      "preview": "1) What information would you like to assess her nutrition?"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 25,
+      "preview": "2) Would you recommend parenteral nutrition and when?"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 26,
+      "preview": "3) What factors would influence the energy requirements of this patient?"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 28,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Pathophysiology of Injury in Pediatric Intensive Care (PICU)**",
+      "line": 30
+    },
+    {
+      "type": "text",
+      "section": "**Pathophysiology of Injury in Pediatric Intensive Care (PICU)**",
+      "line": 32,
+      "preview": "Traditionally considered pre-resuscitative ebb phase and 'often' hypometabolic"
+    },
+    {
+      "type": "text",
+      "section": "**Pathophysiology of Injury in Pediatric Intensive Care (PICU)**",
+      "line": 34,
+      "preview": "Traditionally considered flow phase and 'often' hypermetabolism"
+    },
+    {
+      "type": "image",
+      "section": "**Pathophysiology of Injury in Pediatric Intensive Care (PICU)**",
+      "line": 36,
+      "content": "![img-0.jpeg](images/a539799643230942.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Pathophysiology of Injury in Pediatric Intensive Care (PICU)**",
+      "line": 38,
+      "content": "![img-1.jpeg](images/013681fe3fbd5a0a.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Pathophysiology of Injury in Pediatric Intensive Care (PICU)**",
+      "line": 40,
+      "content": "![img-2.jpeg](images/8324f0d123479d4e.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Pathophysiology of Injury in Pediatric Intensive Care (PICU)**",
+      "line": 42,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Impact on Intermediary Metabolism**",
+      "line": 44
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "**CNS Hormones & Catecholamines**",
+      "line": 46
+    },
+    {
+      "type": "text",
+      "section": "**CNS Hormones & Catecholamines**",
+      "line": 48,
+      "preview": "- \u2191 gluconeogenesis"
+    },
+    {
+      "type": "text",
+      "section": "**CNS Hormones & Catecholamines**",
+      "line": 49,
+      "preview": "- \u2191 glycolysis"
+    },
+    {
+      "type": "text",
+      "section": "**CNS Hormones & Catecholamines**",
+      "line": 50,
+      "preview": "- \u2191 insulin resistance"
+    },
+    {
+      "type": "text",
+      "section": "**CNS Hormones & Catecholamines**",
+      "line": 51,
+      "preview": "- \u2191 lipolysis & FFA release"
+    },
+    {
+      "type": "text",
+      "section": "**CNS Hormones & Catecholamines**",
+      "line": 52,
+      "preview": "- \u2191 proteolysis & hepatic synthesis acute phase proteins"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "**Cytokines**",
+      "line": 54
+    },
+    {
+      "type": "text",
+      "section": "**Cytokines**",
+      "line": 56,
+      "preview": "- \u2191 proteolysis exceeds synthesis with \u2191 urinary nitrogen"
+    },
+    {
+      "type": "text",
+      "section": "**Cytokines**",
+      "line": 57,
+      "preview": "- \u2191 lipolysis"
+    },
+    {
+      "type": "text",
+      "section": "**Cytokines**",
+      "line": 58,
+      "preview": "- \u2191 insulin resistance"
+    },
+    {
+      "type": "text",
+      "section": "**Cytokines**",
+      "line": 59,
+      "preview": "- \u2191 demand for and use of oxygen in tissues"
+    },
+    {
+      "type": "image",
+      "section": "**Cytokines**",
+      "line": 61,
+      "content": "![img-3.jpeg](images/0f19ada61a1b6016.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 63
+    },
+    {
+      "type": "text",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 65,
+      "preview": "- Skeletal muscle wasting"
+    },
+    {
+      "type": "text",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 66,
+      "preview": "- Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 67,
+      "preview": "- High free fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 68,
+      "preview": "- Hypertriglyceridemia"
+    },
+    {
+      "type": "text",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 69,
+      "preview": "- High lactate levels"
+    },
+    {
+      "type": "image",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 71,
+      "content": "![img-4.jpeg](images/b655ac13d660bc34.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 73,
+      "content": "![img-5.jpeg](images/043b2541a4580ede.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Together results in catabolism with resistance to anabolism causing:**",
+      "line": 75,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Concepts of Inflammation and Immunosuppression in Critical Illness**",
+      "line": 77
+    },
+    {
+      "type": "text",
+      "section": "**Concepts of Inflammation and Immunosuppression in Critical Illness**",
+      "line": 79,
+      "preview": "- These patients are at high risk for severe malnutrition: another risk factor for secondary infecti"
+    },
+    {
+      "type": "text",
+      "section": "**Concepts of Inflammation and Immunosuppression in Critical Illness**",
+      "line": 81,
+      "preview": "- Going forward it will be important to understand if nutrition support in PICU might modify **Syste"
+    },
+    {
+      "type": "image",
+      "section": "**Concepts of Inflammation and Immunosuppression in Critical Illness**",
+      "line": 83,
+      "content": "![img-6.jpeg](images/1800be7bdf53c13f.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Concepts of Inflammation and Immunosuppression in Critical Illness**",
+      "line": 85,
+      "content": "![img-7.jpeg](images/2826f026e7c8a01c.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Concepts of Inflammation and Immunosuppression in Critical Illness**",
+      "line": 87,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Malnutrition in Critical Illness",
+      "line": 89
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 91,
+      "preview": "- Undernutrition is common in patients admitted to PICU (20-45\\%)"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 92,
+      "preview": "- Obesity increasingly common"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 93,
+      "preview": "- Catabolism with rapid loss of protein stores expected in all"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 94,
+      "preview": "- Greatest risk for undernourished children, neonates and infants"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 95,
+      "preview": "- Muscle loss and loss of muscle function results in sarcopenia, which increases risks:"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 96,
+      "preview": "- Prolonged ventilation"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 97,
+      "preview": "- Acquired pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 98,
+      "preview": "- Prolonged length of stay"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 99,
+      "preview": "- Mortality"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 100,
+      "preview": "- Prolonged rehabilitation for survivors"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Critical Illness",
+      "line": 102,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**APSPEN Guidelines**",
+      "line": 104
+    },
+    {
+      "type": "table",
+      "section": "**APSPEN Guidelines**",
+      "line": 106,
+      "preview": "|  Clinical Guidelines | ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 107,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 108,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 109,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 110,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 111,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 112,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 113,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 114,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 115,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 116,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 117,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 118,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 119,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 120,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 121,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 122,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 123,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 124,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 125,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 126,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 127,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 128,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 129,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 130,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 131,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 132,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 133,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 134,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 135,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 136,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 137,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 138,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 139,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 140,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 141,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 142,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 143,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 144,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 145,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 146,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 147,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 148,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 149,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 150,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 151,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 152,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 153,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 154,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 155,
+      "preview": "AAPEN"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 156,
+      "preview": "AAP"
+    },
+    {
+      "type": "text",
+      "section": "**APSPEN Guidelines**",
+      "line": 158,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "The Role of Nutrition Support",
+      "line": 160
+    },
+    {
+      "type": "text",
+      "section": "The Role of Nutrition Support",
+      "line": 162,
+      "preview": "- Malnutrition is associated with worse outcomes in PICU"
+    },
+    {
+      "type": "text",
+      "section": "The Role of Nutrition Support",
+      "line": 163,
+      "preview": "- Achieving 60% of energy or protein delivery targets within 7 days after PICU admission associated "
+    },
+    {
+      "type": "image",
+      "section": "The Role of Nutrition Support",
+      "line": 165,
+      "content": "![img-8.jpeg](images/ac8a03468b7f0976.png)"
+    },
+    {
+      "type": "text",
+      "section": "The Role of Nutrition Support",
+      "line": 167,
+      "preview": "Regardless of nutrition support strategy"
+    },
+    {
+      "type": "text",
+      "section": "The Role of Nutrition Support",
+      "line": 169,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 171
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 173,
+      "preview": "- A functional gut should always be used for enteral nutrition (EN), including in critical illness w"
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 174,
+      "preview": "- EN Contraindicated if: anatomical disruption, obstruction or ischemia"
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 175,
+      "preview": "- PN Indicated when cannot use gut"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 177,
+      "preview": "|  Benefits | Limitations  |"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 178,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 179,
+      "preview": "|  Reduce gut atrophy | Increase gut oxygen needs; can be"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 180,
+      "preview": "contraindicated in severe shock  |"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 181,
+      "preview": "|  Improve gut motility | Risk of Aspiration  |"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 182,
+      "preview": "|  Reduced infections (enhanced gut"
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 183,
+      "preview": "immune function and avoidance of"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 184,
+      "preview": "translocation) | Frequent interruptions for fasting"
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 185,
+      "preview": "for diagnostic and other"
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 186,
+      "preview": "procedures limit efficacy,"
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 187,
+      "preview": "especially in malnourished"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 188,
+      "preview": "patients  |"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 189,
+      "preview": "|  Less likely to overfeed | Risk of underfeeding  |"
+    },
+    {
+      "type": "table",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 190,
+      "preview": "|  Cost effective |   |"
+    },
+    {
+      "type": "text",
+      "section": "Route of Nutrition Support in Critical Illness",
+      "line": 192,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 194
+    },
+    {
+      "type": "text",
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 196,
+      "preview": "- Based on lack of evidence timing to start supplemental PN when EN intake is insufficient remains c"
+    },
+    {
+      "type": "text",
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 197,
+      "preview": "- 2017 Guideline [low quality evidence, weak recommendations]:"
+    },
+    {
+      "type": "text",
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 198,
+      "preview": "- Start PN If cannot start EN"
+    },
+    {
+      "type": "text",
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 199,
+      "preview": "- Based on a single RCT, do not start PN within 24 h of admission"
+    },
+    {
+      "type": "text",
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 200,
+      "preview": "- Based on a single RCT, delay supplemental PN until 1 week after PICU admission for patients with n"
+    },
+    {
+      "type": "text",
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 201,
+      "preview": "- Use caution applying that approach to neonates or children with malnutrition at admission to PICU,"
+    },
+    {
+      "type": "text",
+      "section": "What is the Role \\& Timing of Supplemental PN?",
+      "line": 203,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 205
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 207,
+      "preview": "- Multicenter, prospective, randomized, controlled, parallel-group superiority trial (unblinded)"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 208,
+      "preview": "- 723 patients receiving early PN within 24 hours after ICU admission"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 209,
+      "preview": "- 717 patients received late PN on day 8 if still $<80 \\%$ of target EN requirements"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 210,
+      "preview": "- All patients started early enteral nutrition (EEN) within 24h"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 211,
+      "preview": "- EN advanced for all per protocol"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 212,
+      "preview": "- Newborn - 17 years (45\\% infants)"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 213,
+      "preview": "- Preterm neonates were excluded"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 215,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 217
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 219,
+      "preview": "- No differences in mortality"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 220,
+      "preview": "- Late PN group had less infections (10.7\\% vs 18.5\\%; p<0.001)"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 221,
+      "preview": "- Late PN group had shorter ICU stay (9.2 vs 6.5d; p<0.001)"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 222,
+      "preview": "- Late PN group had shorter duration ventilation ( $p=0.001$ )"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 223,
+      "preview": "- Late PN group had less renal replacement therapy ( $p=0.04$ )"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 224,
+      "preview": "- Late PN group had shorter hospital stay (21.3 vs 17.2d; $p=0.001$ )"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 225,
+      "preview": "- Late PN group had more hypoglycemia ( $9.1 \\%$ vs $4.8 \\% ; p=0.001$ )"
+    },
+    {
+      "type": "text",
+      "section": "The Early versus Late Parenteral Nutrition in the Pediatric Intensive Care Unit (PEPaNIC) Trial",
+      "line": 227,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 229
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 231,
+      "preview": "- 77\\% of late PN group discharged prior to starting PN"
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 232,
+      "preview": "- 55\\% of early PN group discharged by day 4"
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 233,
+      "preview": "- likely would tolerate EN and not need PN"
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 234,
+      "preview": "- Protein and energy provision was estimated so that both groups may have had either over and under "
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 235,
+      "preview": "- Parenteral nutrient delivery was not standardized"
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 236,
+      "preview": "- Risk of overfeeding particularly high in early PN group"
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 237,
+      "preview": "- Overfeeding known risk factor for infections with PN"
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 238,
+      "preview": "- Majority sample did not screen at nutritional risk and were normal weight limiting generalizabilit"
+    },
+    {
+      "type": "text",
+      "section": "Limitations of the PEPaNIC Trial",
+      "line": 240,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 242
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 244,
+      "preview": "- Hypoglycemia"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 245,
+      "preview": "- Progressive sarcopenia in PICU"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 246,
+      "preview": "- Prolonged ventilation due to sarcopenia"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 247,
+      "preview": "- Increased infection risk"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 248,
+      "preview": "- Poor wound healing"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 249,
+      "preview": "- Prolonged sarcopenia post PICU stay requiring rehabilitation"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 250,
+      "preview": "- Potential to adversely impact neurocognitive and psychomotor development"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Underfeeding in Critical Illness",
+      "line": 252,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 254
+    },
+    {
+      "type": "text",
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 256,
+      "preview": "- Hyperglycemia, which increases risk of sepsis and poor wound healing"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 257,
+      "preview": "- Hypertriglyceridemia"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 258,
+      "preview": "- Hepatic steatosis"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 259,
+      "preview": "- Cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 260,
+      "preview": "- Uremia"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 261,
+      "preview": "- Ventilator dependency with hypercapnia from glucose overfeeding"
+    },
+    {
+      "type": "text",
+      "section": "Risks of Overfeeding in Critical Illness",
+      "line": 263,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Until the Best Approach is Known Consider an Individualized Approach?**",
+      "line": 265
+    },
+    {
+      "type": "text",
+      "section": "**Until the Best Approach is Known Consider an Individualized Approach?**",
+      "line": 267,
+      "preview": "- Delay PN 7 days if risk of overfeeding"
+    },
+    {
+      "type": "text",
+      "section": "**Until the Best Approach is Known Consider an Individualized Approach?**",
+      "line": 268,
+      "preview": "- Only use if not meeting 60% of EN goals and advancing"
+    },
+    {
+      "type": "text",
+      "section": "**Until the Best Approach is Known Consider an Individualized Approach?**",
+      "line": 269,
+      "preview": "- Consider supplemental PN 3-5 days if risk of underfeeding"
+    },
+    {
+      "type": "image",
+      "section": "**Until the Best Approach is Known Consider an Individualized Approach?**",
+      "line": 271,
+      "content": "![img-9.jpeg](images/fed14a0d18f5548f.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Until the Best Approach is Known Consider an Individualized Approach?**",
+      "line": 273,
+      "content": "![img-10.jpeg](images/88f8236e627e47f6.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Until the Best Approach is Known Consider an Individualized Approach?**",
+      "line": 275,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Parenteral Energy Requirements",
+      "line": 277
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements",
+      "line": 279,
+      "preview": "- Energy requirements are highly variable in PICU"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements",
+      "line": 280,
+      "preview": "- Often lower than predicted, e.g., sedation, ventilation, paralysis, PN (NPO)"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements",
+      "line": 281,
+      "preview": "- Can be higher, e.g., CNS injury with dysautonomia, burns"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements",
+      "line": 282,
+      "preview": "- Predictive equations for energy have limited accuracy"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements",
+      "line": 283,
+      "preview": "- But due to lack of access to calorimetry are widely used"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements",
+      "line": 285,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 287
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 289,
+      "preview": "- 2017 Guideline [low quality evidence, weak recommendations]"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 290,
+      "preview": "- Use calorimetry to guide energy goals"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 291,
+      "preview": "- In the absence of calorimetry use Schofield/FAO/WHO/UNU equations"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 292,
+      "preview": "- NOT Harris Benedict or RDA"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 293,
+      "preview": "- DO NOT add stress factors"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 294,
+      "preview": "- Target at least $2 / 3$ of goal energy be end of first week in PICU"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 295,
+      "preview": "- Individualize approach according to baseline nutrition and risk for over or underfeeding"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Energy Requirements - Cont'd",
+      "line": 297,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 299
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 301,
+      "preview": "1. Malnutrition (BMI<5th percentile) or overweight (BMI $>85^{\\text {th }}$ )"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 302,
+      "preview": "2. $>10 \\%$ weight gain or loss during PICU stay"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 303,
+      "preview": "3. Failure to consistently meet prescribed caloric goals"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 304,
+      "preview": "4. Failure to wean or escalation in respiratory support"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 305,
+      "preview": "5. Need for muscle relaxants $>7$ days"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 306,
+      "preview": "6. Need for ventilation $>7$ days"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 307,
+      "preview": "7. CNS trauma (injury, hypoxia, ischemia) with dysautonomia"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 308,
+      "preview": "8. Oncologic diagnosis"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 309,
+      "preview": "9. PICU stay $>14$ days"
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 310,
+      "preview": "10. Suspect Hypometabolism (e.g., hypothermia/cooling, drug induced coma) or Hypermetabolism (e.g., "
+    },
+    {
+      "type": "text",
+      "section": "Priority Patients for Measuring Resting Energy Expenditure (REE) in PICU",
+      "line": 312,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Parenteral Protein Requirements",
+      "line": 314
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 316,
+      "preview": "- Both protein breakdown and synthesis are increased in critical illness"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 317,
+      "preview": "- Negative nitrogen balance results"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 318,
+      "preview": "- Protein supply is critical and often underestimated"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 319,
+      "preview": "- Bedside tools to evaluate nitrogen balance limited (especially in renal impairment)"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 320,
+      "preview": "- Increased requirement in burns, gastrointestinal losses, open wounds, continuous renal replacement"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 321,
+      "preview": "- 2017 Guideline [moderate quality evidence, strong recommendations]"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 322,
+      "preview": "- Provide a minimum of $1.5 \\mathrm{~g} / \\mathrm{kg} /$ day protein (and more in infants)"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 323,
+      "preview": "- Do not use RDA (recommended daily allowance) as will be insufficient"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Protein Requirements",
+      "line": 325,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Both Important to Achieve Positive Nitrogen Balance**",
+      "line": 327
+    },
+    {
+      "type": "image",
+      "section": "**Both Important to Achieve Positive Nitrogen Balance**",
+      "line": 329,
+      "content": "![img-11.jpeg](images/d062e973d383167c.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Both Important to Achieve Positive Nitrogen Balance**",
+      "line": 331,
+      "preview": "- Systematic review 9 studies 1981-2011 (n=347) children with heterogenous diagnoses admitted to PIC"
+    },
+    {
+      "type": "text",
+      "section": "**Both Important to Achieve Positive Nitrogen Balance**",
+      "line": 332,
+      "preview": "- Positive balance with protein intake > 1.5g/kg/d or energy intake > 57Kcal/kg/day"
+    },
+    {
+      "type": "image",
+      "section": "**Both Important to Achieve Positive Nitrogen Balance**",
+      "line": 334,
+      "content": "![img-12.jpeg](images/334459a1fcc1637a.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Both Important to Achieve Positive Nitrogen Balance**",
+      "line": 336,
+      "content": "![img-13.jpeg](images/42365217c90fcc33.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Both Important to Achieve Positive Nitrogen Balance**",
+      "line": 338,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 340
+    },
+    {
+      "type": "text",
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 342,
+      "preview": "- Indicated for severe cardiac and/or respiratory failure"
+    },
+    {
+      "type": "text",
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 343,
+      "preview": "- Evidence base limited to expert opinion and case series"
+    },
+    {
+      "type": "text",
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 344,
+      "preview": "- EN safe for 75-90\\% of patients on ECMO"
+    },
+    {
+      "type": "text",
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 345,
+      "preview": "- Feeding intolerance is common, up to $50 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 346,
+      "preview": "- Acknowledged risk for gut hypoperfusion, although severe GI complications reportedly rare"
+    },
+    {
+      "type": "text",
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 347,
+      "preview": "- PN (total parenteral nutrition with nil enteral) may be preferred in unstable patients with escala"
+    },
+    {
+      "type": "text",
+      "section": "Extracorporeal Membrane Oxygenation (ECMO)",
+      "line": 349,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ECMO \u2013 Cont'd",
+      "line": 351
+    },
+    {
+      "type": "text",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 353,
+      "preview": "- REE not readily measured or predicted by current equations"
+    },
+    {
+      "type": "text",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 354,
+      "preview": "- EN has *risk of underfeeding* given feeding intolerance"
+    },
+    {
+      "type": "text",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 355,
+      "preview": "- Supplemental PN can increase protein and energy delivery, but *risk of overfeeding*"
+    },
+    {
+      "type": "text",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 356,
+      "preview": "- Start supplemental PN 5-7 days well nourished or 3-5 days in malnourished children"
+    },
+    {
+      "type": "image",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 358,
+      "content": "![img-14.jpeg](images/3bd31495da6374cd.png)"
+    },
+    {
+      "type": "image",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 360,
+      "content": "![img-15.jpeg](images/5212fcce0f1d5c83.png)"
+    },
+    {
+      "type": "image",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 362,
+      "content": "![img-16.jpeg](images/7dd0884bfa68c9e1.png)"
+    },
+    {
+      "type": "image",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 364,
+      "content": "![img-17.jpeg](images/d41f0f0ac4faf52a.png)"
+    },
+    {
+      "type": "text",
+      "section": "ECMO \u2013 Cont'd",
+      "line": 366,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Chylothorax",
+      "line": 368
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 370,
+      "preview": "- Common complication in PICU after cardiac surgery, 5\\%"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 371,
+      "preview": "- Majority can be managed medically: median chain triglyceride (MCT) enriched EN first line treatmen"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 372,
+      "preview": "- No RCTs comparing MCT-rich EN to PN and nil per os"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 373,
+      "preview": "- PN (with lipids) may be indicated if refractory to EN or high-volume losses $>10 \\mathrm{ml} / \\ma"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 374,
+      "preview": "- More than $80 \\%$ effective, without further medication or surgery"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 375,
+      "preview": "- Risk of nutritional losses and immunosuppression"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 376,
+      "preview": "- Chylous fluid has 20-60g/L protein, electrolytes, trace minerals, immune cells and immunoglobulins"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 377,
+      "preview": "- Monitor for EFAD if extended use of MCT-rich EN, although rare"
+    },
+    {
+      "type": "text",
+      "section": "Chylothorax",
+      "line": 379,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 381
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 383,
+      "preview": "- Massive intestinal resection induces major functional and metabolic changes in the GI tract"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 384,
+      "preview": "- Loss of inhibitory reflexes of the enteric nervous system including cologastric and ileogastric re"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 385,
+      "preview": "- Decrease in enterohormones leading to accelerated gastric emptying and increased gastric secretion"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 386,
+      "preview": "- Bile acid loss"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 387,
+      "preview": "- Major net loss of fluids and electrolyte via end-jejunostomy"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 388,
+      "preview": "- Losses worsened by oral intake"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 389,
+      "preview": "- PN mixture must meet higher hydration needs and compensate nutrition losses"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 391,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 393
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 395,
+      "preview": "|  Nutrient Absorption Sites | Mediator Release Sites  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 396,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 397,
+      "preview": "|  **Duodenum/Proximal Jejunum** | **Stomach**  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 398,
+      "preview": "|  - macronutrients | - gastrin  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 399,
+      "preview": "|  - iron | - ghrelin  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 400,
+      "preview": "|  - folate | **Duodenum**  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 401,
+      "preview": "|  - calcium | - cholecystokinin  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 402,
+      "preview": "|  - vitamins/minerals | - secretin  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 403,
+      "preview": "|  **Jejunum/Proximal Ileum** | **GIP**  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 404,
+      "preview": "|  - macronutrients | - VIP  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 405,
+      "preview": "|  - calcium | **Jejunum/Ileum**  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 406,
+      "preview": "|  - vitamins/minerals | - neurotensin  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 407,
+      "preview": "|  **Distal Ileum** | **Distal Ileum/Colon**  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 408,
+      "preview": "|  - bile salts | - peptide YY  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 409,
+      "preview": "|  - vitamin B12 | - GLP-1  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 410,
+      "preview": "|  - SCFA | - GLP-2  |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 411,
+      "preview": "|  **Colon** |   |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 412,
+      "preview": "|  - SCFA |   |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 413,
+      "preview": "|  - minerals |   |"
+    },
+    {
+      "type": "table",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 414,
+      "preview": "|  - vitamin K |   |"
+    },
+    {
+      "type": "image",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 416,
+      "content": "![img-18.jpeg](images/4c7f034388bc031e.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 418,
+      "content": "![img-19.jpeg](images/ce657b2ee5d99ffa.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Consider Site Specific Effects of Intestinal Resection for GI Function (and Stoma Losses) and GI Hormones**",
+      "line": 420,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 422
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 424,
+      "preview": "- PN considerations to compensate for high losses in proximal ostomies"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 425,
+      "preview": "- Fluid"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 426,
+      "preview": "- Sodium; patients will not grow until adequately supplemented with sodium. Recommend following urin"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 427,
+      "preview": "- Potassium"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 428,
+      "preview": "- Bicarbonate; incompatible with PN so replaced as acetate in PN; in end stage liver disease may hav"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 429,
+      "preview": "- Zinc"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 430,
+      "preview": "- Iron; increased needs in ex-preterm, with chronic GI blood loss and extensive proximal small bowel"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 431,
+      "preview": "- Copper; standard supplementation may be inadequate"
+    },
+    {
+      "type": "text",
+      "section": "Gastrointestinal Surgery \\& Ostomies",
+      "line": 433,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 435
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 437,
+      "preview": "|  Decreased energy intake | Anorexia"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 438,
+      "preview": "Changes in taste perception"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 439,
+      "preview": "Early satiety"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 440,
+      "preview": "Nausea / vomiting  |"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 441,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 442,
+      "preview": "|  Increased energy intake | Increased energy requirement up to 150\\% EAR"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 443,
+      "preview": "Hypermetabolic state in end-stage liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 444,
+      "preview": "Sequelae of CLD (i.e., peritonitis, variceal bleeding)"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 445,
+      "preview": "Increased pro-inflammatory cytokines  |"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 446,
+      "preview": "|  Endocrine dysfunction | Impaired GH / IGF-1 axis"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 447,
+      "preview": "Decreased IGF-1 formation  |"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 448,
+      "preview": "|  Malabsorption and disordered substrate metabolism | Carbohydrate - hypoglycemia from decreased gl"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 449,
+      "preview": "Proteins - increased protein catabolism, impaired protein synthesis"
+    },
+    {
+      "type": "table",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 450,
+      "preview": "Fats - malabsorption from decreased bile delivery to small bowel, unconjugation of bile salts with b"
+    },
+    {
+      "type": "text",
+      "section": "Malnutrition in Pediatric Chronic Liver Disease",
+      "line": 452,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Liver Disease",
+      "line": 454
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 456,
+      "preview": "- Supplement"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 457,
+      "preview": "- Zinc (if deficient)"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 458,
+      "preview": "- Potassium (especially if on diuretics)"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 459,
+      "preview": "- Fat soluble vitamins D, E, K (if deficient)"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 460,
+      "preview": "- Protein (if hypoalbuminemic and not encephalopathic)"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 461,
+      "preview": "- Encephalopathy"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 462,
+      "preview": "- Reduce protein"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 463,
+      "preview": "- Monitor ammonia"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 464,
+      "preview": "- Cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 465,
+      "preview": "- Restrict copper, manganese since they are secreted in bile"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 466,
+      "preview": "- Adjust lipids: consider fish oil lipid emulsion (Omegaven ${ }^{\\circledR}$ )"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 467,
+      "preview": "- Immunosuppressant medications can affect nutritional status"
+    },
+    {
+      "type": "text",
+      "section": "Liver Disease",
+      "line": 469,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Vitamins: Lab Markers and Dosing Recommendations",
+      "line": 471
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Vitamin A",
+      "line": 473
+    },
+    {
+      "type": "text",
+      "section": "Vitamin A",
+      "line": 475,
+      "preview": "Laboratory Markers"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin A",
+      "line": 476,
+      "preview": "Serum retinol level"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin A",
+      "line": 477,
+      "preview": "If available RDR"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 479
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 481,
+      "preview": "1000 IU/kg/day, up to"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 482,
+      "preview": "25,000 IU of water miscible formulations"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 484,
+      "preview": "- $<10 \\mathrm{~kg}$ : start with 5000 IU/day"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 485,
+      "preview": "- $>10 \\mathrm{~kg}$ : start with 10,000 IU/day"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Vitamin D",
+      "line": 488
+    },
+    {
+      "type": "text",
+      "section": "Vitamin D",
+      "line": 490,
+      "preview": "Laboratory Markers"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin D",
+      "line": 491,
+      "preview": "Serum 25-OHD"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 493
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 495,
+      "preview": "Cholecalciferol"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 497,
+      "preview": "- Weight $>40 \\mathrm{~kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 498,
+      "preview": "- Serum level <10 $\\mathrm{ng} / \\mathrm{mL}: 5000 \\mathrm{IU} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 499,
+      "preview": "- Serum level 11-19 $\\mathrm{ng} / \\mathrm{mL}: 4000 \\mathrm{IU} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 500,
+      "preview": "- Serum level 20-29 $\\mathrm{ng} / \\mathrm{mL}: 3000 \\mathrm{IU} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 501,
+      "preview": "- Weight $<40 \\mathrm{~kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 502,
+      "preview": "-120-200 IU/kg"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Vitamin E",
+      "line": 505
+    },
+    {
+      "type": "text",
+      "section": "Vitamin E",
+      "line": 507,
+      "preview": "Laboratory Markers"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin E",
+      "line": 508,
+      "preview": "Serum tocopherol level"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin E",
+      "line": 509,
+      "preview": "If available"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin E",
+      "line": 510,
+      "preview": "$\\alpha$-tocopherol/total"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin E",
+      "line": 511,
+      "preview": "lipids ratio"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 513
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 515,
+      "preview": "D- $\\alpha$-tocopherol"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 516,
+      "preview": "polyethylene glycol 1000"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 517,
+      "preview": "succinate (TPGS) 15-25"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 518,
+      "preview": "IU/kg/day"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Vitamin K",
+      "line": 520
+    },
+    {
+      "type": "text",
+      "section": "Vitamin K",
+      "line": 522,
+      "preview": "Laboratory Markers"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin K",
+      "line": 523,
+      "preview": "PT/INR"
+    },
+    {
+      "type": "text",
+      "section": "Vitamin K",
+      "line": 524,
+      "preview": "If available PIVKA-II"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 526
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 528,
+      "preview": "2.5-5 mg/day 2-7 times weekly; 1-10 mg intravenous as needed"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 530,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Nutritional Needs of Children With CLD Before and After Liver Transplant",
+      "line": 532
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Liver Transplant",
+      "line": 534
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Before",
+      "line": 536
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ENERGY INTAKE",
+      "line": 538
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 540,
+      "preview": "- 130-150\\% EAR"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 542,
+      "preview": "CARBOHYDRATES"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 544,
+      "preview": "- 15-20 g/kg/day given as glucose polymers"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 546,
+      "preview": "PROTEINS"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 548,
+      "preview": "- 3-4 g/kg/day; if acutely encephalopathic may temporarily restrict to $<2 \\mathrm{~g} / \\mathrm{kg}"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FATS",
+      "line": 551
+    },
+    {
+      "type": "text",
+      "section": "FATS",
+      "line": 553,
+      "preview": "- 8 g/kg/day, with 30-50\\% as MCT"
+    },
+    {
+      "type": "text",
+      "section": "FATS",
+      "line": 554,
+      "preview": "- Infants can receive formula containing up to $75 \\%$ MCT; higher MCT content may result in essenti"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "After",
+      "line": 557
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ENERGY INTAKE",
+      "line": 559
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 561,
+      "preview": "- 120\\% EAR"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 563,
+      "preview": "CARBOHYDRATES"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 565,
+      "preview": "- 6-8 g/kg/day given as glucose polymers"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 567,
+      "preview": "PROTEINS"
+    },
+    {
+      "type": "text",
+      "section": "ENERGY INTAKE",
+      "line": 569,
+      "preview": "- 2.5-3 g/kg/day"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FATS",
+      "line": 572
+    },
+    {
+      "type": "text",
+      "section": "FATS",
+      "line": 574,
+      "preview": "- 5-6 g/kg/day LCT"
+    },
+    {
+      "type": "text",
+      "section": "FATS",
+      "line": 575,
+      "preview": "- Children receiving high MCT-containing supplementation pretransplant can transition to standard fo"
+    },
+    {
+      "type": "text",
+      "section": "FATS",
+      "line": 577,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 579
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 581,
+      "preview": "|  Immunosuppressant | Nutritional Side-Effects  |"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 582,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 583,
+      "preview": "|  Calcineurin inhibitors (FK, tacrolimus, cyclosporine) | Hyperlipidemia, Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 584,
+      "preview": "Hypomagnesemia, Hyperkalemia"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 585,
+      "preview": "Hypertension"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 586,
+      "preview": "Avoid grapefruit  |"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 587,
+      "preview": "|  Corticosteroids (prednisone, methylprednisolone) | Hyperglycemia, Hyperlipidemia"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 588,
+      "preview": "Sodium retention, Hypertension"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 589,
+      "preview": "Increased appetite, Weight gain"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 590,
+      "preview": "Muscle wasting"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 591,
+      "preview": "Peptic ulcer disease"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 592,
+      "preview": "Impaired wound healing"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 593,
+      "preview": "Electrolyte disturbances  |"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 594,
+      "preview": "|  Mycophenolate (MMF) | Diarrhea, Nausea  |"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 595,
+      "preview": "|  Azathioprine | Nausea, vomiting, sore throat, altered taste acuity  |"
+    },
+    {
+      "type": "table",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 596,
+      "preview": "|  Sirolimus | Hyperlipidemia, GI symptoms  |"
+    },
+    {
+      "type": "text",
+      "section": "Nutritional Side-Effects of Immunosuppressive Meds",
+      "line": 598,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Renal Disease",
+      "line": 600
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 602,
+      "preview": "- When to consider PN"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 603,
+      "preview": "- Peritoneal dialysis complicated by ileus or peritonitis"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 604,
+      "preview": "- Critically ill patients on hemodialysis"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 605,
+      "preview": "- Severe malnutrition, intolerance of enteral feeds"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 606,
+      "preview": "- Intestinal obstruction (mechanical or pseudo-obstruction)"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 607,
+      "preview": "- Acute Kidney Injury (AKI)"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 608,
+      "preview": "- Fluid intake is often reduced"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 609,
+      "preview": "- Volume available for PN can impact on caloric intake"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 610,
+      "preview": "- Protein intake often restricted to meet minimum requirements"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 611,
+      "preview": "- Electrolytes based on serum levels"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease",
+      "line": 613,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Renal Disease - Cont'd",
+      "line": 615
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease - Cont'd",
+      "line": 617,
+      "preview": "- On dialysis"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease - Cont'd",
+      "line": 618,
+      "preview": "- Protein losses are increased by dialysis"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease - Cont'd",
+      "line": 619,
+      "preview": "- Dialysis removes excess urea"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease - Cont'd",
+      "line": 620,
+      "preview": "- Increase fluid, calorie, and protein provision"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease - Cont'd",
+      "line": 621,
+      "preview": "- No longer need to restrict or reduce protein provision"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease - Cont'd",
+      "line": 623,
+      "preview": "--- page 35 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 625
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 627,
+      "preview": "|  Restriction may be required | Supplementation may be required  |"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 628,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 629,
+      "preview": "|  Deduct dialysate glucose when calculating glucose infusion rate (GIR) | Protein"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 630,
+      "preview": "(increased losses with dialysis)  |"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 631,
+      "preview": "|  Total fluids (based on fluid status and dialysis settings) | Alkali due to increased losses in 'n"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 632,
+      "preview": "|  Sodium (give in small amounts due to diminished excretion) | Sodium due to increased losses in 'n"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 633,
+      "preview": "|  Potassium (give in small amounts due to diminished excretion) | Potassium"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 634,
+      "preview": "(if on diuretics or depending on dialysate)  |"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 635,
+      "preview": "|  Phosphorous (give in small amounts due to diminished excretion) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 636,
+      "preview": "|  Vitamin C to <100 mg/day in pts with hyperoxaluria |   |"
+    },
+    {
+      "type": "table",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 637,
+      "preview": "|  Lipids in patients with hyperlipidemia of renal failure |   |"
+    },
+    {
+      "type": "text",
+      "section": "Renal Disease Nutrient Recommendations",
+      "line": 639,
+      "preview": "--- page 36 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 641
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 643,
+      "preview": "|  Age Group | Pre-Dialysis |  | Hemodialysis |  | Peritoneal Dialysis |   |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 644,
+      "preview": "| --- | --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 645,
+      "preview": "|   | Energy"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 646,
+      "preview": "Kcal/kg/d | Protein"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 647,
+      "preview": "g/kg/d | Energy"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 648,
+      "preview": "Kcal/kg/d | Protein"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 649,
+      "preview": "g/kg/d | Energy"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 650,
+      "preview": "Kcal/kg/d | Protein"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 651,
+      "preview": "g/kg/d  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 652,
+      "preview": "|  $0-6 \\mathrm{~m}$ | $100-110$ | $1.5-2.2$ | $100-110$ | 1.6 | $100-110$ | 1.8  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 653,
+      "preview": "|  $6-12 \\mathrm{~m}$ | $95-105$ | $1.2-1.7$ | $95-105$ | 1.3 | $95-105$ | 1.5  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 654,
+      "preview": "|  $1-3 \\mathrm{y}$ | 90 | $1.05-1.5$ | 90 | 1.15 | 90 | 1.3  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 655,
+      "preview": "|  $4-10 \\mathrm{y}$ | 70 | $0.95-1.35$ | 70 | $1.05-1.6$ | 70 | $1.1-2.0$  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 656,
+      "preview": "|  $11-14 \\mathrm{y}$ (boys) | 55 | $0.95-1.35$ | 55 | $1.05-1.4$ | 55 | $1.1-1.8$  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 657,
+      "preview": "|  $11-14 \\mathrm{y}$ (girls) | 47 | $0.95-1.35$ | 47 | $1.05-1.4$ | 47 | $1.1-1.8$  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 658,
+      "preview": "|  $15-18 \\mathrm{y}$ (boys | 45 | $0.85-1.2$ | 45 | $0.95-1.3$ | 45 | $1.0-1.5$  |"
+    },
+    {
+      "type": "table",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 659,
+      "preview": "|  $15-18$ (girls) | 40 | $0.85-1.2$ | 40 | $0.95-1.2$ | 40 | $1.0-1.5$  |"
+    },
+    {
+      "type": "text",
+      "section": "Estimated Energy and Protein Requirements in Children with Renal Disease",
+      "line": 661,
+      "preview": "--- page 37 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients in AKI: Energy",
+      "line": 663
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 665,
+      "preview": "|  Macronutrient | AKI, no RRT | CRRT | PIRRT | HD | PD  |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 666,
+      "preview": "| --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 667,
+      "preview": "|  Energy | Dictated by disease state, malnutrition, and illness severity |  |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 668,
+      "preview": "|  Key considerations | N/A | - High removal rates of levocarnitine may influence metabolism of free"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 669,
+      "preview": "- Largely dependent o use of citrate-based anticoagulation and dextrose solutions used within respec"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 670,
+      "preview": "- Larger patients likely receive more significant exposure"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 671,
+      "preview": "- May be CRRT dose dependent. Higher dose may clear more nonnutritive fluids into effluent than lowe"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 672,
+      "preview": "- Glucose-free replacement fluids may lead to energy removal"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 673,
+      "preview": "- Hyperosmolar, hyperglycemic states may contribute to energy deficit | N/A | - Dextrose is present "
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 674,
+      "preview": "- Monitor weight trends and adjust nutrition support accordingly |   |"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 676,
+      "preview": "Note: Suggestions within this table are initial recommendations that should be titrated based on pat"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Energy",
+      "line": 678,
+      "preview": "--- page 38 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients in AKI: Protein",
+      "line": 680
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 682,
+      "preview": "|  Macronutrient | AKI, no RRT | CRRT | PIRRT | HD | PD  |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 683,
+      "preview": "| --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 684,
+      "preview": "|  Protein | DRI /"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 685,
+      "preview": "age minimum | $\\geq 2.5 \\mathrm{~g} / \\mathrm{kg} /$ day protein or ASPEN/ age + additional $10 \\%-2"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 686,
+      "preview": "age $+0.1 \\mathrm{~g} / \\mathrm{kg} /$ day | ASPEN /"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 687,
+      "preview": "age $+0.3$"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 688,
+      "preview": "$\\mathrm{g} / \\mathrm{kg} /$ day  |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 689,
+      "preview": "|  Key considerations | - Temporary protein restrictions may be implemented if AKI recovery expected"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 690,
+      "preview": "- Inability to obtain dialysis access may limit ability to provide goal protein intake | - No expect"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 691,
+      "preview": "- $2.5 \\mathrm{~g} / \\mathrm{kg} /$ day is extrapolated from adults | - May require less protein tha"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 692,
+      "preview": "- If HD frequency expected to be higher, adjust for increased frequency | - Values are extrapolated "
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 694,
+      "preview": "Note: Suggestions within this table are initial recommendations that should be titrated based on pat"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Protein",
+      "line": 696,
+      "preview": "--- page 39 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 698
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 700,
+      "preview": "|  Macronutrient | AKI, no RRT | CRRT | PIRRT | HD | PD  |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 701,
+      "preview": "| --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 702,
+      "preview": "|  Fluid | Largely dependent on responsiveness to diuretics | - Unrestricted"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 703,
+      "preview": "- May be temporarily restricted around initial start | Largely dependent on length of treatment | - "
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 704,
+      "preview": "- Limit myocardial stunning; may be lower in hemodynamically unstable patients | Unpredictable  |"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 705,
+      "preview": "|  Key considerations | - Follow I/Os and fluid balance goals accounting for urine output, volume of"
+    },
+    {
+      "type": "table",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 706,
+      "preview": "- Concentrate nutrition support when able if not achieving fluid balance goals |  |  |  |   |"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 708,
+      "preview": "Note: Suggestions within this table are initial recommendations that should be titrated based on pat"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients in AKI: Fluid",
+      "line": 710,
+      "preview": "--- page 40 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism",
+      "line": 712
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 714,
+      "preview": "- PN should be initiated quickly during metabolic stressors"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 715,
+      "preview": "- Promote anabolism"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 716,
+      "preview": "- Diminish catabolism"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 717,
+      "preview": "- Use PN short-term and start enteral nutrition (EN) as soon as clinically feasible"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 718,
+      "preview": "- Metabolic parameters should be monitored closely with adjustment of type and amount of protein whe"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 719,
+      "preview": "- Common metabolic stressors"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 720,
+      "preview": "- Trauma"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 721,
+      "preview": "- Infection"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 722,
+      "preview": "- Burns"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 723,
+      "preview": "- Altered mental status"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 724,
+      "preview": "- Gastrointestinal (pancreatitis, ileus)"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 725,
+      "preview": "- Essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism",
+      "line": 727,
+      "preview": "--- page 41 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 729
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 731,
+      "preview": "- Hypercatabolism occurs during stress"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 732,
+      "preview": "- Parallels the extent of infection/injury"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 733,
+      "preview": "- Goal is prevention of prolonged phenylalanine (PHE) elevation"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 734,
+      "preview": "- Interventions to depress catabolic response"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 735,
+      "preview": "- PN as bridge to enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 736,
+      "preview": "- PHE-free parenteral amino-acid solution with some standard parenteral amino acids"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 737,
+      "preview": "- Not commercially available"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 738,
+      "preview": "- Needs to be made by a compounding pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Phenylketonuria (PKU)",
+      "line": 740,
+      "preview": "--- page 42 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 742
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 744,
+      "preview": "- Avoid exposure to PN if possible"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 745,
+      "preview": "- High-glucose diet is a metabolic challenge for impaired oxidative phosphorylation"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 746,
+      "preview": "- Glucose oxidation is largely aerobic in the liver"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 747,
+      "preview": "- High lipid/low carbohydrate diet recommended in Complex I deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 748,
+      "preview": "- Carnitine supplementation is recommended in patients with secondary carnitine deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 749,
+      "preview": "- Dose of carnitine needed is higher than nutritional doses"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 750,
+      "preview": "- Carnitine to be administered separately from PN to ensure adequate provision"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Mitochondrial Disorders",
+      "line": 752,
+      "preview": "--- page 43 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 754
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 756,
+      "preview": "Management of acute crisis"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 758,
+      "preview": "- Remove sources of isoleucine (ILE), methionine (MET), threonine (THR), valine (VAL)"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 759,
+      "preview": "- IV glucose and electrolytes: $150 \\mathrm{~mL} / \\mathrm{kg}$; glucose infusion rate (GIR): $10 \\m"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 760,
+      "preview": "- Treat metabolic acidosis and maintain normal sodium levels"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 761,
+      "preview": "- Add lipids $2-3 \\mathrm{~g} / \\mathrm{kg} /$ day to achieve total caloric goal of 120-150 $\\mathrm"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 762,
+      "preview": "- Intravenous L-carnitine 100-300 mg/kg/day to help improve clearance"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and Methylmalonic Acidemia (MMA)",
+      "line": 764,
+      "preview": "--- page 44 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and MMA - Cont'd",
+      "line": 766
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and MMA - Cont'd",
+      "line": 768,
+      "preview": "Management of acute crisis"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and MMA - Cont'd",
+      "line": 770,
+      "preview": "- Combination PN (and EN) within 24 - 48 hours to prevent ILE, MET, THR and VAL deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and MMA - Cont'd",
+      "line": 771,
+      "preview": "- Initiate protein at $0.5 \\mathrm{~g} / \\mathrm{kg} /$ day and increase as tolerated not exceeding "
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and MMA - Cont'd",
+      "line": 772,
+      "preview": "- Monitor daily plasma amino acids until stable"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and MMA - Cont'd",
+      "line": 773,
+      "preview": "- Peripheral PN will not provide sufficient energy for anabolism"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Propionic Acidemia and MMA - Cont'd",
+      "line": 775,
+      "preview": "--- page 45 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 777
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 779,
+      "preview": "- Comatose or Neurologically compromised patients"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 780,
+      "preview": "- Goal calories"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 782,
+      "preview": "Infants: 120 - 140 kcal/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 783,
+      "preview": "Children: 80 - 100 kcal/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 784,
+      "preview": "Adults: 40 - 45 kcal/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 786,
+      "preview": "- Add insulin to treat hyperglycemia (need anabolic GIR)"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Maple Syrup Urine Disease (MSUD)",
+      "line": 788,
+      "preview": "--- page 46 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 790
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 792,
+      "preview": "- Use branch chain amino acid (BCAA)-free solution and monitor plasma amino acids"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 793,
+      "preview": "- Neonates: give $2.5-3 \\mathrm{~g} / \\mathrm{kg} /$ day protein"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 794,
+      "preview": "- Plasma ILE/VAL decrease more rapidly then, LEU"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 795,
+      "preview": "- Add ILE/VAL supplement to PN at lower limits of recommended intake"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 796,
+      "preview": "- Add LEU when plasma LEU reaches $200 \\mu \\mathrm{~mol} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 797,
+      "preview": "- Not commercially available, needs to be made by a compounding pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 798,
+      "preview": "- Normalization of all 3 BCAA usually happens in 48 - 72 hours"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 799,
+      "preview": "- When able to tolerate enteral feeds start BCAA-free food"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: MSUD - Cont'd",
+      "line": 801,
+      "preview": "--- page 47 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 803
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 805,
+      "preview": "- Provide abundant calories with high glucose and lipids to minimize catabolism"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 806,
+      "preview": "- Reduce nitrogen load"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 807,
+      "preview": "- Restrict nitrogen intake"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 808,
+      "preview": "- Activate alternate pathways for nitrogen excretion"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 809,
+      "preview": "- Arginine supplementation needed"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 810,
+      "preview": "- Available as a separate IV infusion for this purpose"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 811,
+      "preview": "- Monitor closely for catabolic stressors and risk factors for hyperammonemia"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 812,
+      "preview": "- Birth"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 813,
+      "preview": "- Illness"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 814,
+      "preview": "- Excess protein intake"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 815,
+      "preview": "- Surgery"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: Urea Cycle Disorders (UCDs)",
+      "line": 817,
+      "preview": "--- page 48 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Inborn Errors of Metabolism: UCDs - Cont'd",
+      "line": 819
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: UCDs - Cont'd",
+      "line": 821,
+      "preview": "- Early consideration of parenteral support, if emesis is present to diminish catabolic sequelae"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: UCDs - Cont'd",
+      "line": 822,
+      "preview": "- High parenteral energy provision"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: UCDs - Cont'd",
+      "line": 823,
+      "preview": "- 80 - 100 kcal/kg/day for infants"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: UCDs - Cont'd",
+      "line": 824,
+      "preview": "- 10\\% dextrose and ILE with glucose infusion rate of 6 - 8 $\\mathrm{mg} / \\mathrm{kg} / \\mathrm{min"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: UCDs - Cont'd",
+      "line": 825,
+      "preview": "- For persistent catabolism use 10 - 35\\% dextrose along with insulin (to stop catabolism of glucose"
+    },
+    {
+      "type": "text",
+      "section": "Inborn Errors of Metabolism: UCDs - Cont'd",
+      "line": 827,
+      "preview": "--- page 49 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 829
+    },
+    {
+      "type": "text",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 831,
+      "preview": "- Pediatric Intestinal Failure as defined by NASPGHAN 2017 as, \"The need for PN for > 60 days due to"
+    },
+    {
+      "type": "text",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 832,
+      "preview": "- PN is needed to meet energy, fluid, and nutritional requirements when enteral nutrition (EN) is in"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 834,
+      "preview": "|  Diagnosis associated with intestinal failure and short bowel syndrome in infants (N=272) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 835,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 836,
+      "preview": "|  Diagnosis | N (\\%)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 837,
+      "preview": "|  Necrotizing enterocolitis | 71 (26)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 838,
+      "preview": "|  Gastroschisis | 44 (16)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 839,
+      "preview": "|  Intestinal atresia (large/small) | 27 (10)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 840,
+      "preview": "|  Volvulus | 24 (9)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 841,
+      "preview": "|  Long segment Hirschsprung's disease | 11 (4)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 842,
+      "preview": "|  Tufting or microvillus inclusion | 3 (1)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 843,
+      "preview": "|  Other single diagnoses | 14 (5)  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 844,
+      "preview": "|  Unknown | 1  |"
+    },
+    {
+      "type": "table",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 845,
+      "preview": "|  Multiple single diagnoses | 77928)  |"
+    },
+    {
+      "type": "text",
+      "section": "Short Bowel Syndrome / Intestinal Failure",
+      "line": 847,
+      "preview": "--- page 50 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Intestinal Failure Associated Liver Disease (IFALD)**",
+      "line": 849
+    },
+    {
+      "type": "text",
+      "section": "**Intestinal Failure Associated Liver Disease (IFALD)**",
+      "line": 851,
+      "preview": "- IFALD is seen in up to 2/3rds of patients on long-term PN"
+    },
+    {
+      "type": "text",
+      "section": "**Intestinal Failure Associated Liver Disease (IFALD)**",
+      "line": 852,
+      "preview": "- IFALD is defined as *\"hepatobiliary dysfunction as a consequence of medical and surgical managemen"
+    },
+    {
+      "type": "text",
+      "section": "**Intestinal Failure Associated Liver Disease (IFALD)**",
+      "line": 853,
+      "preview": "- Many factors contribute to the development of IFALD"
+    },
+    {
+      "type": "image",
+      "section": "**Intestinal Failure Associated Liver Disease (IFALD)**",
+      "line": 855,
+      "content": "![img-20.jpeg](images/6609086828645fe4.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Intestinal Failure Associated Liver Disease (IFALD)**",
+      "line": 857,
+      "preview": "Norsa L, *et al.* *Nutrients* 2018;10:664."
+    },
+    {
+      "type": "text",
+      "section": "**Intestinal Failure Associated Liver Disease (IFALD)**",
+      "line": 859,
+      "preview": "--- page 51 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN in Intestinal Failure",
+      "line": 861
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 863,
+      "preview": "- Multifactorial etiology"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 864,
+      "preview": "- Macronutrient excess promotes hepatic steatosis"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 865,
+      "preview": "- High GIR result in increased insulin, triggering hepatic lipogenesis"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 866,
+      "preview": "- Target required energy for disease state"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 867,
+      "preview": "- Balance nonprotein calories: $75 \\%$ as carbohydrate, $25 \\%$ as fat"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 868,
+      "preview": "- High cumulative infusion of amino acids may also play a role"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 869,
+      "preview": "- Use of PN amino acid solutions designed for children to avoid nitrogen excess is advised"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 870,
+      "preview": "- Blood urea nitrogen, acidosis, nitrogen balance and growth can be monitored"
+    },
+    {
+      "type": "text",
+      "section": "PN in Intestinal Failure",
+      "line": 872,
+      "preview": "--- page 52 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Lipid Emulsions and IFALD",
+      "line": 874
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD",
+      "line": 876,
+      "preview": "- Soy based intravenous lipid emulsions (ILE) contain high $\\omega-6$ long-chain polyunsaturated fat"
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD",
+      "line": 877,
+      "preview": "- Discontinuation or minimizing pure soybean oil lipid emulsions (typically to $1 \\mathrm{~g} / \\mat"
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD",
+      "line": 878,
+      "preview": "- Risk of EFAD and compromised growth"
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD",
+      "line": 880,
+      "preview": "--- page 53 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Lipid Emulsions and IFALD - Cont'd",
+      "line": 882
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD - Cont'd",
+      "line": 884,
+      "preview": "- Composite lipid emulsions (containing soy, medium chain triglycerides, olive oil and fish oil) pro"
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD - Cont'd",
+      "line": 885,
+      "preview": "- Helps prevent and possibly treat IFALD in infants and children"
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD - Cont'd",
+      "line": 886,
+      "preview": "- Fish oil emulsions provide $\\omega-3$ PUFA, DHA and EHA, $\\alpha$-tocopherol and reduced phytoster"
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD - Cont'd",
+      "line": 887,
+      "preview": "- Typically dosed at $1 \\mathrm{~g} / \\mathrm{kg} /$ day; doses of $1.5-2 \\mathrm{~g} / \\mathrm{kg} "
+    },
+    {
+      "type": "text",
+      "section": "Lipid Emulsions and IFALD - Cont'd",
+      "line": 889,
+      "preview": "--- page 54 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 891
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 893,
+      "preview": "- Start enteral feeds as soon as possible and advance as tolerated"
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 894,
+      "preview": "- Cycle PN when possible"
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 895,
+      "preview": "- PN is used to meet energy needs and promote normal growth"
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 896,
+      "preview": "- The patient's response is best and PN should be adjusted to meet nutritional needs and promote nor"
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 897,
+      "preview": "- Avoid overfeeding"
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 898,
+      "preview": "- Care within multidisciplinary intestinal rehabilitation teams is beneficial"
+    },
+    {
+      "type": "text",
+      "section": "Intestinal Failure Nutritional Considerations",
+      "line": 900,
+      "preview": "--- page 55 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case",
+      "line": 902
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 904,
+      "preview": "Lucy is a 5-month-old with biliary atresia and progressive end stage liver disease who is listed for"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 906,
+      "preview": "1) What information would you like to assess her nutrition?"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 907,
+      "preview": "2) Would you recommend parenteral nutrition and when?"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 908,
+      "preview": "3) What factors would influence the energy requirements of this patient?"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 910,
+      "preview": "--- page 56 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case Review",
+      "line": 912
+    },
+    {
+      "type": "text",
+      "section": "Case Review",
+      "line": 914,
+      "preview": "Lucy is a 5-month-old with biliary atresia and progressive end stage liver"
+    },
+    {
+      "type": "text",
+      "section": "Case Review",
+      "line": 915,
+      "preview": "disea 1) What information would you like to assess her nutrition?"
+    },
+    {
+      "type": "text",
+      "section": "Case Review",
+      "line": 916,
+      "preview": "$\\checkmark$ Anthropometrics like weight, length, weight for length, head circumference; ideally add"
+    },
+    {
+      "type": "text",
+      "section": "Case Review",
+      "line": 917,
+      "preview": "$\\checkmark$ Feeding history, including feeding tolerance, vomiting, diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "Case Review",
+      "line": 918,
+      "preview": "1) $\\checkmark$ Presence of ascites that can impact feeding tolerance and weight interpretation"
+    },
+    {
+      "type": "text",
+      "section": "Case Review",
+      "line": 919,
+      "preview": "2) $\\checkmark$ CRP at admission"
+    },
+    {
+      "type": "text",
+      "section": "Case Review",
+      "line": 921,
+      "preview": "--- page 57 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case Review Cont'd",
+      "line": 923
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 925,
+      "preview": "Lucy is a 5-month-old with biliary atresia and progressive end stage liver disease who is listed for"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 927,
+      "preview": "Should recommence enteral nutrition support ideally within 24 h and plan to advance to meet $60 \\%$ "
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 928,
+      "preview": "2) Would you recommend parenteral nutrition and when?"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 929,
+      "preview": "3) What factors would influence the energy requirements of this patient?"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 931,
+      "preview": "--- page 58 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case Review Cont'd",
+      "line": 933
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 935,
+      "preview": "Lucy is a 5-month-old with biliary atresia and progressive end stage liver disease who is listed for"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 936,
+      "preview": "fo"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 937,
+      "preview": "3) What factors would influence the energy requirements of this patient?"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 938,
+      "preview": "$\\checkmark$ Energy requirements are generally increased in liver failure"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 939,
+      "preview": "$\\checkmark$ Sepsis can also increase energy requirements"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 940,
+      "preview": "$\\checkmark$ Sedation and mechanical ventilation will both decrease energy needs"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 941,
+      "preview": "$\\checkmark$ NPO and use of PN will also decrease total energy requirements"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 943,
+      "preview": "1) What information would you like to assess her nutrition?"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 944,
+      "preview": "2) Would you recommend parenteral nutrition and when?"
+    },
+    {
+      "type": "text",
+      "section": "Case Review Cont'd",
+      "line": 945,
+      "preview": "3) What factors would influence the energy requirements of this patient?"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "a539799643230942.png",
+      "original_ref": "img-0.jpeg",
+      "page": 3,
+      "relative_path": "images/a539799643230942.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/a539799643230942.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a539799643230942"
+    },
+    {
+      "sha_name": "013681fe3fbd5a0a.png",
+      "original_ref": "img-1.jpeg",
+      "page": 3,
+      "relative_path": "images/013681fe3fbd5a0a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/013681fe3fbd5a0a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "013681fe3fbd5a0a"
+    },
+    {
+      "sha_name": "8324f0d123479d4e.png",
+      "original_ref": "img-2.jpeg",
+      "page": 3,
+      "relative_path": "images/8324f0d123479d4e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/8324f0d123479d4e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8324f0d123479d4e"
+    },
+    {
+      "sha_name": "0f19ada61a1b6016.png",
+      "original_ref": "img-3.jpeg",
+      "page": 4,
+      "relative_path": "images/0f19ada61a1b6016.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/0f19ada61a1b6016.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0f19ada61a1b6016"
+    },
+    {
+      "sha_name": "b655ac13d660bc34.png",
+      "original_ref": "img-4.jpeg",
+      "page": 4,
+      "relative_path": "images/b655ac13d660bc34.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/b655ac13d660bc34.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b655ac13d660bc34"
+    },
+    {
+      "sha_name": "043b2541a4580ede.png",
+      "original_ref": "img-5.jpeg",
+      "page": 4,
+      "relative_path": "images/043b2541a4580ede.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/043b2541a4580ede.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "043b2541a4580ede"
+    },
+    {
+      "sha_name": "1800be7bdf53c13f.png",
+      "original_ref": "img-6.jpeg",
+      "page": 5,
+      "relative_path": "images/1800be7bdf53c13f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/1800be7bdf53c13f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1800be7bdf53c13f"
+    },
+    {
+      "sha_name": "2826f026e7c8a01c.png",
+      "original_ref": "img-7.jpeg",
+      "page": 5,
+      "relative_path": "images/2826f026e7c8a01c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/2826f026e7c8a01c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2826f026e7c8a01c"
+    },
+    {
+      "sha_name": "ac8a03468b7f0976.png",
+      "original_ref": "img-8.jpeg",
+      "page": 8,
+      "relative_path": "images/ac8a03468b7f0976.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/ac8a03468b7f0976.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ac8a03468b7f0976"
+    },
+    {
+      "sha_name": "fed14a0d18f5548f.png",
+      "original_ref": "img-9.jpeg",
+      "page": 16,
+      "relative_path": "images/fed14a0d18f5548f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/fed14a0d18f5548f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "fed14a0d18f5548f"
+    },
+    {
+      "sha_name": "88f8236e627e47f6.png",
+      "original_ref": "img-10.jpeg",
+      "page": 16,
+      "relative_path": "images/88f8236e627e47f6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/88f8236e627e47f6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "88f8236e627e47f6"
+    },
+    {
+      "sha_name": "d062e973d383167c.png",
+      "original_ref": "img-11.jpeg",
+      "page": 21,
+      "relative_path": "images/d062e973d383167c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/d062e973d383167c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d062e973d383167c"
+    },
+    {
+      "sha_name": "334459a1fcc1637a.png",
+      "original_ref": "img-12.jpeg",
+      "page": 21,
+      "relative_path": "images/334459a1fcc1637a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/334459a1fcc1637a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "334459a1fcc1637a"
+    },
+    {
+      "sha_name": "42365217c90fcc33.png",
+      "original_ref": "img-13.jpeg",
+      "page": 21,
+      "relative_path": "images/42365217c90fcc33.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/42365217c90fcc33.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "42365217c90fcc33"
+    },
+    {
+      "sha_name": "3bd31495da6374cd.png",
+      "original_ref": "img-14.jpeg",
+      "page": 23,
+      "relative_path": "images/3bd31495da6374cd.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/3bd31495da6374cd.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "3bd31495da6374cd"
+    },
+    {
+      "sha_name": "5212fcce0f1d5c83.png",
+      "original_ref": "img-15.jpeg",
+      "page": 23,
+      "relative_path": "images/5212fcce0f1d5c83.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/5212fcce0f1d5c83.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "5212fcce0f1d5c83"
+    },
+    {
+      "sha_name": "7dd0884bfa68c9e1.png",
+      "original_ref": "img-16.jpeg",
+      "page": 23,
+      "relative_path": "images/7dd0884bfa68c9e1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/7dd0884bfa68c9e1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7dd0884bfa68c9e1"
+    },
+    {
+      "sha_name": "d41f0f0ac4faf52a.png",
+      "original_ref": "img-17.jpeg",
+      "page": 23,
+      "relative_path": "images/d41f0f0ac4faf52a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/d41f0f0ac4faf52a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d41f0f0ac4faf52a"
+    },
+    {
+      "sha_name": "4c7f034388bc031e.png",
+      "original_ref": "img-18.jpeg",
+      "page": 26,
+      "relative_path": "images/4c7f034388bc031e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/4c7f034388bc031e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4c7f034388bc031e"
+    },
+    {
+      "sha_name": "ce657b2ee5d99ffa.png",
+      "original_ref": "img-19.jpeg",
+      "page": 26,
+      "relative_path": "images/ce657b2ee5d99ffa.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/ce657b2ee5d99ffa.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ce657b2ee5d99ffa"
+    },
+    {
+      "sha_name": "6609086828645fe4.png",
+      "original_ref": "img-20.jpeg",
+      "page": 50,
+      "relative_path": "images/6609086828645fe4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/8PN PN for Specialized Patient/images/6609086828645fe4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6609086828645fe4"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696175",
+    "ts": "2025-08-08T23:36:15.116365+00:00"
+  }
+}

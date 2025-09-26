@@ -1,0 +1,930 @@
+{
+  "doc_id": "tpn_administration__c684cb",
+  "original_filename": "TPN Administration.pdf",
+  "md_path": "data/parsed/TPN Administration/TPN Administration.md",
+  "rmd_path": "data/parsed/TPN Administration/TPN Administration.rmd",
+  "blocks": [
+    {
+      "type": "table",
+      "section": "",
+      "line": 0,
+      "preview": "|  Stanford MEDICINE | Last Approval Date: February 2024  |"
+    },
+    {
+      "type": "table",
+      "section": "",
+      "line": 1,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "",
+      "line": 2,
+      "preview": "|  Procedure Title: Parenteral Nutrition \u2013 TPN, PPN, Lipid Emulsion Intravenous Infusion | Page 1 of"
+    },
+    {
+      "type": "table",
+      "section": "",
+      "line": 3,
+      "preview": "|  Departments Affected: Inpatient Nursing, Emergency Department, Interventional Platform |   |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "I. PURPOSE:",
+      "line": 5
+    },
+    {
+      "type": "text",
+      "section": "I. PURPOSE:",
+      "line": 7,
+      "preview": "The purpose of this procedure is to ensure the safe administration of 1) parenteral nutrition and 2)"
+    },
+    {
+      "type": "text",
+      "section": "I. PURPOSE:",
+      "line": 9,
+      "preview": "**Who May Perform:** Registered Nurse (RN)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "II. DEFINITIONS",
+      "line": 11
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "A. Parenteral nutrition (PN):",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "A. Parenteral nutrition (PN):",
+      "line": 15,
+      "preview": "1. Consists of a dextrose and amino acid preparation which is prescribed to meet nutritional require"
+    },
+    {
+      "type": "text",
+      "section": "A. Parenteral nutrition (PN):",
+      "line": 16,
+      "preview": "2. Administered as:"
+    },
+    {
+      "type": "text",
+      "section": "A. Parenteral nutrition (PN):",
+      "line": 17,
+      "preview": "3. a. Total Parenteral Nutrition (TPN) through a central venous access device (CVAD)"
+    },
+    {
+      "type": "text",
+      "section": "A. Parenteral nutrition (PN):",
+      "line": 18,
+      "preview": "4. b. Peripheral Parenteral Nutrition (PPN) through a peripheral catheter."
+    },
+    {
+      "type": "text",
+      "section": "A. Parenteral nutrition (PN):",
+      "line": 19,
+      "preview": "5. Cyclic TPN is the administration of TPN solution over less than 24 hours a day."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "B. Lipid (fat) emulsion:",
+      "line": 21
+    },
+    {
+      "type": "text",
+      "section": "B. Lipid (fat) emulsion:",
+      "line": 23,
+      "preview": "Is a component of PN used to prevent essential fatty acid deficiency and provide an additional sourc"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "C. Licensed Independent Practitioner (LIP):",
+      "line": 25
+    },
+    {
+      "type": "text",
+      "section": "C. Licensed Independent Practitioner (LIP):",
+      "line": 27,
+      "preview": "Any practitioner permitted by law and the organization to provide care and services, without directi"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "D. Advanced Practice Providers (APP):",
+      "line": 29
+    },
+    {
+      "type": "text",
+      "section": "D. Advanced Practice Providers (APP):",
+      "line": 31,
+      "preview": "Include but not limited to physician assistants (PAs), nurse practitioners (NPs), certified register"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "III. SUPPORTIVE INFORMATION:",
+      "line": 33
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "A. Indications/Contraindications",
+      "line": 35
+    },
+    {
+      "type": "text",
+      "section": "A. Indications/Contraindications",
+      "line": 37,
+      "preview": "1. **Indications**"
+    },
+    {
+      "type": "text",
+      "section": "A. Indications/Contraindications",
+      "line": 38,
+      "preview": "2. a. Patients who are malnourished or at risk of malnutrition when enteral feeding is contraindicat"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "B. Precautions",
+      "line": 40
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 42,
+      "preview": "1. **Reduce infection risk**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 43,
+      "preview": "2. a. Verify order to use central line is present before the catheter is used for TPN."
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 44,
+      "preview": "3. b. It is preferred to dedicate a single lumen to PN administration when a multi lumen CVAD in pla"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 45,
+      "preview": "4. i. For bone marrow transplant (BMT) patients, refer to Appendix B."
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 47,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "table",
+      "section": "B. Precautions",
+      "line": 49,
+      "preview": "|  Stanford | |"
+    },
+    {
+      "type": "table",
+      "section": "B. Precautions",
+      "line": 50,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "B. Precautions",
+      "line": 51,
+      "preview": "|  MEDICINE | |"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 53,
+      "preview": "**Last Approval Date:** February 2024"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 55,
+      "preview": "**Procedure Title:** Parenteral Nutrition \u2013 TPN, PPN, Lipid Emulsion"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 57,
+      "preview": "**Intravenous Infusion**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 59,
+      "preview": "**Departments Affected:** Inpatient Nursing, Emergency Department, Interventional Platform"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 61,
+      "preview": "**Page 2 of 8**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 63,
+      "preview": "c. Schedule bag, tubing, filter, and dressing changes at the same time whenever possible to minimize"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 65,
+      "preview": "d. Change tubing, filter, and solution every 24 hours:"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 67,
+      "preview": "i. TPN/PPN"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 69,
+      "preview": "ii. Lipids"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 71,
+      "preview": "iii. Replace with a new bag even if not completely infused. Refer to Labeling Standardization - Proc"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 73,
+      "preview": "1. **Lipid administration**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 75,
+      "preview": "a. Do not give lipids to patients with egg, soy, peanut, or fish allergies without a discussion betw"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 77,
+      "preview": "b. Lipid emulsion is isotonic and can be given safely through a peripheral line or CVAD"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 79,
+      "preview": "1. Monitor labs for tolerance, glucose levels, and metabolic and nutritional status"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 81,
+      "preview": "a. Serum glucose levels should be checked at a minimum once daily on all patients receiving TPN."
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 83,
+      "preview": "b. If there is any interruption in the administration of the TPN or PPN solution, notify APP/LIP imm"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 85,
+      "preview": "1. **Extravasation risk**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 87,
+      "preview": "a. PPN may increase risk of phlebitis."
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 89,
+      "preview": "b. May administer PPN via peripheral IV if PPN solutions/emulsions have a final concentration of 10%"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 91,
+      "preview": "c. Do not use midline catheters for TPN or PPN administration."
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 93,
+      "preview": "d. In the event of extravasation, refer to: Extravasation - Early Identification and Management of i"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 95,
+      "preview": "IV. **EQUIPMENT/SUPPLIES**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 97,
+      "preview": "A. **Infusion pump**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 99,
+      "preview": "B. Hospital approved disinfecting port protectors"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 101,
+      "preview": "C. Hospital approved disinfecting swab"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 103,
+      "preview": "D. **TPN/PPN**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 105,
+      "preview": "1. Di[2-ethylhexyl] phthalate (DEHP) free IV Tubing with 1.2 micron filter (add on extension or in-l"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 107,
+      "preview": "2. TPN or PPN solution, prepared by pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 109,
+      "preview": "E. **Lipid**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 111,
+      "preview": "1. DEHP free tubing with 1.2 micron filter (add on extension or in-line)"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 113,
+      "preview": "2. If infusing with TPN, Luer-Lock Y connector or stopcock"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 115,
+      "preview": "3. **Lipid emulsion**"
+    },
+    {
+      "type": "text",
+      "section": "B. Precautions",
+      "line": 117,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "table",
+      "section": "B. Precautions",
+      "line": 119,
+      "preview": "|  Stanford MEDICINE | Last Approval Date: February 2024  |"
+    },
+    {
+      "type": "table",
+      "section": "B. Precautions",
+      "line": 120,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "B. Precautions",
+      "line": 121,
+      "preview": "|  Procedure Title: Parenteral Nutrition \u2013 TPN, PPN, Lipid Emulsion Intravenous Infusion |   |"
+    },
+    {
+      "type": "table",
+      "section": "B. Precautions",
+      "line": 122,
+      "preview": "|  Departments Affected: Inpatient Nursing, Emergency Department, Interventional Platform | Page 3 o"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "V. PATIENT AND FAMILY TEACHING",
+      "line": 124
+    },
+    {
+      "type": "text",
+      "section": "V. PATIENT AND FAMILY TEACHING",
+      "line": 126,
+      "preview": "- A. Explain procedure to patient and/or family, including the purpose of the parenteral nutrition a"
+    },
+    {
+      "type": "text",
+      "section": "V. PATIENT AND FAMILY TEACHING",
+      "line": 127,
+      "preview": "- B. Instruct patient to inform nursing staff of pain, swelling, or redness at IV insertion site, if"
+    },
+    {
+      "type": "text",
+      "section": "V. PATIENT AND FAMILY TEACHING",
+      "line": 128,
+      "preview": "- C. Explain to patient the signs and symptoms of hypoglycemia if insulin is added to TPN."
+    },
+    {
+      "type": "text",
+      "section": "V. PATIENT AND FAMILY TEACHING",
+      "line": 129,
+      "preview": "- D. Instruct patient about daily care of the central line, if TPN administered."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VI. PROCEDURE:",
+      "line": 131
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 133,
+      "preview": "- A. Perform hand hygiene. Don clean gloves."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 134,
+      "preview": "- B. Confirm correct formulation aligned with order. Check for:"
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 135,
+      "preview": "- Patient's name and medical record number on label."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 136,
+      "preview": "- Match all components listed on the label against the Medication Administration Record (MAR)"
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 137,
+      "preview": "- C. Verify patient's identification using two patient identifiers (e.g., patient name, date of birt"
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 138,
+      "preview": "- D. Inspect the bag before hanging and periodically during administration."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 139,
+      "preview": "- Confirm no bag defects or leaks present."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 140,
+      "preview": "- Confirm no visible particles or precipitates present."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 141,
+      "preview": "- E. Assemble and prime tubing with 1.2-micron filter on distal end of tubing."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 142,
+      "preview": "- See Appendix A for tubing diagram."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 143,
+      "preview": "- Do not invert filter while priming."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 144,
+      "preview": "- F. Set up infusion pump settings using appropriate selections in drug library."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 145,
+      "preview": "- Set rate of infusion as ordered."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 146,
+      "preview": "- G. Connect tubing(s) to patient and initiate PN infusion."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 147,
+      "preview": "- Trace tubing to vascular access device (catheter) before making connections to avoid tubing miscon"
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 148,
+      "preview": "- H. Observe patient after starting PN for the following side effects."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 149,
+      "preview": "- Side effects may include dyspnea, rash, fever, nausea, dizziness, headache, flushing."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 150,
+      "preview": "- Notify LIP/APP if side effects occur."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 151,
+      "preview": "- Assess patient every shift for signs and symptoms of glucose, fluid, or electrolyte imbalance."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 152,
+      "preview": "- Notify LIP/APP for dextrose containing solution order if PN infusion is interrupted."
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 153,
+      "preview": "- Observe the patient for signs and symptoms of hypoglycemia during discontinuation of TPN and notif"
+    },
+    {
+      "type": "text",
+      "section": "VI. PROCEDURE:",
+      "line": 154,
+      "preview": "- Discard PN and lipid emulsion tubings when completed in appropriate waste container."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VII. EVALUATION",
+      "line": 156
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 158,
+      "preview": "- A. Monitor flow rate, vital signs, and IV site, as appropriate."
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 160,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 162,
+      "preview": "|  Stanford | |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 163,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 164,
+      "preview": "|  MEDICINE | |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 165,
+      "preview": "|  Procedure Title: Parenteral Nutrition \u2013 TPN, PPN, Lipid Emulsion | |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 166,
+      "preview": "|  Intravenous Infusion | |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 167,
+      "preview": "|  Departments Affected: Inpatient Nursing, Emergency Department, | |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 168,
+      "preview": "|  Interventional Platform | |"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 170,
+      "preview": "B. Evaluate patient tolerance. C. Monitor patient's blood glucose based on clinical condition and in"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 172,
+      "preview": "VIII. DOCUMENTATION A. Administration of TPN, PPN and/or lipids B. Document intake volumes per stand"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 174,
+      "preview": "IX. COMPLIANCE A. All workforce members including employees, contracted staff, students, volunteers,"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 176,
+      "preview": "X. REFERENCES A. Ayers P, Adams S, Boullata J et al. A.S.P.E.N. Parenteral Nutrition Safety Consensu"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 178,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 180,
+      "preview": "|  Stanford | Last Approval Date: February 2024  |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 181,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 182,
+      "preview": "|  MEDICINE |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 183,
+      "preview": "|  Procedure Title: Parenteral Nutrition \u2013 TPN, PPN, Lipid Emulsion |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 184,
+      "preview": "|  Intravenous Infusion |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 185,
+      "preview": "|  Departments Affected: Inpatient Nursing, Emergency Department, |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 186,
+      "preview": "|  Interventional Platform |   |"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 188,
+      "preview": "F. Worthington, P., Balint, J., Bechtold, M., Bingham, A., Chan, L.-N., Durfee, S., Jevenn, A. K., M"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 190,
+      "preview": "G. Worthington, P., Gura, K. M., Kraft, M. D., Nishikawa, R., Guenter, P., & Sacks, G. S. (2020). Up"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 192,
+      "preview": "XI. RELATED DOCUMENTS / PROCEDURES: A. Total Parenteral Nutrition (TPN) Guidelines B. Refeeding Synd"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 194,
+      "preview": "XII. APPENDICES A. Appendix A -Tubing Diagram B. Appendix B- Considerations for BMT Population"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 196,
+      "preview": "XIII. DOCUMENT INFORMATION: A. Legal References / Regulatory Requirements: 1. Joint Commission Stand"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 198,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 200,
+      "preview": "|  Stanford | Last Approval Date: February 2024  |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 201,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 202,
+      "preview": "|  MEDICINE |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 203,
+      "preview": "|  Procedure Title: Parenteral Nutrition - TPN, PPN, Lipid Emulsion |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 204,
+      "preview": "|  Intravenous Infusion |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 205,
+      "preview": "|  Departments Affected: Inpatient Nursing, Emergency Department, |   |"
+    },
+    {
+      "type": "table",
+      "section": "VII. EVALUATION",
+      "line": 206,
+      "preview": "|  Interventional Platform |   |"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 208,
+      "preview": "1. 09/2023 Danielle Smith, RN, NPDS, Professional Practice; Christine Henley, MS, RN, NPDS, Professi"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 209,
+      "preview": "2. 01/2024 Patient Care Services, Policy \\& Procedure Committee E. Approvals:"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 210,
+      "preview": "3. 11/2023 Nutrition Committee"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 211,
+      "preview": "4. 01/2024 Medication Safety Committee"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 212,
+      "preview": "5. 01/2024 Pharmacy and Therapeutics"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 213,
+      "preview": "6. 02/2024 Practice and Education Council; Patricia Britt DNP, RN, CNS, NEA-BC, Associate Chief Nurs"
+    },
+    {
+      "type": "text",
+      "section": "VII. EVALUATION",
+      "line": 215,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Appendix A: Tubing Diagram",
+      "line": 217
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "1PN/PPN/Lipids Tubing Set-Up",
+      "line": 219
+    },
+    {
+      "type": "image",
+      "section": "1PN/PPN/Lipids Tubing Set-Up",
+      "line": 221,
+      "content": "![img-0.jpeg](images/5ea93896e6fc4b5b.png)"
+    },
+    {
+      "type": "text",
+      "section": "1PN/PPN/Lipids Tubing Set-Up",
+      "line": 223,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Appendix B: Considerations for BMT population",
+      "line": 225
+    },
+    {
+      "type": "text",
+      "section": "Appendix B: Considerations for BMT population",
+      "line": 227,
+      "preview": "Back to Appendices"
+    },
+    {
+      "type": "text",
+      "section": "Appendix B: Considerations for BMT population",
+      "line": 229,
+      "preview": "1. Do not use a TPN or PPN line for any other purpose, including blood drawing, medication administr"
+    },
+    {
+      "type": "text",
+      "section": "Appendix B: Considerations for BMT population",
+      "line": 230,
+      "preview": "a. Exceptions to the above include blood and marrow transplant recipients (BMT)."
+    },
+    {
+      "type": "text",
+      "section": "Appendix B: Considerations for BMT population",
+      "line": 231,
+      "preview": "2. BMT patients with limited access may have compatible medications infused through the TPN line if "
+    },
+    {
+      "type": "text",
+      "section": "Appendix B: Considerations for BMT population",
+      "line": 232,
+      "preview": "a. These drugs are infused by attaching a multi-access connector (e.g., three-four way stopcocks/man"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "5ea93896e6fc4b5b.png",
+      "original_ref": "img-0.jpeg",
+      "page": 6,
+      "relative_path": "images/5ea93896e6fc4b5b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/TPN Administration/images/5ea93896e6fc4b5b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "5ea93896e6fc4b5b"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696506",
+    "ts": "2025-08-08T23:41:46.087245+00:00"
+  }
+}

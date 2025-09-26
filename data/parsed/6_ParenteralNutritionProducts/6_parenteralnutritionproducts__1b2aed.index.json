@@ -1,0 +1,2325 @@
+{
+  "doc_id": "6_parenteralnutritionproducts__1b2aed",
+  "original_filename": "6_ParenteralNutritionProducts.pdf",
+  "md_path": "data/parsed/6_ParenteralNutritionProducts/6_ParenteralNutritionProducts.md",
+  "rmd_path": "data/parsed/6_ParenteralNutritionProducts/6_ParenteralNutritionProducts.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Parenteral Nutrition",
+      "line": 2
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Products",
+      "line": 4
+    },
+    {
+      "type": "image",
+      "section": "Products",
+      "line": 6,
+      "content": "![img-0.jpeg](images/9c01a79eee8ab186.png)"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 8,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 9,
+      "preview": "\u00a92022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 10,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 12,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PRODUCT PREPARATION AND DISTRIBUTION PARENTERAL NUTRITION",
+      "line": 14
+    },
+    {
+      "type": "text",
+      "section": "PRODUCT PREPARATION AND DISTRIBUTION PARENTERAL NUTRITION",
+      "line": 16,
+      "preview": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "PRODUCT PREPARATION AND DISTRIBUTION PARENTERAL NUTRITION",
+      "line": 17,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "PRODUCT PREPARATION AND DISTRIBUTION PARENTERAL NUTRITION",
+      "line": 19,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 21
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23,
+      "preview": "No one in control of the content of this activity has a relevant financial relationship (RFR) with a"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "As defined by the Standards of Integrity and Independence in Accredited Continuing Education definit"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 27,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 29
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 31,
+      "preview": "- Recommend strategies for handling parenteral nutrition product shortages."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 32,
+      "preview": "- Assess the parenteral nutrition compatibility issues for a given formulation."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 33,
+      "preview": "- Differentiate between stability concerns for 2-in-1 parenteral nutrition versus total nutrient adm"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Describe educational instruction techniques for home preparation of parenteral nutrition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 37
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 39,
+      "preview": "- ACD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 40,
+      "preview": "- EFAD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- FDA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- GI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- H2:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- HPN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- ILE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- IV:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- L:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- TNA: automated compounding device"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "U.S. Food and Drug Administration"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "histamine-2"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "home parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "lipid injectable emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "intravenous"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "liter"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "total nutrient admixture"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 61,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 63
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 65,
+      "preview": "A 54-year-old thin female ( $51 \\mathrm{~kg}, 5^{\\prime} 5^{\\prime \\prime}$ ) with a history of shor"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 66,
+      "preview": "A. Continue same 10 mL daily dose until the supply is exhausted"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 67,
+      "preview": "B. Only provide 10 mL on Mondays each week"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 68,
+      "preview": "C. Only provide 10 mL on Mondays, Wednesdays and Fridays each week"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 69,
+      "preview": "D. Switch to standard dose of oral multivitamin 3 days per week"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 71
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 73,
+      "preview": "A 69-year-old diabetic male with bowel obstruction from colon cancer is to be sent home on PN. Durin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 74,
+      "preview": "A. Stress of being hospitalized has resolved and his insulin needs are lower."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 75,
+      "preview": "B. His HPN formulation was incorrectly compounded with less dextrose than in the hospital."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 76,
+      "preview": "C. He is not receiving his HPN daily as instructed."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 77,
+      "preview": "D. He has received more insulin than prescribed."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 79,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 81
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 83,
+      "preview": "- PN product shortages have occurred since 1988"
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 84,
+      "preview": "- Mostly isolated to IV multivitamins"
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 85,
+      "preview": "- Deaths from thiamine deficiency resulting in refractory lactic acidosis"
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 86,
+      "preview": "- 2010-2011 shortages resulted in almost every PN component used"
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 87,
+      "preview": "- FDA regulations, inspections, recalls, issues with raw materials, demand, loss of manufacturing si"
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 88,
+      "preview": "- Substitute PN products must be evaluated for compatibility/stability with other ingredients in PN "
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 89,
+      "preview": "- Communicate information to clinical staff"
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 90,
+      "preview": "- Prioritize patients and manage inventory"
+    },
+    {
+      "type": "text",
+      "section": "STRATEGIES FOR MANAGING PN PRODUCT SHORTAGES",
+      "line": 92,
+      "preview": "Holcombe B et al. Nutr Clin Pract. 2018; 33(1):53-61."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 94
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 96,
+      "preview": "- Amino acids shortage strategies:"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 97,
+      "preview": "- Reserve high (e.g., > 10\\%) concentration amino acids for fluid-restricted PN patients"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 98,
+      "preview": "- Review entire portfolio of amino acids products available nationally"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 99,
+      "preview": "- Other concentrations may be available (e.g., 8.5\\%)"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 100,
+      "preview": "- Different brands of amino acids products are not always substitutable"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 101,
+      "preview": "- Different pH , calcium-phosphate solubility, amounts of phosphate and other electrolytes (e.g., so"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 102,
+      "preview": "- Compound in a single, central location to decrease inventory waste"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 103,
+      "preview": "- Evaluate need for each amino acid product on ACD"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - AMINO ACIDS",
+      "line": 105,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 107
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 109,
+      "preview": "- ILE shortage strategies:"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 110,
+      "preview": "- Prioritize supply of soybean oil ILE"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 111,
+      "preview": "- Hospitalized patients on PN for $>2$ weeks"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 112,
+      "preview": "- Home or long-term patients on PN"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 113,
+      "preview": "- 100 g weekly for EFAD prevention"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 114,
+      "preview": "- Critically ill patients on PN receiving propofol do NOT require additional ILE for EFAD prevention"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 115,
+      "preview": "- Propofol is formulated in 10\\% soybean oil ILE"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 116,
+      "preview": "- Consider using an alternative ILE containing soybean oil"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 117,
+      "preview": "- Monitor PN patients for risk of developing EFAD"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ILE",
+      "line": 119,
+      "preview": "Plogsted S et al. Nutr Clin Pract. 2017;32(3):427-29."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 121
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 123,
+      "preview": "- Electrolytes and minerals shortage strategies:"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 124,
+      "preview": "- Consider switching to oral or enterally administered electrolyte or mineral supplement products wh"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 125,
+      "preview": "- Malabsorption syndromes or nonfunctional Gl tract may preclude use"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 126,
+      "preview": "- Reserve IV electrolyte and mineral products for patients requiring PN"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 127,
+      "preview": "- Therapeutic medical need for IV electrolyte and mineral products"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 128,
+      "preview": "- Reconsider use of serum electrolyte algorithms or protocols in asymptomatic patients to conserve i"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 129,
+      "preview": "- Assess PN patient population to determine if a standardized, commerciallyavailable PN product with"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - ELECTROLYTES",
+      "line": 131,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 133
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 135,
+      "preview": "- IV Multivitamin shortage strategies:"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 136,
+      "preview": "- Reserve for patients receiving solely PN or therapeutic medical need"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 137,
+      "preview": "- Ration to dosing 3 times a week to conserve inventory"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 138,
+      "preview": "- Monitor for vitamin deficiencies during rationing"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 139,
+      "preview": "- Complete shortage - use individual thiamine, ascorbic acid, pyridoxine, folic acid, cyanocobalamin"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 140,
+      "preview": "- Consider switching to oral or enterally administered multivitamins when feasible"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 141,
+      "preview": "- Review vitamin profile of each product to be used for completeness"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 142,
+      "preview": "- Higher doses may be required in malabsorption syndromes"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - MULTIVITAMINS",
+      "line": 144,
+      "preview": "Plogsted S et al. Nutr Clin Pract. 2016; 31(4):556-9."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 146
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 148,
+      "preview": "- IV trace elements shortage strategies:"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 149,
+      "preview": "- Reserve for patients receiving solely PN or therapeutic medical need"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 150,
+      "preview": "- Ration to dosing 3 times a week to conserve inventory"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 151,
+      "preview": "- Complete shortage - use individual zinc, selenium, copper"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 152,
+      "preview": "- Monitor for trace element deficiencies"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 153,
+      "preview": "- Consider switching to oral or enterally administered multitrace supplements when feasible"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 154,
+      "preview": "- Review trace element profile of each product to be used for completeness"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 155,
+      "preview": "- Higher doses may be required in malabsorption syndromes"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN PRODUCT SHORTAGES - TRACE ELEMENTS",
+      "line": 157,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 159
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 161,
+      "preview": "- Determine final concentrations:"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 162,
+      "preview": "- Dextrose 16\\%, Amino Acids 5.5\\%, ILE $2.3 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 163,
+      "preview": "- 206 mEq Sodium/L"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 164,
+      "preview": "- 99 mEq Potassium/L"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 165,
+      "preview": "- 305 mEq/L of monovalent cations"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 166,
+      "preview": "- 45 mmol Phosphate/L"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 167,
+      "preview": "- 7 mEq Magnesium/L"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 168,
+      "preview": "- 6 mEq Calcium/L"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 169,
+      "preview": "- 13 mEq/L of divalent cations"
+    },
+    {
+      "type": "image",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES",
+      "line": 170,
+      "content": "![img-1.jpeg](images/7e769049cfe1aac8.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 173
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 175,
+      "preview": "- It is recommended that TNAs maintain final concentrations of monohydrated dextrose $\\geq 10 \\%$, a"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 176,
+      "preview": "- Current TNA formulation meets these recommendations"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 177,
+      "preview": "- Sodium content is recommended to have a maximum of $150 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 178,
+      "preview": "- Current TNA has 206 mEq sodium/L"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 179,
+      "preview": "- Also exceeds recommended 1-2 mEq/kg/day at 5.6 mEq sodium/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 180,
+      "preview": "- Potassium content recommended is 1-2 mEq/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 181,
+      "preview": "- Current TNA provides 2.7 mEq potassium $/ \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 183,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 185
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 187,
+      "preview": "- Commercially available ILEs are stabilized with egg yolk phosphatides providing a mechanical and e"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 188,
+      "preview": "- Phospholipid mixture imparts negative surface (anionic surfactant) charge on emulsified lipid part"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 189,
+      "preview": "- Addition of cations to a TNA neutralize the negative charge on the surface of the lipid particles "
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 190,
+      "preview": "- Monovalent $=$ Sodium + Potassium"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 191,
+      "preview": "- Divalent $=$ Magnesium + Calcium"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 192,
+      "preview": "- Trivalent $=$ Iron dextran (greatest impact on destabilization)"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 194,
+      "preview": "Boullata Jlet al. JPEN J Parenter Enteral Nutr. 2014; 38(3):334-77."
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 195,
+      "preview": "Driscoll DF et al. AmJ Health-Syst Pharm. 1995;52:623-34."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 197
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 199,
+      "preview": "- Commercially available ILEs may exhibit the following characteristics:"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 200,
+      "preview": "- Creaming occurs when the electrostatic barrier is neutralized"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 201,
+      "preview": "- Single lipid droplets form aggregates and migrate to surface of the TNA"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 202,
+      "preview": "- Described as dense white color at the top of a TNA"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 203,
+      "preview": "- Heavy creaming occurs prior to \"cracking\" where the oil globules coalesce on the surface and separ"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 204,
+      "preview": "- Unsafe for infusion if heavy creaming or \"cracked\" marbled appearance in TNA visible"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 205,
+      "preview": "- Oil globules $>5$ microns in size pose the risk of pulmonary embolism"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 207,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 209
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 211,
+      "preview": "- Commercially available ILEs are heavily influenced by the cations and may lead to lipid destabiliz"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 212,
+      "preview": "- $305 \\mathrm{mEq} / \\mathrm{L}$ of monovalent cations with Sodium and Potassium"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 213,
+      "preview": "- Ranges in the literature have been up to $150 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 214,
+      "preview": "- This TNA requires reformulation with a lower sodium and potassium concentration"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 215,
+      "preview": "- $13 \\mathrm{mEq} / \\mathrm{L}$ of divalent cations with Magnesium and Calcium"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 216,
+      "preview": "- Ranges in the literature have been up to $20 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 217,
+      "preview": "- This TNA contains reasonable amounts of divalent cations"
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 219,
+      "preview": "Boullata Jlet al. JPEN J Parenter Enteral Nutr. 2014; 38(3):334-77."
+    },
+    {
+      "type": "text",
+      "section": "APPRAISINGPN COMPATIBILITY ISSUES, CONT.",
+      "line": 220,
+      "preview": "Driscoll DF et al. AmJ Health-Syst Pharm. 1995;52:623-34."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 222
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 224,
+      "preview": "- Separate infusion of a commercially available ILE may be required in patients requiring higher com"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 225,
+      "preview": "- Dual chamber bags may also be required in the home setting"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 226,
+      "preview": "- Unstable TNAs may only reveal visual evidence of \"cracked\" oil droplets 65\\% of the time"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 227,
+      "preview": "- Visual assessment is only available in most pharmacies"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 228,
+      "preview": "- Light obscuration analysis can detect unstable TNAs 90\\% of the time"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 229,
+      "preview": "- Not routinely available"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 230,
+      "preview": "- Use of inline filter becomes life-saving"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 231,
+      "preview": "- 1.2 micron filter recommended for use with a TNA"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA",
+      "line": 233,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 235
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 237,
+      "preview": "- TNA vs. PN with Intermittent ILE"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 238,
+      "preview": "- Oil-in-water emulsion cracking more likely to occur at $\\mathrm{pH} \\leq 5$"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 239,
+      "preview": "- Addition of monohydrated dextrose ( $\\mathrm{pH} \\sim 4$ ) directly to an ILE ( pH 6-9) can contri"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 240,
+      "preview": "- Amino acids are considered to provide a protective effect by enhancing the TNA's buffering effect "
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 241,
+      "preview": "- ILEs do not possess pH buffering capacity"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 242,
+      "preview": "- Hydrolytic degradation of triglycerides forming free fatty acids can lower the pH over the course "
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 243,
+      "preview": "\u00bb Minimal hydrolysis occurs at a pH of 6.5-7"
+    },
+    {
+      "type": "text",
+      "section": "STABILITY CONCERNS FOR 2-IN-1 PN VS. TNA, CONT.",
+      "line": 245,
+      "preview": "Driscoll DF, et al. AmJ Health-SystPharm1995;52:623-34."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 247
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 249,
+      "preview": "- Dextrose 16\\%, Amino Acids 5.5\\%, ILE 2.3\\%"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 250,
+      "preview": "- 45 mmol Phosphate/L"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 251,
+      "preview": "- 6 mEq Calcium/L"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 252,
+      "preview": "- Appears to be compatible; however this Calcium-Phosphate compatible curve was based upon stability"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 253,
+      "preview": "- Affected by pH , temperature, order of mixing, agitation, calcium salt used, storage time, visual "
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 255,
+      "preview": "Anon. Calcium/phosphate solubility curves: Cl\u00ednisol (Amino Acids) Injection. Baxter Healthcare Inc. "
+    },
+    {
+      "type": "image",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 256,
+      "content": "![img-2.jpeg](images/5eef3b4c766c46b6.png)"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN",
+      "line": 258,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 260
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 262,
+      "preview": "- January 1994"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 263,
+      "preview": "- 2 patients died suddenly after receiving peripheral TNA"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 264,
+      "preview": "- Clinical diagnosis was pulmonary embolus"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 265,
+      "preview": "- Both autopsies revealed amorphous deposits of calcium-phosphate in the pulmonary vasculature"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 266,
+      "preview": "- Hospital switched from Travasol to FreAmine III"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 267,
+      "preview": "- FreAmine III contains 10 $\\mathrm{mmol} / \\mathrm{L}$ of phosphate"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 268,
+      "preview": "- Retrospective review identified 5 patients (out of 50 who received the TNA)"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 269,
+      "preview": "- Bilateral interstitial infiltrates"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 270,
+      "preview": "- 4 of 5 died within a median of 48 hrs on the TNA"
+    },
+    {
+      "type": "text",
+      "section": "FDA SAFETY ALERT OF APRIL 1994",
+      "line": 272,
+      "preview": "Shay DK et al. Infect Control Hosp Epidemiol. 1997; 18:814-7."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 274
+    },
+    {
+      "type": "table",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 276,
+      "preview": "| Form | pKa | Aqueous Solubility |"
+    },
+    {
+      "type": "table",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 277,
+      "preview": "| :-- | :--: | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 278,
+      "preview": "| Monobasic $-\\mathrm{CaH}_{2} \\mathrm{PO}_{4}$ | 2.12 | $18 \\mathrm{~g} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 279,
+      "preview": "| Dibasic $-\\mathrm{CaHPO}_{4}$ | 7.21 | $0.3 \\mathrm{~g} / \\mathrm{L} \\Leftrightarrow$ Problem with"
+    },
+    {
+      "type": "table",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 280,
+      "preview": "| Tribasic $-\\mathrm{Ca}_{3}\\left(\\mathrm{PO}_{4}\\right)_{2}$ | 12.67 | Insoluble |"
+    },
+    {
+      "type": "text",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 282,
+      "preview": "Application of Henderson-Hasselbach equation"
+    },
+    {
+      "type": "text",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 283,
+      "preview": "\\% ionized $=100 /[1+$ antilog $(\\mathrm{pKa}-\\mathrm{pH})]$"
+    },
+    {
+      "type": "text",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 285,
+      "preview": "- Travasol 10\\%; pH 5.86"
+    },
+    {
+      "type": "text",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 286,
+      "preview": "$\\%$ ionized $=100 /[1+$ antilog $(7.2-5.86)]=4.4 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 287,
+      "preview": "- FreAmine III 10\\%; pH 6.68"
+    },
+    {
+      "type": "text",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 288,
+      "preview": "$\\%$ ionized $=100 /[1+$ antilog $(7.2-6.68)]=23.2 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "UNDERSTANDING CALCIUM PHOSPHATE COMPATIBILITY IN PN",
+      "line": 290,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PH EFFECTS OF AMINO ACIDS IN PN",
+      "line": 292
+    },
+    {
+      "type": "image",
+      "section": "PH EFFECTS OF AMINO ACIDS IN PN",
+      "line": 294,
+      "content": "![img-3.jpeg](images/cde9d52a313f2b90.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 296
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 298,
+      "preview": "- Guidelines"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 299,
+      "preview": "- Use established Calcium-Phosphate solubility curves for specific amino acids"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 300,
+      "preview": "- Consider Phosphate from ALL sources including amino acids"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 301,
+      "preview": "- Use Calcium Gluconate, avoid Calcium Chloride"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 302,
+      "preview": "- Add Phosphate salts early in compounding sequence, Calcium toward end"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 303,
+      "preview": "- Consider PN volume at time Calcium is added"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 304,
+      "preview": "- Periodically agitate, check for visual precipitation in PN"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 305,
+      "preview": "- Store at appropriate temperature"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 306,
+      "preview": "- Use appropriate in-line filter (1.2 micron)"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 308,
+      "preview": "[^0]"
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 309,
+      "preview": "[^0]:    Mirtallo J et al.JPEN J Parenter Enteral Nutr. 2004;28:S39-S70."
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 310,
+      "preview": "Mirtallo JM. AmJ Hosp Pharm. 1994; 51:1535-6."
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 311,
+      "preview": "Worithington P et al. Nutr Clin Pract. 2021;36:29-39."
+    },
+    {
+      "type": "text",
+      "section": "DETERMINING CALCIUM-PHOSPHATE COMPATIBILITY IN PN, CONT.",
+      "line": 313,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 315
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 317,
+      "preview": "- Mean droplet size of commercially-available ILE is between 0.2-0.5 microns"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 318,
+      "preview": "- Particulates are common in most large volume injectables"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 319,
+      "preview": "- Foreign particles can produce phlebitis"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 320,
+      "preview": "- Peripheral $>$ central venous access"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 321,
+      "preview": "- Microprecipitates may lead to catheter occlusion"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 322,
+      "preview": "- Solubility of calcium \\& phosphate is not entirely predictable"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 323,
+      "preview": "- 1.2 micron in-line filter will reduce these problems and can filter microorganisms (e.g., Candida "
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 324,
+      "preview": "- Should be used for no longer than 24 hours"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 326,
+      "preview": "Mirtallo J et al.JPEN J Parenter Enteral Nutr. 2004;28:S39-S70."
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 327,
+      "preview": "Worthington P et al. Nutr Clin Pract. 2021; 36:29-39."
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 329,
+      "preview": "PROCESS AND EDUCATION OF HOME PN"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 331,
+      "preview": "Hospital"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 332,
+      "preview": "Acute Phase ( $<7$ days)"
+    },
+    {
+      "type": "image",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 333,
+      "content": "![img-4.jpeg](images/96bae71f4420a11b.png)"
+    },
+    {
+      "type": "text",
+      "section": "IMPORTANCE OF IN-LINE FILTRATION OF PN",
+      "line": 335,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 337
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 339,
+      "preview": "- Verbal instructions given to patient and caregiver regarding complications associated with HPN and"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 340,
+      "preview": "- Oley PN Complication Chart (www.oley.org)"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 341,
+      "preview": "- Patient and caregiver receive diabetic teaching with glucometer prior to discharge (if appropriate"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 342,
+      "preview": "- Verbal instructions given to patient and caregiver regarding signs and symptoms of hypoglycemia as"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 343,
+      "preview": "- When to administer carbohydrate (e.g., Dextrose 50\\%) and notify physician"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 344,
+      "preview": "- Hands-on instruction of addition of other medications to HPN"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN",
+      "line": 345,
+      "preview": "- IV Multivitamins, regular insulin, H2 antagonists"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 348
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 350,
+      "preview": "- Verification of HPN label with patient or caregiver"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 351,
+      "preview": "- Correct patient"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 352,
+      "preview": "- Ingredients (dextrose, amino acids, ILE, electrolytes, micronutrients \\& medications) listed as am"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 353,
+      "preview": "- Beyond use date checked"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 354,
+      "preview": "- Visual instructions on the identification of a cracked HPN formulation discussed with patient and "
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 355,
+      "preview": "- With instructions on when not to use the HPN formulation"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 356,
+      "preview": "- Importance of 1.2 micron in-line filter at all times during HPN infusion"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 357,
+      "preview": "- Monitoring: Periodic blood draws"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 358,
+      "preview": "- Consider patient accessibility, cost and frequency of labs"
+    },
+    {
+      "type": "text",
+      "section": "EDUCATIONAL INSTRUCTION FOR HPN, CONT.",
+      "line": 360,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 362
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 364,
+      "preview": "- Nurse is generally NOT present"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 365,
+      "preview": "- Seven bags of HPN are sent on a weekly basis (depending on prescriber)"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 366,
+      "preview": "- Patient and/or caregiver will be able to learn what needs to be done, including:"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 367,
+      "preview": "- Catheter care, HPN preparation, HPN administration, IV pump management"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 368,
+      "preview": "- Most patients 'cycle at night'"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 369,
+      "preview": "- Frequent urination may impede sleep cycle"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 370,
+      "preview": "- Can the patient physically carry the HPN bag around their residence?"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 371,
+      "preview": "- Compliance issues (e.g., Are they really following the daily infusions?)"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 372,
+      "preview": "- Restarts upon hospital discharges"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 373,
+      "preview": "- Discarding expired HPNs"
+    },
+    {
+      "type": "text",
+      "section": "LIMITATIONS OR ASSUMPTIONS IN HPN EDUCATION",
+      "line": 374,
+      "preview": "- End of life issues (or when do we stop HPN)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 377
+    },
+    {
+      "type": "text",
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 379,
+      "preview": "- Patients may not be at their permanent residence for a number of reasons"
+    },
+    {
+      "type": "text",
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 380,
+      "preview": "- Unable to care for themselves independently"
+    },
+    {
+      "type": "text",
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 381,
+      "preview": "- Amount of storage space needed for ancillary drugs (e.g., $0.9 \\% \\mathrm{NaCl}$ flushes) and supp"
+    },
+    {
+      "type": "text",
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 382,
+      "preview": "- Temporary living areas (e.g., hotel or recreational vehicle) limited"
+    },
+    {
+      "type": "text",
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 383,
+      "preview": "- Amount of refrigerated space needed for HPN formulations and additives (e.g., IV multivitamins)"
+    },
+    {
+      "type": "text",
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 384,
+      "preview": "- Access to full size refrigerator"
+    },
+    {
+      "type": "text",
+      "section": "DELIVERY/STORAGE ISSUES FOR HPN EDUCATION",
+      "line": 386,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 388
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 390,
+      "preview": "A 54-year-old thin female ( $51 \\mathrm{~kg}, 5^{\\prime} 5^{\\prime \\prime}$ ) with a history of shor"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 391,
+      "preview": "A. Continue same 10 mL daily dose until the supply is exhausted"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 392,
+      "preview": "B. Only provide 10 mL on Mondays each week"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 393,
+      "preview": "C. Only provide 10 mL on Mondays, Wednesdays and Fridays each week"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 394,
+      "preview": "D. Switch to standard dose of oral multivitamin 3 days per week"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 396
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 398,
+      "preview": "A 54-year-old thin female ( $51 \\mathrm{~kg}, 5^{\\prime} 5^{\\prime \\prime}$ ) with a history of shor"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 399,
+      "preview": "A. Continue same 10 mL daily dose until the supply is exhausted"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 400,
+      "preview": "B. Only provide 10 mL on Mondays each week"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 401,
+      "preview": "C. Only provide 10 mL on Mondays, Wednesdays and Fridays each week"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 402,
+      "preview": "D. Switch to standard dose of oral multivitamin 3 days per week"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 404,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 406
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 408,
+      "preview": "A 69-year-old diabetic male with bowel obstruction from colon cancer is to be sent home on PN. Durin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 409,
+      "preview": "A. Stress of being hospitalized has resolved and his insulin needs are lower"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 410,
+      "preview": "B. His HPN formulation was incorrectly compounded with less dextrose than in the hospital"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 411,
+      "preview": "C. He is not receiving his HPN daily as instructed"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 412,
+      "preview": "D. He has received more insulin than prescribed"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 414
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 416,
+      "preview": "A 69-year-old diabetic male with bowel obstruction from colon cancer is to be sent home on PN. Durin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 417,
+      "preview": "A. Stress of being hospitalized has resolved and his insulin needs are lower"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 418,
+      "preview": "B. His HPN formulation was incorrectly compounded with less dextrose than in the hospital"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 419,
+      "preview": "C. He is not receiving his HPN daily as instructed"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 420,
+      "preview": "D. He has received more insulin than prescribed"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 422,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 424
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 426,
+      "preview": "- PN product shortages will continue to occur in the U.S. and pharmacists are ideal to share managem"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 427,
+      "preview": "- Inline use of a 1.2 micron filter is required of all TNAs given the risks of compatibility and sta"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 428,
+      "preview": "- Calcium \\& phosphate final concentrations (incorporating phosphates from all sources) must be belo"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 429,
+      "preview": "- Education of HPN consumers and their caregivers is an on-going endeavor to provide the safest ther"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 432
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 434,
+      "preview": "- Boullata JI, Gilbert K, Sacks G et al. A.S.P.E.N. clinical guidelines: Parenteral nutrition orderi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 435,
+      "preview": "- Derenski K, Catlin J, Allen L. Parenteral nutrition basics for the clinician caring for the adult "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 436,
+      "preview": "- Driscoll DF, Bhargava HN, Zaim PH et al. Physicochemical stability of total nutrient admixtures. A"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 437,
+      "preview": "- Hill SE, Heldman LS, Goo Ed et al. Fatal microvascular pulmonary emboli from precipitation of a to"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 438,
+      "preview": "- Holcombe B, Mattox TW, Plogsted S. Drug shortages: Effect on parenteral nutrition therapy. Nutr Cl"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 440,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 442
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 444,
+      "preview": "- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parenter En"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 445,
+      "preview": "- Mirtallo JM. The complexity of mixing calcium and phosphate. Am J Hosp Pharm. 1994; 51:1535-6."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 446,
+      "preview": "- Newton DW, Driscoll DF. Calcium and phosphate compatibility: revisited again. Am J Health-Syst Pha"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 447,
+      "preview": "- Plogsted S, Adams SC, Allen K et al. Parenteral nutrition amino acids product shortage considerati"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 448,
+      "preview": "- Plogsted S, Adams SC, Allen K et al. Parenteral nutrition lipid injectable emulsion products short"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 451
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 453,
+      "preview": "- Plogsted S, Adams SC, Allen K et al. Parenteral nutrition electrolyte and mineral product shortage"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 454,
+      "preview": "- Plogsted S, Adams SC, Allen K et al. Parenteral nutrition multivitamin product shortage considerat"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 455,
+      "preview": "- Plogsted S, Adams SC, Allen K et al. Parenteral nutrition trace element product shortage considera"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 456,
+      "preview": "- Shay DK, Fann LM, Jarvis WR. Respiratory distress and sudden death associated with receipt of a pe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 457,
+      "preview": "- Worthington P, Gura KM, Kraft MD et al. Update on the use of filters for parenteral nutrition: An "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 459,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 461,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 463,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 465,
+      "content": "![img-5.jpeg](images/f88d6ef789286d4c.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 467
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 469,
+      "preview": "Clinical Pharmacy Services Manager"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 470,
+      "preview": "Nutrition Support Team Coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 471,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 472,
+      "preview": "Houston, Texas"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 473,
+      "preview": "Todd W. Canada serves as a clinical pharmacy services manager and nutrition support team coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 475,
+      "preview": "Dr. Canada completed a specialized residency in Critical Care / Nutrition Support at the University "
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 477,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 479
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 481,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 483,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 485,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 487,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 488,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 489,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 490,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 491,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 493,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 495,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 497
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 499,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 501,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 503
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 505,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 507
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 509,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 511,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "9c01a79eee8ab186.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/9c01a79eee8ab186.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_ParenteralNutritionProducts/images/9c01a79eee8ab186.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c01a79eee8ab186"
+    },
+    {
+      "sha_name": "7e769049cfe1aac8.png",
+      "original_ref": "img-1.jpeg",
+      "page": 7,
+      "relative_path": "images/7e769049cfe1aac8.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_ParenteralNutritionProducts/images/7e769049cfe1aac8.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7e769049cfe1aac8"
+    },
+    {
+      "sha_name": "5eef3b4c766c46b6.png",
+      "original_ref": "img-2.jpeg",
+      "page": 10,
+      "relative_path": "images/5eef3b4c766c46b6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_ParenteralNutritionProducts/images/5eef3b4c766c46b6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "5eef3b4c766c46b6"
+    },
+    {
+      "sha_name": "cde9d52a313f2b90.png",
+      "original_ref": "img-3.jpeg",
+      "page": 12,
+      "relative_path": "images/cde9d52a313f2b90.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_ParenteralNutritionProducts/images/cde9d52a313f2b90.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "cde9d52a313f2b90"
+    },
+    {
+      "sha_name": "96bae71f4420a11b.png",
+      "original_ref": "img-4.jpeg",
+      "page": 13,
+      "relative_path": "images/96bae71f4420a11b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_ParenteralNutritionProducts/images/96bae71f4420a11b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "96bae71f4420a11b"
+    },
+    {
+      "sha_name": "f88d6ef789286d4c.png",
+      "original_ref": "img-5.jpeg",
+      "page": 21,
+      "relative_path": "images/f88d6ef789286d4c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/6_ParenteralNutritionProducts/images/f88d6ef789286d4c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f88d6ef789286d4c"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696141",
+    "ts": "2025-08-08T23:35:41.572357+00:00"
+  }
+}

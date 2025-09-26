@@ -1,0 +1,140 @@
+---
+title: "Parenteral Nutrition Ordering Guidelines VCH 2024"
+output: github_document
+---
+
+# Parenteral Nutrition Ordering Guidelines
+
+PARENTERAL NUTRITION ORDERS ARE DUE DAILY BY 1400 ORDERS RECEIVED AFTER 1400 WILL BE PROCESSED THE NEXT DAY. PHYSICIAN TO ORDER D10 - 1/2 NS OR SUITABLE ALTERNATIVE
+
+1. Determine the daily fluid requirement:
+2. 0-10 kg: 100 mL/kg
+3. >10 - 20 kg: 1000 mL + 50 mL/kg for every kg over 10
+4. >20 kg: 1500 mL + 20 mL/kg for every kg over 20
+
+Cyclic PNs with Dextrose greater than 12.5%, 1 hour of 50% rate will be added to the end of each cycle (stop time).
+
+1. Determine the daily caloric requirements:
+2. Basic requirements are:
+3. 0-2 yr: 70 to 110 kcal/kg/day
+4. 9-18 yr: 28 to 44 kcal/kg/day
+5. 2-8 yr: 55 to 77 kcal/kg/day
+6. > 18 yr: 28 to 32 kcal/kg/day
+
+Note: Caloric requirement increases with fever, cardiac failure, major surgery, severe sepsis, long term growth failure, and burns. Consider metabolic cart study to determine actual needs.
+
+1. Carbohydrates (provide 3.4 kcal/gm) usual range 12.5-25%: Range 30-60% of daily caloric intake. Maximum glucose infusion rate (GIR) is 14-18 mg/kg/min. Premature neonates: Begin with Dextrose 10% and increase incrementally until goal is reached. Recommended GIR for VLBW to start at 4-6 mg/kg/min, larger neonates may tolerate 6-8 mg/kg/min. Titrate by 1-2.5 mg/kg/min per day. Monitor serum glucose. Older infants, children, and adolescents: Begin with Dextrose 10% or 12.5%. Increase by 2.5% per day until goal is reached. Monitor serum glucose. Maximum dextrose per peripheral vein is 12.5%.
+2. Protein (provides 4 kcal/gm) usual range 2-4 gm/kg/day:
+3. Basic requirements are:
+4. Premature neonates: 3 to 4 gm/kg/day
+5. Children 2 to 12 yrs: 1 gm/kg/day
+6. Infants 0-1 yr: 2 to 2.5 gm/kg/day
+7. Adolescent: 1 gm/kg/day
+8. May begin protein at goal on day 1. Maximum dose is 4 gm/kg/day or 4% of final concentration.
+9. Premascill®: Use as protein source in neonates and patients up to 1 yr of age, for anticipated use greater than 2 weeks, in presence of cholestasis, or when calcium and phosphate needs are high. Patients with cholestasis or renal disease may require modification of amino acids.
+10. Estralipid®/SMOFlipid® (20% provides 2 kcal/mL or 10 kcal/gm): Range 30-55% of daily caloric intake; 0.5-1 gm/kg/day or 2-3% of total calories as linoleic acid are required to prevent essential fatty acid deficiency.
+11. Premature infants: 0.5 to 3 gm/kg/day, begin with 0.5-1 gm/kg/day and increase by 0.5-1 gm/kg/day. Consider limiting to 2 gm/kg/day if on phototherapy, infection, or severe respiratory depression.
+12. Older children: 1 to 3 gm/kg/day, begin with 1 gm/kg/day and increase by 1 gm/kg/day. Maximum 3 g/kg/day.
+13. SMOFlipid®: Restricted to NICU/PICU patients or patients with Clinical Dietitian/Pharmacist recommendation with expected PN ≥ 3 weeks, or direct Bili ≥ 2 mg/dL, or as continuation of therapy. May only be ordered by NICU prescribers, PICU prescribers, or by GI service approval.
+14. Omegaven® (10% provides 1.1 kcal/mL or 11 kcal/gm): Restricted to patients as continuation of home therapy, or patients failing to respond to SMOFlipid® (at least 2 consecutive direct Bili >2 mg/dL). May only be ordered by NICU prescribers, PICU prescribers, GI service approval, or Clinical Dietitian/Pharmacist recommendation.
+15. Premature infants, term infants, children, and adolescents: 1 g/kg/day; maximum 1.5 g/kg/day.
+16. Check triglyceride level daily until lipid infusion goal is achieved and tolerated, weekly thereafter. Triglyceride should remain less than 400 mg/dL. Patients with renal disease may require reduction of lipids.
+17. Electrolytes (usual maintenance requirements): This guideline serves as usual maintenance requirements only.
+
+*Do not adjust concentrations for acute metabolic changes. Acute deficiencies should be managed with non-PN supplementation.
+
+|   | Preterm Neonates | Infants/Children | Adolescents & Children Greater than 50 kg |   |
+| --- | --- | --- | --- | --- |
+|  Sodium (Na) | 2-5 mEq/kg | 2-5 mEq/kg | 1-2 mEq/kg | Normal Saline = 15.4 mEq/100 mL. Usual maximum daily amount = NS.  |
+|  Potassium (K) | 2-4 mEq/kg | 2-4 mEq/kg | 1-2 mEq/kg | Maximum peripheral PN concentration = 4 mEq/100 mL Usual Maximum daily amount = 120 mEq. Reduce in renal disease  |
+|  Phosphorous | 1-2 mmol/kg | 0.5-2 mmol/kg | 10-40 mmol | Usual maximum daily amount = 40 mMol. Reduce in renal disease  |
+|  Calcium (Calcium Gluconate) | 2-4 mEq/kg | 0.5-4 mEq/kg | 10-20 mEq | 1 gm CaGluc = 93 mg elemental Ca = 4.6 mEq Ca Max peripheral concentration = CaGluc 500 mg/L = Elemental Ca 0.23 mEq/100 mL Maximum daily amount = 23.25 mEq Elemental Ca = 5000 mg CaGluc  |
+|  Magnesium | 0.3-0.5 mEq/kg | 0.3-0.5 mEq/kg | 10-30 mEq | 500 mg MgSO4 = 4.1 mEq Mg. Reduce in renal disease Patients receiving chemotherapy may have increased requirements Maximum daily amount = 30 mEq = 3600 mg magnesium sulfate  |
+
+1. Chloride - Acetate Ratio: Acetate and chloride are given in the amounts necessary for acid-base balance. Note: 1 mEq Acetate = 1 mEq K (KAc) or 1 mEq Na (NaAc)
+2. Vitamins: Pediatric multiple vitamins injection per VCH protocol: 1.5 mL/100 mL PN, up to 5 mL/day.. Infuvite Adult may be used in children aged 11 years and older; recommended dose is 10 mL. Renal Protocol: half VCH Protocol.
+3. Trace Elements: VCH protocol: 1 mL/100 mL PN, up to 10 mL/day, Renal Protocol: half VCH Protocol. May add extra Zinc, Selenium, or Copper. VCH Multiple Trace Elements (per mL) and Vitamin Protocols:
+
+|   | Standard | Prematurity* | Cholestasis Protocol** | Renal Protocol***  |
+| --- | --- | --- | --- | --- |
+|  Zinc | 100 mcg | 300 mcg | 100 mcg | 50 mcg  |
+|  Copper | 20 mcg | 20 mcg | Zero | 10 mcg  |
+|  Manganese | 1 mcg | 1 mcg | Zero | 0.5 mcg  |
+|  Chromium | 0.2 mcg | 0.2 mcg | 0.2 mcg | 0.1 mcg  |
+|  Selenium | 2 mcg | 2 mcg | 2 mcg | 1 mcg  |
+|  Multivitamin | Protocol | Protocol | Protocol | ½ Protocol  |
+
+*Gestational Age less than 37 weeks, less than 3 kg. ** Cholestasis Protocol for serum conjugated bilirubin 1.5 mg/dL or greater. *** Serum creatinine greater than 1 mg/dL or 2 SD above the mean for age 10. Heparin Protocol: (0.25 unit/mL) will be added to all NICU PNs, (0.5 unit/mL) will be added to all non-NICU PICC line and Central PNs per protocol unless ordered otherwise.
+
+1. L-cysteine Protocol: 40 mg/g protein may be added to PN in all patients less than 6 months of age per protocol, except home PN (poor stability).
+2. L-carnitine Protocol: 15 mg/kg/day for premature newborns (GA <38 weeks) and <90 days of age that are receiving <50% of calories by enteral route.
+3. Famotidine: may be added to PN for stress ulcer prophylaxis; Dose range: 0.25-2 mg/kg/day (maximum: 40 mg/day)
+4. Vitamin K: May be added to PN
+5. Peripheral: PN max "elemental" calcium 0.23 mEq/100 mL (calcium gluconate 50 mg/100 mL), potassium = 4 mEq/100 mL, osmolarity = 1000 mOsm/L. Revised 7/17/2024
+
+--- page 1 ---
+
+# DRUG SENSITIVITY
+
+**WR** **WR** **WR** **WR** **WR**
+
+**ORDERS: GENERIC EQUIVALENT WILL BE DISPENSED UNLESS ORDER SPECIFIES "DO NOT SUBSTITUTE"**
+
+**PARENTERAL NUTRITION PHYSICIAN ORDERS**
+
+- [ ] No change in PN or LIPIDS (date & sign below)
+- [ ] Discharge PN for home care; Dispense 1 bag/day x ***_*** weeks
+
+**DEX/AA Rate =** ***_***_ **mL/hr for** ***_*** **hrs/day** ***_***
+
+**Lipids 20% =** ***_***_ **g/kg/day (or** ***_***_ **mL/hour) for** ***_*** **hrs/day** ***_***
+
+**Intralipid** **Smoflipid** **Omegaven**
+
+**PARENTERAL NUTRITION ORDERS ARE DUE IN PHARMACY BY 1400 DRILL ORDERS RECEIVED AFTER 1400 WILL BE PROCESSED THE NEXT DAY, PHYSICIAN TO ORDER D10-100% OR SUITABLE ALTERNATIVE**
+
+**Min PN Rate** ***_***_ **Total IV Rate** ***_***
+
+Select ONE Administration Route.
+
+|  Administration Route (Check One) | Peripheral | Central  |
+| --- | --- | --- |
+|   | Usual Range | Ordered Amount  |
+|  Dextrose | 10 – 12.5% | %  |
+|  Amino Acids [Travasol® (Premasol®) | 1 – 4 gm/kg/day | or [ ] Max protocol  |
+|  Sodium | 2 – 5 mEq/kg/day | mEq/kg/day  |
+|  Potassium | 2 – 3 mEq/kg/day | mEq/kg/day  |
+|  Phosphate | 0.5 - 1 mM/kg/day | mM/kg/day  |
+|  Calcium Gluconate | Max 0.23 mEq/100 mL (50mg/100mL) | [ ] Max Zero  |
+|  Magnesium Sulfate | 0.3 - 0.5 mEq/kg/day | mEq/kg/day  |
+|  Chloride – Acetate Ratio | [ ] 100% Chloride – 0% Acetate | [ ] 66.7% Chloride – 33.3% Acetate  |
+|   | [ ] 50% Chloride – 50% Acetate | [ ] 0% Chloride – 100% Acetate  |
+|  Calcium – Phosphate Options | [ ] Retain calcium concentration (Rx to reduce phosphate) | [ ] Retain phosphate concentration (Rx to reduce calcium)  |
+
+Micronutrients and Other Additives:
+
+|  MVI Pediatric | [ ] Standard protocol | [ ] Renal protocol | [ ] Other:  |
+| --- | --- | --- | --- |
+|  MVI Adult | [ ] Standard (10 mL) | [ ] Renal (5 mL) | [ ] Double (20 mL)  |
+|  Trace Elements | [ ] Standard protocol | [ ] Renal protocol | [ ] Cholestasis protocol  |
+|  L-Cysteine | [ ] 20 mg/g protein | [ ] 40 mg/g protein |   |
+|  L-Carnitine | [ ] Standard protocol | [ ] Other: |   |
+|  Heparin | [ ] 0.25 unit/mL | [ ] 0.5 unit/mL | [ ] Other:  |
+|  Famotidine | ***_***mg/kg/day (or ***_***mg/day) | [ ] 0.25 – 2 mg/kg/day, maximum dose 40 mg | [ ] None  |
+|  Additional | [ ] Vitamin K ***_***mg/day | [ ] Extra Selenium ***_***x protocol | [ ] Extra Zinc ***_***x protocol  |
+|  Other/Comments |  |  |   |
+
+Your signature below authorizes the Nutrition Support Team to provide consultation and follow-up for this patient.
+
+- [ ] Check here to decline consultation.
+
+|  Physician's Signature/ID# | Date/Time  |
+| --- | --- |
+|  **Parental Nutrition** |   |
+|  **George Page** |   |
+
+**Page 1 of 1**
+
+**Valley Children's HEALTHCARE**
+
+**Physician's Order Sheet**

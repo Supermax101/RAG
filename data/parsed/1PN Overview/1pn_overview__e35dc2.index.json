@@ -1,0 +1,822 @@
+{
+  "doc_id": "1pn_overview__e35dc2",
+  "original_filename": "1PN Overview.pdf",
+  "md_path": "data/parsed/1PN Overview/1PN Overview.md",
+  "rmd_path": "data/parsed/1PN Overview/1PN Overview.rmd",
+  "blocks": [
+    {
+      "type": "image",
+      "section": "",
+      "line": 0,
+      "content": "![img-0.jpeg](images/f132e9822aea14fe.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Overview of Parenteral Nutrition for the Pediatric Patient**",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "**Overview of Parenteral Nutrition for the Pediatric Patient**",
+      "line": 4,
+      "content": "![img-1.jpeg](images/db0c4bff2f3620ca.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Overview of Parenteral Nutrition for the Pediatric Patient**",
+      "line": 6,
+      "content": "![img-2.jpeg](images/09a9762d9e2cf1c6.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Overview of Parenteral Nutrition for the Pediatric Patient**",
+      "line": 8,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "COURSE DIRECTOR",
+      "line": 10
+    },
+    {
+      "type": "text",
+      "section": "COURSE DIRECTOR",
+      "line": 12,
+      "preview": "Debora Duro, MD, MS"
+    },
+    {
+      "type": "text",
+      "section": "COURSE DIRECTOR",
+      "line": 13,
+      "preview": "Salah Foundation Children Hospital at"
+    },
+    {
+      "type": "text",
+      "section": "COURSE DIRECTOR",
+      "line": 14,
+      "preview": "Broward Health, Fort Lauderdale, Florida"
+    },
+    {
+      "type": "text",
+      "section": "COURSE DIRECTOR",
+      "line": 15,
+      "preview": "NOVA Southeastern University and"
+    },
+    {
+      "type": "text",
+      "section": "COURSE DIRECTOR",
+      "line": 16,
+      "preview": "Florida International University"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CO-CHAIR",
+      "line": 18
+    },
+    {
+      "type": "text",
+      "section": "CO-CHAIR",
+      "line": 20,
+      "preview": "Kathleen Gura, PharmD, BCNSP"
+    },
+    {
+      "type": "text",
+      "section": "CO-CHAIR",
+      "line": 21,
+      "preview": "Boston Children's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "CO-CHAIR",
+      "line": 22,
+      "preview": "Harvard Medical School"
+    },
+    {
+      "type": "text",
+      "section": "CO-CHAIR",
+      "line": 24,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FACULTY",
+      "line": 26
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 28,
+      "preview": "Atu Agawu, MD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 29,
+      "preview": "Children's Hospital Los Angeles"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 30,
+      "preview": "University of Southern California"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 31,
+      "preview": "Bridget Kiernan, MD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 32,
+      "preview": "NYU Hassenfeld Children's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 33,
+      "preview": "New York University Langone Health"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 34,
+      "preview": "Valerie Marchand, MD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 35,
+      "preview": "Ste-Justine University Hospital Center"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 36,
+      "preview": "University of Montreal"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 37,
+      "preview": "Danielle Wendel, MD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 38,
+      "preview": "Seattle Children's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 39,
+      "preview": "University of Washington"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 40,
+      "preview": "Justine Turner, MBBS, FRACP, PhD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 41,
+      "preview": "University of Alberta"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 43,
+      "preview": "Alvin Chan, MD, MPH"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 44,
+      "preview": "Mattel Children's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 45,
+      "preview": "University of California"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 46,
+      "preview": "Joanne Lai, MD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 47,
+      "preview": "Icahn School of Medicine"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 48,
+      "preview": "Mount Sinai Hospital, New York"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 49,
+      "preview": "Nikhil Pai, MD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 50,
+      "preview": "Children's Hospital of Philadelphia"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 51,
+      "preview": "University of Pennsylvania"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 52,
+      "preview": "Timothy Sentongo, MD"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 53,
+      "preview": "Comer Children's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 54,
+      "preview": "University of Chicago"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 55,
+      "preview": "Rebecca Pipkorn, RD, CD, CNSC"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 56,
+      "preview": "Children's Wisconsin"
+    },
+    {
+      "type": "text",
+      "section": "FACULTY",
+      "line": 58,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Faculty Disclosure",
+      "line": 60
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 62,
+      "preview": "|  Atu Agawu | None  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 63,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 64,
+      "preview": "|  Alvin Chan | None  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 65,
+      "preview": "|  Debora Duro | Speaker's Bureau: Alcresta, Kate Farms, Abbott Nutrition, Fresenius Kabi  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 66,
+      "preview": "|  Kathleen Gura | Advisory Board: NorthSea Therapeutics, B Braun, Baxter  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 67,
+      "preview": "|   | Consultant: Fresenius Kabi, NorthSea Therapeutics, Alcresta, Lexicomp ${ }^{\\circledR}$, Taked"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 68,
+      "preview": "|   | Patents/Royalties: for use of Omegaven ${ }^{\\circledR}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure",
+      "line": 69,
+      "preview": "|   | Royalties: UpToDate ${ }^{\\circledR}$, Lexicomp ${ }^{\\circledR}$  |"
+    },
+    {
+      "type": "text",
+      "section": "Faculty Disclosure",
+      "line": 71,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 73
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 75,
+      "preview": "|  Bridget Kiernan | None  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 76,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 77,
+      "preview": "|  Joanne Lai | None  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 78,
+      "preview": "|  Valerie Marchand | Speaker's Bureau: Nestl\u00e9, Modilac ${ }^{\\circledR}$, Abbott  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 79,
+      "preview": "|  Nikhil Pai | Speaker's Bureau: Takeda, Abbott  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 80,
+      "preview": "|  Rebecca Pipkorn | None  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 81,
+      "preview": "|  Timothy Sentongo | None  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 82,
+      "preview": "|  Justine Turner | Research Funding: Baxter Healthcare  |"
+    },
+    {
+      "type": "table",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 83,
+      "preview": "|  Danielle Wendel | None  |"
+    },
+    {
+      "type": "text",
+      "section": "Faculty Disclosure - Cont'd",
+      "line": 85,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Abbreviations",
+      "line": 87
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 89,
+      "preview": "|  AKI: acute kidney injury"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 90,
+      "preview": "ALA: $\\alpha$-linolenic acid"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 91,
+      "preview": "ARA: arachidonic acid | BMI: body mass index"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 92,
+      "preview": "BCAA: branch chain amino acid | CIF: chronic intestinal failure"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 93,
+      "preview": "CLD: chronic liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 94,
+      "preview": "CRRT: continuous RRT"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 95,
+      "preview": "CLABSI: central line associated bloodstream infection"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 96,
+      "preview": "CVC: central line catheter  |"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 97,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 98,
+      "preview": "|  DHA: docosahexaenoic acid"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 99,
+      "preview": "DRI: dietary reference intake | EAR: estimated average requirement"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 100,
+      "preview": "EFA: essential fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 101,
+      "preview": "EFAD: essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 102,
+      "preview": "EPA: eicosapentaenoic acid"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 103,
+      "preview": "ESRD: end-stage renal | FO-ILE: fish oil-based ILE (Omegaven ${ }^{\\circledR}$ )  |"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 104,
+      "preview": "|  GIR: glucose infusion rate"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 105,
+      "preview": "GH: growth hormone | HD: hemodialysis"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 106,
+      "preview": "HTG: hypertriglyceridemia | IFALD: intestinal Failure associated liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 107,
+      "preview": "IGF: insulin-like growth factor"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 108,
+      "preview": "ILE: intravenous lipid emulsion"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 109,
+      "preview": "I/Os: ins and outs"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations",
+      "line": 110,
+      "preview": "INR: international normalized ratio  |"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations",
+      "line": 112,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Abbreviations - Cont'd",
+      "line": 114
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 116,
+      "preview": "|  LA: linoleic acid"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 117,
+      "preview": "LCT: long-chain triglycerides"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 118,
+      "preview": "LFT: liver function test | MBD: metabolic bone disease"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 119,
+      "preview": "MCT: medium-chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 120,
+      "preview": "MET: metabolic equivalents"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 121,
+      "preview": "MMA: methylmalonic acidemia"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 122,
+      "preview": "MSUD: maple syrup urine disease"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 123,
+      "preview": "MVI: multivitamin | Oo: olive oil-based ILE"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 124,
+      "preview": "OO, SO-ILE: olive soy, oil-based ILE (Clinolipid*)  |"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 125,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 126,
+      "preview": "|  PD: peritoneal dialysis"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 127,
+      "preview": "PICC: peripherally inserted central catheter"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 128,
+      "preview": "PIVKA-II: protein induced in vit. K absence"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 129,
+      "preview": "PIRRT: prolonged intermittent RRT"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 130,
+      "preview": "PN: parenteral nutrition"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 131,
+      "preview": "PT: prothrombin time | RDA: recommended daily allowance"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 132,
+      "preview": "RDR: retinal dose response"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 133,
+      "preview": "RRT: renal replacement therapy | SUN: serum urea nitrogen"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 134,
+      "preview": "SMOF: SO, MCT, OO, FO-ILE"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 135,
+      "preview": "SO-ILE: soy oil-based ILE  |"
+    },
+    {
+      "type": "table",
+      "section": "Abbreviations - Cont'd",
+      "line": 136,
+      "preview": "|  T:T: triene:tetraene ratio | UCD: urea cycle disorders |   |"
+    },
+    {
+      "type": "text",
+      "section": "Abbreviations - Cont'd",
+      "line": 138,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Overview",
+      "line": 140
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 142,
+      "preview": "- History of pediatric parenteral nutrition (PN)"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 143,
+      "preview": "- Clinical indications for PN in the pediatric patient"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 144,
+      "preview": "- Administration routes for PN"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 145,
+      "preview": "- Components of pediatric PN"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 146,
+      "preview": "- Macronutrients"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 147,
+      "preview": "- Micronutrients"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 148,
+      "preview": "- Trace elements"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 150,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case",
+      "line": 152
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 154,
+      "preview": "- Jerry is a previously healthy 13-year-old male. He was transferred from an outside hospital after "
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 155,
+      "preview": "- Since surgery he has been having 75 - $100 \\mathrm{~mL} / \\mathrm{kg}$ of ostomy output daily. He "
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 157,
+      "preview": "Question: What is the most appropriate way to provide adequate hydration and nutrition to GE?"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "f132e9822aea14fe.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/f132e9822aea14fe.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1PN Overview/images/f132e9822aea14fe.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f132e9822aea14fe"
+    },
+    {
+      "sha_name": "db0c4bff2f3620ca.png",
+      "original_ref": "img-1.jpeg",
+      "page": 1,
+      "relative_path": "images/db0c4bff2f3620ca.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1PN Overview/images/db0c4bff2f3620ca.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "db0c4bff2f3620ca"
+    },
+    {
+      "sha_name": "09a9762d9e2cf1c6.png",
+      "original_ref": "img-2.jpeg",
+      "page": 1,
+      "relative_path": "images/09a9762d9e2cf1c6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1PN Overview/images/09a9762d9e2cf1c6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "09a9762d9e2cf1c6"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695688",
+    "ts": "2025-08-08T23:28:08.610998+00:00"
+  }
+}

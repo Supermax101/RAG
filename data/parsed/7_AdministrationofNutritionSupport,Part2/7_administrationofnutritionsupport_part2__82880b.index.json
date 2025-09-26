@@ -1,0 +1,1479 @@
+{
+  "doc_id": "7_administrationofnutritionsupport_part2__82880b",
+  "original_filename": "7_AdministrationofNutritionSupport,Part2.pdf",
+  "md_path": "data/parsed/7_AdministrationofNutritionSupport,Part2/7_AdministrationofNutritionSupport,Part2.md",
+  "rmd_path": "data/parsed/7_AdministrationofNutritionSupport,Part2/7_AdministrationofNutritionSupport,Part2.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Administration of Nutrition Support, Part 2",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Administration of Nutrition Support, Part 2",
+      "line": 4,
+      "content": "![img-0.jpeg](images/412f1b1b557f1ba0.png)"
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 2",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 2",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 2",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 2",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 2",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 2",
+      "line": 15,
+      "preview": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 2",
+      "line": 16,
+      "preview": "University of Texas MD Anderson"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 2",
+      "line": 17,
+      "preview": "Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 2",
+      "line": 19,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 21
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 27,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 29,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 31,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 33
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Outline safe medication administration practices with concurrent enteral or parenteral nutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Distinguish steps in managing total nutrient admixture vs. 2-in-1 parenteral nutrition with separa"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 39
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- GI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- ILE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- IV:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- TNA: enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "lipid injectable emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "intravenous"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "total nutrient admixture"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 55
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 57,
+      "preview": "A 61-year-old male with Type 2 diabetes mellitus and benign prostatic hypertrophy is admitted with u"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 58,
+      "preview": "A. Tamsulosin 0.4 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 59,
+      "preview": "B. Doxazosin 2 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 60,
+      "preview": "C. Metformin ER 2000 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 61,
+      "preview": "D. Metformin ER 500 mg TID"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 63
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 65,
+      "preview": "A 55-year-old female with acute myelogenous leukemia and typhlitis is receiving parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 66,
+      "preview": "A. Acyclovir"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 67,
+      "preview": "B. Amphotericin B"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 68,
+      "preview": "C. Ondansetron"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 69,
+      "preview": "D. Piperacillin/Tazobactam"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 71,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 73
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 75,
+      "preview": "- Dependent on type of feeding tube used:"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 76,
+      "preview": "- Gastrostomy"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 77,
+      "preview": "- Transgastric jejunostomy"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 78,
+      "preview": "- Be aware the use of each lumen and avoid medication administration into stomach when concerns abou"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 79,
+      "preview": "- $50 \\%$ of patients experience ingredient-related diarrhea when using enteral access tubes for med"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 80,
+      "preview": "- Many liquid formulations of medications have osmolalities far exceeding that of the GI tract"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 81,
+      "preview": "- Diarrhea, cramping, abdominal distention, and vomiting"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN",
+      "line": 83,
+      "preview": "McIntyre CM et al. AmJ Health-Syst Pharm. 2014;71:549-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 85
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 87,
+      "preview": "- Nasoduodenal"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 88,
+      "preview": "- Nasojejunal"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 89,
+      "preview": "- Jejunostomy"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 90,
+      "preview": "- Significant risk of drug-nutrient interactions as both food (enteral nutrition) and medications ar"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 91,
+      "preview": "- Post-pyloric administration assumes the medication can be absorbed where it enters the GI tract"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 92,
+      "preview": "- Intestinal site of absorption of most medications is lacking"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 93,
+      "preview": "- Potential increased toxicity due to lack of degradation from gastric acid or decreased first-pass "
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 94,
+      "preview": "- Treatment failure"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 96,
+      "preview": "McIntyre CM et al. AmJ Health-Syst Pharm. 2014;71:549-56."
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 98,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 100
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 102,
+      "preview": "- Nasoduodenal"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 103,
+      "preview": "- Nasojejunal"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 104,
+      "preview": "- Jejunostomy"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 105,
+      "preview": "- Avoid use of aspirin and ferrous sulfate post-pylorically"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 106,
+      "preview": "- Require gastric acid for absorption and can only be administered into the stomach"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 107,
+      "preview": "- Increased absorption has occurred post-pylorically for:"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 108,
+      "preview": "- Ciprofloxacin, fluconazole, pravastatin, zinc, azathioprine"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 109,
+      "preview": "- Decreased absorption has occurred post-pylorically for:"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 110,
+      "preview": "- Allopurinol, baclofen, calcium, gabapentin, sirolimus"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 112,
+      "preview": "McIntyre CM et al. AmJ Health-Syst Pharm. 2014;71:549-56."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 114
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 116,
+      "preview": "- Avoid solid dosage form medications resulting in a significant change in absorption of the active "
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 117,
+      "preview": "- Immediate release products only"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 118,
+      "preview": "- Evaluate each medication for its inherent solubility and release characteristics"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 119,
+      "preview": "- Consider alternative dosage form, drug or route of administration"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 120,
+      "preview": "- Enteric coated or extended/sustained release especially"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 121,
+      "preview": "- May lead to occluded feeding tube"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 122,
+      "preview": "- Increased drug toxicity if crushed"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 123,
+      "preview": "- Do not add medication directly to an enteral feeding formula"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 125,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 127
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 129,
+      "preview": "- Only crush simple compressed tablets to fine powder and mix with purified water"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 130,
+      "preview": "- Only open hard gelatin capsules and mix powder containing the immediate release medication with pu"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 131,
+      "preview": "- Provide feeding tube irrigation around the timing of drug administration"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 132,
+      "preview": "- Prior to medication administration, stop the enteral feeding and flush the tube with at least 15 m"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 133,
+      "preview": "- Administer the medication using a clean ENFIT syringe"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 134,
+      "preview": "- Flush the tube again with at least 15 mL water"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 135,
+      "preview": "- Repeat with the next medication"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 136,
+      "preview": "- Restart the enteral feeding in a timely manner"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 138,
+      "preview": "Boulatta Jlet al. JPEN J Parenter Enteral Nutr. 2017; 41(1):15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 140
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 142,
+      "preview": "- Enteral feeding tubes with an internal diameter equal to or greater than 10 French are best for ad"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 143,
+      "preview": "- Tubes less than 10 French require medications in a liquid formulation with few residual solids (e."
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 144,
+      "preview": "- Smaller tube sizes are prone to clogging"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 145,
+      "preview": "- Institute for Safe Medication Practices resource:"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 146,
+      "preview": "- Do Not Crush list"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH EN, CONT.",
+      "line": 148,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 150
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 152,
+      "preview": "- Venous access device determines parenteral drug compatibility in the setting of PN"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 153,
+      "preview": "- Single lumen catheters are the greatest challenge as separate IV administration of other medicatio"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 154,
+      "preview": "- If simultaneous IV administration with PN is inevitable, utilize available IV drug compatibility r"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 155,
+      "preview": "- Y-site administration has limited published resources with PN"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 156,
+      "preview": "- 106 drugs evaluated with 83 deemed compatible"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 157,
+      "preview": "- Incompatible drugs included: acyclovir, amphotericin B, haloperidol, heparin, lorazepam, ondansetr"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 158,
+      "preview": "- Contact manufacturer(s) for new PN or ILE product compatibility"
+    },
+    {
+      "type": "text",
+      "section": "SAFE MEDICATION PRACTICES WITH PN",
+      "line": 160,
+      "preview": "Trissel LA et al. JPEN J Parenter Enteral Nutr. 1999; 23(2):67-74."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 162
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 164,
+      "preview": "- Possible threats to inadvertent PN administrations"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 165,
+      "preview": "- Both PN and separate ILE on same IV pole"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 166,
+      "preview": "- Using 2 separate pumps increases risk for rate error"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 167,
+      "preview": "- Double check of pump settings needed by 2nd nurse prior to start of infusions"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 168,
+      "preview": "- Inadequate room lighting"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 169,
+      "preview": "- Routinely trace lines back to source"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 170,
+      "preview": "- Lines confused despite color differences of IV products"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 171,
+      "preview": "- Confusion of rates of PN and separate ILE"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 172,
+      "preview": "- Omission of in-line filter placement"
+    },
+    {
+      "type": "text",
+      "section": "MANAGING PN WITH SEPARATE ILE INFUSIONS",
+      "line": 174,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ADVANTAGES AND DISADVANTAGES OF TNA",
+      "line": 176
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Advantages",
+      "line": 178
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 180,
+      "preview": "- $\\downarrow$ Pharmacy preparation and nursing administration time"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 181,
+      "preview": "- Only one infusion pump required"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 182,
+      "preview": "- $\\downarrow$ risk of touch contamination"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 183,
+      "preview": "- $\\downarrow$ Rate of microbial growth vs. ILE alone"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 184,
+      "preview": "- Improved oxidation of lipids"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 186,
+      "preview": "Derenski K et al. Nutr Clin Pract. 2016; 31(5):578-95."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Disadvantages",
+      "line": 188
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 190,
+      "preview": "- Macronutrients limited to one manufacturer"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 191,
+      "preview": "- Cannot see particulate matter"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 192,
+      "preview": "- Cannot infuse ILE through a 0.22 micron in-line filter"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 193,
+      "preview": "- Requires 1.2 micron in-line filter as for all PN formulations"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 194,
+      "preview": "- Risk of ILE instability"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 196,
+      "preview": "PHE-CPOE PN SAFETY IMPLICATIONS"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 198,
+      "preview": "- Prospective, observational study in a large teaching hospital with a nutrition support team; 4730 "
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 199,
+      "preview": "- 63\\% transcription and preparation errors"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 200,
+      "preview": "- 35.1\\% administration errors"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 201,
+      "preview": "- $8 \\%$ contributed to or resulted in temporary patient harm"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 202,
+      "preview": "- 15.6 errors/1000 PN prescriptions"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 204,
+      "preview": "Sacks GS et al. Pharmacotherapy. 2009; 29:966-74."
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 206,
+      "preview": "Percentage of PN Errors"
+    },
+    {
+      "type": "image",
+      "section": "Disadvantages",
+      "line": 207,
+      "content": "![img-1.jpeg](images/f8bb9afc70c15cdf.png)"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 209,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "POST-CPOE PN SAFETY IMPLICATIONS",
+      "line": 211
+    },
+    {
+      "type": "text",
+      "section": "POST-CPOE PN SAFETY IMPLICATIONS",
+      "line": 213,
+      "preview": "- Observational study in a 350-bed urban pediatric hospital, 84,503 prescriptions for PN reviewed an"
+    },
+    {
+      "type": "text",
+      "section": "POST-CPOE PN SAFETY IMPLICATIONS",
+      "line": 214,
+      "preview": "- 95\\% related to administration"
+    },
+    {
+      "type": "text",
+      "section": "POST-CPOE PN SAFETY IMPLICATIONS",
+      "line": 215,
+      "preview": "- $9.1 \\%$ contributed to or resulted in temporary patient harm"
+    },
+    {
+      "type": "text",
+      "section": "POST-CPOE PN SAFETY IMPLICATIONS",
+      "line": 216,
+      "preview": "- 2.7 errors/1000 PN prescriptions"
+    },
+    {
+      "type": "text",
+      "section": "POST-CPOE PN SAFETY IMPLICATIONS",
+      "line": 218,
+      "preview": "MacKay Met al. Nutr Clin Pract. 2016;31:195-206."
+    },
+    {
+      "type": "image",
+      "section": "POST-CPOE PN SAFETY IMPLICATIONS",
+      "line": 219,
+      "content": "![img-2.jpeg](images/74de5a2ef7d33712.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 221
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 223,
+      "preview": "A 61-year-old male with Type 2 diabetes mellitus and benign prostatic hypertrophy is admitted with u"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 224,
+      "preview": "A. Tamsulosin 0.4 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 225,
+      "preview": "B. Doxazosin 2 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 226,
+      "preview": "C. Metformin ER 2000 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 227,
+      "preview": "D. Metformin ER 500 mg TID"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 229,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 231
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 233,
+      "preview": "A 61-year-old male with Type 2 diabetes mellitus and benign prostatic hypertrophy is admitted with u"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 234,
+      "preview": "A. Tamsulosin 0.4 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 235,
+      "preview": "B. Doxazosin 2 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 236,
+      "preview": "C. Metformin ER 2000 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 237,
+      "preview": "D. Metformin ER 500 mg TID"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 239
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 241,
+      "preview": "A 55-year-old female with acute myelogenous leukemia and typhlitis is receiving parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 242,
+      "preview": "A. Acyclovir"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 243,
+      "preview": "B. Amphotericin B"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 244,
+      "preview": "C. Ondansetron"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 245,
+      "preview": "D. Piperacillin/Tazobactam"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 247,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 249
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 251,
+      "preview": "A 55-year-old female with acute myelogenous leukemia and typhlitis is receiving parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 252,
+      "preview": "A. Acyclovir"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 253,
+      "preview": "B. Amphotericin B"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 254,
+      "preview": "C. Ondansetron"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 255,
+      "preview": "D. Piperacillin/Tazobactam"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONCLUSIONS",
+      "line": 257
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 259,
+      "preview": "- Safe use of medication administration via an enteral feeding tube requires:"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 260,
+      "preview": "- Knowledge of proximal end of tube in Gl tract for drug absorption"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 261,
+      "preview": "- Osmolality of medication and use of other excipients such as sorbitol"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 262,
+      "preview": "- Dosage form that is immediate release"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 263,
+      "preview": "- Adequate flushing of the feeding tube before and after medication"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 264,
+      "preview": "- Safe use of medication administration via Y-site with PN requires:"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 265,
+      "preview": "- Confirmed drug compatibility (e.g., Handbook of Injectable Drugs)"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 266,
+      "preview": "- Other IV site or enteral options if no compatibility information exists"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 267,
+      "preview": "- Use of PN with separate ILE infusion increases the risk of administration errors"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 269,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 271
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 273,
+      "preview": "- Boullata JI, Carrera AL, Harvey L et al. A.S.P.E.N. safe practices for enteral nutrition therapy. "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 274,
+      "preview": "- Derenski K, Catlin J, Allen L. Parenteral nutrition basics for the clinician caring for the adult "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 275,
+      "preview": "- MacKay M, Anderson C, Boehme S et al. Frequency and severity of parenteral nutrition medication er"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 276,
+      "preview": "- McIntyre CM, Monk HM. Medication absorption considerations in patients with postpyloric enteral fe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 277,
+      "preview": "- Sacks GS, Rough S, Kudsk KA. Frequency and severity of harm of medication errors related to the pa"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 279,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 281
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 283,
+      "preview": "- Simmons D, Symes L, Guenter P et al. Tubing misconnections: Normalization of deviance. Nutr Clin P"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 284,
+      "preview": "- Trissel LA, Gilbert DL, Martinez JF et al. Compatibility of medications with 3-in-1 parenteral nut"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 286,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 288,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 290,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 292,
+      "content": "![img-3.jpeg](images/f88d6ef789286d4c.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 294
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 296,
+      "preview": "Clinical Pharmacy Services Manager"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 297,
+      "preview": "Nutrition Support Team Coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 298,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 299,
+      "preview": "Houston, Texas"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 300,
+      "preview": "Todd W. Canada serves as a clinical pharmacy services manager and nutrition support team coordinator"
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 302,
+      "preview": "Dr. Canada completed a specialized residency in Critical Care / Nutrition Support at the University "
+    },
+    {
+      "type": "text",
+      "section": "Todd W. Canada, Pharm.D., BCNSP, BCCCP, FASHP, FTSHP, FASPEN",
+      "line": 304,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 306
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 308,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 310,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 312,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 314,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 315,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 316,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 317,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 318,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 320,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 322,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 324
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 326,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 328,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 330
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 332,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 334
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 336,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 338,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "412f1b1b557f1ba0.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/412f1b1b557f1ba0.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part2/images/412f1b1b557f1ba0.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "412f1b1b557f1ba0"
+    },
+    {
+      "sha_name": "f8bb9afc70c15cdf.png",
+      "original_ref": "img-1.jpeg",
+      "page": 8,
+      "relative_path": "images/f8bb9afc70c15cdf.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part2/images/f8bb9afc70c15cdf.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f8bb9afc70c15cdf"
+    },
+    {
+      "sha_name": "74de5a2ef7d33712.png",
+      "original_ref": "img-2.jpeg",
+      "page": 9,
+      "relative_path": "images/74de5a2ef7d33712.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part2/images/74de5a2ef7d33712.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "74de5a2ef7d33712"
+    },
+    {
+      "sha_name": "f88d6ef789286d4c.png",
+      "original_ref": "img-3.jpeg",
+      "page": 14,
+      "relative_path": "images/f88d6ef789286d4c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part2/images/f88d6ef789286d4c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f88d6ef789286d4c"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696164",
+    "ts": "2025-08-08T23:36:04.492121+00:00"
+  }
+}

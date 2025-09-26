@@ -1,0 +1,2292 @@
+{
+  "doc_id": "pn_solutions_cb__6f86a6",
+  "original_filename": "PN Solutions_CB.pdf",
+  "md_path": "data/parsed/PN Solutions_CB/PN Solutions_CB.md",
+  "rmd_path": "data/parsed/PN Solutions_CB/PN Solutions_CB.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Parenteral Nutrition Solutions: TPN 2.0",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition Solutions: TPN 2.0",
+      "line": 2,
+      "preview": "Growing with the World of AI"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition Solutions: TPN 2.0",
+      "line": 4,
+      "preview": "TAKEOFF LIFESCIENCES"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition Solutions: TPN 2.0",
+      "line": 6,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 8
+    },
+    {
+      "type": "image",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 10,
+      "content": "![img-0.jpeg](images/6ba94bf4578bec79.png)"
+    },
+    {
+      "type": "image",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 12,
+      "content": "![img-1.jpeg](images/54dd59262b6f6c67.png)"
+    },
+    {
+      "type": "image",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 14,
+      "content": "![img-2.jpeg](images/8662518deac54598.png)"
+    },
+    {
+      "type": "image",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 16,
+      "content": "![img-3.jpeg](images/958db939a5d7d42b.png)"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 18,
+      "preview": "Lucile Packard"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 19,
+      "preview": "Children's Hospital"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 20,
+      "preview": "Stanford"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 22,
+      "preview": "Lucile Packard Children's Hospital Stanford, Palo Alto"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 23,
+      "preview": "- NICU Clinical Specialist Pharmacist"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 24,
+      "preview": "- ICU Clinical Pharmacist"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 25,
+      "preview": "- PGY1 and PGY2 Critical Care Pharmacy Residency"
+    },
+    {
+      "type": "image",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 27,
+      "content": "![img-4.jpeg](images/0efa1c745b9f1bac.png)"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 29,
+      "preview": "Board of Pharmacy Specialties"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 30,
+      "preview": "- Board Certified Pharmacotherapy Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 31,
+      "preview": "- Board Certified Critical Care Pharmacist"
+    },
+    {
+      "type": "image",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 33,
+      "content": "![img-5.jpeg](images/58872a1df6a6e3a9.png)"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 35,
+      "preview": "University of California, San Francisco"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 36,
+      "preview": "- Doctor of Pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "Christine Boulos, PharmD, BCPS, BCCCP",
+      "line": 38,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Executive Summary",
+      "line": 40
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Traditional perinatal care continues to face challenges as a result of low precision, conflicting data, and varying clinical practice that often lacks standardization",
+      "line": 42
+    },
+    {
+      "type": "text",
+      "section": "Traditional perinatal care continues to face challenges as a result of low precision, conflicting data, and varying clinical practice that often lacks standardization",
+      "line": 44,
+      "preview": "Neonatal recommendations are often based on weak evidence extrapolated from studies in animals, olde"
+    },
+    {
+      "type": "text",
+      "section": "Traditional perinatal care continues to face challenges as a result of low precision, conflicting data, and varying clinical practice that often lacks standardization",
+      "line": 46,
+      "preview": "Medical advancements have allowed for delivery of an increasingly fragile population (e.g., extremel"
+    },
+    {
+      "type": "text",
+      "section": "Traditional perinatal care continues to face challenges as a result of low precision, conflicting data, and varying clinical practice that often lacks standardization",
+      "line": 48,
+      "preview": "Inability to predict and prevent complications has led to increased costs and morbidity"
+    },
+    {
+      "type": "text",
+      "section": "Traditional perinatal care continues to face challenges as a result of low precision, conflicting data, and varying clinical practice that often lacks standardization",
+      "line": 50,
+      "preview": "Treatment approaches are often dependent on a mix of stakeholders (e.g., nutrition strategies), yiel"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Takeoff LifeSciences' novel AIdriven treatment strategies offer predictive power that can optimize delivery of care",
+      "line": 52
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences' novel AIdriven treatment strategies offer predictive power that can optimize delivery of care",
+      "line": 54,
+      "preview": "Our proprietary AI offers transformational predictive power for newborn conditions weeks before birt"
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences' novel AIdriven treatment strategies offer predictive power that can optimize delivery of care",
+      "line": 56,
+      "preview": "Optimized, precision treatment strategies developed by our AI platform have the potential to signifi"
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences' novel AIdriven treatment strategies offer predictive power that can optimize delivery of care",
+      "line": 58,
+      "preview": "Our first product is focused on AI-driven nutrition for premature newborns."
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences' novel AIdriven treatment strategies offer predictive power that can optimize delivery of care",
+      "line": 60,
+      "preview": "A successful pilot on ordering of appropriate total parenteral nutrition (TPN) prescriptions has alr"
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences' novel AIdriven treatment strategies offer predictive power that can optimize delivery of care",
+      "line": 62,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Takeoff LifeSciences",
+      "line": 64
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences",
+      "line": 66,
+      "preview": "Health optimization begins at birth"
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences",
+      "line": 68,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Starting Off Strong",
+      "line": 70
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "*Health optimization begins at (or even before) birth*",
+      "line": 72
+    },
+    {
+      "type": "text",
+      "section": "*Health optimization begins at (or even before) birth*",
+      "line": 74,
+      "preview": "- Antenatal and postnatal exposure to certain therapies can adversely impact development and long-te"
+    },
+    {
+      "type": "image",
+      "section": "*Health optimization begins at (or even before) birth*",
+      "line": 76,
+      "content": "![img-6.jpeg](images/fc8c617d954c032e.png)"
+    },
+    {
+      "type": "text",
+      "section": "*Health optimization begins at (or even before) birth*",
+      "line": 78,
+      "preview": "- No intervention"
+    },
+    {
+      "type": "text",
+      "section": "*Health optimization begins at (or even before) birth*",
+      "line": 79,
+      "preview": "- Extends life a little at poor health condition"
+    },
+    {
+      "type": "text",
+      "section": "*Health optimization begins at (or even before) birth*",
+      "line": 80,
+      "preview": "- Preventative care / health optimization"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "**Takeoff LifeSciences**",
+      "line": 82
+    },
+    {
+      "type": "text",
+      "section": "**Takeoff LifeSciences**",
+      "line": 84,
+      "preview": "Source: Updated from Lawn et al., 2005, using data from 2010 published in Liu L. et al., 2012; Wilso"
+    },
+    {
+      "type": "text",
+      "section": "**Takeoff LifeSciences**",
+      "line": 86,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Big Problems for Tiny Patients",
+      "line": 88
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 90,
+      "preview": "- Total parenteral nutrition (TPN) supports patients unable to tolerate enteral feeding"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 91,
+      "preview": "- Frequently used in premature or critically ill newborns"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 92,
+      "preview": "- Adequate nutrition is required for growth and healing"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 93,
+      "preview": "- Nutrition can affect clinical outcomes such as mortality, infections, and hospital length of stay"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 94,
+      "preview": "- Many question remain unanswered, leading to variation in clinical practice"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 95,
+      "preview": "- High-quality studies are needed to create standardized nutrition protocols across the healthcare s"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 97,
+      "preview": "TPN is designated as a high-alert medication by the Institute for Safe Medication Practices"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 98,
+      "preview": "$>$ Complex ordering and preparation process"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 99,
+      "preview": "$>$ Pediatric patients may be more susceptible to errors resulting in serious patient harm"
+    },
+    {
+      "type": "text",
+      "section": "Big Problems for Tiny Patients",
+      "line": 101,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Where Can Mistakes Happen?",
+      "line": 103
+    },
+    {
+      "type": "table",
+      "section": "Where Can Mistakes Happen?",
+      "line": 105,
+      "preview": "| Safety <br> Guardrails | - Programming capabilities <br> - Vary by unit and pump type |"
+    },
+    {
+      "type": "table",
+      "section": "Where Can Mistakes Happen?",
+      "line": 106,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "Where Can Mistakes Happen?",
+      "line": 107,
+      "preview": "| Ordering \\& Verification | - Complex process with multiple factors to consider <br> - Incorrect tr"
+    },
+    {
+      "type": "table",
+      "section": "Where Can Mistakes Happen?",
+      "line": 108,
+      "preview": "| Preparation | - Inappropriate formulation <br> - Technological failure <br> - Contamination |"
+    },
+    {
+      "type": "table",
+      "section": "Where Can Mistakes Happen?",
+      "line": 109,
+      "preview": "| Administration | - Order changes |"
+    },
+    {
+      "type": "table",
+      "section": "Where Can Mistakes Happen?",
+      "line": 110,
+      "preview": "| Shortages | - Restrictions and inability to provide adequate nutrition to all patients |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Risk at every step.",
+      "line": 112
+    },
+    {
+      "type": "text",
+      "section": "Risk at every step.",
+      "line": 114,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Novel AI-Optimized Strategy",
+      "line": 116
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Safety Guardrails",
+      "line": 118
+    },
+    {
+      "type": "text",
+      "section": "Safety Guardrails",
+      "line": 120,
+      "preview": "- Programming capabilities"
+    },
+    {
+      "type": "text",
+      "section": "Safety Guardrails",
+      "line": 121,
+      "preview": "- Vary by unit and pump type"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Ordering & Verification",
+      "line": 123
+    },
+    {
+      "type": "text",
+      "section": "Ordering & Verification",
+      "line": 125,
+      "preview": "- Complex process with multiple factors to consider"
+    },
+    {
+      "type": "text",
+      "section": "Ordering & Verification",
+      "line": 126,
+      "preview": "- Incorrect transcription"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Preparation",
+      "line": 128
+    },
+    {
+      "type": "text",
+      "section": "Preparation",
+      "line": 130,
+      "preview": "- Inappropriate formulation"
+    },
+    {
+      "type": "text",
+      "section": "Preparation",
+      "line": 131,
+      "preview": "- Technological failure"
+    },
+    {
+      "type": "text",
+      "section": "Preparation",
+      "line": 132,
+      "preview": "- Contamination"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Administration",
+      "line": 134
+    },
+    {
+      "type": "text",
+      "section": "Administration",
+      "line": 136,
+      "preview": "- Order changes"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Shortages",
+      "line": 138
+    },
+    {
+      "type": "text",
+      "section": "Shortages",
+      "line": 140,
+      "preview": "- Restrictions and inability to provide adequate nutrition to all patients"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Takeoff LifeSciences",
+      "line": 142
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences",
+      "line": 144,
+      "preview": "- **TPN 2.0**"
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences",
+      "line": 146,
+      "preview": "*Minimize the risk of error and enhance efficiency*"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Takeoff LifeSciences",
+      "line": 148
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences",
+      "line": 150,
+      "preview": "- **TPN 2.0**"
+    },
+    {
+      "type": "text",
+      "section": "Takeoff LifeSciences",
+      "line": 152,
+      "preview": "*Minimize the risk of error and enhance efficiency*"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Safety Guardrails",
+      "line": 154
+    },
+    {
+      "type": "text",
+      "section": "Safety Guardrails",
+      "line": 156,
+      "preview": "- **TPN 2.0**"
+    },
+    {
+      "type": "text",
+      "section": "Safety Guardrails",
+      "line": 158,
+      "preview": "*Ordering & Verification*"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Preparation",
+      "line": 160
+    },
+    {
+      "type": "text",
+      "section": "Preparation",
+      "line": 162,
+      "preview": "- **TPN 2.0**"
+    },
+    {
+      "type": "text",
+      "section": "Preparation",
+      "line": 164,
+      "preview": "*Administration*"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Shortages",
+      "line": 166
+    },
+    {
+      "type": "text",
+      "section": "Shortages",
+      "line": 168,
+      "preview": "- **TPN 2.0**"
+    },
+    {
+      "type": "text",
+      "section": "Shortages",
+      "line": 170,
+      "preview": "*Minimize the risk of error and enhance efficiency*"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Standardized formulations",
+      "line": 172
+    },
+    {
+      "type": "text",
+      "section": "Standardized formulations",
+      "line": 174,
+      "preview": "- **Clinical decision support**"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Commercial available solutions",
+      "line": 176
+    },
+    {
+      "type": "text",
+      "section": "Commercial available solutions",
+      "line": 178,
+      "preview": "- **Reduced risk with order changes**"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Resource conservation and lower costs",
+      "line": 180
+    },
+    {
+      "type": "text",
+      "section": "Resource conservation and lower costs",
+      "line": 182,
+      "preview": "- **Takesoff LifeSciences**"
+    },
+    {
+      "type": "text",
+      "section": "Resource conservation and lower costs",
+      "line": 184,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Current State**",
+      "line": 186
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "**EXAMPLE: 100 \u2013 250 minutes per patient**",
+      "line": 188
+    },
+    {
+      "type": "image",
+      "section": "**EXAMPLE: 100 \u2013 250 minutes per patient**",
+      "line": 190,
+      "content": "![img-7.jpeg](images/8bc45dc499851621.png)"
+    },
+    {
+      "type": "text",
+      "section": "**EXAMPLE: 100 \u2013 250 minutes per patient**",
+      "line": 192,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "**Future State**",
+      "line": 194
+    },
+    {
+      "type": "text",
+      "section": "**Future State**",
+      "line": 196,
+      "preview": "**EXAMPLE:** 55 \u2013 105 minutes per patient"
+    },
+    {
+      "type": "text",
+      "section": "**Future State**",
+      "line": 198,
+      "preview": "*Measurable impact on hospital resources*"
+    },
+    {
+      "type": "image",
+      "section": "**Future State**",
+      "line": 200,
+      "content": "![img-8.jpeg](images/f8f6cb7d00701e91.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Future State**",
+      "line": 202,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 204
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 206,
+      "preview": "**Takeoff LifeSciences' AI algorithm offers predictive precision that can inform long-term perinatal"
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 208,
+      "preview": "- Ability to generate a **predictive score** for likelihood of disease occurrence"
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 209,
+      "preview": "- Example below shows data for one patient with prediction of diagnosed diseases (check marks)"
+    },
+    {
+      "type": "image",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 211,
+      "content": "![img-9.jpeg](images/16aff61b748ad894.png)"
+    },
+    {
+      "type": "image",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 213,
+      "content": "![img-10.jpeg](images/d8e21c4b2cfaf150.png)"
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 215,
+      "preview": "- **66** This is a major move toward precision medicine for babies."
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 217,
+      "preview": "David Stevenson, MD"
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 218,
+      "preview": "Senior Dean of Maternal and Child Health, Stanford University"
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 220,
+      "preview": "**TAKEOFF LIFESCIENCES**"
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 222,
+      "preview": "**CONFIDENTIAL**"
+    },
+    {
+      "type": "text",
+      "section": "Predictive Precision for Improved Outcomes",
+      "line": 224,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "An early prospective pilot at Stanford showed initial evidence for clinical equivalency (and potential superiority)",
+      "line": 226
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 228
+    },
+    {
+      "type": "image",
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 230,
+      "content": "![img-11.jpeg](images/4fc419ba2e74398f.png)"
+    },
+    {
+      "type": "text",
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 232,
+      "preview": "Healthcare providers preferred AI-generated solutions over ones previously written by the care team "
+    },
+    {
+      "type": "text",
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 234,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "text",
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 236,
+      "preview": "\"A **standardized process** for PN must be explored in order to improve **patient safety** and **cli"
+    },
+    {
+      "type": "text",
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 238,
+      "preview": "*American Society for Parenteral and Enteral Nutrition (ASPEN) statement on PN standardization (2007"
+    },
+    {
+      "type": "image",
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 240,
+      "content": "![img-12.jpeg](images/9b93532b9b44fa48.png)"
+    },
+    {
+      "type": "text",
+      "section": "Comparison of machine learning vs. human prescription performance",
+      "line": 242,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "The Power of Standardization",
+      "line": 244
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 246,
+      "preview": "**Neonatal / Pediatric TPN order issue (administrative, formulation, ordering complexities)**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 248,
+      "preview": "- Order clarification: 22% orders"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 249,
+      "preview": "- Processing time: 10 minutes/order"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 250,
+      "preview": "- Average blood draws: 6.2 blood draws"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 251,
+      "preview": "- Order clarification: 3.2% orders (P < 0.001)"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 252,
+      "preview": "- Processing time: 5 minutes/order"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 253,
+      "preview": "- Average blood draws: 4.3 blood draws (P < 0.001)"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 255,
+      "preview": "**Intervention**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 257,
+      "preview": "- Standardized TPN formulations"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 258,
+      "preview": "- Integration of ordering in EMR"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 260,
+      "preview": "**Table 1.**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 262,
+      "preview": "**Standardized TPN Order Error Rates**"
+    },
+    {
+      "type": "table",
+      "section": "The Power of Standardization",
+      "line": 264,
+      "preview": "|  Group | Total Orders | Error Rate (No. Errors) | Total Orders | Error Rate (No. Errors) | Chi-squ"
+    },
+    {
+      "type": "table",
+      "section": "The Power of Standardization",
+      "line": 265,
+      "preview": "| --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "The Power of Standardization",
+      "line": 266,
+      "preview": "|  Overall | 1,996 | 21.9% (437) | 471 | 3.2% (15) | 1  |"
+    },
+    {
+      "type": "table",
+      "section": "The Power of Standardization",
+      "line": 267,
+      "preview": "|  Neonate only | 1,194 | 25.5% (304) | 322 | 3.4% (11) | 1  |"
+    },
+    {
+      "type": "table",
+      "section": "The Power of Standardization",
+      "line": 268,
+      "preview": "|  Pediatric only | 208 | 19.7% (41) | 149 | 2.7% (4) | 1  |"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 270,
+      "preview": "Implementation of standardized TPN with electronic ordering decreased TPN order errors in both neona"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 272,
+      "preview": "*Statistically significant difference at alpha = 0.05."
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 274,
+      "preview": "Pediatr Qual Saf. 2018 Jul-Aug; 3(4): e093."
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 276,
+      "preview": "TAKEOFF LIFESCIENCES CONFIDENTIAL"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 278,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "The Power of Standardization",
+      "line": 280
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 282,
+      "preview": "**Neonatal / Pediatric TPN order issue (administrative, formulation, ordering complexities)**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 284,
+      "preview": "- **Order clarification:** 22% orders"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 285,
+      "preview": "- **Processing time:** 10 minutes/order"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 286,
+      "preview": "- **Average blood draws:** 6.2 blood draws"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 288,
+      "preview": "- **Order clarification:** 3.2% orders (P < 0.001)"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 289,
+      "preview": "- **Processing time:** 5 minutes/order"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 290,
+      "preview": "- **Average blood draws:** 4.3 blood draws (P < 0.001)"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 292,
+      "preview": "**Intervention**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 293,
+      "preview": "- Standardized TPN formulations"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 294,
+      "preview": "- Integration of ordering in EMR"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 296,
+      "preview": "- **\u2193 TPN errors (\u2191 patient safety)**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 297,
+      "preview": "- **\u2193 Ordering and verification time**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 298,
+      "preview": "- **\u2193 Blood draws (\u2191 conservation of resources)**"
+    },
+    {
+      "type": "text",
+      "section": "The Power of Standardization",
+      "line": 300,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TPN Compounding Costs",
+      "line": 302
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 304,
+      "preview": "|  TPN Production | Cost of TPN Materials |  | Fixed Cost* (Per 7,000 bags/year) | TOTAL (Per 7,000 "
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 305,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 306,
+      "preview": "|   | Per bag | Per 7,000 bags/year |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 307,
+      "preview": "|  In-house | $26.15-44.66^{2,3}"
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 308,
+      "preview": "Average: $35.40 | $183,050-312,620"
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 309,
+      "preview": "Average: $247,800 | $69,565.00 | $252,615-382,185"
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 310,
+      "preview": "Average: $317,365  |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 311,
+      "preview": "|  Pre-mix/ Outsourced | $37.79^{3} | $264,530 | - | $264,530  |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Compounding Costs",
+      "line": 312,
+      "preview": "|   |  | Production Savings with Pre-mix/Outsourced TPN |  | $52,835  |"
+    },
+    {
+      "type": "text",
+      "section": "TPN Compounding Costs",
+      "line": 314,
+      "preview": "Note: Estimated values of materials and fixed costs from years 2010-2014; estimated lab value costs "
+    },
+    {
+      "type": "text",
+      "section": "TPN Compounding Costs",
+      "line": 316,
+      "preview": "*Depreciation and cleaning, maintenance, testing of primary engineering controls, exchange cost for "
+    },
+    {
+      "type": "text",
+      "section": "TPN Compounding Costs",
+      "line": 318,
+      "preview": "The price of the premixed multi-chamber bag that is available in the market that matches best with t"
+    },
+    {
+      "type": "image",
+      "section": "TPN Compounding Costs",
+      "line": 320,
+      "content": "![img-13.jpeg](images/066c21ee619714fd.png)"
+    },
+    {
+      "type": "text",
+      "section": "TPN Compounding Costs",
+      "line": 322,
+      "preview": "Hosp Pharm. 2014 Feb; 49(2): 170\u2013176. Newnham, Mark. PP&P Mag. 2010."
+    },
+    {
+      "type": "text",
+      "section": "TPN Compounding Costs",
+      "line": 324,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TPN Standardization",
+      "line": 326
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 328,
+      "preview": "|  TPN Product\u00b9 | Number lab draws (average per patient) |  | Cost of lab"
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 329,
+      "preview": "(Complete Metabolic Panel) | TOTAL"
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 330,
+      "preview": "(Per 1 patient/year)  |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 331,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 332,
+      "preview": "|   | Per 7 days TPN | Per 1-year TPN |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 333,
+      "preview": "|  Customized | 6.2 | 322.4 | $638 | $3,955.60  |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 334,
+      "preview": "|  Standardized | 4.3 | 223.6 |  | $142,656.80  |"
+    },
+    {
+      "type": "table",
+      "section": "TPN Standardization",
+      "line": 335,
+      "preview": "|   |  |  | Lab Draw Savings with Standardized TPN | $63,034.40  |"
+    },
+    {
+      "type": "text",
+      "section": "TPN Standardization",
+      "line": 337,
+      "preview": "*Estimated per hospital charge master 2020"
+    },
+    {
+      "type": "image",
+      "section": "TPN Standardization",
+      "line": 339,
+      "content": "![img-14.jpeg](images/2d83aac9c5ced4b3.png)"
+    },
+    {
+      "type": "text",
+      "section": "TPN Standardization",
+      "line": 341,
+      "preview": "Standardization with AI would reduce costs associated with: - Labor/staffing resources and time - Me"
+    },
+    {
+      "type": "text",
+      "section": "TPN Standardization",
+      "line": 343,
+      "preview": "AI-generated premixed PN formulations"
+    },
+    {
+      "type": "text",
+      "section": "TPN Standardization",
+      "line": 345,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Vision for Implementation",
+      "line": 347
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Identify Patient Populations",
+      "line": 349
+    },
+    {
+      "type": "text",
+      "section": "Identify Patient Populations",
+      "line": 351,
+      "preview": "- Eligible patients (age, comorbidities, acute clinical status, concomitant therapies)"
+    },
+    {
+      "type": "text",
+      "section": "Identify Patient Populations",
+      "line": 352,
+      "preview": "- Groups of patients for which high variability exists (consider customized prescription)"
+    },
+    {
+      "type": "text",
+      "section": "Identify Patient Populations",
+      "line": 354,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Vision for Implementation",
+      "line": 356
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Identify Patient Populations",
+      "line": 358
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Develop Standardized Solutions",
+      "line": 360
+    },
+    {
+      "type": "text",
+      "section": "Develop Standardized Solutions",
+      "line": 362,
+      "preview": "- AI-generated formulations (5-15 types) appropriate for eligible patients"
+    },
+    {
+      "type": "text",
+      "section": "Develop Standardized Solutions",
+      "line": 363,
+      "preview": "- Simple base solution with minimal additives to be available for special situations that require a "
+    },
+    {
+      "type": "text",
+      "section": "Develop Standardized Solutions",
+      "line": 365,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Vision for Implementation",
+      "line": 367
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Identify Patient Populations",
+      "line": 369
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Develop Standardized Solutions",
+      "line": 371
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Clinical Reference Tools",
+      "line": 373
+    },
+    {
+      "type": "text",
+      "section": "Clinical Reference Tools",
+      "line": 375,
+      "preview": "- Clinical application (healthcare providers only)that provides detailed information on formulations"
+    },
+    {
+      "type": "text",
+      "section": "Clinical Reference Tools",
+      "line": 377,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Vision for Implementation",
+      "line": 379
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 381,
+      "preview": "|  Patient information |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 382,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 383,
+      "preview": "|  Weight: |  | kg  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 384,
+      "preview": "|  TPN rate: |  | $\\mathrm{mL} / \\mathrm{hr}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 385,
+      "preview": "|  TPN duration: |  | hr  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 386,
+      "preview": "|  Formulation | $\\square$ | $[$ Select 1-15]  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 387,
+      "preview": "|  Formulation 1 |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 388,
+      "preview": "|  Dextrose \\% |  | 20  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 389,
+      "preview": "|  Amino Acid \\% (Trophamine ${ }^{\\circledR}$ ) |  | 4  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 390,
+      "preview": "|  Sodium (mEq/L) |  | 77  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 392,
+      "preview": "|  Delivery ( $\\qquad$ $\\mathrm{mL} / \\mathrm{hr}$ for $\\qquad$ hr) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 393,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 394,
+      "preview": "|  Total fluids | $\\mathrm{mL}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 395,
+      "preview": "|  Total fluids | $\\mathrm{mL} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 396,
+      "preview": "|  Calories | $\\mathrm{kcal} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 397,
+      "preview": "|  GIR | $\\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 398,
+      "preview": "|  Amino acids | $\\mathrm{g} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Vision for Implementation",
+      "line": 399,
+      "preview": "|  Sodium | $\\mathrm{mEq} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "text",
+      "section": "Vision for Implementation",
+      "line": 401,
+      "preview": "- Clinical application (healthcare providers only) that provides detailed information on formulation"
+    },
+    {
+      "type": "text",
+      "section": "Vision for Implementation",
+      "line": 403,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Vision for Implementation",
+      "line": 405
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Identify Patient Populations",
+      "line": 407
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Develop Standardized Solutions",
+      "line": 409
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Clinical Reference Tools",
+      "line": 411
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Electronic Integration",
+      "line": 413
+    },
+    {
+      "type": "text",
+      "section": "Electronic Integration",
+      "line": 415,
+      "preview": "- Designed with integration compatibility for commonly used electronic medical record (EMR) systems"
+    },
+    {
+      "type": "text",
+      "section": "Electronic Integration",
+      "line": 416,
+      "preview": "- Ability to pull patient information directly from the EMR to allow for reliable Al-generated recom"
+    },
+    {
+      "type": "text",
+      "section": "Electronic Integration",
+      "line": 418,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Regulatory Requirements and Approval: Likely SaMD - 510k De Novo Classification",
+      "line": 420
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SaMD Classification",
+      "line": 422
+    },
+    {
+      "type": "text",
+      "section": "SaMD Classification",
+      "line": 424,
+      "preview": "Intended use aligns with device classification (medium risk)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "De Novo 510k Classification",
+      "line": 426
+    },
+    {
+      "type": "text",
+      "section": "De Novo 510k Classification",
+      "line": 428,
+      "preview": "TPN 2.0 cannot be compared to any of the 23 prior cleared devices under product code LNX (Medical Co"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Next Steps for Approval",
+      "line": 430
+    },
+    {
+      "type": "text",
+      "section": "Next Steps for Approval",
+      "line": 432,
+      "preview": "- Submit 513 and presubmission to the FDA"
+    },
+    {
+      "type": "text",
+      "section": "Next Steps for Approval",
+      "line": 433,
+      "preview": "- Conduct clinical performance \\& usability assessment"
+    },
+    {
+      "type": "text",
+      "section": "Next Steps for Approval",
+      "line": 435,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TPN 3.0 - Beyond Nutrition",
+      "line": 437
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TPN that reduces risks of adverse outcomes",
+      "line": 439
+    },
+    {
+      "type": "text",
+      "section": "TPN that reduces risks of adverse outcomes",
+      "line": 441,
+      "preview": "**Example:** Personalized TPN Significantly Reduces the Risk of Necrotizing Enterocolitis in all inf"
+    },
+    {
+      "type": "image",
+      "section": "TPN that reduces risks of adverse outcomes",
+      "line": 443,
+      "content": "![img-15.jpeg](images/b1432d3f51e3939a.png)"
+    },
+    {
+      "type": "text",
+      "section": "TPN that reduces risks of adverse outcomes",
+      "line": 445,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Executive Summary",
+      "line": 447
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 449
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 451,
+      "preview": "Simplifies prescriptions with an AI algorithm"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 453,
+      "preview": "Commercially available standard TPN solutions"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 455,
+      "preview": "Progressive precision"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 457,
+      "preview": "Enhanced patient safety and process efficiency"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 459,
+      "preview": "Demonstrates only 5 to 15 types of neonatal TPN prescriptions are needed for precision-level care"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 461,
+      "preview": "Reduced expenses for onsite compounding, which has major implications at a global level for underser"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 463,
+      "preview": "Iterative clustering and continual data collection allows for standard TPN formulations to be optimi"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 465,
+      "preview": "Conserves resources while reducing the risk of human error during ordering and compounding"
+    },
+    {
+      "type": "image",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 467,
+      "content": "![img-16.jpeg](images/1e4eed62f4bcb1d3.png)"
+    },
+    {
+      "type": "text",
+      "section": "Proprietary, AI-optimized total parenteral nutrition for infants",
+      "line": 469,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "APPENDIX",
+      "line": 471
+    },
+    {
+      "type": "text",
+      "section": "APPENDIX",
+      "line": 473,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Crew et. al. 2018",
+      "line": 475
+    },
+    {
+      "type": "text",
+      "section": "Crew et. al. 2018",
+      "line": 477,
+      "preview": "Standardized Solution: Total Additive Amounts (Excluding Vitamins \\& Trace Elements)"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 479,
+      "preview": "|   | $>10-30 \\mathrm{~kg}$ |  | $>30 \\mathrm{~kg}$ |  | $1.5-10 \\mathrm{~kg}$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 480,
+      "preview": "| --- | --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 481,
+      "preview": "|  Additive | Peripheral | Central | Peripheral | Central | Peripheral | Central  |"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 482,
+      "preview": "|  Protein | $2.50 \\%$ | $3 \\%$ | $1.90 \\%$ | $3 \\%$ | $2.7 \\%$ | $3 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 483,
+      "preview": "|  Dextrose | $10 \\%$ | $15 \\%$ | $10 \\%$ | $15 \\%$ | $10 \\%$ | $12.5 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 484,
+      "preview": "|  Na* | $53 \\mathrm{mEq} / \\mathrm{L}$ | $53 \\mathrm{mEq} / \\mathrm{L}$ | $73 \\mathrm{mEq} / \\mathr"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 485,
+      "preview": "|  K | $20 \\mathrm{mEq} / \\mathrm{L}$ | $25 \\mathrm{mEq} / \\mathrm{L}$ | $20 \\mathrm{mEq} / \\mathrm{"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 486,
+      "preview": "|  Cl | $50 \\mathrm{mEq} / \\mathrm{L}$ | $55 \\mathrm{mEq} / \\mathrm{L}$ | $60 \\mathrm{mEq} / \\mathrm"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 487,
+      "preview": "|  Acetate | - | - | - | - | $15 \\mathrm{mEq} / \\mathrm{L}$ | $15 \\mathrm{mEq} / \\mathrm{L}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 488,
+      "preview": "|  CaGlu | $1500 \\mathrm{mg} / \\mathrm{L}$ | $2000 \\mathrm{mg} / \\mathrm{L}$ | $1500 \\mathrm{mg} / \\"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 489,
+      "preview": "|  Phos | $10 \\mathrm{mM} / \\mathrm{L}$ | $10 \\mathrm{mM} / \\mathrm{L}$ | $10 \\mathrm{mM} / \\mathrm{"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 490,
+      "preview": "|  MgSo4 | $2.5 \\mathrm{mEq} / \\mathrm{L}$ | $2.5 \\mathrm{mEq} / \\mathrm{L}$ | $2.5 \\mathrm{mEq} / \\"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 491,
+      "preview": "|  Osmol | 888 | 1198 | 896 | 1268 | 866 | 1040  |"
+    },
+    {
+      "type": "table",
+      "section": "Crew et. al. 2018",
+      "line": 492,
+      "preview": "|  * - Na concentration includes the Na from $\\mathrm{NaCl} \\& \\mathrm{Na}$ Phos ( 1.3 mEq Na per 1 "
+    },
+    {
+      "type": "text",
+      "section": "Crew et. al. 2018",
+      "line": 494,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Crew et. al. 2018",
+      "line": 496
+    },
+    {
+      "type": "image",
+      "section": "Crew et. al. 2018",
+      "line": 498,
+      "content": "![img-17.jpeg](images/a6dd0fc0b9b1563f.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Fig. 1.",
+      "line": 500
+    },
+    {
+      "type": "text",
+      "section": "Fig. 1.",
+      "line": 502,
+      "preview": "Run-chart of errors following implementation of standardized TPN. Errors in TPN ordering were tracke"
+    },
+    {
+      "type": "text",
+      "section": "Fig. 1.",
+      "line": 504,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "image",
+      "section": "Fig. 1.",
+      "line": 506,
+      "content": "![img-18.jpeg](images/34534f792d609000.png)"
+    },
+    {
+      "type": "image",
+      "section": "Fig. 1.",
+      "line": 508,
+      "content": "![img-19.jpeg](images/dd8e1ae5d811c908.png)"
+    },
+    {
+      "type": "text",
+      "section": "Fig. 1.",
+      "line": 510,
+      "preview": "Utilization of standardized TPN for combined neonates and pediatric patients. Utilization of the sta"
+    },
+    {
+      "type": "text",
+      "section": "Fig. 1.",
+      "line": 512,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 514
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 516,
+      "preview": "Current TPN practices are a major and well-documented safety issue"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 517,
+      "preview": "Institute for Safe Medication Practices put TPN on the light of High-Alert Medications due to \"a hei"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 518,
+      "preview": "TPN2.0 eliminates the risk of human error during compounding. But that's not all:"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 520,
+      "preview": "Deviation by the care team from our AI Recommendations Increases the risk"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 521,
+      "preview": "Mortality by $\\mathbf{3 x}$"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 522,
+      "preview": "Sepsis by $\\mathbf{2 x}$"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 523,
+      "preview": "Necrotizing Enterocolitis by $\\mathbf{2 . 5 x}$"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 524,
+      "preview": "Deviations were validated by manual chart review and were confirmed to be mistakes by the care team!"
+    },
+    {
+      "type": "text",
+      "section": "Deviations from our AI increased mortality by 3X!",
+      "line": 526,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Landscape analysis",
+      "line": 528
+    },
+    {
+      "type": "image",
+      "section": "Landscape analysis",
+      "line": 530,
+      "content": "![img-20.jpeg](images/2b37a70647dffb60.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Takeoff LifeSciences",
+      "line": 532
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "section": "AI-driven Nutrition",
+      "line": 533
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "In-house Compound Pharmacy",
+      "line": 535
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Outside Pharmacy",
+      "line": 537
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Water/Saline",
+      "line": 539
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Cost",
+      "line": 541
+    },
+    {
+      "type": "text",
+      "section": "Cost",
+      "line": 543,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "References",
+      "line": 545
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 547,
+      "preview": "1. Crews, Jacquelyn, et al. \"Total parenteral nutrition standardization and electronic ordering to r"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 548,
+      "preview": "2. Newnham, Mark. \"CAPS' Outsourced Compounding Service.\" Pharmacy Purchasing \\& Products Magazine 7"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 549,
+      "preview": "3. Bozat, Erkut, et al. \"Cost analysis of premixed multichamber bags versus compounded parenteral nu"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "6ba94bf4578bec79.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/6ba94bf4578bec79.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/6ba94bf4578bec79.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6ba94bf4578bec79"
+    },
+    {
+      "sha_name": "54dd59262b6f6c67.png",
+      "original_ref": "img-1.jpeg",
+      "page": 1,
+      "relative_path": "images/54dd59262b6f6c67.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/54dd59262b6f6c67.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "54dd59262b6f6c67"
+    },
+    {
+      "sha_name": "8662518deac54598.png",
+      "original_ref": "img-2.jpeg",
+      "page": 1,
+      "relative_path": "images/8662518deac54598.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/8662518deac54598.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8662518deac54598"
+    },
+    {
+      "sha_name": "958db939a5d7d42b.png",
+      "original_ref": "img-3.jpeg",
+      "page": 1,
+      "relative_path": "images/958db939a5d7d42b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/958db939a5d7d42b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "958db939a5d7d42b"
+    },
+    {
+      "sha_name": "0efa1c745b9f1bac.png",
+      "original_ref": "img-4.jpeg",
+      "page": 1,
+      "relative_path": "images/0efa1c745b9f1bac.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/0efa1c745b9f1bac.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0efa1c745b9f1bac"
+    },
+    {
+      "sha_name": "58872a1df6a6e3a9.png",
+      "original_ref": "img-5.jpeg",
+      "page": 1,
+      "relative_path": "images/58872a1df6a6e3a9.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/58872a1df6a6e3a9.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "58872a1df6a6e3a9"
+    },
+    {
+      "sha_name": "fc8c617d954c032e.png",
+      "original_ref": "img-6.jpeg",
+      "page": 4,
+      "relative_path": "images/fc8c617d954c032e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/fc8c617d954c032e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "fc8c617d954c032e"
+    },
+    {
+      "sha_name": "8bc45dc499851621.png",
+      "original_ref": "img-7.jpeg",
+      "page": 8,
+      "relative_path": "images/8bc45dc499851621.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/8bc45dc499851621.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8bc45dc499851621"
+    },
+    {
+      "sha_name": "f8f6cb7d00701e91.png",
+      "original_ref": "img-8.jpeg",
+      "page": 9,
+      "relative_path": "images/f8f6cb7d00701e91.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/f8f6cb7d00701e91.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f8f6cb7d00701e91"
+    },
+    {
+      "sha_name": "16aff61b748ad894.png",
+      "original_ref": "img-9.jpeg",
+      "page": 10,
+      "relative_path": "images/16aff61b748ad894.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/16aff61b748ad894.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "16aff61b748ad894"
+    },
+    {
+      "sha_name": "d8e21c4b2cfaf150.png",
+      "original_ref": "img-10.jpeg",
+      "page": 10,
+      "relative_path": "images/d8e21c4b2cfaf150.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/d8e21c4b2cfaf150.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d8e21c4b2cfaf150"
+    },
+    {
+      "sha_name": "4fc419ba2e74398f.png",
+      "original_ref": "img-11.jpeg",
+      "page": 11,
+      "relative_path": "images/4fc419ba2e74398f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/4fc419ba2e74398f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4fc419ba2e74398f"
+    },
+    {
+      "sha_name": "9b93532b9b44fa48.png",
+      "original_ref": "img-12.jpeg",
+      "page": 12,
+      "relative_path": "images/9b93532b9b44fa48.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/9b93532b9b44fa48.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9b93532b9b44fa48"
+    },
+    {
+      "sha_name": "066c21ee619714fd.png",
+      "original_ref": "img-13.jpeg",
+      "page": 15,
+      "relative_path": "images/066c21ee619714fd.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/066c21ee619714fd.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "066c21ee619714fd"
+    },
+    {
+      "sha_name": "2d83aac9c5ced4b3.png",
+      "original_ref": "img-14.jpeg",
+      "page": 16,
+      "relative_path": "images/2d83aac9c5ced4b3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/2d83aac9c5ced4b3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2d83aac9c5ced4b3"
+    },
+    {
+      "sha_name": "b1432d3f51e3939a.png",
+      "original_ref": "img-15.jpeg",
+      "page": 23,
+      "relative_path": "images/b1432d3f51e3939a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/b1432d3f51e3939a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b1432d3f51e3939a"
+    },
+    {
+      "sha_name": "1e4eed62f4bcb1d3.png",
+      "original_ref": "img-16.jpeg",
+      "page": 24,
+      "relative_path": "images/1e4eed62f4bcb1d3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/1e4eed62f4bcb1d3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1e4eed62f4bcb1d3"
+    },
+    {
+      "sha_name": "a6dd0fc0b9b1563f.png",
+      "original_ref": "img-17.jpeg",
+      "page": 27,
+      "relative_path": "images/a6dd0fc0b9b1563f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/a6dd0fc0b9b1563f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a6dd0fc0b9b1563f"
+    },
+    {
+      "sha_name": "34534f792d609000.png",
+      "original_ref": "img-18.jpeg",
+      "page": 28,
+      "relative_path": "images/34534f792d609000.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/34534f792d609000.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "34534f792d609000"
+    },
+    {
+      "sha_name": "dd8e1ae5d811c908.png",
+      "original_ref": "img-19.jpeg",
+      "page": 28,
+      "relative_path": "images/dd8e1ae5d811c908.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/dd8e1ae5d811c908.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "dd8e1ae5d811c908"
+    },
+    {
+      "sha_name": "2b37a70647dffb60.png",
+      "original_ref": "img-20.jpeg",
+      "page": 30,
+      "relative_path": "images/2b37a70647dffb60.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/PN Solutions_CB/images/2b37a70647dffb60.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2b37a70647dffb60"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696492",
+    "ts": "2025-08-08T23:41:32.059019+00:00"
+  }
+}

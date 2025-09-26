@@ -1,0 +1,866 @@
+{
+  "doc_id": "guidelines_for_nutrition_support_with_refeeding_syndrome__0785df",
+  "original_filename": "Guidelines for Nutrition Support with Refeeding Syndrome.pdf",
+  "md_path": "data/parsed/Guidelines for Nutrition Support with Refeeding Syndrome/Guidelines for Nutrition Support with Refeeding Syndrome.md",
+  "rmd_path": "data/parsed/Guidelines for Nutrition Support with Refeeding Syndrome/Guidelines for Nutrition Support with Refeeding Syndrome.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Guidelines for Nutrition Support with Refeeding Syndrome",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Introduction",
+      "line": 2
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 4,
+      "preview": "Refeeding syndrome is a term used to describe metabolic and clinical changes that occur with the rap"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 6,
+      "preview": "The goal of these guidelines is to help clinicians identify patients at risk for refeeding syndrome,"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Complications of Electrolyte Abnormalities",
+      "line": 8
+    },
+    {
+      "type": "text",
+      "section": "Complications of Electrolyte Abnormalities",
+      "line": 10,
+      "preview": "To understand the pathophysiology of refeeding syndrome, knowledge of metabolic changes in starvatio"
+    },
+    {
+      "type": "text",
+      "section": "Complications of Electrolyte Abnormalities",
+      "line": 12,
+      "preview": "For patients who have metabolically adapted to starvation, the reintroduction of nutrients, particul"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 14
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 16,
+      "preview": "Weakness (electrolyte abnormalities such as hypophosphatemia)"
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 18,
+      "preview": "- Arrhythmia (hypomagnesaemia and hypokalemia)"
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 19,
+      "preview": "- Heart failure (fluid overload, malnutrition, and hypokalemia)"
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 20,
+      "preview": "- Respiratory issues (hypophosphatemia, fluid overload, and carbon dioxide retention)"
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 21,
+      "preview": "- Neurological defects such as Wernicke's encephalopathy (thiamine deficiency)"
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 22,
+      "preview": "- Anemia (increased red blood cell lysis, hypomagnesemia)"
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 23,
+      "preview": "- Increased infection risk (immunologic dysfunction, hyperglycemia)"
+    },
+    {
+      "type": "text",
+      "section": "Signs/symptoms of Refeeding Syndrome:",
+      "line": 25,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 27
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 29,
+      "preview": "|  Adults @ Risk for Refeeding Syndrome | Moderate Risk: 2 criteria needed | Significant Risk: 1 cri"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 30,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 31,
+      "preview": "|  Body Mass Index (BMI) | 16-18.5 kg/m\u00b2 | <16 kg/m\u00b2  |"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 32,
+      "preview": "|  Wt loss | 5% in 1 month | 7.5% in 3 mos or >/=10% in 6 mos  |"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 33,
+      "preview": "|  Caloric Intake | None/negligible PO x 5-6d OR <75% EER >7d during acute illness or injury OR <75%"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 34,
+      "preview": "|  Abnormal prefeeding K+, phos, or magnesium serum concentrations | Low levels OR normal current le"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 35,
+      "preview": "|  Loss of subcutaneous fat | Evident moderate loss | Evident severe loss  |"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 36,
+      "preview": "|  Loss of muscle mass | Evident moderate loss | Evident severe loss  |"
+    },
+    {
+      "type": "table",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 37,
+      "preview": "|  Higher risk comorbidities | See list below | See list below  |"
+    },
+    {
+      "type": "text",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 39,
+      "preview": "Minimally adapted from: ASPEN, American Society for Parenteral and Enteral Nutrition, Refeeding Cons"
+    },
+    {
+      "type": "text",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 41,
+      "preview": "Other patients who may be at risk for refeeding: - Abused/neglected adults - Advanced age - Anorexia"
+    },
+    {
+      "type": "text",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 43,
+      "preview": "Recommendations for Initiation and Advancement of Nutrition Support in the Inpatient Setting"
+    },
+    {
+      "type": "text",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 45,
+      "preview": "Prior to starting Nutrition Support: 1) Check baseline electrolytes (K,Phos, Mg) and initiate IV rep"
+    },
+    {
+      "type": "text",
+      "section": "Patients at Risk for Refeeding Syndrome",
+      "line": 47,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Initiating Nutrition Support",
+      "line": 49
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 51,
+      "preview": "**Day 1:** continuous rate (DO NOT cycle/bolus)"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 53,
+      "preview": "- 10-20 kcal/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 54,
+      "preview": "- Dextrose 100-150 gm/day"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 55,
+      "preview": "- Limit fluids to 1000-1500 mL for step/day 1; may disregard fluid restriction if patient is tolerat"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 56,
+      "preview": "- particularly small patients may need lower/more tailored volume calculations"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 57,
+      "preview": "- When concentrating fluids in TPN consider limitations with macronutrients, electrolytes, micronutr"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 58,
+      "preview": "- OK to give full amount of protein and fat if adhering to kcal restrictions as above"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 59,
+      "preview": "- Review dosage and duration of dextrose-containing medications and IVF given prior to TF/TPN"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 60,
+      "preview": "- Adjust recommendations accordingly"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 61,
+      "preview": "- if patient is receiving 100-150 gm CHO vs 10-20 kcal/kg already and lytes, BG WNL, can skip step/d"
+    },
+    {
+      "type": "text",
+      "section": "Initiating Nutrition Support",
+      "line": 62,
+      "preview": "- Discontinue dextrose-containing IVF once feeding initiated"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 64
+    },
+    {
+      "type": "text",
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 66,
+      "preview": "- Increase carbohydrate (+ kcal, if possible) 33%/day = ideally, advance over 3 days."
+    },
+    {
+      "type": "text",
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 67,
+      "preview": "- For significant risk and/or with very high calorie needs, may need longer advancement"
+    },
+    {
+      "type": "text",
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 68,
+      "preview": "- For moderate risk or receiving dextrose-containing IVF and stable, may advance more quickly"
+    },
+    {
+      "type": "text",
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 70,
+      "preview": "**PO:** ad lib and encourage slow advancement of carbohydrates, monitor for signs/symptoms of refeed"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Monitoring and Repletion",
+      "line": 72
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Electrolytes:",
+      "line": 74
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 76,
+      "preview": "- Monitor electrolytes (Na, potassium, magnesium, phosphorus) BID for first 3d of feeding"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 77,
+      "preview": "- then daily until stable/uptrending"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 78,
+      "preview": "- then 3x/week for subsequent weeks"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 79,
+      "preview": "- Replete IV"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 81
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 83,
+      "preview": "These are baseline phosphorus electrolyte requirements without refeeding syndrome risk. Consider pat"
+    },
+    {
+      "type": "table",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 85,
+      "preview": "|  Phosphate | 20 to 40 mMol/d  |"
+    },
+    {
+      "type": "table",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 86,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 87,
+      "preview": "|  |   |"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 89,
+      "preview": "If serum phos < 1.8 mg/dL: Continue nutrition support at same rate and replete phosphorus. Do not ad"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 91,
+      "preview": "If serum phos and/or potassium critically low, reduce TF/TPN rate by 50% and replete aggressively. D"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 93,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 95,
+      "preview": "repletion while feeding, may need to reduce feeding rate and/or carbohydrate delivery another 50% un"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 97,
+      "preview": "*Patients with impaired renal function may initially have normal/high electrolytes and decrease over"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 99,
+      "preview": "**Blood Sugar**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 101,
+      "preview": "- Proactively manage blood sugar; achieve glycemic control before advancing TPN dextrose concentrati"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 103,
+      "preview": "**Fluids:** monitor daily fluid status via daily weights, I/Os"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 104,
+      "preview": "- Order daily weights and strict I/Os x first 3d of feeding"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 106,
+      "preview": "Continue to monitor for signs/symptoms of refeeding syndrome (see section on Complications of Electr"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 108,
+      "preview": "**Documentation:**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 110,
+      "preview": "Use Smartphrases .NUTREFEEDSYNDROMEASSESS and .NUTREFEEDSYNDROMERECS"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 112,
+      "preview": "**For Refeeding Syndrome Patients On the Weekend:**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 114,
+      "preview": "- Service-line RDs concerned about significant risk refeeding patients will liaise with primary team"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 116,
+      "preview": "Service line RD will provide comprehensive advancement recs in a pre-weekend note"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 118,
+      "preview": "**For Refeeding Syndrome Patients in the Ambulatory Setting:**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 120,
+      "preview": "- Service-line RDs concerned about at-risk refeeding patients will liaise with the primary team sign"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 122,
+      "preview": "- The following recommendations for initiation and advancement are guidelines, however patients at r"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 124,
+      "preview": "**Recommendations for Initiation and Advancement of Nutrition Support in the Ambulatory Setting:**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 126,
+      "preview": "**For patients at Significant risk for refeeding,**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 128,
+      "preview": "- Direct admission is highly recommended for close electrolyte monitoring, initiation, and advanceme"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 130,
+      "preview": "- Consult the inpatient dietitian to monitor the patient through nutrition support advancement"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 132,
+      "preview": "**For patients at Moderate Risk for refeeding:**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 134,
+      "preview": "**Prior to feeding tube placement or start of TF/TPN:**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 136,
+      "preview": "1) Check baseline electrolytes (K,Phos, Mg) and provide repletion."
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 137,
+      "preview": "2) Once electrolytes stable, consider conservative initiation of tube feeding."
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 138,
+      "preview": "3) Start Vitamins: Daily MVI and 200 mg of Thiamine/day x 10 days"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 140,
+      "preview": "**Initiating Nutrition Support**"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 143,
+      "preview": "MNKOI 0000816658"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 145,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 147,
+      "preview": "Day 1: infuse half carton of formula for each bolus feed or initiate continuous feeding at a low rat"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 149,
+      "preview": "- $10-20 \\mathrm{kcal} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 150,
+      "preview": "- Dextrose 100-150 gm/day"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 151,
+      "preview": "- Limit fluids to 1000-1500mL for step/day 1; may disregard fluid restriction if patient is tolerati"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 152,
+      "preview": "- particularly small patients may need lower/more tailored volume calculations"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 153,
+      "preview": "- Review dosage and duration of dextrose-containing medications and IVF given prior to TF/TPN"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 154,
+      "preview": "- Adjust recommendations accordingly"
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 155,
+      "preview": "- if patient is receiving $100-150 \\mathrm{gm} \\mathrm{CHO}$ vs $10-20 \\mathrm{kcal} / \\mathrm{kg}$ "
+    },
+    {
+      "type": "text",
+      "section": "Daily Baseline Phosphorus Requirements for Adult PN formulations",
+      "line": 156,
+      "preview": "- If applicable, discontinue dextrose-containing IVF once feeding initiated"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 159
+    },
+    {
+      "type": "text",
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 161,
+      "preview": "- Increase carbohydrate (+ kcal, if possible)-by 33\\% of goal every 1-2 days"
+    },
+    {
+      "type": "text",
+      "section": "Subsequent days, increase in step-wise manner",
+      "line": 162,
+      "preview": "- For tube feeding, Increase to full carton of formula for feeds on day 2 of feeding."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Monitoring and Repletion",
+      "line": 165
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Electrolytes:",
+      "line": 167
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 169,
+      "preview": "- Treatment team to:"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 170,
+      "preview": "- Monitor electrolytes (have standing orders for CMP, magnesium and phosphorus) the day after initia"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 171,
+      "preview": "- If there is a critical level for CMP, magnesium, or phosphorus, the patient may require IV repleti"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 172,
+      "preview": "- If electrolytes were replaced, recheck labs the next day. /Check electrolytes 3x/week, or until st"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 173,
+      "preview": "- If electrolytes become difficult to correct or drop precipitously during the initiation of nutriti"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 174,
+      "preview": "- If patient cannot have labs checked, cannot monitor for symptoms of refeeding, and/or it is diffic"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 176,
+      "preview": "Fluids: RN to monitor fluid status via weights in clinic and have patient check daily weight at home"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes:",
+      "line": 177,
+      "preview": "Continue to monitor for signs/symptoms of refeeding syndrome (see section on Complications of Electr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Documentation:",
+      "line": 179
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 181,
+      "preview": "Use Smartphrases .NUTOPREFEEDSYNDROMEASSESS and .NUTOPREFEEDSYNDROMERECS"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 183,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 185,
+      "preview": "References:"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 187,
+      "preview": "Boullata, J., Brantley, S., Corkins, M., Guenter, P., Krenitsky, J., Lyman, B., ... Wessel, J. (2009"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 189,
+      "preview": "Byrnes, M.C., Stangenes, J. (2011). Refeeding in the ICU: an adult and pediatric problem. CurrOpinCl"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 191,
+      "preview": "Coram. Refeeding Syndrome: The Silent Killer [PowerPoint Slides]."
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 193,
+      "preview": "Da Silva et al. (2020). ASPEN Consensus Recommendations for Refeeding Syndrome. NCP 35(2), 178-195."
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 195,
+      "preview": "Gentile M.G., Pastorelli, P., Ciceri, R., Manna, G.M., Collimediglia, S. (2010). Specialized refeedi"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 197,
+      "preview": "Kirkland, L., Kashiwagi, D.T., Brantley, S., Scheurer, D., Varkey, P. (2013). Nutrition in the Hospi"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 199,
+      "preview": "McCray, S., Walker, S., Parrish, C.R. (2005). Much Ado About Refeeding. Practical Gastroenterology, "
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 201,
+      "preview": "McKnight et al. Refeeding Syndrome in the Critically Ill: A Literature Review and Clinician\u2019s Guide."
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 203,
+      "preview": "Mehanna, H., Moledina, J., Travis, J. (2008). Refeeding syndrome: what it is, and how to prevent and"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 205,
+      "preview": "Mehler, P.S., Crews, C.K. (2001). Refeeding the Patient With Anorexia Nervosa. Eating Disorders, 9(2"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 207,
+      "preview": "Mirtallo, J., Canada, T., Johnson, D., Kumpf, V., Petersen, C., Sacks, G., ... Guenter, P. (2004). S"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 209,
+      "preview": "National Institute for Health and Clinical Excellence. (2006). Nutrition support in adults. Clinical"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 211,
+      "preview": "Skipper, A. (2012). Refeeding Syndrome or Refeeding Hypophosphatemia: A Systematic Review of Cases. "
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 213,
+      "preview": "Zeki, S., Culkin, A., Gabe, S.M., Nightingale, J.M. (2011). Refeeding hypophosphatemia is more commo"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 215,
+      "preview": "Parrish CR, McCray, S. (2016). Refeeding the Malnourished Patient: Lessons Learned. Practical Gastro"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 217,
+      "preview": "Citations for phos repletion:"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 219,
+      "preview": "Kraft MD, Btaiche IF, Sacks GS, Kudsk KA. Treatment of electrolyte disorders in adult patients in th"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 221,
+      "preview": "Taylor BE, Huey WY, Buchman TG, et al. Treatment of hypophosphatemia using a protocol based on patie"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 223,
+      "preview": "Subramanian R, Khardori R. Severe hypophosphatemia. Pathophysiologic implications, clinical presenta"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 225,
+      "preview": "Brown KA, Dickerson RN, Morgan LM, et al. A new graduated dosing regimen for phosphorus replacement "
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 227,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 229,
+      "preview": "Weisinger JR, Bellor\u00edn-Font E. Magnesium and phosphorus. Lancet 1998; 352:391."
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 230,
+      "preview": "Bruno J, Canada T, Canada N, Tucker AM, Ybarra JV. ASPEN Fluids, Electrolytes, and Acid-Base Disorde"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 232,
+      "preview": "Created: 4/2013 JD, JS, QS, JW"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 233,
+      "preview": "Updated 2/2018 QS, JB, AW, MM, LC"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 234,
+      "preview": "Updated 8/2021 MC, RM, KM, KC, BP"
+    },
+    {
+      "type": "text",
+      "section": "Documentation:",
+      "line": 235,
+      "preview": "Updated 9/2023 KM, ND, QS"
+    }
+  ],
+  "images": [],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696451",
+    "ts": "2025-08-08T23:40:51.720779+00:00"
+  }
+}

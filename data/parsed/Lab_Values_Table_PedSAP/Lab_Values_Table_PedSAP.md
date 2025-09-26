@@ -1,0 +1,136 @@
+# PedSAP
+
+Pediatric Self-Assessment Program
+
+## REFERENCE VALUES FOR COMMON LABORATORY TESTS ${ }^{1}$
+
+|  Serum Chemistries |  | Reference Range  |
+| --- | --- | --- |
+|  Albumin | Premature 1 day | $1.8-3 \mathrm{~g} / \mathrm{dL}$  |
+|   | Full-term $<6$ days | $2.5-3.9 \mathrm{~g} / \mathrm{dL}$  |
+|   | 8 days-1 year | $1.9-4.9 \mathrm{~g} / \mathrm{dL}$  |
+|   | 1-3 years | $3.4-5.2 \mathrm{~g} / \mathrm{dL}$  |
+|   | 4-19 years | $3.5-5.6 \mathrm{~g} / \mathrm{dL}$  |
+|  Ammonia | Newborn - Child | $29-150 \mathrm{mcg} / \mathrm{dL}$  |
+|   | Adult | $15-60 \mathrm{mcg} / \mathrm{dL}$  |
+|  Amylase | 1-19 years | $30-100 \mathrm{units} / \mathrm{L}$  |
+|  Alanine aminotransferase (ALT) | $<7$ days | $6-40 \mathrm{units} / \mathrm{L}$  |
+|   | 8-30 days: |   |
+|   | Male | $10 \mathrm{to} 40 \mathrm{units} / \mathrm{L}$  |
+|   | Female | $8-12 \mathrm{units} / \mathrm{L}$  |
+|   | 1-12 months | $12-45 \mathrm{units} / \mathrm{L}$  |
+|   | 1-19 years | $5-55 \mathrm{units} / \mathrm{L}$  |
+|  Alkaline phosphatase (ALP) | 1-12 months | $150-420 \mathrm{units} / \mathrm{L}$  |
+|   | 1-9 years | $100-420 \mathrm{units} / \mathrm{L}$  |
+|   | 10-11 years | $140-560 \mathrm{units} / \mathrm{L}$  |
+|   | 12-13 years: |   |
+|   | Male | $100-495 \mathrm{units} / \mathrm{L}$  |
+|   | Female | $100-420 \mathrm{units} / \mathrm{L}$  |
+|   | 14-15 years: |   |
+|   | Male | $100-525 \mathrm{units} / \mathrm{L}$  |
+|   | Female | $70-320 \mathrm{units} / \mathrm{L}$  |
+|   | 16-19 years: |   |
+|   | Male | $65-260 \mathrm{units} / \mathrm{L}$  |
+|   | Female | $50-320 \mathrm{units} / \mathrm{L}$  |
+|  Aspartate aminotransferase (AST) | Newborn $<7$ days: |   |
+|   | Male | $30-150 \mathrm{units} / \mathrm{L}$  |
+|   | Female | $24-150 \mathrm{units} / \mathrm{L}$  |
+|   | 8 days - $<12$ months | $9-80 \mathrm{units} / \mathrm{L}$  |
+|   | 1-3 years | $20-60 \mathrm{units} / \mathrm{L}$  |
+|   | 3-9 years | $15-50 \mathrm{units} / \mathrm{L}$  |
+|   | 10-15 years | $10-40 \mathrm{units} / \mathrm{L}$  |
+|   | 16-19 years: |   |
+|   | Male | $15-45 \mathrm{units} / \mathrm{L}$  |
+|   | Female | $5 \mathrm{to} 30 \mathrm{units} / \mathrm{L}$  |
+|  Bilirubin, direct | Newborn | $<0.6 \mathrm{mg} / \mathrm{dL}$  |
+|   | $>2$ month | $<0.2 \mathrm{mg} / \mathrm{dL}$  |
+|  Bilirubin, total | Cord blood | $<2 \mathrm{mg} / \mathrm{dL}$  |
+|   | Premature $<6$ days | $<16 \mathrm{mg} / \mathrm{dL}$  |
+|   | Full-term $<6$ days | $<12 \mathrm{mg} / \mathrm{dL}$  |
+|   | 1 month- $<12$ months | $<2 \mathrm{mg} / \mathrm{dL}$  |
+|   | 1-19 years | $<1.5 \mathrm{mg} / \mathrm{dL}$  |
+|  Blood urea nitrogen (BUN) | All ages | $2-20 \mathrm{mg} / \mathrm{dL}$  |
+|  Calcium, ionized | Cord blood | $5-6 \mathrm{mg} / \mathrm{dL}$  |
+|   | Newborn 3-24 hours | $4.3-5.1 \mathrm{mg} / \mathrm{dL}$  |
+|   | Newborn 24-38 hours | $4-4.7 \mathrm{mg} / \mathrm{dL}$  |
+|   | $>2$ days | $4.8-4.92 \mathrm{mg} / \mathrm{dL}$  |
+|  Calcium, total serum | Cord blood | $9.5-11.5 \mathrm{mg} / \mathrm{dL}$  |
+|   | Newborn 3-24 hours | $9-10.6 \mathrm{mg} / \mathrm{dL}$  |
+|   | Newborn 24-48 hours | $7-12 \mathrm{mg} / \mathrm{dL}$  |
+|   | 4-7 days | $6.7-10.9 \mathrm{mg} / \mathrm{dL}$  |
+|   | Child | $8.8-10.8 \mathrm{mg} / \mathrm{dL}$  |
+|   | Adolescent-Adult | $8.4-10.2 \mathrm{mg} / \mathrm{dL}$  |
+|  Carbon dioxide (venous) ( $\mathrm{CO}_{2}$ ) | All ages | $20-30 \mathrm{mEq} / \mathrm{L}$  |
+|  Chloride (Cl) | All ages | $95-108 \mathrm{mEq} / \mathrm{L}$  |
+|  C-reactive protein (CRP) | All ages | $<0.8 \mathrm{mg} / \mathrm{dL}$  |
+|  Creatine kinase (CK) | Cord blood | $70-380 \mathrm{units} / \mathrm{L}$  |
+|   | Newborn 5-8 hours | $214-1175 \mathrm{units} / \mathrm{L}$  |
+|   | Newborn 24-33 hours | $130-1200 \mathrm{units} / \mathrm{L}$  |
+|   | Newborn 72-100 hours | $87-1578 \mathrm{units} / \mathrm{L}$  |
+|   | Adult | $5-200 \mathrm{units} / \mathrm{L}$  |
+|  Creatinine, serum (SCr) | Cord blood | $0.6-1.2 \mathrm{mg} / \mathrm{dL}$  |
+|   | Newborn | $0.3-1 \mathrm{mg} / \mathrm{dL}$  |
+|   | Child | $0.3-0.7 \mathrm{mg} / \mathrm{dL}$  |
+|   | Adolescent | $0.5-1 \mathrm{mg} / \mathrm{dL}$  |
+|   | Adult male | $0.9-1.2 \mathrm{mg} / \mathrm{dL}$  |
+|   | Adult Yemale | $0.6-1.1 \mathrm{mg} / \mathrm{dL}$  |
+|  Creatinine (clearance) (CrCl) | All ages | $90-140 \mathrm{~mL} /$ minute $/ 1.73 \mathrm{~m}^{2}$  |
+
+|  y-Glutamyl transpeptidase (GGT) | Newborn - $<2$ months | 12-147 units/L  |
+| --- | --- | --- |
+|   | 2- $<4$ months | 8-90 units/L  |
+|   | 4 months - 19 years | 5-32 units/L  |
+|   | Adult | 7-49 units/L  |
+|  Glucose, serum | Cord blood | 45-96 mg/dL  |
+|   | Premature | 20-60 mg/dL  |
+|   | Newborn 1 day | 40-60 mg/dL  |
+|   | Newborn $>1$ day | 50-90 mg/dL  |
+|   | Child | 60-100 mg/dL  |
+|   | Adult | 70-105 mg/dL  |
+|  Hemoglobin A1C (A1C) | All ages | $4 \%-6 \%$  |
+|  Lactate dehydrogenase (LDH) | Newborn | 180-2000 units/L  |
+|   | 1 month - $<1$ year | 170-500 units/L  |
+|   | 1-9 years | 110-500 units/L  |
+|   | 10-19 years | 100-330 units/L  |
+|  Lipase | 1-18 years | 1-216 units/L  |
+|  Magnesium | All ages | $1.5-2.5 \mathrm{mEq} / \mathrm{L}$  |
+|  Osmolality, serum | All ages | 266-295 mOsm/kg  |
+|  Phosphorus (inorganic) $\left(\mathrm{PO}_{4}\right)$ | Newborn 0-5 days | 4.5-9 mg/dL  |
+|   | 1-3 years | 3.8-6.5 mg/dL  |
+|   | 4-11 years | 3.2-5.8 mg/dL  |
+|   | 12-15 years | 2.9-5.4 mg/dL  |
+|   | 16-19 years | 2.4-4.7 mg/dL  |
+|  Potassium (K) | Newborn | 3.7-7.2 mEq/L  |
+|   | 1- $<3$ months | 4.0-6.2 mEq/L  |
+|   | 3 months-1 year | 3.4-5.6 mEq/L  |
+|   | 1-16 years | 3.5-5.1 mEq/L  |
+|  Prealbumin | $>1$ month | 8-42 mg/dL  |
+|  Sodium (Na) | All ages | 130-147 mEq/L  |
+|  Transferrin saturation | All ages | 10-50\%  |
+|  Uric acid, serum | Newborn-14 years | 1-7 mg/dL  |
+|  Age | Hemoglobin ( $\mathrm{g} / \mathrm{dL}$ ) | $\begin{aligned} & \text { Hematocrit } \ & \text { (\%) } \end{aligned}$  |
+|   |  | $\begin{aligned} & \text { MCV } \ & \text { (fL) } \end{aligned}$  |
+|   |  | $\begin{aligned} & \text { MCV } \ & \text { (pg/cell) } \end{aligned}$  |
+|  $\leq 30$ | $15-24$ | $44-70$  |
+|  $\begin{aligned} & 4-5.5 \ & 11-23 \end{aligned}$ | $15-24$ | $44-70$  |
+|  $\begin{aligned} & 10-17 \ & 10-17 \end{aligned}$ | $10-14$ | $32-42$  |
+|  $\begin{aligned} & 2-9 \mathrm{yr} \ & 10-17 \end{aligned}$ | $11.5-14.5$ | $33-43$  |
+|  $\begin{aligned} & 10-17 \ & 10-17 \end{aligned}$ | $12.5-16.1$ | $36-47$  |
+|  $\begin{aligned} & 18-17 \ & 95 \end{aligned}$ | $12-15$ | $35-45$  |
+|  $\begin{aligned} & 18-17 \ & 95 \end{aligned}$ | $12-15$ | $35-45$  |
+|  $\begin{aligned} & 2-18 \mathrm{yr} \ & 10-18 \end{aligned}$ | $13.5-18$ | $42-52$  |
+|  $\begin{aligned} & 2-18 \mathrm{yr} \ & 10-18 \end{aligned}$ | $12.5-16$ | $37-47$  |
+|  $\begin{aligned} & 2-18 \mathrm{yr} \ & 10-18 \end{aligned}$ | $12.5-16$ | $37-47$  |
+
+Value for ages 0-7 days; for age $>7$ days, similar to range for all patient ages.
+
+|  Blood Gases |  |  |   |
+| --- | --- | --- | --- |
+|   | Arterial | Capillary | Venous  |
+|  pH | 7.35-7.45 | 7.35-7.45 | 7.32-7.42  |
+|  Partial pressure of carbon dioxide $\left(\mathrm{PCO}_{2}\right)$ | $32-48 \mathrm{~mm} \mathrm{Hg}$ | $35-45 \mathrm{~mm} \mathrm{Hg}$ | $38-52 \mathrm{~mm} \mathrm{Hg}$  |
+|  Partial pressure of oxygen $\left(\mathrm{PO}_{2}\right)$ | $70-108 \mathrm{~mm} \mathrm{Hg}$ | $60-80 \mathrm{~mm} \mathrm{Hg}$ | $24-48 \mathrm{~mm} \mathrm{Hg}$  |
+|  Oxygen saturation $\left(\mathrm{SaO}_{2}\right)$ | $90-95 \%$ | $90-95 \%$ | $40-70 \%$  |
+|  Serum bicarbonate $\left(\mathrm{HCO}_{3}\right)$ | $19-28 \mathrm{mEq} / \mathrm{L}$ | $19-25 \mathrm{mEq} / \mathrm{L}$ | $19-25 \mathrm{mEq} / \mathrm{L}$  |
+
+*Values given in this table are commonly accepted reference ranges compiled from many sources. Patient-specific goals may differ depending on age, sex, clinical condition, and the laboratory methodology used to perform the assay. Information from: Pediatric and Neonatal Dosage Handbook, 21st ed. Hudson, Ohio: Lexicomp, 2014; AMA Manual of Style, 10th ed. New York: Oxford University Press, 2007; Apex P, Warrington L. Diagnosis and treatment of simple acid-base disorders. Nutr Clin Pract 2008;23:122-7; DFres D, Talbert RL, Nee GC, et al., eds. Pharmacotherapy: A Pathophysiologic Approach, 8th ed. New York: McGraw-Hill Medical, 2011; Lee M. Bass Skills in Interpreting Laboratory Data, 4th ed. Bethesda, MD: American Society of Health-System Pharmacists, 2009; and MUSC Health, Laboratory Services. Test Directory and Specimen Collection Handbook. Charleston, SC: MUSC Pathology and Laboratory Services, 2008-2009; The Harriet Lane Handbook, 21st ed. Philadelphia, Pennsylvania: Elsevier, 2018.

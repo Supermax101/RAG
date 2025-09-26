@@ -1,0 +1,3024 @@
+{
+  "doc_id": "7_administrationofnutritionsupport_part1__ff8a2c",
+  "original_filename": "7_AdministrationofNutritionSupport,Part1.pdf",
+  "md_path": "data/parsed/7_AdministrationofNutritionSupport,Part1/7_AdministrationofNutritionSupport,Part1.md",
+  "rmd_path": "data/parsed/7_AdministrationofNutritionSupport,Part1/7_AdministrationofNutritionSupport,Part1.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Administration of Nutrition Support, Part 1",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Administration of Nutrition Support, Part 1",
+      "line": 4,
+      "content": "![img-0.jpeg](images/412f1b1b557f1ba0.png)"
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 1",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 1",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 1",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Administration of Nutrition Support, Part 1",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 1",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 1",
+      "line": 15,
+      "preview": "Andrew Mays, Pharm.D., BCNSP, CNSC University of Mississippi Medical Center"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION OF NUTRITION SUPPORT PART 1",
+      "line": 17,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 19
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 21,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 27,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 29,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 31
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 33,
+      "preview": "- Review critical safety measures for initiating parenteral or enteral nutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Identify measures aimed at preventing tubing misconnections involving enteral and parenteral nutri"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Discuss administration procedures for parenteral nutrition to prevent complications related to tub"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Distinguish steps in managing TNA vs. 2-in-1 parenteral nutrition with separate lipid injectable e"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 39
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- ICU:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- ILE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- NKDA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- PPN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- TNA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "intensive care unit"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "lipid injectable emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "no known drug allergies"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "peripheral parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "total nutrient admixture"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 58
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 60,
+      "preview": "A 61-year-old woman with a history of Crohn's disease, develops persistent nausea and vomiting. X-ra"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 61,
+      "preview": "A. Low residue oral diet"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 62,
+      "preview": "B. Parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 63,
+      "preview": "C. Peripheral intravenous fluids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 64,
+      "preview": "D. Tube feeding"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 66
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 68,
+      "preview": "A 28 year old man was admitted to the ICU 7 days ago with multiple trauma following a motor vehicle "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 69,
+      "preview": "A. The osmolality limit for PPN is set at $600 \\mathrm{mOsm} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 70,
+      "preview": "B. The expected duration of therapy should be greater than 2 weeks."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 71,
+      "preview": "C. PPN avoids the risks associated with central line placement"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 72,
+      "preview": "D. PPN is most appropriate for use with hypermetabolic conditions"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 74,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 76
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 78,
+      "preview": "- Collaborative interdisciplinary approaches"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 79,
+      "preview": "- Evidence-based policies and procedures"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 80,
+      "preview": "- Define the roles \\& responsibilities of all involved"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 81,
+      "preview": "- Avoid variations in practice"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 82,
+      "preview": "- Implement protocols"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 83,
+      "preview": "- Standardize procedures (Equipment, hang time, care of access device, etc)"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 84,
+      "preview": "- Address challenges to optimal delivery of nutrition support delivery"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 85,
+      "preview": "- Selection, insertion, and maintenance of access devices"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 86,
+      "preview": "- Correct environmental issues that contribute to errors"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 87,
+      "preview": "- Work flow issues, distractions"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 88,
+      "preview": "- Availability of supplies and equipment"
+    },
+    {
+      "type": "text",
+      "section": "THE FOUNDATION FOR SAFE NUTRITION SUPPORT PRACTICE",
+      "line": 90,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 92
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 94,
+      "preview": "Judicious selection of candidates"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 96,
+      "preview": "Appropriate indication for nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 98,
+      "preview": "Decisions guided by results of assessment findings"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 100,
+      "preview": "Evaluation of potential for complications"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 102,
+      "preview": "- Interdisciplinary collaboration"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 103,
+      "preview": "-Evidence based guidelines for indications"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 104,
+      "preview": "-Patient and caregiver agreement"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 105,
+      "preview": "- Assessment of risk versus benefit"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 106,
+      "preview": "- Timing of intervention is consistent with guidelines"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 107,
+      "preview": "- Nutrition plan is aligned with overall plan of care"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 108,
+      "preview": "- Nutrition status"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 109,
+      "preview": "- Gl function"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 110,
+      "preview": "- Clinical and metabolic stability"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 111,
+      "preview": "- Risk for complications of nutrition support access"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 112,
+      "preview": "- Risk forrefeeding syndrome"
+    },
+    {
+      "type": "text",
+      "section": "INITIATING NUTRITION SUPPORT SAFELY",
+      "line": 114,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 116
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 118,
+      "preview": "- Enteral nutrition is preferred when Gl tract is functional"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 119,
+      "preview": "- Advantages of enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 120,
+      "preview": "- Relies on normal digestive pathways"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 121,
+      "preview": "- Provides a more complete range of nutrients"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 122,
+      "preview": "- Preserves integrity of the gut, especially immune factors"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 123,
+      "preview": "- Associated with favorable outcomes compared to parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 124,
+      "preview": "- Lower risk of infection"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 125,
+      "preview": "- Fewer metabolic complications than IV route"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 126,
+      "preview": "- Less expensive than parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 127,
+      "preview": "- Reserve PN for situation where Gl function is inadequate"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 129,
+      "preview": "GUIDELINES FOR PN INITIATION"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 131,
+      "preview": "- Do not use based solely on medical diagnosis or disease state"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 132,
+      "preview": "- Evaluate clinical factors from history, physical examination, and diagnostic evaluations in determ"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 133,
+      "preview": "- Conduct a clinical review to assess PN appropriateness prior to compounding the PN admixture"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 134,
+      "preview": "- Use PN in patients who are malnourished or at risk for malnutrition when:"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 135,
+      "preview": "- A contraindication to EN exists OR"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 136,
+      "preview": "- Patient cannot tolerate adequate EN OR"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 137,
+      "preview": "- Lacks sufficient bowel function to maintain or restore nutrition status due to Gl dysfunction"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT GUIDELINES",
+      "line": 139,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "INDICATIONS FOR PARENTERAL NUTRITION",
+      "line": 141
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "- Impaired absorption",
+      "line": 143
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 145,
+      "preview": "- short bowel syndrome, fistula"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 146,
+      "preview": "- Mechanical bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 147,
+      "preview": "- stricture, tumor"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 148,
+      "preview": "- Motility disorders"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 149,
+      "preview": "- pseudo-obstruction, ileus, severe adhesive disease"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 150,
+      "preview": "- Need for bowel rest"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 151,
+      "preview": "- ischemic bowel, neutropenic colitis"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 152,
+      "preview": "- Inability to place or maintain safe enteral access"
+    },
+    {
+      "type": "text",
+      "section": "- Impaired absorption",
+      "line": 154,
+      "preview": "Worthington P et al. JPEN J Parenter Enter Nutr. 2017; 41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ASHLEY'S CASE",
+      "line": 156
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 158,
+      "preview": "- Age: 37 year-old female"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 159,
+      "preview": "- Presents to the ED with fever, vomiting, and abdominal pain:"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 160,
+      "preview": "- 1 day history of fever, malaise, and abdominal pain which progressed to two vomiting episodes in 6"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 161,
+      "preview": "- No diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 162,
+      "preview": "- Subsequent work-up confirms acute pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 164,
+      "preview": "CC Image courtesy of the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). h"
+    },
+    {
+      "type": "image",
+      "section": "ASHLEY'S CASE",
+      "line": 165,
+      "content": "![img-1.jpeg](images/0670f8c9f5d1d19b.png)"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 167,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASHLEY'S CASE",
+      "line": 169
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 171,
+      "preview": "- Past medical history:"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 172,
+      "preview": "- Short bowel syndrome (SBS) due to Crohn's disease (285 cm of functional small intestine and an int"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 173,
+      "preview": "- Chronic diarrhea usually controlled by loperamide"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 174,
+      "preview": "- Chronic anemia"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 175,
+      "preview": "- Diet: Generally oral diet with oral supplements and vitamins"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 176,
+      "preview": "- Current medications:"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 177,
+      "preview": "- Azathioprine"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 178,
+      "preview": "- Loperamide"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 179,
+      "preview": "- Clonidine"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 180,
+      "preview": "- Prenatal vitamin"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 181,
+      "preview": "- Cyanocobalamin"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 182,
+      "preview": "- Iron sucrose"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 183,
+      "preview": "- NKDA"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ASHLEY'S CASE",
+      "line": 186
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 188,
+      "preview": "- Vitals:"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 189,
+      "preview": "- RR: 18 breaths/min"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 190,
+      "preview": "- Pulse: 98-104 bpm, sinus tachycardia"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 191,
+      "preview": "- BP: 106/65 mmHg"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 192,
+      "preview": "- Temp: $101.5^{\\circ} \\mathrm{F}$"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 193,
+      "preview": "- Weight: 62.5 kg (decreased 0.8 kg from baseline)"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 194,
+      "preview": "- Height: 5'7\" (170.2 cm)"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 195,
+      "preview": "- Body mass index: $21.5 \\mathrm{~kg} / \\mathrm{m}^{2}$"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE",
+      "line": 197,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 199
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 201,
+      "preview": "Is PN indicated upon admission for Ashley?"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 202,
+      "preview": "A. Yes; because of SBS and/or Crohn's disease"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 203,
+      "preview": "B. Yes; because of acute pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 204,
+      "preview": "C. Yes; because of abdominal pain and vomiting"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 205,
+      "preview": "D. No; because she tolerated an oral diet prior to admission"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 207
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 209,
+      "preview": "Is PN indicated upon admission for Ashley?"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 210,
+      "preview": "A. Yes; because of SBS and/or Crohn's disease"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 211,
+      "preview": "B. Yes; because of acute pancreatitis"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 212,
+      "preview": "C. Yes; because of abdominal pain and vomiting"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 213,
+      "preview": "D. No; because she tolerated an oral diet prior to admission"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 215,
+      "preview": "Rationale: Gut was functional prior to admission; no contraindication to EN"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#4",
+      "line": 217,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 219
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 221,
+      "preview": "- Oral diet not feasible"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 222,
+      "preview": "- What is her malnutrition risk?"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 223,
+      "preview": "- Weight change: No"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 224,
+      "preview": "- Pre-admission intake: Adequate"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 225,
+      "preview": "- Comorbidities: Controlled with medical management"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 226,
+      "preview": "- No absolute or relative contraindication to EN"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 229
+    },
+    {
+      "type": "text",
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 231,
+      "preview": "- Mechanical obstruction of the gastrointestinal tract"
+    },
+    {
+      "type": "text",
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 232,
+      "preview": "- Uncontrolled peritonitis"
+    },
+    {
+      "type": "text",
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 233,
+      "preview": "- Uncorrected coagulopathy or thrombocytopenia"
+    },
+    {
+      "type": "text",
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 234,
+      "preview": "- Bowel ischemia"
+    },
+    {
+      "type": "text",
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 235,
+      "preview": "- Recent gastrointestinal bleeding with high risk of recurrent bleeding (peptic ulcer disease or eso"
+    },
+    {
+      "type": "text",
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 236,
+      "preview": "- Intractable nausea and diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "CONTRAINDICATIONS FOR EN",
+      "line": 238,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 240
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 242,
+      "preview": "- Admitted to the medical ICU, started on IV fluid for dehydration"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 243,
+      "preview": "- Anti-emetics (ondansetron + diphenhydramine) for nausea and vomiting"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 244,
+      "preview": "- Blood culture sent, result pending"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 245,
+      "preview": "- Pain management"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 246,
+      "preview": "- Post-pyloric feeding tube placed (past the ligament of Treitz)"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 247,
+      "preview": "- EN to be started with a semi-elemental formula"
+    },
+    {
+      "type": "image",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 248,
+      "content": "![img-2.jpeg](images/8de4a22572ef49a5.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 251
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 253,
+      "preview": "- Verification Procedures for Nutrition Support"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 255,
+      "preview": "1. Confirm patient identity using 2 identifiers per organizational policy"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 256,
+      "preview": "2. Match components of PN formulation or EN product label against prescriber order"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 257,
+      "preview": "a) Product name, route, initiation time, rate of delivery and beyond use date"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 258,
+      "preview": "3. Inspect container to detect defects or visual changes"
+    },
+    {
+      "type": "image",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 259,
+      "content": "![img-3.jpeg](images/6b2234bd76218919.png)"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 261,
+      "preview": "CC Image courtesy Shutterstock.com"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN",
+      "line": 263,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 265
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 267,
+      "preview": "- Verification Procedures for Nutrition Support"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 269,
+      "preview": "1. Verify correct access device"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 270,
+      "preview": "a. Confirmation of correct position prior to first dose, per organizational policy"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 271,
+      "preview": "b. EN: Gastric vs Jejunal"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 272,
+      "preview": "c. PN: Correct vascular device"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 273,
+      "preview": "i. Central vs peripheral"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 274,
+      "preview": "ii. Dedicated lumen"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 275,
+      "preview": "d. Confirm patency of access device"
+    },
+    {
+      "type": "text",
+      "section": "VERIFICATION STEPS: EN AND PN, CONT.",
+      "line": 277,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 279
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 281,
+      "preview": "Tube feeding is about to be initiated via the NJ tube. The ICU nurse directs the feeding tube toward"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 282,
+      "preview": "A. Allows the patient to see that she is receiving adequate nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 283,
+      "preview": "B. Reduces the risk of tubing misconnections"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 284,
+      "preview": "C. Avoids microbial contamination of the enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 285,
+      "preview": "D. Facilitates administration of medications with enteral formulation"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 287,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 289
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 291,
+      "preview": "Tube feeding is about to be initiated via the NJ tube. The ICU nurse directs the feeding tube toward"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 292,
+      "preview": "A. Allows the patient to see that she is receiving adequate nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 293,
+      "preview": "B. Reduces the risk of tubing misconnections"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 294,
+      "preview": "C. Avoids microbial contamination of the enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#5",
+      "line": 295,
+      "preview": "D. Facilitates administration of medications with enteral formulation"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 297
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 299,
+      "preview": "- Issue: Universal Luer Connectors"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 300,
+      "preview": "- Allow connection of functionally dissimilar tubes and catheters"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 301,
+      "preview": "- Reports involve:"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 302,
+      "preview": "- IV catheters"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 303,
+      "preview": "- feeding tubes"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 304,
+      "preview": "- tracheostomy cuffs"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 305,
+      "preview": "- hemo/peritoneal dialysis tubes"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 306,
+      "preview": "- neuraxial catheters"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 307,
+      "preview": "- A persistent and potentially fatal event: 116 reports; 21 deaths"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 309,
+      "preview": "Simmons D et al. Nutr Clin Pract. 2011;26(3):286-93."
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 310,
+      "preview": "The Joint Commission. https://www.jointcommission.org/sea_issue_53/ (accessed 2019 Mar 14)."
+    },
+    {
+      "type": "image",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 311,
+      "content": "![img-4.jpeg](images/7667dd7a76027700.png)"
+    },
+    {
+      "type": "text",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS",
+      "line": 313,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "THE DANGER OF TUBING MISCONNECTIONS, CONT.",
+      "line": 315
+    },
+    {
+      "type": "image",
+      "section": "THE DANGER OF TUBING MISCONNECTIONS, CONT.",
+      "line": 317,
+      "content": "![img-5.jpeg](images/0701e704546ab79f.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 319
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 321,
+      "preview": "1. Trace all lines back to their point of origin"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 322,
+      "preview": "2. Recheck connections and trace all lines as part of a handoff process"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 323,
+      "preview": "3. Never force connections"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 324,
+      "preview": "4. Designate route on product label"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 325,
+      "preview": "5. Label certain high-risk catheters as to the type of catheter"
+    },
+    {
+      "type": "image",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 326,
+      "content": "![img-6.jpeg](images/f7fad7555b1a219f.png)"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 328,
+      "preview": "CC Image courtesy of the American Society for"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 329,
+      "preview": "Enteral and Parenteral Nutrition (ASPEN)"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 331,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 333
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 335,
+      "preview": "6. Route lines with different purposes in unique and standardized directions (e.g., route IV lines t"
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 336,
+      "preview": "7. Global initiative for complete design change: System specific connectors - starting with enteral "
+    },
+    {
+      "type": "text",
+      "section": "RISK REDUCTION STRATEGIES",
+      "line": 338,
+      "preview": "GEDSA. ENFit\u00ae Advocacy Meeting. 2017 Jul."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ENFIT\u00ae CONNECTORS: INCOMPATIBILITY BY DESIGN",
+      "line": 340
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae CONNECTORS: INCOMPATIBILITY BY DESIGN",
+      "line": 342,
+      "content": "![img-7.jpeg](images/b1a560055210e9ce.png)"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTORS: INCOMPATIBILITY BY DESIGN",
+      "line": 344,
+      "preview": "CC Image courtesy of the Global Enteral Device Supplier Association."
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONNECTORS: INCOMPATIBILITY BY DESIGN",
+      "line": 346,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 348
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 350,
+      "preview": "- **Availability of adaptors**"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 351,
+      "preview": "- Serve as a crutch"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 352,
+      "preview": "- Perpetuate risks"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 353,
+      "preview": "- **Delay rollout for modified syringe design**"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 354,
+      "preview": "- Variation in dead space; risk for dose variation, especially in pediatrics"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 355,
+      "preview": "- Work flow: How to deliver medication to clinical area (Type of tube? oral, ENFit\u00ae syringe or luer "
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 356,
+      "preview": "- Need for pharmacy equipment and supply overhaul"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 357,
+      "preview": "- **Regulatory influence by FDA and The Joint Commission**"
+    },
+    {
+      "type": "text",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 359,
+      "preview": "*The Joint Commission. https://www.jointcommission.org/sea_issue_53/ (accessed 2019 Mar 14).*"
+    },
+    {
+      "type": "image",
+      "section": "ENFIT\u00ae CONVERSION CHALLENGES",
+      "line": 361,
+      "content": "![img-8.jpeg](images/9aa922bdfe71174f.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 363
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 365,
+      "preview": "- **Administration Procedures for Nutrition Support**"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 366,
+      "preview": "1. Verify correct pump settings as indicated"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 367,
+      "preview": "2. Two infusion pumps for dextrose/amino acids and ILE administered as a separate infusion"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 368,
+      "preview": "3. Double check settings with a second clinician per organizational policy"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 369,
+      "preview": "4. Adhere to sound infection control practices"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 370,
+      "preview": "- Hand hygiene"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 371,
+      "preview": "- Hang times"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 372,
+      "preview": "- EN hang times"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 373,
+      "preview": "- PN and lipid hang times"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 375,
+      "preview": "*Worthington P et al. JPEN J Parenter Enter Nutr. 2017;41:324-77.*"
+    },
+    {
+      "type": "text",
+      "section": "ADMINISTRATION STEPS: EN AND PN",
+      "line": 377,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 379
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 381,
+      "preview": "- Pump-related errors"
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 382,
+      "preview": "- Wide use of multichannel pumps: enteral and parenteral"
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 383,
+      "preview": "- Pump programming errors most common; potential for severe harm"
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 384,
+      "preview": "- Double checks to verify pump settings"
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 385,
+      "preview": "- Performed by 2 clinicians alone and apart from each other"
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 386,
+      "preview": "- Expand to additional phases of nutrition support administration based on quality data, patient pop"
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 387,
+      "preview": "- When administering the dextrose/amino acid component of the PN and the ILE as separate infusions, "
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 388,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333."
+    },
+    {
+      "type": "text",
+      "section": "DOUBLE CHECK PUMP SETTINGS",
+      "line": 389,
+      "preview": "AHRQ. PSNet. https://psnet.ahrq.gov/cases/case/103 (accessed 2019 Mar 14)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 392
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 394,
+      "preview": "- A listing of actions in the PN delivery sequence to ensure that no step is forgotten"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 395,
+      "preview": "- Addresses failures due to distraction or concentration rather than errors due to lack of experienc"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 396,
+      "preview": "- Focus on key problem areas"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 397,
+      "preview": "- Aseptic technique"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 398,
+      "preview": "- Verification"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 399,
+      "preview": "- Tubing connections"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 400,
+      "preview": "- Initiation, maintenance of infusion"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 401,
+      "preview": "- Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "PN ADMINISTRATION CHECKLIST",
+      "line": 403,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ADMINISTRATION STEPS: EN AND PN, CONT.",
+      "line": 405
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 407
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 409,
+      "preview": "- Maintain infusion at prescribed rate"
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 410,
+      "preview": "- Use nurse-driven protocols for EN administration"
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 411,
+      "preview": "- Avoid interruptions of PN and EN for routine care or GRVs $<500 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 412,
+      "preview": "- Limit \"NPO\" periods for EN"
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 413,
+      "preview": "- Do not adjust PN rate for infusions that are off schedule"
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 414,
+      "preview": "- Implement guidelines for medication administration with EN and co-infusion of medication with PN"
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 415,
+      "preview": "- Maintain infection control measures"
+    },
+    {
+      "type": "text",
+      "section": "- The Administration Procedures for Nutrition Support",
+      "line": 417,
+      "preview": "Worthington P et al. JPEN J Parenter Enter Nutr. 2017;41:324-377."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HANG TIMES: EN FORMULATIONS",
+      "line": 419
+    },
+    {
+      "type": "image",
+      "section": "HANG TIMES: EN FORMULATIONS",
+      "line": 421,
+      "content": "![img-9.jpeg](images/92c21018eee2d684.png)"
+    },
+    {
+      "type": "text",
+      "section": "HANG TIMES: EN FORMULATIONS",
+      "line": 423,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HANG TIMES: PN AND ILE",
+      "line": 425
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "- PN Containers and Administration Tubing and Filters",
+      "line": 427
+    },
+    {
+      "type": "text",
+      "section": "- PN Containers and Administration Tubing and Filters",
+      "line": 429,
+      "preview": "- Change administration set and filter every 24 hours, with new container"
+    },
+    {
+      "type": "text",
+      "section": "- PN Containers and Administration Tubing and Filters",
+      "line": 430,
+      "preview": "\" TNA"
+    },
+    {
+      "type": "text",
+      "section": "- PN Containers and Administration Tubing and Filters",
+      "line": 431,
+      "preview": "\" Dextrose/amino acid PN formulations (2-in-1)"
+    },
+    {
+      "type": "text",
+      "section": "- PN Containers and Administration Tubing and Filters",
+      "line": 432,
+      "preview": "- ILE that is administered as a separate infusion must be completed within 12 hours of initiating th"
+    },
+    {
+      "type": "text",
+      "section": "- PN Containers and Administration Tubing and Filters",
+      "line": 433,
+      "preview": "- For ILE infusions longer than 12 hours, divide dose with new container and change administration t"
+    },
+    {
+      "type": "text",
+      "section": "- PN Containers and Administration Tubing and Filters",
+      "line": 435,
+      "preview": "Worthington P et al. JPEN J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 437
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 439,
+      "preview": "- Patient experiences several episodes of hypotension requiring vasopressor support"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 440,
+      "preview": "- Abdominal pain did not resolve and her abdomen becomes distended with no bowel sounds"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 441,
+      "preview": "- Surgical evaluation reveals ischemic bowel"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 442,
+      "preview": "- Another 75 cm of small intestine removed"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 443,
+      "preview": "- EN discontinued; PN is to be initiated"
+    },
+    {
+      "type": "text",
+      "section": "ASHLEY'S CASE CONTINUES",
+      "line": 445,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 447
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 449,
+      "preview": "- Not suitable for patients with hypermetabolism or a catabolic state"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 450,
+      "preview": "- Requires relatively large fluid volumes"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 451,
+      "preview": "- Use as supplemental PN or a bridge therapy:"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 452,
+      "preview": "- Oral intake or EN is suboptimal"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 453,
+      "preview": "- Avoids risks inherent to central line placement"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 454,
+      "preview": "- Central line access not feasible"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 455,
+      "preview": "- Maximum duration of 10-14 days"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 456,
+      "preview": "- Better nutrient provision with osmolality limit of $900 \\mathrm{mOsm} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 457,
+      "preview": "- Associated with increased rates of infusion phlebitis"
+    },
+    {
+      "type": "text",
+      "section": "IS PPN A REASONABLE CHOICE?",
+      "line": 459,
+      "preview": "Worthington P. JPEN J Parenter Enteral Nutr. 2017; 41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SWITCHING TO PN: TIMING",
+      "line": 461
+    },
+    {
+      "type": "text",
+      "section": "SWITCHING TO PN: TIMING",
+      "line": 463,
+      "preview": "- Initiate PN after 7 days for well-nourished, stable adult patients who have been unable to receive"
+    },
+    {
+      "type": "text",
+      "section": "SWITCHING TO PN: TIMING",
+      "line": 464,
+      "preview": "- Initiate PN within 3-5 days in those who are nutritionally at-risk and unlikely to achieve desired"
+    },
+    {
+      "type": "text",
+      "section": "SWITCHING TO PN: TIMING",
+      "line": 465,
+      "preview": "- Initiate PN as soon as is feasible for patients with baseline moderate or severe malnutrition in w"
+    },
+    {
+      "type": "text",
+      "section": "SWITCHING TO PN: TIMING",
+      "line": 466,
+      "preview": "- Delay the initiation of PN in a patient with severe metabolic instability until the patient's cond"
+    },
+    {
+      "type": "text",
+      "section": "SWITCHING TO PN: TIMING",
+      "line": 468,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 470
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 472,
+      "preview": "PN is initiated for nutritional support. On the second night the nurse calls the pharmacy to report "
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 473,
+      "preview": "A. Silence the alarm"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 474,
+      "preview": "B. Send a new filter to the unit"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 475,
+      "preview": "C. Remove the filter and continue the infusion"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 476,
+      "preview": "D. Stop the infusion and review the PN formulation"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 478
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 480,
+      "preview": "PN is initiated for nutritional support. On the second night the nurse calls the pharmacy to report "
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 481,
+      "preview": "A. Silence the alarm"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 482,
+      "preview": "B. Send a new filter to the unit"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 483,
+      "preview": "C. Remove the filter and continue the infusion"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 484,
+      "preview": "D. Stop the infusion and review the PN formulation"
+    },
+    {
+      "type": "text",
+      "section": "SELF ASSESSMENT \\#6",
+      "line": 486,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "OCCLUDED PN FILTERS",
+      "line": 488
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 490,
+      "preview": "- High pressure pump alarms and occluded filters"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 491,
+      "preview": "- Incorrect size filter used?"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 492,
+      "preview": "- Verify pressure setting on pump"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 493,
+      "preview": "- Precipitate or particulate matter present"
+    },
+    {
+      "type": "image",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 494,
+      "content": "![img-10.jpeg](images/97a56f6a3595dc6d.png)"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 496,
+      "preview": "CC Image courtesy of British Columbia Institute of Technology (BCIT)."
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 498,
+      "preview": "- Rule out mechanical or thrombotic causes"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 499,
+      "preview": "- Stop the PN infusion"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 500,
+      "preview": "- Remove and replace filter"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 501,
+      "preview": "- Pharmacy must review PN formulation for precipitates, incompatibilities, or cracked emulsions?"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 502,
+      "preview": "- Never allow infusion of unfiltered PN and ILE formulations"
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 504,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38:296-333."
+    },
+    {
+      "type": "text",
+      "section": "OCCLUDED PN FILTERS",
+      "line": 505,
+      "preview": "Worthington et al. Nutr Clin Prad. 2021 Feb; 36(1):29-39."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 507
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 509,
+      "preview": "- In-line filters are required on all PN and ILE infusions"
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 510,
+      "preview": "- In-line filters serve to reduce exposure to particulate matter during PN administration"
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 511,
+      "preview": "- A 1.2 micron in-line filter is recommended for administration of both TNAs and 2-in-1 PNs"
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 512,
+      "preview": "- For TNAs, place the filter as close to the catheter hub as possible"
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 513,
+      "preview": "- For 2-in-1 PNs, place the filter below the Y-site where the dextrose-amino acid admixture and the "
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 514,
+      "preview": "- This practice is supported by decades of experience in hospital and home PN administration setting"
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 516,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 518
+    },
+    {
+      "type": "image",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 520,
+      "content": "![img-11.jpeg](images/570710a76f0e1412.png)"
+    },
+    {
+      "type": "image",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 522,
+      "content": "![img-12.jpeg](images/2697c2d58769f8d3.png)"
+    },
+    {
+      "type": "text",
+      "section": "RECOMMENDATIONS: FILTERS FOR PN AND ILE",
+      "line": 524,
+      "preview": "*Worthington et al. Nutr Clin Pract. 2021 Feb; 36(1):29-39.*"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "WEANING PN",
+      "line": 526
+    },
+    {
+      "type": "image",
+      "section": "WEANING PN",
+      "line": 528,
+      "content": "![img-13.jpeg](images/b3b9d8483eb30de7.png)"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 530,
+      "preview": "- Wean PN when oral intake and/or EN achieves 50%-75% of requirements for energy, protein, and micro"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 531,
+      "preview": "- Continue PN when impaired GI function precludes 100% absorption of nutrient needs."
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 532,
+      "preview": "- Consider using a weaning protocol during the transition from PN to EN."
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 534,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 536
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 538,
+      "preview": "A 61-year-old woman with a history of Crohn's disease, develops persistent nausea and vomiting. X-ra"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 539,
+      "preview": "A. Low residue oral diet"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 540,
+      "preview": "B. Parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 541,
+      "preview": "C. Peripheral intravenous fluids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 542,
+      "preview": "D. Tube feeding"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 544
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 546,
+      "preview": "A 61-year-old woman with a history of Crohn's disease, develops persistent nausea and vomiting. X-ra"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 547,
+      "preview": "A. Low residue oral diet"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 548,
+      "preview": "B. Parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 549,
+      "preview": "C. Peripheral intravenous fluids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 550,
+      "preview": "D. Tube feeding"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 552,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 554
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 556,
+      "preview": "A 28 year old man was admitted to the ICU 7 days ago with multiple trauma following a motor vehicle "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 557,
+      "preview": "A. The osmolality limit for PPN is set at 600 mOsm/L"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 558,
+      "preview": "B. The expected duration of therapy should be greater than 2 weeks."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 559,
+      "preview": "C. Peripheral PN avoids the risks associated with central line placement"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 560,
+      "preview": "D. Peripheral PN is most appropriate for use with hypermetabolic conditions"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 562
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 564,
+      "preview": "A 28 year old man was admitted to the ICU 7 days ago with multiple trauma following a motor vehicle "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 565,
+      "preview": "A. The osmolality limit for PPN is set at 600 mOsm/L"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 566,
+      "preview": "B. The expected duration of therapy should be greater than 2 weeks."
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 567,
+      "preview": "C. Peripheral PN avoids the risks associated with central line placement"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 568,
+      "preview": "D. Peripheral PN is most appropriate for use with hypermetabolic conditions"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 570,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 572
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 574,
+      "preview": "- Judicious selection of candidates for nutrition support is essential for achieving optimal patient"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 575,
+      "preview": "- Use clinical assessment, rather than medical diagnosis, to identify candidates for PN , as well as"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 576,
+      "preview": "- Establish protocols for initiating and administering nutrition support therapy that incorporate gu"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 579
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 581,
+      "preview": "- American Association of Critical-Care Nurses. AACN Practice Alert: Initial and Ongoing Verificatio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 582,
+      "preview": "- AHRQ. PSNet. The wrong channel. https://psnet.ahrq.gov/cases/case/103 (accessed 2019 Mar 14)."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 583,
+      "preview": "- Ayers P, Adams S, Boulatta J et al. A.S.P.E.N. Parenteral nutrition safety consensus recommendatio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 584,
+      "preview": "- Boullata JI, Carrera AL, Harvey L et al. ASPEN safe practices for enteral nutrition therapy. JPEN "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 585,
+      "preview": "- Cohen MR, Smetzer JL. ISMP Medication Error Report Analysis. Hospital Pharmacy. 2010; 45:191-95."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 586,
+      "preview": "- GEDSA. ENFit ${ }^{\\circledR}$ Advocacy Meeting. 2017 Jul. http://stayconnected.org/wp-content/upl"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 588,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 590
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 592,
+      "preview": "- Food and Drug Administration. Feeding Tube Placement Systems: Letter to Health Care Providers - Re"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 593,
+      "preview": "- Food and Drug Administration: Examples of Medical Device Misconnections. (2017 Dec). https://www.f"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 594,
+      "preview": "- ISMP Medication Alert. Safety Brief: IV fat emulsion needs a filter. 2016; 21(1):3-4."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 595,
+      "preview": "- Lipman T. Grains or veins: is enteral nutrition really better than parenteral nutrition? A look at"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 596,
+      "preview": "- McClave SA, DiBaise JK, Mullin GE et al. ACG Clinical Guideline: Nutrition Therapy in the Adult Ho"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 598,
+      "preview": "NUTRITION SUPPORT"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 599,
+      "preview": "CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 601
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 603,
+      "preview": "- Simmons D, Symes L, Guenter P, et al. Tubing misconnections: Normalization of deviance. Nutr Clin "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 604,
+      "preview": "- The Joint Commission. Sentinel Event Alert 53: Managing risk during transition to new ISO tubing c"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 605,
+      "preview": "- Seres DS, Valcarcel M, Guillaume A. Advantages of enteral nutrition over parenteral nutrition. The"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 606,
+      "preview": "- Sorokin R, Gottlieb JE. Enhancing patient safety during feeding tube insertion: a review of more t"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 607,
+      "preview": "- Worthington P, Gura KM, Kraft MD, Nishikawa R, Guenter P, Sacks GS; ASPEN PN Safety Committee. Upd"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 609,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 611,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 613,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 615,
+      "content": "![img-14.jpeg](images/bf110b5d089b8533.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 617,
+      "preview": "Andrew Mays, Pharm.D., BSNCP, CNCS"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 618,
+      "preview": "Clinical Pharmacy Specialist"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 619,
+      "preview": "University of Mississippi Medical Center"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 620,
+      "preview": "Clinical Assistant Professor"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 621,
+      "preview": "University of Mississippi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 622,
+      "preview": "Jackson, Mississippi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 624,
+      "preview": "Andrew Mays is a clinical pharmacy specialist in nutrition support at the University of Mississippi "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 626,
+      "preview": "He has served as member of the ASHP Council on Therapeutics, member and chair of the ASHP New Practi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 628,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 630
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 632,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 634,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 636,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 638,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 639,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 640,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 641,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 642,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 644,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 646,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 648
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 650,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 652,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 654
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 656,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 658
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 660,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 662,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "412f1b1b557f1ba0.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/412f1b1b557f1ba0.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/412f1b1b557f1ba0.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "412f1b1b557f1ba0"
+    },
+    {
+      "sha_name": "0670f8c9f5d1d19b.png",
+      "original_ref": "img-1.jpeg",
+      "page": 6,
+      "relative_path": "images/0670f8c9f5d1d19b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/0670f8c9f5d1d19b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0670f8c9f5d1d19b"
+    },
+    {
+      "sha_name": "8de4a22572ef49a5.png",
+      "original_ref": "img-2.jpeg",
+      "page": 10,
+      "relative_path": "images/8de4a22572ef49a5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/8de4a22572ef49a5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8de4a22572ef49a5"
+    },
+    {
+      "sha_name": "6b2234bd76218919.png",
+      "original_ref": "img-3.jpeg",
+      "page": 10,
+      "relative_path": "images/6b2234bd76218919.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/6b2234bd76218919.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6b2234bd76218919"
+    },
+    {
+      "sha_name": "7667dd7a76027700.png",
+      "original_ref": "img-4.jpeg",
+      "page": 12,
+      "relative_path": "images/7667dd7a76027700.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/7667dd7a76027700.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7667dd7a76027700"
+    },
+    {
+      "sha_name": "0701e704546ab79f.png",
+      "original_ref": "img-5.jpeg",
+      "page": 13,
+      "relative_path": "images/0701e704546ab79f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/0701e704546ab79f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0701e704546ab79f"
+    },
+    {
+      "sha_name": "f7fad7555b1a219f.png",
+      "original_ref": "img-6.jpeg",
+      "page": 13,
+      "relative_path": "images/f7fad7555b1a219f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/f7fad7555b1a219f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f7fad7555b1a219f"
+    },
+    {
+      "sha_name": "b1a560055210e9ce.png",
+      "original_ref": "img-7.jpeg",
+      "page": 14,
+      "relative_path": "images/b1a560055210e9ce.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/b1a560055210e9ce.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b1a560055210e9ce"
+    },
+    {
+      "sha_name": "9aa922bdfe71174f.png",
+      "original_ref": "img-8.jpeg",
+      "page": 15,
+      "relative_path": "images/9aa922bdfe71174f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/9aa922bdfe71174f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9aa922bdfe71174f"
+    },
+    {
+      "sha_name": "92c21018eee2d684.png",
+      "original_ref": "img-9.jpeg",
+      "page": 17,
+      "relative_path": "images/92c21018eee2d684.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/92c21018eee2d684.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "92c21018eee2d684"
+    },
+    {
+      "sha_name": "97a56f6a3595dc6d.png",
+      "original_ref": "img-10.jpeg",
+      "page": 21,
+      "relative_path": "images/97a56f6a3595dc6d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/97a56f6a3595dc6d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "97a56f6a3595dc6d"
+    },
+    {
+      "sha_name": "570710a76f0e1412.png",
+      "original_ref": "img-11.jpeg",
+      "page": 22,
+      "relative_path": "images/570710a76f0e1412.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/570710a76f0e1412.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "570710a76f0e1412"
+    },
+    {
+      "sha_name": "2697c2d58769f8d3.png",
+      "original_ref": "img-12.jpeg",
+      "page": 22,
+      "relative_path": "images/2697c2d58769f8d3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/2697c2d58769f8d3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2697c2d58769f8d3"
+    },
+    {
+      "sha_name": "b3b9d8483eb30de7.png",
+      "original_ref": "img-13.jpeg",
+      "page": 22,
+      "relative_path": "images/b3b9d8483eb30de7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/b3b9d8483eb30de7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b3b9d8483eb30de7"
+    },
+    {
+      "sha_name": "bf110b5d089b8533.png",
+      "original_ref": "img-14.jpeg",
+      "page": 28,
+      "relative_path": "images/bf110b5d089b8533.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7_AdministrationofNutritionSupport,Part1/images/bf110b5d089b8533.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "bf110b5d089b8533"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696159",
+    "ts": "2025-08-08T23:35:59.031405+00:00"
+  }
+}

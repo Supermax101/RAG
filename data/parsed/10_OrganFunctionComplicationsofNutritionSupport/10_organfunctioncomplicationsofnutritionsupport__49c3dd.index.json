@@ -1,0 +1,1347 @@
+{
+  "doc_id": "10_organfunctioncomplicationsofnutritionsupport__49c3dd",
+  "original_filename": "10_OrganFunctionComplicationsofNutritionSupport.pdf",
+  "md_path": "data/parsed/10_OrganFunctionComplicationsofNutritionSupport/10_OrganFunctionComplicationsofNutritionSupport.md",
+  "rmd_path": "data/parsed/10_OrganFunctionComplicationsofNutritionSupport/10_OrganFunctionComplicationsofNutritionSupport.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Organ Function Complications of Nutrition Support",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Organ Function Complications of Nutrition Support",
+      "line": 4,
+      "content": "![img-0.jpeg](images/58ad5b98ca70ff7e.png)"
+    },
+    {
+      "type": "text",
+      "section": "Organ Function Complications of Nutrition Support",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Organ Function Complications of Nutrition Support",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Organ Function Complications of Nutrition Support",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Organ Function Complications of Nutrition Support",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ORGAN FUNCTION COMPLICATIONS OF NUTRITION SUPPORT",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "ORGAN FUNCTION COMPLICATIONS OF NUTRITION SUPPORT",
+      "line": 15,
+      "preview": "Jay M Mirtallo, M.S., R.Ph., BCNSP,FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ORGAN FUNCTION COMPLICATIONS OF NUTRITION SUPPORT",
+      "line": 16,
+      "preview": "The Ohio State University College of Pharmacy ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ORGAN FUNCTION COMPLICATIONS OF NUTRITION SUPPORT",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVE",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVE",
+      "line": 34,
+      "preview": "- Discuss the impact of nutrition support on hepatic, renal and pulmonary function."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 37
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 39,
+      "preview": "- ARF:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 40,
+      "preview": "- CHO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- CKD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- $\\mathrm{CO}_{2}$ :"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- ILE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- LCT:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- NPO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- PUFA:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "acute renal failure"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "carbohydrate"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "chronic kidney disease"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "carbon dioxide"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "intravenous lipid emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "long chain triglyceride"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "nothing by mouth"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "polyunsaturated fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 60
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 62,
+      "preview": "- QOL:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 63,
+      "preview": "- RQ:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 64,
+      "preview": "- T. Bili:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 65,
+      "preview": "quality of life"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 66,
+      "preview": "respiratory quotient"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS, CONT.",
+      "line": 67,
+      "preview": "total bilirubin"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "INTRODUCTION",
+      "line": 70
+    },
+    {
+      "type": "text",
+      "section": "INTRODUCTION",
+      "line": 72,
+      "preview": "- Nutrition support influences various organ systems and may exacerbate the severity of underlying d"
+    },
+    {
+      "type": "text",
+      "section": "INTRODUCTION",
+      "line": 73,
+      "preview": "- This presentation will discuss the impact nutrition has on hepatic, renal and pulmonary function"
+    },
+    {
+      "type": "text",
+      "section": "INTRODUCTION",
+      "line": 75,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 77
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 79,
+      "preview": "JL is a 51 yo male with a gastrointestinal fistula who has been receiving PN at home for 7 weeks and"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 80,
+      "preview": "A. Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 81,
+      "preview": "B. Lipids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 82,
+      "preview": "C. Protein"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 83,
+      "preview": "D. Total Calories"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN HEPATIC COMPLICATIONS",
+      "line": 85
+    },
+    {
+      "type": "image",
+      "section": "PN HEPATIC COMPLICATIONS",
+      "line": 87,
+      "content": "![img-1.jpeg](images/7575ea5c7c70672b.png)"
+    },
+    {
+      "type": "text",
+      "section": "PN HEPATIC COMPLICATIONS",
+      "line": 89,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN HEPATIC COMPLICATIONS PREVENTION AND MANAGEMENT",
+      "line": 91
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "- Steatosis",
+      "line": 93
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 95,
+      "preview": "- Avoid overfeeding CHO and calories (Use mixed fuel system including dextrose, amino acids and fat)"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 96,
+      "preview": "- Limit ILE infusions to $<2.5 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{d}$"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 97,
+      "preview": "- Cholelithiasis"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 98,
+      "preview": "- Early oral or enteral nutrition to stimulate gallbladder contraction"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 99,
+      "preview": "- Reduce the load of PUFA and other Long chain fatty acids in PN"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 100,
+      "preview": "- Cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 101,
+      "preview": "- Avoid long term PN if possible"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 102,
+      "preview": "- Early initiation of enteral nutrition to stimulate gallbladder contraction and reduce microbial ov"
+    },
+    {
+      "type": "text",
+      "section": "- Steatosis",
+      "line": 103,
+      "preview": "- Limit phytosterol infusions from ILE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 106
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 108,
+      "preview": "- Mild to moderate elevations in liver enzymes are commonly seen within 2 weeks of the start of PN a"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 109,
+      "preview": "- Liver function should be monitored at baseline and weekly for short term PN and monthly for long t"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 110,
+      "preview": "- Enzymes to monitor include"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 111,
+      "preview": "- ALT, AST"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 112,
+      "preview": "- Alkaline Phosphatase"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 113,
+      "preview": "- Bilirubin"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 114,
+      "preview": "- Conjugated $>2 \\mathrm{mg} / \\mathrm{dl}$ associated with biliary tract damage"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING HEPATIC FUNCTION",
+      "line": 116,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 118
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 120,
+      "preview": "A patient with chronic kidney disease receiving hemodialysis is receiving a protein dose in his PN o"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 121,
+      "preview": "A. Elevated BUN and BUN:Cr ratio"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 122,
+      "preview": "B. Uremia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 123,
+      "preview": "C. Hyperosmolarity"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 124,
+      "preview": "D. Protein malnutrition"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RENAL FUNCTION",
+      "line": 126
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 128,
+      "preview": "- Individuals with compromised renal function present a challenge to the delivery of safe/effective "
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 129,
+      "preview": "- Fluid and electrolytes (Includes Osmolality)"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 130,
+      "preview": "- Acid base"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 131,
+      "preview": "- Vitamins"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 132,
+      "preview": "- Protein"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 133,
+      "preview": "- In general, renal failure patients have diet restricted in fluid, sodium, potassium, phosphorus"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 134,
+      "preview": "- Protein may or may not be restricted depending on whether the patient is receiving dialysis"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION",
+      "line": 136,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 138
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 140,
+      "preview": "- Fluid status:"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 141,
+      "preview": "- Daily weight, intake and outputs"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 142,
+      "preview": "- Electrolytes:"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 143,
+      "preview": "- Especially sodium, potassium and phosphorus"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 144,
+      "preview": "- Phosphorus may need to be provided in a reduced dose in anabolic patients to avoid hypophosphatemi"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 145,
+      "preview": "- ILE is a source of phosphorus and may contribute to hyperphosphatemia"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 146,
+      "preview": "- Acid-base"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 147,
+      "preview": "- Metabolic acidosis is common"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 148,
+      "preview": "- Be sure to include serum $\\mathrm{CO}_{2}$ along with serum chemistries"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 151
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 153,
+      "preview": "Protein"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 155,
+      "preview": "- Protein restriction is only indicated for CKD not receiving dialysis"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 156,
+      "preview": "- Protein losses occur with dialysis increasing requirements to"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 157,
+      "preview": "- Stable patients: 1-1.2 g/kg/d"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 158,
+      "preview": "- Critically ill or ARF: 1.6-2 g/kg/d"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 159,
+      "preview": "- Monitor for complications"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 160,
+      "preview": "- BUN, CR, renal function, BUN/Cr ratio"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 161,
+      "preview": "- Monitor for nutritional efficacy"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 162,
+      "preview": "- Functional status, QOL, response to other medical treatments"
+    },
+    {
+      "type": "text",
+      "section": "RENAL FUNCTION: MONITORING NS",
+      "line": 164,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 166
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 168,
+      "preview": "A patient with pulmonary dysfunction including carbon dioxide retention is receiving a dextrose base"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 169,
+      "preview": "A. Lipid infusions blocking alveoli"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 170,
+      "preview": "B. Excessive calories"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 171,
+      "preview": "C. Excessive dextrose infusion rate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 172,
+      "preview": "D. Infusion of amino acids (Protein source)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PULMONARY FUNCTION",
+      "line": 174
+    },
+    {
+      "type": "text",
+      "section": "PULMONARY FUNCTION",
+      "line": 176,
+      "preview": "- The provision of energy increases oxygen consumption and carbon dioxide production"
+    },
+    {
+      "type": "text",
+      "section": "PULMONARY FUNCTION",
+      "line": 177,
+      "preview": "- In patients with impaired pulmonary function, this could lead to hypercapnea"
+    },
+    {
+      "type": "text",
+      "section": "PULMONARY FUNCTION",
+      "line": 179,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN PULMONARY COMPLICATIONS: HYPERCAPNEA",
+      "line": 181
+    },
+    {
+      "type": "image",
+      "section": "PN PULMONARY COMPLICATIONS: HYPERCAPNEA",
+      "line": 183,
+      "content": "![img-2.jpeg](images/2d76df596df2c08d.png)"
+    },
+    {
+      "type": "image",
+      "section": "PN PULMONARY COMPLICATIONS: HYPERCAPNEA",
+      "line": 184,
+      "content": "![img-3.jpeg](images/2a7a51a063ec4544.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 186
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 188,
+      "preview": "JL is a 51 yo male with a gastrointestinal fistula who has been receiving PN at home for 7 weeks and"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 189,
+      "preview": "A. Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 190,
+      "preview": "B. Lipids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 191,
+      "preview": "C. Protein"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 192,
+      "preview": "D. Total Calories"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 194,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 196
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 198,
+      "preview": "JL is a 51 yo male with a gastrointestinal fistula who has been receiving PN at home for 7 weeks and"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 199,
+      "preview": "A. Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 200,
+      "preview": "B. Lipids"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 201,
+      "preview": "C. Protein"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 202,
+      "preview": "D. Total Calories"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 204
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 206,
+      "preview": "A patient with chronic kidney disease receiving hemodialysis is receiving a protein dose in his PN o"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 207,
+      "preview": "A. Elevated BUN and BUN:Cr ratio"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 208,
+      "preview": "B. Uremia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 209,
+      "preview": "C. Hyperosmolarity"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 210,
+      "preview": "D. Protein malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 212,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 214
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 216,
+      "preview": "A patient with chronic kidney disease receiving hemodialysis is receiving a protein dose in his PN o"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 217,
+      "preview": "A. Elevated BUN and BUN:Cr ratio"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 218,
+      "preview": "B. Uremia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 219,
+      "preview": "C. Hyperosmolarity"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 220,
+      "preview": "D. Protein malnutrition"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 222
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 224,
+      "preview": "A patient with pulmonary dysfunction including carbon dioxide retention is receiving a dextrose base"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 225,
+      "preview": "A. Lipid infusions blocking alveoli"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 226,
+      "preview": "B. Excessive calories"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 227,
+      "preview": "C. Excessive dextrose infusion rate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 228,
+      "preview": "D. Infusion of amino acids (Protein source)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 230,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 232
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 234,
+      "preview": "A patient with pulmonary dysfunction including carbon dioxide retention is receiving a dextrose base"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 235,
+      "preview": "A. Lipid infusions blocking alveoli"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 236,
+      "preview": "B. Excessive calories"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 237,
+      "preview": "C. Excessive dextrose infusion rate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 238,
+      "preview": "D. Infusion of amino acids (Protein source)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONCLUSIONS",
+      "line": 240
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 242,
+      "preview": "- The presence of organ dysfunction pose unique issues to the clinician managing nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 243,
+      "preview": "- Its important to understand the proper dose of macronutrients and calories in order to minimized p"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 245,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 247
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 249,
+      "preview": "- Btaiche IF, Khalidi N. Metabolic complications of PN in adults. Part 1. Am J HealthSyst Pharm. 200"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 250,
+      "preview": "- Btaiche IF, Khalidi N. Metabolic complications of PN in adults. Part 2. Am J HealthSyst Pharm. 200"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 251,
+      "preview": "- Kumpf VJ, Gervasio J. Complications of parenteral nutrition. In: Mueller CM, ed. The ASPEN adult c"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 252,
+      "content": "![img-4.jpeg](images/8b8d4c2fa0ab8adf.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 254,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES",
+      "line": 256,
+      "content": "![img-5.jpeg](images/ba081275450fc914.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 258,
+      "preview": "Jay M. Mirtallo, M.S., R.Ph, BCNSP, FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 259,
+      "preview": "The Professor Emeritus"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 260,
+      "preview": "The Ohio State University, College of Pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 261,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 262,
+      "preview": "American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 263,
+      "preview": "Delaware, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 264,
+      "preview": "As one of the pharmacy specialist pioneers, Professor Mirtallo was instrumental in leading cost-effe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 266,
+      "preview": "Professor Mirtallo has been very active in professional societies and is Past President of the Ameri"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 268,
+      "preview": "As a representative to the Joint Commission, he served on the task force that created the Nutrition "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 270,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 272
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 274,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 276,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 278,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 280,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 281,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 282,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 283,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 284,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 286,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 288,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 290
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 292,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 294,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 296
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 298,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 300
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 302,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 304,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "58ad5b98ca70ff7e.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/58ad5b98ca70ff7e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_OrganFunctionComplicationsofNutritionSupport/images/58ad5b98ca70ff7e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "58ad5b98ca70ff7e"
+    },
+    {
+      "sha_name": "7575ea5c7c70672b.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/7575ea5c7c70672b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_OrganFunctionComplicationsofNutritionSupport/images/7575ea5c7c70672b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7575ea5c7c70672b"
+    },
+    {
+      "sha_name": "2d76df596df2c08d.png",
+      "original_ref": "img-2.jpeg",
+      "page": 9,
+      "relative_path": "images/2d76df596df2c08d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_OrganFunctionComplicationsofNutritionSupport/images/2d76df596df2c08d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2d76df596df2c08d"
+    },
+    {
+      "sha_name": "2a7a51a063ec4544.png",
+      "original_ref": "img-3.jpeg",
+      "page": 9,
+      "relative_path": "images/2a7a51a063ec4544.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_OrganFunctionComplicationsofNutritionSupport/images/2a7a51a063ec4544.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2a7a51a063ec4544"
+    },
+    {
+      "sha_name": "8b8d4c2fa0ab8adf.png",
+      "original_ref": "img-4.jpeg",
+      "page": 13,
+      "relative_path": "images/8b8d4c2fa0ab8adf.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_OrganFunctionComplicationsofNutritionSupport/images/8b8d4c2fa0ab8adf.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8b8d4c2fa0ab8adf"
+    },
+    {
+      "sha_name": "ba081275450fc914.png",
+      "original_ref": "img-5.jpeg",
+      "page": 14,
+      "relative_path": "images/ba081275450fc914.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_OrganFunctionComplicationsofNutritionSupport/images/ba081275450fc914.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ba081275450fc914"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754694984",
+    "ts": "2025-08-08T23:16:24.418140+00:00"
+  }
+}

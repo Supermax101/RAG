@@ -1,0 +1,5811 @@
+{
+  "doc_id": "l19723_nsc_module5_aspenparenteralnutritionsafetyrecommendations__b0b66c",
+  "original_filename": "L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations.pdf",
+  "md_path": "data/parsed/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations.md",
+  "rmd_path": "data/parsed/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "A.S.P.E.N. Parenteral Nutrition Safety Consensus Recommendations",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "A.S.P.E.N. Parenteral Nutrition Safety Consensus Recommendations",
+      "line": 2,
+      "preview": "Phil Ayers, PharmD, BCNSP, FASHP ${ }^{1}$; Stephen Adams, MS, RPh, BCNSP ${ }^{2}$; Joseph Boullata"
+    },
+    {
+      "type": "text",
+      "section": "A.S.P.E.N. Parenteral Nutrition Safety Consensus Recommendations",
+      "line": 4,
+      "preview": "Journal of Parenteral and Enteral Nutrition<br>Volume 38 Number 3<br>March 2014 296-333<br>(c) 2013 "
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "section": "Abstract",
+      "line": 7
+    },
+    {
+      "type": "text",
+      "section": "Abstract",
+      "line": 9,
+      "preview": "Parenteral nutrition (PN) serves as an important therapeutic modality that is used in adults, childr"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Keywords",
+      "line": 12
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 14,
+      "preview": "parenteral nutrition; nutrition; parenteral formulas/compounding; safety"
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 16,
+      "preview": "Table of Contents"
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 17,
+      "preview": "Introduction ..... 296"
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 18,
+      "preview": "Prescribing and Communicating the Parenteral Nutrition Order ..... 298"
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 19,
+      "preview": "Parenteral Nutrition Order Review and Verification Process ..... 305"
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 20,
+      "preview": "Compounding ..... 318"
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 21,
+      "preview": "Parenteral Nutrition Administration ..... 323"
+    },
+    {
+      "type": "text",
+      "section": "Keywords",
+      "line": 22,
+      "preview": "Conclusion ..... 333"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Introduction",
+      "line": 24
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 26,
+      "preview": "Parenteral nutrition ( PN ) serves as an important therapeutic modality that is used in adults, chil"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 27,
+      "preview": "exist in the knowledge and skills of the healthcare professionals responsible for PN prescribing, re"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 29,
+      "preview": "[^0][^1]"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 30,
+      "preview": "[^0]:    From ${ }^{1}$ Baptist Health Systems, Department of Pharmacy, Jackson, Mississippi; ${ }^{"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 32,
+      "preview": "Received for publication October 3, 2013; accepted for publication October 3, 2013."
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 34,
+      "preview": "This article originally appeared online on November 26, 2013."
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 36,
+      "preview": "Corresponding Author:"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 37,
+      "preview": "Peggi Guenter, A.S.P.E.N., Silver Spring, MD, USA."
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 38,
+      "preview": "Email: peggig@aspen.nutr.org"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 40,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 42,
+      "preview": "Conceptually, the American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) recommends use "
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 44,
+      "preview": "During the past few years, many circumstances and incidents have threatened the safety of patients r"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 46,
+      "preview": "In an attempt to answer as many questions about PN safety as possible, this Task Force, in partnersh"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 48,
+      "preview": "Similar to A.S.P.E.N.'s Standards of Practice documents, the following terminology is used with each"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 49,
+      "preview": "to indicate the level of evidence and strength of consensus reached for each statement."
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 50,
+      "preview": "\"Shall\": Indicates that the recommendation is to be followed strictly."
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 51,
+      "preview": "\"Should\": Indicates that among several possibilities, one is particularly suitable, without mentioni"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 52,
+      "preview": "\"May\": Indicates a course of action that is permissible within the limits of recommended practice."
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 54,
+      "preview": "The recommendations within this document are intended for discussion and adoption over time by organ"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "References",
+      "line": 56
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 58,
+      "preview": "1. Institute for Safe Medication Practices. ISMP's list of high-alert medications, 2012. http://www."
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 59,
+      "preview": "2. Institute for Safe Medication Practices. Results of ISMP survey on high alert medications. ISMP M"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 60,
+      "preview": "3. Kochevar M, Guenter P, Holcombe B, Malone A, Mirtallo J; A.S.P.E.N. Board of Directors and Task F"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 61,
+      "preview": "4. Mirtallo JM, Guenter P. Introduction and goals of the A.S.P.E.N. parenteral nutrition safety summ"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 62,
+      "preview": "5. Druyan ME, Compher C, Boullata JI, et al; A.S.P.E.N. Board of Directors. Clinical guidelines for "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 63,
+      "preview": "6. American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) Board of Directors and Clinica"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 65,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Prescribing and Communicating the Parenteral Nutrition Order",
+      "line": 67
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Background",
+      "line": 69
+    },
+    {
+      "type": "text",
+      "section": "Background",
+      "line": 71,
+      "preview": "PN is a complex prescription therapy associated with significant adverse effects. Deaths have occurr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Prescribing 1-2 (P1-P2)",
+      "line": 73
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 1-2 (P1-P2)",
+      "line": 75,
+      "preview": "(P1) Does a standardized process for PN prescribing increase clarity and reduce PN-related errors? ("
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 77
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 79,
+      "preview": "1. Healthcare organizations shall use a standardized process for PN management, and this process sha"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 80,
+      "preview": "a. Healthcare organizations shall develop written policies and procedures for all aspects of PN ther"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 81,
+      "preview": "b. The patient and caregivers shall be informed of the risks and benefits associated with PN."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 82,
+      "preview": "c. A comprehensive PN education program and competency assessment shall be developed for healthcare "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 83,
+      "preview": "d. Healthcare organizations shall have a written policy addressing credentials, training, and compet"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 84,
+      "preview": "2. The primary healthcare team, in collaboration with nutrition support professionals, shall evaluat"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 85,
+      "preview": "a. The patient shall have an appropriate indication for PN therapy based on published guidelines and"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 86,
+      "preview": "b. The healthcare team shall confirm that the patient has appropriate intravenous (IV) access for PN"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 87,
+      "preview": "c. The indication(s) for PN and appropriate IV access shall be included on the PN order (see section"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 88,
+      "preview": "3. The primary healthcare team, in collaboration with nutrition support professionals, shall specify"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 89,
+      "preview": "a. Appropriate energy and protein goals shall be determined for the patient's condition based on pub"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 90,
+      "preview": "b. Appropriate parameters and frequency of monitoring shall be determined for the patient's conditio"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 91,
+      "preview": "c. Appropriate monitoring parameters for PN shall include fluid requirements, serum electrolyte conc"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 92,
+      "preview": "d. Therapeutic goals should be established for PN, including end points, response to treatment, and "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 93,
+      "preview": "4. PN shall be prescribed using a standardized PN order format and review process applicable to pati"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 94,
+      "preview": "a. Standardized electronic PN orders (eg, a computerized prescriber order entry [CPOE] system) shoul"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 95,
+      "preview": "b. Clinical decision support should be available within electronic PN orders to alert and prevent pr"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 97,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 99,
+      "preview": "c. When a CPOE system is not available, PN should be prescribed using a standardized order template "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 100,
+      "preview": "d. PN order templates shall be designed so they are clear and easily understood by all healthcare pr"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 101,
+      "preview": "e. Table 1 lists components that shall be included on the PN order. ${ }^{1,4}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 102,
+      "preview": "f. All PN order templates should include the required components listed in the sequence in Table 1. "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 103,
+      "preview": "g. In the event of a product shortage, PN component conservation and allocation strategies should in"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 104,
+      "preview": "h. All PN ingredients shall be ordered in amounts per day (eg, for adult patients) or amounts per ki"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 105,
+      "preview": "i. The PN order template in CPOE systems should display current patient monitoring values and their "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 106,
+      "preview": "j. The PN order template should contain the full generic name for each ingredient. ${ }^{1,4}$ Propr"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 107,
+      "preview": "the Institute for Safe Medication Practices (ISMP) list of error-prone abbreviations, symbols, and d"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 108,
+      "preview": "k. The PN order should include related orders for routine care, laboratory tests, and relevant monit"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 110,
+      "preview": "1. Prescribing a PN formulation that includes nonnutrient medications should be avoided. When no oth"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 111,
+      "preview": "m . Healthcare organizations should develop policies and/or protocols to allow modification of PN or"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 112,
+      "preview": "n. PN orders should be prescribed with a time limitation to allow for appropriate patient evaluation"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 113,
+      "preview": "o. For optimal safety, PN orders should be prescribed and transmitted when supported by properly tra"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 114,
+      "preview": "2. Institutions shall create a home PN order template/format that provides a safe plan for multiple "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 115,
+      "preview": "3. The most appropriate nutrition modality, in collaboration with nutrition support professionals, s"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 117,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 119,
+      "preview": "Table 1. Required Components for PN Orders and Preferred Sequence."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Components for the PN Order",
+      "line": 121
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 123,
+      "preview": "Patient Information"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 124,
+      "preview": "Patient identifiers (patient name, medical record number or other unique identifiers, birth date/age"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 125,
+      "preview": "Patient location (home address for home PN patients)"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 126,
+      "preview": "Allergies and reactions"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 127,
+      "preview": "Height and dosing weight (metric)"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 128,
+      "preview": "Diagnosis(es)/indication(s) for PN"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 129,
+      "preview": "Vascular access device/location"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 130,
+      "preview": "Administration date/time"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 131,
+      "preview": "PN Ingredients (should match PN label)"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 132,
+      "preview": "Amino acids"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 133,
+      "preview": "Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 134,
+      "preview": "IVFE"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 135,
+      "preview": "Sodium phosphate"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 136,
+      "preview": "Sodium chloride"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 137,
+      "preview": "Sodium acetate"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 138,
+      "preview": "Potassium phosphate"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 139,
+      "preview": "Potassium chloride"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 140,
+      "preview": "Potassium acetate"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 141,
+      "preview": "Magnesium sulfate or magnesium chloride"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 142,
+      "preview": "Calcium gluconate"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 143,
+      "preview": "Multivitamins"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 144,
+      "preview": "Trace elements"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 145,
+      "preview": "Additives (eg, cysteine, regular insulin) as clinically appropriate and compatible"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 146,
+      "preview": "PN Instructions"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 147,
+      "preview": "Total volume, infusion rate, start and stop times, cycle information"
+    },
+    {
+      "type": "text",
+      "section": "Components for the PN Order",
+      "line": 148,
+      "preview": "Prescriber and contact information"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 150
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 152,
+      "preview": "PN is a complex prescription therapy with many potential safety concerns. The World Health Organizat"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 154,
+      "preview": "Standardized order formats for PN incorporating prescriber guidelines can provide education that can"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 156,
+      "preview": "The use of electronic or computerized PN orders can also improve efficiency and safety and reduce er"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 158,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 160,
+      "preview": "Patient Information"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 161,
+      "preview": "Patient name $\\qquad$ Medical record number $\\qquad$ Birthdate/age"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 162,
+      "preview": "$\\qquad$ Patient location $\\qquad$ Allergies $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 163,
+      "preview": "Height and dosing weight: Ht: $\\qquad$ cm Dosing Wt: $\\qquad$ kg"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 164,
+      "preview": "Diagnosis(es)/Indication(s) for PN $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 165,
+      "preview": "Vascular access device/location CVC type $\\qquad$ Location $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 166,
+      "preview": "Administration date/time"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 168,
+      "preview": "| Base Formula | Amount/day |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 169,
+      "preview": "| :-- | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 170,
+      "preview": "| Amino acids | g |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 171,
+      "preview": "| Dextrose | g |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 172,
+      "preview": "| IV Fat emulsion | g |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 173,
+      "preview": "| Electrolytes |  |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 174,
+      "preview": "| Sodium phosphate | mmol |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 175,
+      "preview": "| Sodium chloride | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 176,
+      "preview": "| Sodium acetate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 177,
+      "preview": "| Potassium phosphate | mmol |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 178,
+      "preview": "| Potassium chloride | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 179,
+      "preview": "| Potassium acetate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 180,
+      "preview": "| Magnesium sulfate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 181,
+      "preview": "| Calcium gluconate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 182,
+      "preview": "| Vitamins, Trace Elements, Additives |  |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 183,
+      "preview": "| Multi-component vitamins | mL |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 184,
+      "preview": "| Multi-component Trace elements | mL |"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 186,
+      "preview": "Other Additives (eg, individual vitamins or trace elements, cysteine, regular insulin) as clinically"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 188,
+      "preview": "PN Instructions"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 189,
+      "preview": "Total volume $\\qquad$ mL Infusion rate $\\qquad$ $\\mathrm{mL} / \\mathrm{hr}$, start and stop times $\\"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 190,
+      "preview": "Cycle information"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 191,
+      "preview": "Prescriber and contact information $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 192,
+      "preview": "Figure 1. Parenteral Nutrition Order Template: Adult Patient."
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 193,
+      "preview": "errors. The worksheet was developed using commonly available spreadsheet software (ie, not part of a"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 195,
+      "preview": "The ISMP reported a case of a 16-year-old boy who received a PN order in which the ingredients were "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 197,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 199,
+      "preview": "Patient Information"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 200,
+      "preview": "Patient name $\\qquad$ Medical record number $\\qquad$ Birthdate/age $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 201,
+      "preview": "Patient location $\\qquad$ Allergies $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 202,
+      "preview": "Height and dosing weight: Ht: $\\qquad$ cm Dosing Wt: $\\qquad$ kg"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 203,
+      "preview": "Diagnosis(es)/Indication(s) for PN $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 204,
+      "preview": "Vascular access device/location CVC type $\\qquad$ Location $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 205,
+      "preview": "Administration date/time"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 207,
+      "preview": "| Base Formula | Amount/kg/day |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 208,
+      "preview": "| :-- | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 209,
+      "preview": "| Amino acids | g |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 210,
+      "preview": "| Dextrose | g |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 211,
+      "preview": "| IV Fat emulsion | g |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 212,
+      "preview": "| Electrolytes |  |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 213,
+      "preview": "| Sodium phosphate | mmol |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 214,
+      "preview": "| Sodium chloride | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 215,
+      "preview": "| Sodium acetate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 216,
+      "preview": "| Potassium phosphate | mmol |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 217,
+      "preview": "| Potassium chloride | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 218,
+      "preview": "| Potassium acetate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 219,
+      "preview": "| Magnesium sulfate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 220,
+      "preview": "| Calcium gluconate | mEq |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 221,
+      "preview": "| Vitamins, Trace Elements, Additives |  |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 222,
+      "preview": "| Multi-component vitamins | mL |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 223,
+      "preview": "| Multi-component trace elements | mL |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 224,
+      "preview": "| Other Additives (eg, cysteine, regular insulin) as clinically appropriate and compatible |  |"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 226,
+      "preview": "PN Instructions"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 227,
+      "preview": "Total volume $\\qquad$ mL Infusion rate $\\qquad$ $\\mathrm{mL} / \\mathrm{hr}$, start and stop times $\\"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 228,
+      "preview": "Cycle information"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 229,
+      "preview": "Prescriber and contact information $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 231,
+      "preview": "Figure 2. Parenteral Nutrition Order Template: Pediatric/Neonatal Patient."
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 233,
+      "preview": "- Match prescribing and pharmacy templates"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 234,
+      "preview": "- Build, test, and heed automated warnings"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 235,
+      "preview": "- Heighten suspicions of errors"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 236,
+      "preview": "- Carry out effective redundancies"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 237,
+      "preview": "- Provide clear labeling (and the label should always match the PN order template in the PN order fo"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 238,
+      "preview": "- Educate and validate competency"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 239,
+      "preview": "- Eliminate transcription of PN orders"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 241,
+      "preview": "Despite the potential advantages of CPOE, use of CPOE with respect to PN orders appears to be limite"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 242,
+      "preview": "$41 \\%-55 \\%$ ) reduction in medication error rates. They further estimated that as many as 104 mill"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Prescribing 3 (P3)",
+      "line": 244
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 3 (P3)",
+      "line": 246,
+      "preview": "(P3) What improvements in the physical environment would promote safe PN ordering and use?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 248
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 250,
+      "preview": "Institutions shall meet the following requirements for the physical environment as described in The "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 252,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 254,
+      "preview": "1. Illumination: USP $<1066>$ recommends the following lighting levels for healthcare settings ${ }^"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 256,
+      "preview": "Computer order entry"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 257,
+      "preview": "Handwritten order processing"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 258,
+      "preview": "Sterile compounding and preparation"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 259,
+      "preview": "Lux"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 260,
+      "preview": "Medication preparation area"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 261,
+      "preview": "Medication administration work area"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 262,
+      "preview": "1000 Lux"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 263,
+      "preview": "1000 Lux"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 264,
+      "preview": "1000 Lux"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 265,
+      "preview": "1000 Lux"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 266,
+      "preview": "2. Interruptions and distractions: The 2008 USP MEDMARX Data Reports noted distractions rank high (a"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 267,
+      "preview": "3. Sound and noise: The standard for sound levels for medication safety zones is set at 50 decibels "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 268,
+      "preview": "4. Physical design and organization of work space: The design of the workplace environment can influ"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 269,
+      "preview": "5. Medication safety zones: Defined as a critical area where medications are prescribed, orders are "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 271
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 273,
+      "preview": "The process of ordering/prescribing PN is very complex and requires an environment that promotes saf"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 275
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 277,
+      "preview": "(P4) How often should the PN prescription be reordered after the initial order?"
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 279,
+      "preview": "1. An institution-specific or organization-specific policy should be created to dictate the duration"
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 280,
+      "preview": "2. When reordering PN, each PN component should be reordered in its entirety, including full generic"
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 281,
+      "preview": "3. Patients with newly initiated PN should be monitored and have their orders reviewed more frequent"
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 282,
+      "preview": "4. The reordering process should be structured to require accountability for reviewing the orders, l"
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 283,
+      "preview": "a. Patients who are new to PN should be monitored daily until stable (more frequently if clinically "
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 284,
+      "preview": "b. Patients in an unstable clinical condition (eg, acutely ill, critically ill, recovering from crit"
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 285,
+      "preview": "c. Stable patients in the hospital with no required changes in formulation for 1 week should be moni"
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 4 (P4)",
+      "line": 286,
+      "preview": "d. Stable patients in a hospital, long-term care, or home setting with no changes in formulation for"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 288
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 290,
+      "preview": "There are no known studies that examine whether the duration of a PN order or the frequency with whi"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 292,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Prescribing 5 (P5)",
+      "line": 294
+    },
+    {
+      "type": "text",
+      "section": "Question: Prescribing 5 (P5)",
+      "line": 296,
+      "preview": "(P5) How can education be provided to non-nutrition support specialist clinicians to improve PN pres"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 298
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 300,
+      "preview": "1. Prescribers from all disciplines, including physicians, pharmacists, nurse practitioners, physici"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 301,
+      "preview": "2. Introductory didactic and experiential education/training about PN should be included in the core"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 302,
+      "preview": "3. In-depth education on PN should be included as a standard component of acute care and home care p"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 304
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 306,
+      "preview": "There are few known studies evaluating the impact of safe prescribing education programs on the outc"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Topics for Further Research",
+      "line": 308
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 310,
+      "preview": "1. Documentation of errors associated with PN prescribing"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 311,
+      "preview": "2. Impact of PN template standardization on PN prescribing and transcription errors"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 312,
+      "preview": "a. Impact of listing PN ingredients in the same format using amounts per day (or amounts per $\\mathr"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 313,
+      "preview": "on PN ordering and transcription errors, especially with transition or transfer of patient care"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 314,
+      "preview": "b. Impact of listing PN ingredients in a standard sequence on PN order forms and whether this can im"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 315,
+      "preview": "3. Impact of electronic PN orders and use of clinical decision support on accuracy and safety of PN "
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 316,
+      "preview": "a. Impact of electronic orders and clinical decision support vs handwritten paper PN orders on PN pr"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 317,
+      "preview": "b. Impact of CPOE interface with ACDs vs no interface vs handwritten or verbal transcription/ commun"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 318,
+      "preview": "4. Demonstration of improved patient outcomes with incorporation of appropriate monitoring parameter"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 319,
+      "preview": "5. Impact of a standard commercial PN product (premixed) vs compounded PN formulation on prescribing"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 320,
+      "preview": "6. Demonstration of improvement in time to achieve nutrition goals and reduced length of stay with c"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 321,
+      "preview": "7. Impact of healthcare organization PN education programs, PN competency assessment, and credential"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 322,
+      "preview": "8. Impact of PN clinical effectiveness or quality improvement processes on PN prescribing errors"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "References",
+      "line": 324
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 326,
+      "preview": "1. Mirtallo J, Canada T, Johnson D, et al; A.S.P.E.N. Board of Directors and Task Force for the Revi"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 327,
+      "preview": "2. De Vries TP, Henning RH, Hogerzeil HV, Fresle DA; World Health Organization. Guide to good prescr"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 328,
+      "preview": "3. Pollock M, Bazaldua O, Dobie A. Appropriate prescribing of medications: an eight-step approach. A"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 329,
+      "preview": "4. Jacobson JO, Polovich M, Gilmore TR, et al. Revisions to the 2009 American Society of Clinical On"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 330,
+      "preview": "5. Kochsvar M, Guenter P, Holcombe B, Malone A, Mirtallo J; A.S.P.E.N. Board of Directors and Task F"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 331,
+      "preview": "6. Standardized ordering and administration of total parenteral nutrition reduces errors in children"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 333,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 335,
+      "preview": "7. Maat B, Rademaker Carin MA, Oostveen MI, et al. The effect of a computerized prescribing and calc"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 336,
+      "preview": "8. Shamliyan TA, Duval S, Du J, Kane RL. Just what the doctor ordered: review of the evidence of the"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 337,
+      "preview": "9. Brown CL, Garrison NA, Hutchinson AA. Error reduction when prescribing neonatal parenteral nutrit"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 338,
+      "preview": "10. Information to use in the event of an intravenous multivitamin shortageMay 2012: information to "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 339,
+      "preview": "11. Information to use in the event of an intravenous amino acids shortageOctober 2010. American Soc"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 340,
+      "preview": "12. Information to use in the event of an intravenous fat emulsion shortageJune 2010. American Socie"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 341,
+      "preview": "13. Parenteral nutrition trace element product shortage considerations (5-19-2011). American Society"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 342,
+      "preview": "14. Parenteral nutrition cysteine product shortage considerations: September, 2011. American Society"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 343,
+      "preview": "15. Holcombe B, Andris DA, Brooks G, Houston DR, Plogsted SW. Parenteral nutrition electrolyte/miner"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 344,
+      "preview": "16. The Joint Commission. Official \"Do Not Use\" abbreviations list. Information Management Standard "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 345,
+      "preview": "17. Institute for Safe Medication Practices. List of error-prone abbreviations, symbols, and dose de"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 346,
+      "preview": "18. Institute for Safe Medication Practices. Fatal 1,000-fold overdoses can occur, particularly in n"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 347,
+      "preview": "19. Gervasio J. Compounding vs. standard commercial parenteral nutrition product: pros and cons. JPE"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 348,
+      "preview": "20. Jacobson JO, Polovich M, McNiff KK, et al. American Society of Clinical Oncology/Oncology Nursin"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 349,
+      "preview": "21. Institute for Safe Medication Practices. Mismatched prescribing and pharmacy templates for paren"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 350,
+      "preview": "22. Boullata J, Guenter P, Mirtallo J. A parenteral nutrition use survey with a gap analysis. JPEN J"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 351,
+      "preview": "23. Radley DC, Wasserman MR, Olsho LEW, et al. Reduction in medication errors in hospitals due to ad"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 352,
+      "preview": "24. USP Chapter <1066> Physical Environments That Promote Safe Medication Use. 2010. The United Stat"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 353,
+      "preview": "25. Hicks RW, Becker SC, and Cousins DD, eds. USP MEDMARX Data Report: A Report on the Relationship "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 354,
+      "preview": "26. Boitano M, Bojak S, McCloskey S, McCaul DS, McDonough M. Improving the safety and effectiveness "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 355,
+      "preview": "27. Scobie SD, Lawson M, Cavell G, Taylor K, Jackson SH, Roberts TE. Meeting the challenge of prescr"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 356,
+      "preview": "28. Naritoku DK, Faingold CL. Development of a therapeutics curriculum to enhance knowledge of fourt"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 357,
+      "preview": "29. Tobaiqy M, McLay J, Ross S. Foundation year 1 doctors and clinical pharmacology and therapeutics"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 358,
+      "preview": "30. Garbutt JM, Highstein G, Jeffe DB, Dunagan WC, Fraser VJ. Safe medication prescribing: training "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Parenteral Nutrition Order Review and Verification Process",
+      "line": 360
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Background",
+      "line": 362
+    },
+    {
+      "type": "text",
+      "section": "Background",
+      "line": 364,
+      "preview": "PN is a highly complicated therapy administered to patients in hospitals and alternative sites inclu"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Verification 1 (V1)",
+      "line": 366
+    },
+    {
+      "type": "text",
+      "section": "Question: Verification 1 (V1)",
+      "line": 368,
+      "preview": "(V1) What are the essential components or attributes for safely transmitting PN orders to pharmacist"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 370
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 372,
+      "preview": "1. PN should be prescribed using a CPOE system that is fully integrated with an automated compoundin"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 373,
+      "preview": "2. When PN formulations are outsourced to a third-party vendor for compounding, PN orders should be "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 374,
+      "preview": "3. In the absence of a fully integrated system, PN should be prescribed using a standardized order t"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 376,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 378,
+      "preview": "editable electronic document in order to avoid handwritten orders."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 379,
+      "preview": "4. Verbal and telephone orders for PN should be avoided except for pharmacist to prescriber communic"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 380,
+      "preview": "5. PN order data should be in a standardized format, including standardized sequence of ingredients,"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 381,
+      "preview": "6. If transcription into the ACD is required, the output of the PN order data should be formatted to"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 382,
+      "preview": "7. Data should only be manually transcribed from the PN order into the ACD when absolutely necessary"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 383,
+      "preview": "8. PN orders should be prescribed, transmitted, and compounded when supported by properly trained pe"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 384,
+      "preview": "9. Vendors and application architects for CPOE systems should place priority on developing pathways "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 385,
+      "preview": "10. Application vendors and application architects for CPOE systems should collaborate with ACD manu"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 386,
+      "preview": "11. Application vendors and application architects for CPOE systems should collaborate with ACD manu"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 388
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 390,
+      "preview": "Few healthcare organizations currently use a CPOE system for prescribing PN formulations that is ful"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 392,
+      "preview": "There are numerous CPOE vendors but few offer templates for prescribing PN that are user-friendly, a"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Verification 2 (V2)",
+      "line": 394
+    },
+    {
+      "type": "text",
+      "section": "Question: Verification 2 (V2)",
+      "line": 396,
+      "preview": "(V2) What improvements in the PN review and verification processes will enhance the safety of PN the"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 398
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 400,
+      "preview": "1. Healthcare organizations shall have a written policy and procedure for pharmacists to review and "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 401,
+      "preview": "2. The review and verification of PN orders should be conducted in an environment without distractio"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 402,
+      "preview": "3. PN orders shall be reviewed by a knowledgeable and skilled pharmacist to assess that the order is"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 403,
+      "preview": "4. The PN order shall include the following elements:"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 404,
+      "preview": "a. Complete patient identifiers (patient name, medical record number or other unique identifiers, pa"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 405,
+      "preview": "b. Birth date and/or age"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 406,
+      "preview": "c. Allergies and associated reactions"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 407,
+      "preview": "d. Height and dosing weight in metric units"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 408,
+      "preview": "e. Diagnosis/diagnoses"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 409,
+      "preview": "f. Indication(s) for PN"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 410,
+      "preview": "g. Administration route/vascular access device (peripheral vs central)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 411,
+      "preview": "h. Contact information for prescriber"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 413,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 415,
+      "preview": "i. Date and time order submitted"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 416,
+      "preview": "j. Administration date and time"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 417,
+      "preview": "k. Volume and infusion rate"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 419,
+      "preview": "1. Infusion schedule (continuous or cyclic)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 420,
+      "preview": "m . Type of formulation (dextrose/amino acids with separate infusion of IVFE or total nutrient admix"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 421,
+      "preview": "n. All PN ingredients shall be ordered as follows:"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 422,
+      "preview": "2. Ingredients ordered as amounts per day (for adult patients) or amounts per kilogram per day (for "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 423,
+      "preview": "3. Electrolytes shall be ordered as the complete salt form rather than the individual ion."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 424,
+      "preview": "4. The PN order should contain the full generic name for each ingredient. ${ }^{1,13}$ Brand names s"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 425,
+      "preview": "5. All abbreviations shall follow The Joint Commission standards on abbreviations. ${ }^{13,14}$ Abb"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 426,
+      "preview": "o. A dose for each macronutrient"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 427,
+      "preview": "p. A dose for each electrolyte"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 428,
+      "preview": "q. A dose for vitamins, including multivitamins and/ or individual vitamin entities. Multivitamins s"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 429,
+      "preview": "r. A dose for trace elements, including multicomponents and/or individual trace element entities"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 430,
+      "preview": "s. A dose for each non-nutrient medication (eg, insulin)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 431,
+      "preview": "6. PN orders shall undergo a clinical review to assess appropriateness and shall include the followi"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 432,
+      "preview": "a. Indication is consistent with published guidelines."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 433,
+      "preview": "b. Calculated osmolarity of the PN formulation is appropriate for the route of administration/vascul"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 434,
+      "preview": "c. Each additive macronutrient, micronutrient, nonnutrient medication (eg, insulin) is evaluated to "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 435,
+      "preview": "dose is consistent with institutional practice standards."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 436,
+      "preview": "d. The formulation is compared with the previous day's PN formulation, if any, to assess for substan"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 437,
+      "preview": "e. When laboratory data are available, updated laboratory values that have been reported since the o"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 438,
+      "preview": "7. PN orders shall undergo a formulation safety review that includes the following elements:"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 439,
+      "preview": "a. All ingredients are evaluated for compatibility with each other. Calcium-phosphate precipitation "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 440,
+      "preview": "b. PN formulation is evaluated for expected stability from the time of preparation until the time th"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 441,
+      "preview": "8. Healthcare organizations shall develop policies and/or protocols to clarify PN orders when doses "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 442,
+      "preview": "9. Modifications to the prescriber's original PN order shall be communicated to the licensed prescri"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 443,
+      "preview": "10. All PN orders that require transcription of order data should undergo an independent double-chec"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 444,
+      "preview": "11. All PN orders requiring calculations or conversion of units of measure should undergo an indepen"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 445,
+      "preview": "12. Recommendations for pharmacy review of PN orders apply whether the pharmacist reviewing the PN o"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 447,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 449,
+      "preview": "12. PN orders that are completed in a hospital but outsourced to a third-party pharmacy for compound"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 450,
+      "preview": "13. Institutions shall create a home PN order process that provides a safe plan for multiple days of"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 451,
+      "preview": "14. Pharmacies have the same responsibility of maintaining the PN orders in their records as with ot"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 452,
+      "preview": "15. The healthcare organization shall develop criteria to evaluate and identify pharmacists who are "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 453,
+      "preview": "a. Pharmacists responsible for the review and verification of PN orders should have completed specia"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 454,
+      "preview": "b. In the absence of pharmacists with specialty residency training or BCNSP certification, the organ"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 455,
+      "preview": "c. In the absence of pharmacists with specialty residency training or BCNSP certification, the organ"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 456,
+      "preview": "16. Pharmacists who review and verify PN orders should demonstrate competency at least annually."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 457,
+      "preview": "17. Quality improvement programs should be in place to report, track, and analyze errors associated "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 459
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 461,
+      "preview": "The review of medication orders, including PN orders, involves many steps in which the pharmacist ev"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 463,
+      "preview": "A recent survey of PN practices reported that most institutions ( $60.2 \\%$ ) dedicate 0.6 full-time"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 465,
+      "preview": "The complexity of PN orders necessitates special knowledge and skills to adequately review PN orders"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 467,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Verification 3 (V3)",
+      "line": 469
+    },
+    {
+      "type": "text",
+      "section": "Question: Verification 3 (V3)",
+      "line": 471,
+      "preview": "(V3) What are the steps healthcare organizations can take to improve the PN label and labeling syste"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 473
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 475,
+      "preview": "1. Healthcare organizations shall have a policy and procedure/protocol for standardized labeling of "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 476,
+      "preview": "2. Elements of the PN label include ${ }^{1}$ : (see Figure 3 and Figure 4)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 477,
+      "preview": "a. Two patient identifiers (eg, name, medical record number, date of birth)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 478,
+      "preview": "b. Patient location or address"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 479,
+      "preview": "c. Dosing weight in metric units"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 480,
+      "preview": "d. Administration date and time"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 481,
+      "preview": "e. Beyond-use date and time"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 482,
+      "preview": "f. Route of administration (central vs peripheral vascular access)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 483,
+      "preview": "g. Prescribed volume and overfill volume"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 484,
+      "preview": "h. Infusion rate expressed in $\\mathrm{mL} / \\mathrm{h}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 485,
+      "preview": "i. Duration of the infusion (continuous vs cyclic)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 486,
+      "preview": "j. Size of in-line filter ( 1.2 or 0.22 micron)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 487,
+      "preview": "k. Complete name of all ingredients"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 488,
+      "preview": "3. Barcode"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 489,
+      "preview": "m . All ingredients shall be listed in the same sequence and same units of measure as PN order."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 490,
+      "preview": "O All PN ingredients shall be ordered in amounts per day (for adult patients) or amounts per kilogra"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 491,
+      "preview": "O Electrolytes shall be ordered as the complete salt form rather than the individual ion. Each indiv"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 492,
+      "preview": "O For home or alternative site PN labels, a list of patient/caregiver additives shall be included; t"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 493,
+      "preview": "4. Name of institution or pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 494,
+      "preview": "5. Institution or pharmacy contact information, including telephone number"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 495,
+      "preview": "6. Auxiliary labels may be used to express individual electrolytes as mEq and the phosphorus content"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 496,
+      "preview": "7. If IVFEs are infused separately (vs TNA), the essential elements of the IVFE label are: (see Figu"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 497,
+      "preview": "a. Two patient identifiers (name, medical record number, date of birth)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 498,
+      "preview": "b. Patient location or address"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 499,
+      "preview": "c. Dosing weight"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 500,
+      "preview": "d. Administration date and time"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 501,
+      "preview": "e. Route of administration (central vs peripheral access)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 502,
+      "preview": "f. Prescribed amount of IVFE and volume required to deliver that amount"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 503,
+      "preview": "g. Infusion rate expressed in $\\mathrm{mL} / \\mathrm{h}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 504,
+      "preview": "h. Duration of the infusion (not longer than 12 hours)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 505,
+      "preview": "i. Complete name of the IVFE, even though label placed on original manufacturer container"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 506,
+      "preview": "j. Beyond-use date and time"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 507,
+      "preview": "k. Name of institution or pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 508,
+      "preview": "8. Institution or pharmacy telephone number"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 509,
+      "preview": "9. Labels for home PN formulations should be consistent with USP General Chapter $<17>$ 21 (See Figu"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 510,
+      "preview": "a. Organize the prescription label in a patient-centered manner."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 512,
+      "preview": "- Organized in a manner that best reflects how most patients seek out and understand medical informa"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 513,
+      "preview": "- Includes only the most important patient information needed for safe and effective understanding"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 514,
+      "preview": "b. Emphasize instructions and other information important to the patient."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 515,
+      "preview": "- Prominently display information that is critical for patient's safe and effective use of therapy"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 516,
+      "preview": "- At the top of the label, specify the patient's name, drug name (spelling out full generic and bran"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 517,
+      "preview": "- Directions should follow a standard format so the patient can expect that each element will be in "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 518,
+      "preview": "c. Simplify language"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 519,
+      "preview": "- Language on the label should be clear, simplified, concise, and familiar, and should be used in a "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 521,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 523,
+      "preview": "- Use simplified, standardized sentences that have been developed to promote ease of understanding t"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 524,
+      "preview": "d. Give explicit instructions"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 525,
+      "preview": "- Do not use alphabetic characters for numbers."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 526,
+      "preview": "- Use standardized directions."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 527,
+      "preview": "- List which PN ingredients must be added by the patient/caregiver."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 528,
+      "preview": "- Ambiguous directions such as \"take as directed\" should be avoided unless clear and unambiguous sup"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 529,
+      "preview": "e. Include purpose for use of PN using clear, simple terms such as \"for nutrition supplementation\" o"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 530,
+      "preview": "f. Limit auxiliary information"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 531,
+      "preview": "- Auxiliary information should be evidence based in simple explicit language that is minimized to av"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 532,
+      "preview": "- Information should be presented in a standardized manner and critical for patient understanding an"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 533,
+      "preview": "- Use only icons for which adequate evidence suggests improved patient understanding about correct u"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 534,
+      "preview": "g. Address limited English proficiency"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 535,
+      "preview": "- Whenever possible, the directions for use should be provided in the patient's preferred language, "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 536,
+      "preview": "- Whenever possible, the directions for use should also appear in English to facilitate counseling."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 537,
+      "preview": "- Medication names shall be in English so that emergency personnel and other intermediaries can have"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 538,
+      "preview": "- Translations of prescription labels should be produced using a high-quality translation process."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 539,
+      "preview": "h. Improve readability"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 540,
+      "preview": "- Labels should be designed and formatted so that they are easy to read."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 541,
+      "preview": "- Optimize typography using:"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 542,
+      "preview": "- high-contrast print"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 543,
+      "preview": "- simple uncondensed familiar fonts with space within letters and between letters"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 544,
+      "preview": "- sentence case with initial capital followed by lowercase words"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 545,
+      "preview": "- large font size for critical information"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 546,
+      "preview": "- adequate white space between lines of text"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 547,
+      "preview": "- white space to distinguish sections on the label such as directions for use vs pharmacy informatio"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 548,
+      "preview": "- horizontal text only"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 549,
+      "preview": "- never truncate or abbreviate critical information"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 550,
+      "preview": "- highlighting, bolding, and other typographical cues should preserve readability and should emphasi"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 551,
+      "preview": "- limit the number of colors used for highlighting"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 552,
+      "preview": "- address visual impairment"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 555
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 557,
+      "preview": "PN formulations are complex mixtures with multiple ingredients. The pharmacy-generated label is a cr"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Verification 4 (V4)",
+      "line": 559
+    },
+    {
+      "type": "text",
+      "section": "Question: Verification 4 (V4)",
+      "line": 561,
+      "preview": "(V4) What processes can healthcare organizations implement to improve the safety of PN therapy durin"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 563
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 565,
+      "preview": "1. Healthcare organizations (including vendors and home infusion providers) shall have a process to "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 566,
+      "preview": "2. Healthcare organizations shall develop and approve written PN component substitution protocols to"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 567,
+      "preview": "3. Healthcare organizations shall develop and approve written protocols for PN component substitutio"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 569,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "image",
+      "section": "Recommendations",
+      "line": 571,
+      "content": "![img-0.jpeg](images/afe16c813bca68a2.png)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 573,
+      "preview": "Figure 3. Parenteral Nutrition Label Template: Adult Patient."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 574,
+      "preview": "*Specify product name."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 575,
+      "preview": "4. Healthcare organizations have a process to communicate PN component substitution protocols and PN"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 576,
+      "preview": "5. Healthcare organizations have a process to implement PN component substitution protocols and/or P"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 578,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "image",
+      "section": "Recommendations",
+      "line": 580,
+      "content": "![img-1.jpeg](images/67c65e39d52efd57.png)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 582,
+      "preview": "Figure 4. Parenteral Nutrition Label Template: Pediatric/Neonatal Patient."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 583,
+      "preview": "${ }^{a}$ Specify product name."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 584,
+      "preview": "${ }^{\\text {b }}$ Since the admixture usually contains multiple sources of sodium, potassium, chlor"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 586,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "image",
+      "section": "Recommendations",
+      "line": 588,
+      "content": "![img-2.jpeg](images/da97630aeaea1d10.png)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 590,
+      "preview": "Figure 5. Standard Intravenous Fat Emulsion Label Template: Adult."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 591,
+      "preview": "${ }^{a}$ Specify product name."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 592,
+      "preview": "6. PN component conservation and allocation strategies should include the A.S.P.E.N. PN product shor"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 593,
+      "preview": "7. Processes shall be in place to evaluate alternative PN components procured from compounding pharm"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 594,
+      "preview": "8. Processes should be in place to modify the PN order to reflect component outages and/or conservat"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 595,
+      "preview": "9. Processes should be in place to modify the PN label to reflect changes in the PN order due to com"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 596,
+      "preview": "10. Processes should be in place to modify ACD software to reflect changes in PN components due to o"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 597,
+      "preview": "11. Quality improvement programs should be in place to track and analyze errors associated with PN"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 599,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 601,
+      "preview": "Patient Name $\\qquad$ Medical Record Number $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 602,
+      "preview": "Birthdate/age $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 603,
+      "preview": "Patient location $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 605,
+      "preview": "Height/length and dosing weight: Ht/length: $\\qquad$ cm Dosing Wt: $\\qquad$ kg"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 606,
+      "preview": "Diagnosis(es)/Indication(s) for PN $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 607,
+      "preview": "Vascular access device/location CVC type $\\qquad$ Location $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 609,
+      "preview": "Administration date $\\qquad$ Administration time $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 611,
+      "preview": "Infusion Volume Amount/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 613,
+      "preview": "Intravenous fat emulsion ${ }^{a} \\quad \\mathrm{~mL} \\quad \\mathrm{~g}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 615,
+      "preview": "Instructions"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 616,
+      "preview": "For Central or Peripheral Vein Administration"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 617,
+      "preview": "Total volume $\\qquad$ mL (may contain overfill)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 618,
+      "preview": "$\\square$ syringe"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 619,
+      "preview": "$\\square$ bottle"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 620,
+      "preview": "Infusion rate $\\qquad$ $\\mathrm{mL} / \\mathrm{h}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 621,
+      "preview": "Infuse over $\\qquad$ h"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 622,
+      "preview": "Do not use after date/time $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 623,
+      "preview": "${ }^{* * * * * *}$ Discard any unused volume after 12 hours ${ }^{* * * * * * * *}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 625,
+      "preview": "Prescriber Name/Contact Information $\\qquad$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 627,
+      "preview": "Institution/Pharmacy Name"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 628,
+      "preview": "Institution/Pharmacy Address"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 629,
+      "preview": "Pharmacy Phone Number"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 631,
+      "preview": "Figure 6. Standard Intravenous Fat Emulsions Label Template: Neonate or Pediatric Patient."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 632,
+      "preview": "${ }^{a}$ Specify product name."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 633,
+      "preview": "component outages and shortages. Errors associated with outages and shortages should be reported to "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 634,
+      "preview": "12. Severe PN component shortage information should be reported to the FDA Drug Shortage Program, AS"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 635,
+      "preview": "13. During outage or shortage of PN components, clinicians shall monitor patients for deficiencies. "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 636,
+      "preview": "14. Providers may need to seek out other sources of PN components by coordinating with other healthc"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 638
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 640,
+      "preview": "The drug shortage crisis continues in the United States and threatens the integrity of the pharmaceu"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 641,
+      "preview": "therapy. ${ }^{30}$ The number of new drug shortages has increased over the past 5 years, with the m"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 643,
+      "preview": "To assess the effect of drug shortages on patient safety, the ISMP surveyed healthcare professionals"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 645,
+      "preview": "To understand the impact of PN product shortages on patient safety, each step of the PN process shou"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 647,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "image",
+      "section": "Rationale",
+      "line": 649,
+      "content": "![img-3.jpeg](images/01045016099763e9.png)"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 651,
+      "preview": "Figure 7. Standard Home Parenteral Nutrition Label Template: Adult Patient (as an Example)."
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 652,
+      "preview": "${ }^{a}$ Specify product name."
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 653,
+      "preview": "administration, monitoring, and patient outcomes. In a recent survey, $16.4 \\%$ of respondents repor"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 654,
+      "preview": "procedures for rationing or restricting PN products, use of alternative products, prescribing system"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 656,
+      "preview": "PN product shortages may be so critical that prescribers may elect not to provide PN therapy because"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 658,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 660,
+      "preview": "may dictate to customers PN product conservation strategies. Although this is severe, the PN product"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 662,
+      "preview": "Many of the same safety concerns have been identified in the PN order review step. Pharmacists who p"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 664,
+      "preview": "The compounding and dispensing steps are associated with numerous patient safety issues resulting fr"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 666,
+      "preview": "The PN product shortages affect the administration of PN whether administered by a nurse, patient, o"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 668,
+      "preview": "The lack of a PN component increases the risk of a deficiency of that nutrient or complications. Sho"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 670,
+      "preview": "The shortages pose safety risks throughout the entire PN process, from procurement to patient outcom"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Topics for Future Research",
+      "line": 672
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 674,
+      "preview": "1. Demonstration of decrease in PN errors when CPOE systems are fully integrated with ACDs."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 675,
+      "preview": "2. Demonstration of decrease in PN errors with elimination of handwritten paper PN orders and use of"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 676,
+      "preview": "3. Documentation of PN errors associated with PN verification process."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 677,
+      "preview": "4. Documentation of PN errors associated with the clinical and pharmaceutical reviews of PN orders."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 678,
+      "preview": "5. Documentation of PN errors associated with transcription of PN data from the order to an ACD."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 679,
+      "preview": "6. Impact of PN order standardization on PN data transcription errors."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 680,
+      "preview": "7. Demonstration of PN error reduction with implementation of standardized review and verification o"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 681,
+      "preview": "8. Demonstration of a reduction in PN errors with implementation of a standardized checklist for the"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 682,
+      "preview": "9. Impact of a fully integrated electronic system for prescribing PN and data into an ACD."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 683,
+      "preview": "a. Demonstration of medication error reduction"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 684,
+      "preview": "b. Demonstration of improved patient safety"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 685,
+      "preview": "c. Demonstration of decreased costs"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 686,
+      "preview": "10. Documentation of PN errors associated with PN order calculations."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 687,
+      "preview": "11. Documentation of PN errors associated with misinterpretation of PN bag labeling."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 688,
+      "preview": "12. Demonstration of PN error reduction with standardized PN labeling."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 689,
+      "preview": "13. Development and implementation of a standardized home PN label that is consistent with the A.S.P"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 690,
+      "preview": "14. Evaluation of patient understanding and satisfaction with PN labeling that is consistent with th"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 691,
+      "preview": "15. Demonstration of reduction in PN errors when PN orders are reviewed by a pharmacist with special"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 693,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 695,
+      "preview": "16. Report of successful PN formal training programs for pharmacists and pharmacy technicians."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 696,
+      "preview": "17. Demonstration of PN error reduction with PN formal training programs for pharmacists and pharmac"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 697,
+      "preview": "18. Compatibility of PN components, including macronutrients, micronutrients, and non-nutrient medic"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 698,
+      "preview": "19. Determination of maximum osmolarity of PN formulations for administration via peripheral veins."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Future Research",
+      "line": 699,
+      "preview": "20. Impact of PN product shortages on patient outcomes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "References",
+      "line": 701
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 703,
+      "preview": "1. Mirtallo J, Canada T, Johnson D, et al; A.S.P.E.N. Board of Directors and Task Force for the Revi"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 704,
+      "preview": "2. Boullata JI. Overview of the parenteral nutrition use process. JPEN J Parenter Enteral Nutr. 2012"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 705,
+      "preview": "3. Institute for Safe Medication Practices. Mismatched prescribing and pharmacy templates for parent"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 706,
+      "preview": "4. Institute for Safe Medication Practices. Independent double-checks: undervalued and misused. ISMP"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 707,
+      "preview": "5. Institute for Safe Medication Practices. 1,000-Fold overdoses can occur, particularly in neonates"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 708,
+      "preview": "6. O'Neal BC, Schneider PJ, Pedersen CA, Mirtallo JM. Compliance with safe practices for preparing p"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 709,
+      "preview": "7. Seres D, Sacks GS, Pedersen CA, et al. Parenteral nutrition safe practices: results of the 2003 A"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 710,
+      "preview": "8. Boullata J, Guenter P, Mirtallo J. A parenteral nutrition use survey with a gap analysis. JPEN J "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 711,
+      "preview": "9. Koppel R, Metlay JP, Cohen A, et al. Role of computerized physician order entry systems in facili"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 712,
+      "preview": "10. Shamliyan TA, Duval S, Du J, Kane RL. Just what the doctor ordered: review of the evidence of th"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 713,
+      "preview": "11. Sacks GS, Rough S, Kudsk KA. Frequency and severity of harm of medication errors related to the "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 714,
+      "preview": "12. Institute for Safe Medication Practices. Another tragic parenteral nutrition compounding error. "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 715,
+      "preview": "13. Jacobson JO, Polovich M, Gilmore TR, et al. Revisions to the 2009 American Society of Clinical O"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 716,
+      "preview": "14. The Joint Commission. Official \"Do Not Use\" abbreviations list. Information Management Standard "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 717,
+      "preview": "15. Institute for Safe Medication Practices. List of error-prone abbreviations, symbols, and dose de"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 718,
+      "preview": "16. Information to use in the event of an intravenous multivitamin short-age-May 2012: information t"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 719,
+      "preview": "17. Meyer LD, Raymond CB, Rodrigue CM. Development and evaluation of a checklist for medication orde"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 720,
+      "preview": "18. Pedersen CA, Schneider PJ, Scheckelhoff DJ. ASHP national survey of pharmacy practice in hospita"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 721,
+      "preview": "19. Durfee SM. Pharmacist specialty certification. JPEN J Parenter Enteral Nutr. 2012;36(2)(suppl):5"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 722,
+      "preview": "20. Boitano M, Bojak S, McCloskey S, McCaul DS, McDonough M. Improving the safety and effectiveness "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 723,
+      "preview": "21. USP General Chapter $<17>$ Prescription Container Labeling. 2012. The United States Pharmacopeia"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 724,
+      "preview": "22. Iron overdose due to miscommunication of TPN order: error alert. Pharmacy Today. September 1995."
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 725,
+      "preview": "23. Carey LC, Haffey M. Incident: home TPN formula order misinterpreted after hospital admission. Ho"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 726,
+      "preview": "24. The Joint Commission. Medication Management Standard MM. 02.01. 2012."
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 727,
+      "preview": "25. Information to use in the event of an intravenous amino acids shortage. American Society for Par"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 728,
+      "preview": "26. Information to use in the event of an intravenous fat emulsion shortageJune 2010. American Socie"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 729,
+      "preview": "27. Parenteral nutrition trace element product shortage considerations (5-19-2011). American Society"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 730,
+      "preview": "28. Holcombe B, Andris DA, Brooks G, Houston DR, Plogsted SW. Parenteral nutrition electrolyte/miner"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 731,
+      "preview": "29. Parenteral nutrition cysteine product shortage considerations-September, 2011. American Society "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 732,
+      "preview": "30. Holcombe B. Parenteral nutrition product shortages: impact on safety. JPEN J Parenter Enteral Nu"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 733,
+      "preview": "31. Institute for Safe Medical Practices. Drug shortages: national survey reveals high level of frus"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 734,
+      "preview": "32. Cherici C, Frazier J, Feldman M, et al. Navigating drug shortages in American healthcare: a prem"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 735,
+      "preview": "33. Pramyothin P, Kim DW, Young LS, Wichansawakun S, Apovian CM. Anemia and leukopenia in a long-ter"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 737,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Compounding",
+      "line": 739
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Background",
+      "line": 741
+    },
+    {
+      "type": "text",
+      "section": "Background",
+      "line": 743,
+      "preview": "Recent PN errors caused by a knowledge deficit, lack of training, insufficient competency, and poor "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Compounding 1-2 (C1-C2)",
+      "line": 745
+    },
+    {
+      "type": "text",
+      "section": "Question: Compounding 1-2 (C1-C2)",
+      "line": 747,
+      "preview": "(C1) What compounding errors have been caused by deficits in knowledge, lack of training, competency"
+    },
+    {
+      "type": "text",
+      "section": "Question: Compounding 1-2 (C1-C2)",
+      "line": 748,
+      "preview": "(C2) What compounding errors have been caused by a lack of standardized educational curriculum in sc"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 750
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 752,
+      "preview": "1. Schools of pharmacy in the United States shall develop curricula that address proper aseptic tech"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 753,
+      "preview": "2. Pharmacy technicians shall be certified by the Pharmacy Technician Certification Board if they ar"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 754,
+      "preview": "3. Healthcare organizations shall provide a broad orientation with an in-depth training program focu"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 755,
+      "preview": "4. Healthcare organizations shall require annual competency evaluations of pharmacists and pharmacy "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 756,
+      "preview": "a. Calculations"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 757,
+      "preview": "b. Compounding base solutions"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 758,
+      "preview": "c. Preparing dilutions or aliquots"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 759,
+      "preview": "d. Aseptic technique manipulations"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 760,
+      "preview": "e. Using technology (ie, ACD) for preparation"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 761,
+      "preview": "f. Anticipating incompatibilities (calcium, phosphate)"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 762,
+      "preview": "5. Organizations should develop a strategic plan for implementation of automation and technology for"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 763,
+      "preview": "6. Pharmacists and pharmacy technicians shall be proficient in the proper use of technology (ie, ACD"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 764,
+      "preview": "7. State Boards of Pharmacy should create a specific license and licensing requirements for infusion"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 765,
+      "preview": "8. State Boards of Pharmacy should provide an in-depth training program focusing on CSPs for all Sta"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 767
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 769,
+      "preview": "The lack of standardized training emphasizing foundational concepts behind sterile compounding and a"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 771,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 773,
+      "preview": "formalized training as part of a curriculum. The criteria required for nutrition support pharmacy bo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Compounding 3 (C3)",
+      "line": 775
+    },
+    {
+      "type": "text",
+      "section": "Question: Compounding 3 (C3)",
+      "line": 777,
+      "preview": "(C3) How can organizations avoid PN errors by implementing soft and hard limits on an ACD?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 779
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 781,
+      "preview": "1. Organizations shall implement specific computerized soft limits and hard (catastrophic) limits fo"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 782,
+      "preview": "2. Access to the ACD database is limited to select individuals qualified to manage and maintain this"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 783,
+      "preview": "3. Weight-based warning limits for doses shall be developed by clinicians with the assistance of the"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 784,
+      "preview": "4. Only pharmacists shall be allowed to override alerts. An independent double-check process should "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 785,
+      "preview": "5. Healthcare organizations should check that all unresolved ACD alerts encountered during the PN or"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 786,
+      "preview": "6. Healthcare organizations shall reinforce the importance of reacting to the ACD alerts and documen"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 787,
+      "preview": "7. Healthcare organizations should review available reports detailing the frequency of overrides as "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 789
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 791,
+      "preview": "Limits can be placed on the doses of each PN component to optimize safety within the compounding pro"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 792,
+      "preview": "can be automated within the PN order-prescribing, reviewing, and/or compounding process. The term \"h"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 794,
+      "preview": "The ASHP guidelines on the safe use of ACDs for the preparation of PN admixtures state that the phar"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 796,
+      "preview": "DeBoer and Maddox described a review of smart pump data after implementation throughout the Sanford "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 798,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 800,
+      "preview": "was completed, data were analyzed for medications included in the ISMP high-alert medication list. W"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Compounding 4 (C4)",
+      "line": 802
+    },
+    {
+      "type": "text",
+      "section": "Question: Compounding 4 (C4)",
+      "line": 804,
+      "preview": "(C4) What role does United States Pharmacopeia (USP) Chapter $<797>$ play in preventing PN errors?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 806
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 808,
+      "preview": "1. Healthcare organizations shall comply with USP Chapter $<797>$ standards. ${ }^{12}$"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 809,
+      "preview": "2. Outsourcing should be considered as an alternative to in-house compounding when the healthcare or"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 810,
+      "preview": "3. Standardized, commercially available PN products may be viable options to manually compounded ste"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 811,
+      "preview": "4. Healthcare organizations shall have policies and procedures that address using multichamber, stan"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 812,
+      "preview": "5. Healthcare organizations shall have well-defined policies and procedures that guide the preparati"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 813,
+      "preview": "6. Healthcare organizations must identify standardized workflow processes that include quality contr"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 814,
+      "preview": "7. Healthcare organizations should develop a strategic plan to include technology/automation for ste"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 815,
+      "preview": "8. When an ACD is used to prepare PN admixtures, policies and procedures shall be developed that add"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 816,
+      "preview": "9. Privileges to make changes in the ACD database shall be restricted to a limited number of pharmac"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 817,
+      "preview": "10. Customized order entry templates created by organizations should have a documented standard revi"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 818,
+      "preview": "11. The additive sequence in compounding shall be optimized and validated as a safe and efficacious "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 819,
+      "preview": "12. The use of a checklist or signoff sheet shall be required when adding new products, including ne"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 820,
+      "preview": "13. Barcode verification shall be used to verify product identity during ACD setup and replacement o"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 821,
+      "preview": "14. An independent double-check process for the initial daily ACD setup shall be performed by two st"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 822,
+      "preview": "15. Tubing set(s) shall be traced from the source container to the port where it is attached during "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 823,
+      "preview": "16. If multiple containers of a single additive are used during the preparation of a single CSP, all"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 824,
+      "preview": "17. When an ACD is used, it should deliver all ingredients. Manual compounding should only be used:"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 825,
+      "preview": "a. If the volume of a PN component to be mixed is less than the ACD can accurately deliver."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 826,
+      "preview": "b. If there is an interaction between a PN component and a component of the ACD (eg, insulin and tub"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 827,
+      "preview": "c. If there is a chemical interaction between PN components that cannot be mitigated by sequencing t"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 828,
+      "preview": "d. During a shortage of a specific PN component, manual compounding can be a consideration as part o"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 830,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 832,
+      "preview": "18. Verification of manual additives should include inspection of the actual vials and syringes that"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 833,
+      "preview": "19. If the manual method is being used, the process should be standardized to promote safety and eff"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 834,
+      "preview": "20. PN orders should be prescribed, transmitted, and compounded when supported by properly trained p"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 835,
+      "preview": "21. In facilities that care for adult, pediatric, and neonatal patients, the preparation of CSPs for"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 836,
+      "preview": "22. At least three verification processes should occur in the pharmacy: (1) after initial order entr"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 837,
+      "preview": "23. Organizations should develop a drug conservation policy that addresses the handling and disposit"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 838,
+      "preview": "24. The physical environment in which PN compounding takes place should be assessed in terms of ligh"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 839,
+      "preview": "25. Once a standardized process for compounding PN has been implemented, organizations should review"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 840,
+      "preview": "26. Operation of the compounding process must be routinely observed for procedural compliance and co"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 842
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 844,
+      "preview": "An ASHP national survey of pharmacy practice in hospital settings published in 2012 found that overa"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 846,
+      "preview": "Organizations should refer to a number of available guidelines and articles regarding standardizatio"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 848,
+      "preview": "Policies that require prescribers to order PN daily before a specified deadline should be establishe"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 850,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 852,
+      "preview": "Table 2. Documents Discussing the Standardization of the Parenteral Nutrition Preparation Process."
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 854,
+      "preview": "| Source Title | Publisher | Publication Year | Reference Number |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 855,
+      "preview": "| :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 856,
+      "preview": "| USP Chapter <797> - \"The objective of this chapter is to describe conditions and practices to prev"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 857,
+      "preview": "| ISMP Sterile Preparation Compounding Safety Summit Proceedings | ISMP | 2013 | 2 |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 858,
+      "preview": "| A.S.P.E.N. Statement on Parenteral Nutrition Standardization | A.S.P.E.N. | 2007 | 16 |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 859,
+      "preview": "| ASHP guidelines on the safe use of automated-compounding devices for the preparation of parenteral"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 860,
+      "preview": "| Safe Practices for Parenteral Nutrition | A.S.P.E.N. | 2004 | 13 |"
+    },
+    {
+      "type": "table",
+      "section": "Rationale",
+      "line": 861,
+      "preview": "| Compounded vs standardized commercial parenteral nutrition products: A.S.P.E.N. Parenteral Nutriti"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 863,
+      "preview": "[^0]Independent double-checks should be incorporated into the compounding process. At least three ve"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 865,
+      "preview": "PN multichamber bags, which are designed to reduce the risk for instability or precipitation, are av"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 867,
+      "preview": "Organizations should review and revise the PN compounding process on an annual basis. A number of an"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Topics for Further Research",
+      "line": 869
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 871,
+      "preview": "1. The impact of the educational level and training of sterile compounding personnel on PN compoundi"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 872,
+      "preview": "2. The impact of State Boards of Pharmacy inspections on PN compounding error rates."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 875,
+      "preview": "[^0]:    ASHP, American Society of Health-System Pharmacists; A.S.P.E.N., American Society for Paren"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 877,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 879,
+      "preview": "3. Impact of the sequence for adding macronutrients, micronutrients, and non-nutrient medications on"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 880,
+      "preview": "4. Impact of multichamber PN admixtures (commercially available vs customized compounded) on stabili"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 881,
+      "preview": "5. The impact of standardized, commercial PN products vs customized compounded PN admixtures on infe"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "References",
+      "line": 883
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 885,
+      "preview": "1. Isanhart CM, McCall KL, Kretschmer D, Grimes BA. Parenterals laboratory course to reduce microbia"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 886,
+      "preview": "2. Rich DS, Fricker MP, Cohen MR, Levine SR. Guidelines for the safe preparation of sterile compound"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 887,
+      "preview": "3. Garris K, Wellein MG, Wessell A, Ragucci D, Blair MM. First-year residency candidates' experience"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 888,
+      "preview": "4. Flynn EA, Pearson RE, Barker KN. Observational study of accuracy in compounding I.V. admixtures a"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 889,
+      "preview": "5. Outterson K. .Regulating compounding pharmacies after NECC. N Engl J Med. 2012;367:1969-1972."
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 890,
+      "preview": "6. Flynn EA, Pearson RE, Barker K. Observational study of accuracy in compounding IV admixtures in f"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 891,
+      "preview": "7. Boullata JI, Guenter P, Mirtallo JM. A parenteral nutrition use survey with gap analysis. JPEN J "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 892,
+      "preview": "8. Institute for Safe Medication Practices, Medication Safety Alert, April 21, 2011. Safety Brief: P"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 893,
+      "preview": "9. Institute for Safe Medication Practices, Medication Safety Alert, September 6, 2007. Fatal 1,000-"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 894,
+      "preview": "10. American Society of Health-System Pharmacists. ASHP guidelines on the safe use of automated comp"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 895,
+      "preview": "11. DeBoer E, Maddox M. Advancing Medication Safety with Smart Pump Data. May 2011. http://www.pppma"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 896,
+      "preview": "12. United States Pharmacopeia. USP chapter <797>; Pharmaceutical Compounding-Sterile Preparations. "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 897,
+      "preview": "13. Mirtallo J, Canada T, Johnson D, et al. Safe practices for parenteral nutrition [published corre"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 898,
+      "preview": "14. United States Pharmacopeial Convention. Chapter <1066> Physical Environments That Promote Safe M"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 899,
+      "preview": "15. Pedersen CA, Schneider PJ, Scheckelhoff DJ. ASHP national survey of pharmacy practice in hospita"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 900,
+      "preview": "16. Kochevar M, Guenter P, Holcombe B, Malone A, Mirtallo JM. A.S.P.E.N. statement on parenteral nut"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 901,
+      "preview": "17. Gervasio J. Compounding vs. standardized commercial parenteral nutrition product: pros and cons."
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 902,
+      "preview": "18. Kastango ES. Compounding USP <797>: inspection, regulation, and oversight of sterile compounding"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 903,
+      "preview": "19. Sacks GS, Rough S, Kudsk KA. Frequency and severity of harm of medication errors related to the "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 904,
+      "preview": "20. Bonan B, Martelli N, Berhoune M, et al. The application of hazard analysis and critical control "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 905,
+      "preview": "21. Aboumatar HJ, Winner I, Davis R, et al. Applying Lean Sigma solutions to mistake-proof the chemo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Parenteral Nutrition Administration",
+      "line": 907
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Background",
+      "line": 909
+    },
+    {
+      "type": "text",
+      "section": "Background",
+      "line": 911,
+      "preview": "Because PN administration errors occur at the point of patient contact, mistakes in this phase of th"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Administration 1 (A1)",
+      "line": 913
+    },
+    {
+      "type": "text",
+      "section": "Question: Administration 1 (A1)",
+      "line": 915,
+      "preview": "(A1) What system-based measures can organizations implement to enhance the safety of PN administrati"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 917
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 919,
+      "preview": "1. Written policies and procedures shall be developed to standardize nursing practices for the admin"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 920,
+      "preview": "2. Education and competency assessment shall be provided to newly hired nurses and patients or careg"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 921,
+      "preview": "3. Healthcare organizations should conduct ongoing validation of competency in PN administration bas"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 923,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 925,
+      "preview": "vulnerability of the patient population (eg, high acuity patients, including neonates and the critic"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 926,
+      "preview": "4. Healthcare organizations that provide nursing services related to home infusion shall establish m"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 927,
+      "preview": "5. Interdisciplinary quality improvement programs shall incorporate analysis of medication errors as"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 928,
+      "preview": "6. Safeguards shall be implemented to address specific problem areas as indicated by analysis of PN "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 929,
+      "preview": "7. An interdisciplinary process should be employed for selecting and evaluating equipment and techno"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 930,
+      "preview": "8. Healthcare organizations shall develop policies and procedures that address extravasation of PN f"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 931,
+      "preview": "9. Acute care facilities should establish a policy that prohibits the use of a PN formulation prepar"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 932,
+      "preview": "10. Protocols for safe operation of infusion pumps shall stipulate rules regarding alarm silencing, "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 933,
+      "preview": "11. Healthcare organizations should purchase infusion pumps with capacity to reduce errors due to in"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 935
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 937,
+      "preview": "Data pertaining to the incidence of errors related to PN administration are scarce. A recent survey "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 939,
+      "preview": "One prospective observational study of errors associated with PN found that $35 \\%$ of PN-related er"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 941,
+      "preview": "Standardized Procedures and Competency Validation. Failure to follow established procedures plays a "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 943,
+      "preview": "Healthcare organizations, regardless of setting (acute care to home care), shall conduct ongoing edu"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 945,
+      "preview": "Policies and procedures related to PN administration should address management of extravasation of P"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 947,
+      "preview": "Organizations must also develop policies pertaining to the administration of PN formulations brought"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 949,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 951,
+      "preview": "Table 3. Essential Components of Nursing Policies and Procedures for PN Administration."
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 952,
+      "preview": "A. Role responsibilities, delegation considerations"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 953,
+      "preview": "B. Required equipment"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 954,
+      "preview": "C. Verification procedures"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 956,
+      "preview": "1. Confirmation of patient identity according to organizational policy"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 957,
+      "preview": "2. Use of PN formulas prepared in another institution"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 958,
+      "preview": "3. Checking PN label against the order including formulation components, route, and rate of delivery"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 959,
+      "preview": "4. Inspection of formulation to detect defects or visual changes"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 960,
+      "preview": "5. Verification of appropriate vascular access prior to initiating PN infusion"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 962,
+      "preview": "- Tip location: newly inserted lines and those in place on admission"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 963,
+      "preview": "- Safeguards to avoid tubing misconnections-trace tubing to the body before making the connection"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 964,
+      "preview": "- Confirm patency"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 965,
+      "preview": "D. Administration"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 967,
+      "preview": "1. Policy regarding verification of pump settings"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 968,
+      "preview": "2. Observation of formulation integrity during infusion"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 969,
+      "preview": "3. Importance of maintaining PN infusions at the prescribed rate-avoid interruptions for routine car"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 970,
+      "preview": "4. Guidelines for medication administration for patients receiving PN"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 972,
+      "preview": "- Policies for co-infusing IVFE or other medications with PN"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 973,
+      "preview": "- Policies prohibiting additions to PN formulations on clinical units"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 975,
+      "preview": "5. Recognizing a compromised PN formulation"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 976,
+      "preview": "6. Significance of clogged filters"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 977,
+      "preview": "E. Infection control measures"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 978,
+      "preview": "7. VAD dressing care procedures, aseptic management of catheter hub"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 979,
+      "preview": "8. Frequency of tubing and filter change"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 980,
+      "preview": "9. Hang time"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 981,
+      "preview": "10. Minimizing manipulations"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 983,
+      "preview": "- Dedicated line, lumen"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 984,
+      "preview": "- Blood-drawing practices"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 985,
+      "preview": "F. Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 987,
+      "preview": "1. Appropriate blood glucose monitoring based on clinical condition and infusion schedule (cycled vs"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 988,
+      "preview": "2. Laboratory monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 989,
+      "preview": "3. Evaluating response to therapy"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 990,
+      "preview": "4. Recognition and intervention for extravasation"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 991,
+      "preview": "G. Complications and troubleshooting"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 992,
+      "preview": "H. Termination of therapy"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 993,
+      "preview": "I. Patient education"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 994,
+      "preview": "J. Documentation"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 995,
+      "preview": "the infusion of compromised PN formulations or prescriptions that are not appropriate for the patien"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 997,
+      "preview": "Role of technology. Technological advances hold much promise for improving the safety of PN administ"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 998,
+      "preview": "occur when clinicians bypass the safety features of the system. Complex admixtures such as PN presen"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1000,
+      "preview": "Infusion pumps have long been seen as a requirement for PN administration. ${ }^{2,11}$ Yet despite "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1002,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1004,
+      "preview": "In recent years, infusion pumps equipped with software designed to detect potential errors (\"smart p"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1006,
+      "preview": "Quality improvement. A critical step in efforts to improve the safety of PN is the implementation of"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1008,
+      "preview": "As noted earlier, smart pumps can serve as a valuable source of quality improvement data that allows"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Administration 2 (A2)",
+      "line": 1010
+    },
+    {
+      "type": "text",
+      "section": "Question: Administration 2 (A2)",
+      "line": 1012,
+      "preview": "(A2) What strategies can prevent errors in the verification phase of PN administration?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 1014
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1016,
+      "preview": "1. The verification process of PN administration should be presented in a bundle format, which uses "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1017,
+      "preview": "2. Nurses, caregivers, and patients shall visually inspect the integrity of the PN container and for"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1018,
+      "preview": "3. The PN label shall be verified against the original prescriber order. No verbal orders shall be a"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1019,
+      "preview": "a. Check the patient identifiers, product name, route of administration (central vs peripheral), des"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1020,
+      "preview": "b. Match all components listed on the label of the formulation to the PN order."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1021,
+      "preview": "4. A printed copy of the PN prescription shall be provided to home PN consumers initially and with e"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1022,
+      "preview": "5. Patient identity shall be confirmed using two identifiers according to organizational policy."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1023,
+      "preview": "6. The administration tubing shall be traced to the point of origin in the body at the initiation of"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1024,
+      "preview": "7. An independent double-check process and verification of infusion pump settings should be performe"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 1026
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1028,
+      "preview": "PN administration errors often stem from failure to adhere to the verification steps of PN administr"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1030,
+      "preview": "Adherence to the \"five rights\" is not sufficient in preventing medication errors. Although human fac"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1032,
+      "preview": "Verification procedures. PN formulations often resemble other products used in clinical care, such a"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1034,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1036,
+      "preview": "enteral formula, human breast milk, and cardioplegia solutions, posing the risk for wrong-product or"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1038,
+      "preview": "Nursing education for PN administration shall include information regarding management of potentiall"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1040,
+      "preview": "Other examples of lapses in the verification process include PN administration to the wrong patient "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1042,
+      "preview": "Mistakes involving incorrect infusion rates are among the most common errors reported. Often, these "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1044,
+      "preview": "Tubing misconnections. Inadvertent catheter tubing misconnections have been recognized as a serious "
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1046,
+      "preview": "Independent double-checks. Reports of PN-related errors often recommend implementation of independen"
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1047,
+      "preview": "pump. ${ }^{2,3,6,7,32}$ To be effective, an independent double-check must involve two clinicians se"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Question: Administration 3 (A3)",
+      "line": 1049
+    },
+    {
+      "type": "text",
+      "section": "Question: Administration 3 (A3)",
+      "line": 1051,
+      "preview": "What practices maintain patient safety during the infusion of PN?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Recommendations",
+      "line": 1053
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1055,
+      "preview": "1. PN shall be administered by or under the supervision of trained, competent personnel."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1056,
+      "preview": "2. Organizations shall establish evidence-based policies to guide the selection, insertion, care, an"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1057,
+      "preview": "3. PN protocols shall include measures to reduce contamination through manipulation of the catheter "
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1058,
+      "preview": "4. VADs used for PN administration should not be used to obtain blood samples for laboratory tests u"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1059,
+      "preview": "5. PN infusions shall be infused through a filter appropriate for the type of formulation."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1060,
+      "preview": "6. An occluded filter shall never be removed in response to occlusion alarms, thus allowing the unfi"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1061,
+      "preview": "7. Administration tubing should be attached to PN containers immediately prior to use."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1062,
+      "preview": "8. Administration tubing and filters shall be changed with each new PN container (every 24 hours for"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1064,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1066,
+      "preview": "9. For prolonged infusions of IVFE (20-24 hours), the daily dose should be divided into 2 parts, wit"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1067,
+      "preview": "10. Policies regarding PN multichamber bags should be developed using a multidisciplinary approach."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1068,
+      "preview": "11. The PN infusion shall be maintained at the prescribed rate:"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1069,
+      "preview": "a. Correct pump settings shall be verified at regular intervals and at each hand-off."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1070,
+      "preview": "b. The PN infusion rate shall not be adjusted if the infusion is off schedule."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1071,
+      "preview": "c. The rate of PN shall not be increased in response to changes in fluid needs; additional hydration"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1072,
+      "preview": "d. The PN should not be interrupted for routine care or patient transport for diagnostic studies."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1073,
+      "preview": "e. Organizations shall develop policies regarding PN infusion and appropriate metabolic monitoring d"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1074,
+      "preview": "12. The timing and frequency for blood glucose monitoring shall be based on clinical status and perf"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1075,
+      "preview": "13. Caution shall be used when administering subcutaneous insulin coverage prior to a scheduled inte"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1076,
+      "preview": "14. In acute care acute settings (including long-term acute care), no additions should be made to PN"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1077,
+      "preview": "15. In long-term care facilities and in home care, education should be provided and caregiver compet"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1078,
+      "preview": "16. Co-infusion of medications through PN lines shall require a review of compatibility and stabilit"
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1079,
+      "preview": "17. PN should be discontinued prior to transfer to another facility."
+    },
+    {
+      "type": "text",
+      "section": "Recommendations",
+      "line": 1080,
+      "preview": "18. The administration of PN and the patient's tolerance shall be documented in the medical record."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Rationale",
+      "line": 1082
+    },
+    {
+      "type": "text",
+      "section": "Rationale",
+      "line": 1084,
+      "preview": "Nursing care during PN infusion centers on administering the infusion as prescribed, preventing comp"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Medical devices and equipment",
+      "line": 1086
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1088,
+      "preview": "Vascular access. Reliable vascular access is essential for safe and effective delivery of PN. A wide"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1090,
+      "preview": "Despite their essential role in PN administration, VADs are a leading cause of serious adverse compl"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1092,
+      "preview": "Many organizational protocols for care of VADs discourage blood sampling from central lines as part "
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1094,
+      "preview": "The use of VADs for blood withdrawal not only increases the risk for microbial contamination of the "
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1096,
+      "preview": "Filters. In-line filters are required for PN administration to reduce the potential for patient harm"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1098,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1100,
+      "preview": "should be placed as close to the patient as possible on the administration system. A 0.22 -micron fi"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1102,
+      "preview": "Filters are manufactured for single patient use and should be changed according to the manufacturer'"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1104,
+      "preview": "Administration tubing and containers. PN formulations should be provided in a single daily bag, with"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1106,
+      "preview": "The administration tubing should be attached to the PN container, using sterile technique, immediate"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1108,
+      "preview": "IVFE administered separately shall be appropriately labeled and administered in keeping with the org"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1109,
+      "preview": "di-2-ethylhexyl phthalate (DEHP) to prevent DEHP contamination of TNA formulations and IVFE that are"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1111,
+      "preview": "Multichamber PN bags are available, which are designed to reduce the risk for instability or precipi"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1113,
+      "preview": "Infusion practices. PN infusions should be administered according to the prescribed rate via an infu"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1115,
+      "preview": "Hyperglycemia, edema, or symptoms of fluid intolerance signal the need for a more cautious approach "
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1117,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1119,
+      "preview": "experiencing rebound hypoglycemia. ${ }^{62}$ However, a 30 - to 60 -minute taper-down period is cus"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1121,
+      "preview": "When transitioning to cyclic PN, dosing regimens for insulin should be tailored to avoid abnormal fl"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1123,
+      "preview": "Unscheduled interruptions in the infusion should be avoided because they may contribute to metabolic"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1125,
+      "preview": "The risks of metabolic complications, particularly those related to glycemic control, have raised qu"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1127,
+      "preview": "Medication administration. Historically, PN formulations were viewed as convenient vehicles for deli"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1129,
+      "preview": "Incompatibility reactions range from discoloration, degradation of nutrients or medication, and form"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1131,
+      "preview": "As noted earlier, the optimal way to administer PN is through an IV line (one lumen of a multilumen "
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1133,
+      "preview": "As with all high-alert medications, PN should be administered as a primary infusion. ${ }^{37}$ Co-i"
+    },
+    {
+      "type": "text",
+      "section": "Medical devices and equipment",
+      "line": 1135,
+      "preview": "Documentation. Organizational policies and procedures shall define documentation practices related t"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Topics for Further Research",
+      "line": 1137
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1139,
+      "preview": "1. Identification of the optimal use of independent clinician double-checks in critical aspects of t"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1140,
+      "preview": "2. Identification of educational strategies that are most effective in developing and validating com"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1142,
+      "preview": "--- page 35 ---"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1144,
+      "preview": "3. Demonstration of PN error reduction with routine assessment of competence in PN administration pr"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1145,
+      "preview": "4. Identification of environmental and human factors that contribute to PN administration errors."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1146,
+      "preview": "5. Identification of strategies to mitigate the risk of PN administration errors."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1147,
+      "preview": "6. Evaluation of the optimal approach for managing PN during surgery."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1148,
+      "preview": "7. Impact on infection rates and accuracy of laboratory tests with the use of vascular access device"
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1149,
+      "preview": "8. Clarification of the appropriate use of filters with IVFE administration."
+    },
+    {
+      "type": "text",
+      "section": "Topics for Further Research",
+      "line": 1150,
+      "preview": "9. Evaluation of using checklists for PN administration in reducing PN-related errors."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "References",
+      "line": 1152
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1154,
+      "preview": "1. Boullata J, Guenter P, Mirtallo J. A parenteral nutrition survey with gapanalysis. JPEN J Parente"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1155,
+      "preview": "2. Mirtallo J, Canada T, Johnson D, et al; Task Force for the Revision of Safe Practices for Parente"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1156,
+      "preview": "3. Sacks GS, Rough S, Kudsk KA. Frequency and severity of harm of medication errors related to the p"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1157,
+      "preview": "4. Narula P, Hartigan D, Puntis JWL. The frequency and significance of errors related to parenteral "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1158,
+      "preview": "5. Chuo J, Lambert G, Hicks RW. Intralipid medication errors in the neonatal intensive care unit. J "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1159,
+      "preview": "6. Hicks RW, Becker SC, Chuo J. A summary of NICU fat emulsion medication errors and nursing service"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1160,
+      "preview": "7. Colevas AH, Rempe B. Nurse sensitive indicators: integral to the Magnet ${ }^{\\mathrm{TM}}$ journ"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1161,
+      "preview": "8. Sacks GS. Safety surrounding parenteral nutrition systems. JPEN J Parenter Enteral Nutr. 2012;36:"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1162,
+      "preview": "9. Institute for Safe Medication Practices. The five rights cannot stand alone. ISMP Medication Safe"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1163,
+      "preview": "10. Boitano M, Bojak S, McCloskey S, McCaul DS, McDonough M. Improving the safety and effectiveness "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1164,
+      "preview": "11. Infusion Nursing Society. Infusion nurses standards of practice. J Infusion Nurs. 2011;34:S1-S11"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1165,
+      "preview": "12. Winkler M, Hagen E, Albina J. Home nutrition support. In: Muller CM, ed. The A.S.P.E.N. Adult Nu"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1166,
+      "preview": "13. Hughes RG, Blegen MA. Medication administration safety. In: Hughes RG, ed. Patient Safety and Qu"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1167,
+      "preview": "14. Gil ME, Mateu J. Treatment of extravasation from parenteral nutrition solution. Ann Pharmacother"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1168,
+      "preview": "15. Kumar RJ, Pegg SP, Kimble RM. Management of extravasation injuries. ANZ J Surg. 2001;71:285-289."
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1169,
+      "preview": "16. Wilkens CE, Emmerson AJB. Extravasation injuries on regional neonatal units. Arch Dis Child Feta"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1170,
+      "preview": "17. Doellman D, Hadaway L, Bowe-Geddes LA, et al. Infiltration and extravasation. J Infusion Nurs. 2"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1171,
+      "preview": "18. Benedetta B, Andres C. Extravasation of peripherally administered parenteral nutrition. N Engl J"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1172,
+      "preview": "19. Weigand R, Brown J. Hyaluronidase for the management of dextrose extravasation. Am J Emerg Med. "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1173,
+      "preview": "20. Joint Commission. Standard MM.03.01.05. In: Comprehensive Medication Manual for Hospital: The Of"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1174,
+      "preview": "21. Husch M, Sullivan C, Rooney D, et al. Insights from the sharp end of intravenous medication erro"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1175,
+      "preview": "22. Pederson CA, Schneider PJ, Scheckelhoff DJ. ASHP national survey of pharmacy practice in hospita"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1176,
+      "preview": "23. Hilmas E, Peoples JD. Parenteral nutrition prescribing process using computerized prescriber ord"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1177,
+      "preview": "24. ECRI Institute. General purpose infusion pumps. Health Devices. 2007. https://www.ecri.org/Docum"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1178,
+      "preview": "25. Institute for Safe Medication Practices. Proceedings from the ISMP Summit on the Use of Smart In"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1179,
+      "preview": "26. Cummings K, McGowan R. \"Smart\" infusion pumps are selectively intelligent. Nursing. 2011;41:58-5"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1180,
+      "preview": "27. AAMI Foundation/HTSI. Safety innovations: best practice recommendations for infusion pump-inform"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1181,
+      "preview": "28. ECRI Institute. Deep dive identifies treasures to prevent medication errors. PSO Monthly Brief. "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1182,
+      "preview": "29. Hughes RG. Tools and strategies for quality improvement and patient safety. In: Hughes RG, ed. P"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1183,
+      "preview": "30. Langley GL, Nolan KM, Nolan TW, Norman CL, Provost LP. The Improvement Guide: A Practical Approa"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1184,
+      "preview": "31. Trbovich P, Easty A. Safety innovations: smart pump implementation: a guide for healthcare insti"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1185,
+      "preview": "32. Food and Drug Administration. Infusion pump risk reduction strategies for clinicians. April 2010"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1186,
+      "preview": "33. Resar R, Griffin FA, Haraden C, Nolan TW. Using Care Bundles to Improve Health Care Quality. IHI"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1187,
+      "preview": "34. Rollins CJ. Total nutrient admixtures: stability issues and their impact on nursing practice. J "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1188,
+      "preview": "35. The Joint Commission on Accreditation of Healthcare Organizations. Tubing misconnections-a persi"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1189,
+      "preview": "36. Pennsylvania Patient Safety Advisory. Tubing misconnections: making the connection to patient sa"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1190,
+      "preview": "37. AAMI Foundation/HTSI. Safety innovations: nine recommendations to prevent multiple line infusion"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1191,
+      "preview": "38. Guenter P, Hicks RW, Simmons D, et al. Enteral feeding misconnections: a consortium position sta"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1193,
+      "preview": "--- page 36 ---"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1195,
+      "preview": "39. Simmons D, Symes L, Guenter P, Graves K. Tubing misconnections: normalization of deviance. Nutr "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1196,
+      "preview": "40. ISMP. Independent double checks: undervalued and misused: selective use of this strategy can pla"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1197,
+      "preview": "41. Dickinson A, McCall E, Twomey B, James N. Paediatric nurses' understanding of the process and pr"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1198,
+      "preview": "42. Grissinger M. The virtue of independent double-checks: they really are worth your time. $P \\& T "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1199,
+      "preview": "43. AHRQ Health Care Innovations Exchange. Standardized ordering and administration of total parente"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1200,
+      "preview": "44. O'Grady NP, Alexander M, Burns LA, et al. Guidelines for the prevention of intravascular cathete"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1201,
+      "preview": "45. Institute for Healthcare Improvement. Implement the central line bundle. http://www.ihi.org/IHI/"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1202,
+      "preview": "46. Buchman AL, Opilla M, Kwasny M, Diamantidis TG, Okamoto R. Risk factors for the development of c"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1203,
+      "preview": "47. The Joint Commission. Preventing Central Line-Associated Bloodstream Infections: A Global Challe"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1204,
+      "preview": "48. Binkley JE, Mills B, Roy MA, Diaz JJ, Jensen GL. Spurious laboratory values from improper sampli"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1205,
+      "preview": "49. Fairholm L, Saqui O, Baun M, Yeung M, Fernandes G, Allard JP. Monitoring parenteral nutrition in"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1206,
+      "preview": "50. Food and Drug Administration. Safety alert: hazards of precipitation with parenteral nutrition. "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1207,
+      "preview": "51. Hoff DS, Michaelson AS. Effects of light exposure on total parenteral nutrition and its implicat"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1208,
+      "preview": "52. Sherlock R, Chessex P. Shielding parenteral nutrition from light: does the available evidence su"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1209,
+      "preview": "53. Dolan SA, Felizardo G, Barnes S, et al. APIC position paper: safe injection, infusion and medica"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1210,
+      "preview": "54. Committee on Nutrition, American Academy of Pediatrics; Kleinman RE, ed. Pediatric Nutrition Han"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1211,
+      "preview": "55. Koletzko E, Goulet O, Hunt J, Krihn K, Shamir R. Guidelines on paediatric parenteral nutrition o"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1212,
+      "preview": "56. Institute for Safe Medication Practices. Pharmacist supervision is critical for proper preparati"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1213,
+      "preview": "57. Cohen MR. Safe practices for compounding of parenteral nutrition. JPEN J Parenter Enteral Nutr. "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1214,
+      "preview": "58. Institute for Safe Medication Practices. Lack of standard dosing methods contribute to IV errors"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1215,
+      "preview": "59. Stout SM, Cober MP. Metabolic effects of cyclic parenteral nutrition infusion in adults and chil"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1216,
+      "preview": "60. Suryadevara S, Celestin J, DeChicco R, et al. Type and prevalence of adverse events during the p"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1217,
+      "preview": "61. Austhof SI, DeChicco R, Corrigan ML, et al. Cycling parenteral nutrition from 24 hours to 12 hou"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1218,
+      "preview": "62. Krzywda EA, Andris DA, Whipple JR, et al. Glucose response to abrupt discontinuation of total pa"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1219,
+      "preview": "63. Newton AF, DeLegge MH. Home initiation of parenteral nutrition. Nutr Clin Pract. 2007;22:57-64."
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1220,
+      "preview": "64. Norman JL, Crill CM. Optimizing the transition to home parenteral nutrition in pediatric patient"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1221,
+      "preview": "65. Ayers J, Graves SA. Perioperative management of total parenteral nutrition, glucose containing s"
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1222,
+      "preview": "66. Barber JR, Sacks GS. Parenteral nutrition formulations. In: Muller CM, ed. The A.S.P.E.N. Adult "
+    },
+    {
+      "type": "text",
+      "section": "References",
+      "line": 1224,
+      "preview": "Appendix 1. A.S.P.E.N. Clinical Guidelines Questions for Safe Practice Parenteral Nutrition Ordering"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Question",
+      "line": 1226
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1228,
+      "preview": "1. Does education of prescribers improve PN ordering?"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1229,
+      "preview": "2. What is the maximum safe osmolarity of PN admixtures intended for peripheral vein administration?"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1230,
+      "preview": "3. What are the appropriate calcium intake and the calcium-phosphate ratios in PN for optimal neonat"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1231,
+      "preview": "4. What are the clinical advantages or disadvantages of commercially available premade (\"premixed\") "
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1232,
+      "preview": "5. What are the clinical (infection, catheter occlusion) advantages or disadvantages of 2-in-1 compa"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1233,
+      "preview": "6. What macronutrient dosing limits are expected to provide for the most stable 3-in-1 admixtures?"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1234,
+      "preview": "7. What are the most appropriate recommendations for optimizing calcium (gluconate) and (Na- or K-) "
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1235,
+      "preview": "8. What micronutrient contamination is present in parenteral stock solutions currently used to compo"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1236,
+      "preview": "9. Is it safe to use the PN admixture as a vehicle for non-nutrient medication delivery?"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1237,
+      "preview": "10. Should heparin be included in the PN admixture to reduce the risk of central vein thrombosis?"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1238,
+      "preview": "11. What methods of repackaging IVFE into smaller patient-specific volumes are safe?"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1239,
+      "preview": "12. What beyond-use date should be used for"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1240,
+      "preview": "a. IVFE dispensed for separate infusion in the original container, and"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1241,
+      "preview": "b. repackaged intravenous fat emulsion (IVFE)?"
+    },
+    {
+      "type": "text",
+      "section": "Question",
+      "line": 1243,
+      "preview": "--- page 37 ---"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Conclusion",
+      "line": 1245
+    },
+    {
+      "type": "text",
+      "section": "Conclusion",
+      "line": 1247,
+      "preview": "PN serves as an important therapeutic modality used in adults, children, and infants for a variety o"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Acknowledgments",
+      "line": 1249
+    },
+    {
+      "type": "text",
+      "section": "Acknowledgments",
+      "line": 1251,
+      "preview": "This unfunded project was completed by authors and reviewers using their time as volunteers. The A.S"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "A.S.P.E.N. Board of Directors",
+      "line": 1253
+    },
+    {
+      "type": "text",
+      "section": "A.S.P.E.N. Board of Directors",
+      "line": 1255,
+      "preview": "Ainsley Malone, MS, RD, CNSC; Daniel Teitelbaum, MD; Deborah A. Andris, MSN, APNP; Phil Ayers, Pharm"
+    },
+    {
+      "type": "text",
+      "section": "A.S.P.E.N. Board of Directors",
+      "line": 1257,
+      "preview": "FASHP; Albert Baroccas, MD, FACS, FASPEN; Charlene Compher, PhD, RD, CNSC, LDN, FADA, FASPEN; Carol "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "A.S.P.E.N. PN Safety Task Force",
+      "line": 1259
+    },
+    {
+      "type": "text",
+      "section": "A.S.P.E.N. PN Safety Task Force",
+      "line": 1261,
+      "preview": "Phil Ayers, PharmD, BCNSP, FASHP; Stephen Adams, MS, RPh, BCNSP; Joseph Boullata, PharmD, RPh, BCNSP"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Author Note",
+      "line": 1263
+    },
+    {
+      "type": "text",
+      "section": "Author Note",
+      "line": 1265,
+      "preview": "Companion Clinical Guidelines, titled \"Parenteral Nutrition Ordering, Order Review, Compounding, Lab"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "afe16c813bca68a2.png",
+      "original_ref": "img-0.jpeg",
+      "page": 15,
+      "relative_path": "images/afe16c813bca68a2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations/images/afe16c813bca68a2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "afe16c813bca68a2"
+    },
+    {
+      "sha_name": "67c65e39d52efd57.png",
+      "original_ref": "img-1.jpeg",
+      "page": 16,
+      "relative_path": "images/67c65e39d52efd57.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations/images/67c65e39d52efd57.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "67c65e39d52efd57"
+    },
+    {
+      "sha_name": "da97630aeaea1d10.png",
+      "original_ref": "img-2.jpeg",
+      "page": 17,
+      "relative_path": "images/da97630aeaea1d10.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations/images/da97630aeaea1d10.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "da97630aeaea1d10"
+    },
+    {
+      "sha_name": "01045016099763e9.png",
+      "original_ref": "img-3.jpeg",
+      "page": 19,
+      "relative_path": "images/01045016099763e9.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/L19723_NSC_Module5_ASPENParenteralNutritionSafetyRecommendations/images/01045016099763e9.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "01045016099763e9"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696464",
+    "ts": "2025-08-08T23:41:04.063381+00:00"
+  }
+}

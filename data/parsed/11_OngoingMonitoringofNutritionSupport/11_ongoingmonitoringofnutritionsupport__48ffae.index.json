@@ -1,0 +1,3402 @@
+{
+  "doc_id": "11_ongoingmonitoringofnutritionsupport__48ffae",
+  "original_filename": "11_OngoingMonitoringofNutritionSupport.pdf",
+  "md_path": "data/parsed/11_OngoingMonitoringofNutritionSupport/11_OngoingMonitoringofNutritionSupport.md",
+  "rmd_path": "data/parsed/11_OngoingMonitoringofNutritionSupport/11_OngoingMonitoringofNutritionSupport.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Ongoing Monitoring of Nutrition Support",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Ongoing Monitoring of Nutrition Support",
+      "line": 4,
+      "content": "![img-0.jpeg](images/9c01a79eee8ab186.png)"
+    },
+    {
+      "type": "text",
+      "section": "Ongoing Monitoring of Nutrition Support",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Ongoing Monitoring of Nutrition Support",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Ongoing Monitoring of Nutrition Support",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Ongoing Monitoring of Nutrition Support",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ONGOING MONITORING OF NUTRITION SUPPORT",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "ONGOING MONITORING OF NUTRITION SUPPORT",
+      "line": 15,
+      "preview": "David C. Evans, MD, FACS, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ONGOING MONITORING OF NUTRITION SUPPORT",
+      "line": 16,
+      "preview": "OhioHealth and Ohio University"
+    },
+    {
+      "type": "text",
+      "section": "ONGOING MONITORING OF NUTRITION SUPPORT",
+      "line": 18,
+      "preview": "With acknowledgement to Pat Worthington, M.S.N., R.N., CNSC for her co-authorship of the prior editi"
+    },
+    {
+      "type": "text",
+      "section": "ONGOING MONITORING OF NUTRITION SUPPORT",
+      "line": 20,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 32,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 34
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Examine clinical conditions that affect tolerance of nutrition support."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Identify disease states that may increase the risk for complications related to nutrition support."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 38,
+      "preview": "- Design an appropriate monitoring plan for patients fed enterally and parenterally to minimize and "
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 39,
+      "preview": "- Determine appropriate nutrition support interventions based on results of laboratory testing."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 40,
+      "preview": "- Establish appropriate therapeutic goals for patients on nutrition support."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 41,
+      "preview": "- Propose adjustments to a nutrition support prescription based on progress toward therapeutic goals"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 44
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- CHG: $\\square$ chlorhexidine gluconate"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- CLABSI: $\\square$ central line associated bloodstream infection"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- DVT: $\\square$ deep vein thrombosis"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- EN: $\\square$ enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "- PN: $\\square$ parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "- GI: $\\square$ gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "- GRV: $\\square$ gastric residual volume"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "- I \\& O: $\\square$ input and output"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "- ILE: $\\square$ lipid injectable emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "- NS: $\\square$ nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "- VAP: ventilator associated pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 60
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 62,
+      "preview": "The pharmacy receives a request to increase the PN formulation for a patient in ICU. The prescriber "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 63,
+      "preview": "A. The albumin level represents moderate to severe malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 64,
+      "preview": "B. Low albumin levels indicate the need to increase protein intake"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 65,
+      "preview": "C. Both protein and energy should be increased"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 66,
+      "preview": "D. Albumin levels do not serve a valid markers of nutrition status"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 68
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 70,
+      "preview": "A patient with a small bowel obstruction is to begin PN. Nutrition assessment has documented that th"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 71,
+      "preview": "A. Restrict ILE administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 72,
+      "preview": "B. Initiate PN promptly with standard electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 73,
+      "preview": "C. Delay PN to correct electrolyte abnormalities"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 74,
+      "preview": "D. Increase calories provided by dextrose in the base PN formulation"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 76,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "OVERARCHING THEME",
+      "line": 78
+    },
+    {
+      "type": "text",
+      "section": "OVERARCHING THEME",
+      "line": 80,
+      "preview": "- The nutrition plan of care should be evaluated and revised based on results of ongoing monitoring"
+    },
+    {
+      "type": "image",
+      "section": "OVERARCHING THEME",
+      "line": 81,
+      "content": "![img-1.jpeg](images/507c3945c7cecce9.png)"
+    },
+    {
+      "type": "text",
+      "section": "OVERARCHING THEME",
+      "line": 83,
+      "preview": "Image used with permission, Pat Worthington."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITION SUPPORT MONITORING",
+      "line": 85
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT MONITORING",
+      "line": 87,
+      "preview": "Responsibilities"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT MONITORING",
+      "line": 89,
+      "preview": "- An interdisciplinary approach enhances the effectiveness of monitoring"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT MONITORING",
+      "line": 90,
+      "preview": "- Roles are based on scope of practice and organizational policies"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT MONITORING",
+      "line": 92,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT MONITORING, CONT.",
+      "line": 94
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Goals",
+      "line": 96
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 98,
+      "preview": "- Ensure safe nutrition support therapy"
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 99,
+      "preview": "- Reduce the risk of adverse events"
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 100,
+      "preview": "- Detect and treat complications of therapy promptly"
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 101,
+      "preview": "- Assess progress in attaining nutrition goals"
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 102,
+      "preview": "- Evaluate the need for adjustments in the therapeutic plan"
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 103,
+      "preview": "- Determine the continued appropriateness of therapy"
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 104,
+      "preview": "- Assess educational needs of patient and or caregiver"
+    },
+    {
+      "type": "text",
+      "section": "Goals",
+      "line": 105,
+      "preview": "- Determine adherence to guidelines, protocols, and practice recommendations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 108
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 110,
+      "preview": "- Individualized energy and protein targets"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 111,
+      "preview": "- An understanding of the weight goals (gain, lose, maintenance, growth)"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 112,
+      "preview": "- Administration methods appropriate for the patient's clinical status \\& access device"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 113,
+      "preview": "- Care of the access device to prevent complications"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 114,
+      "preview": "- Includes steps to ensure safety and reduce risk of complications"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 115,
+      "preview": "- Interventions based on potential for drug interactions with the nutrition support regimen, clinica"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 116,
+      "preview": "- Re-assessment of tolerance, appropriateness of current nutrition support therapy"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 117,
+      "preview": "- Monitoring plan congruent with clinical status and healthcare site"
+    },
+    {
+      "type": "text",
+      "section": "ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS",
+      "line": 119,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 121
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 123,
+      "preview": "- Influencing Factors"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 124,
+      "preview": "- Type of nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 125,
+      "preview": "- PN generally requires more intensive monitoring than EN"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 126,
+      "preview": "- Setting in which nutrition support takes place"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 127,
+      "preview": "- Critical care versus Home Care"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 128,
+      "preview": "- Nature and acuity of underlying disease"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 129,
+      "preview": "- Stability of previous monitoring results"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 130,
+      "preview": "- Tolerance of nutrition support therapy"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 131,
+      "preview": "- Duration of therapy"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 132,
+      "preview": "- Less frequent monitoring is appropriate in stable home patients"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING: SCOPE AND FREQUENCY",
+      "line": 134,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 136
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 138,
+      "preview": "| Medical Condition | Nutrition Support Consideration |"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 139,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 140,
+      "preview": "| Renal failure | Fluid and electrolyte intolerance |"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 141,
+      "preview": "| Hepatic failure | Bleeding risk with enteral/parenteral access, altered protein metabolism, altere"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 142,
+      "preview": "| Diabetes Mellitus | Glucose intolerance, delayed gastric emptying, heightened risk forfungemia, es"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 143,
+      "preview": "| Pancreatic insufficiency | Malabsorption, especially fat, fat soluble vitamin deficiency, need for"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 144,
+      "preview": "| Neoplastic disease | Anorexia, cachexia, immune compromise, altered Gl anatomy, adverse Gl treatme"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 145,
+      "preview": "| Intestinal insufficiency | Based on severity and underlying cause, may require PN (Malnutrition Mo"
+    },
+    {
+      "type": "text",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 147,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 149
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 151,
+      "preview": "| Clinical Condition | Nutrition Support Consideration |"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 152,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 153,
+      "preview": "| Extremes in age | Immature Gl motility \\& organ function $\\rightarrow$ frailty, declining muscle m"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 154,
+      "preview": "| Poor intake, w eight loss | High risk for refeeding syndrome and other complications (Malnutrition"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 155,
+      "preview": "| Ventilator dependence | Risk for VAP, requires oral hygiene (CHG), consider orogastric tube for EN"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 156,
+      "preview": "| Need for bed rest | Loss of muscle mass, weakness, elevated risk for pressure injury |"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 157,
+      "preview": "| Altered mental status; prolonged sedation | Increased risk for aspiration; patient initiated remov"
+    },
+    {
+      "type": "table",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 158,
+      "preview": "| End of life | Nutrition support not obligatory in cases of futile care; must be consistent with go"
+    },
+    {
+      "type": "text",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 160,
+      "preview": "Boullata JI, et al. JPEN J Parenter Enteral Nutr. 2017; 41(1):15-103."
+    },
+    {
+      "type": "text",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 161,
+      "preview": "McClave SA, et al. JPEN J Parenter Enteral Nutr. 2016; 40:159."
+    },
+    {
+      "type": "text",
+      "section": "RECOGNIZING RISKS FOR INTOLERANCE \\& COMPLICATIONS",
+      "line": 162,
+      "preview": "Schwartz DB, etal. Nutr Clin Pract. 2021, 36(2):254-267."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1",
+      "line": 164
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 166,
+      "preview": "- An 85 year old woman, sustained a fractured hip in a fall in her bathroom."
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 167,
+      "preview": "- Her medical history includes a myocardial infarction, diabetes type 2, asthma, and cervical cancer"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 168,
+      "preview": "- Height: 5 ft 4 in; weight: 146 lbs; BMI: 25.1"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 169,
+      "preview": "- She underwent total hip arthroplasty. Postoperatively, she is admitted to ICU where she is sedated"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 170,
+      "preview": "- The plan is to begin EN for nutrition support."
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 171,
+      "preview": "- You recognize several medical and clinical conditions that raise this patient's risk for intoleran"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 173,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 175
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 177,
+      "preview": "- Identify four medical and/or clinical conditions that increase this patients risk for EN intoleran"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 178,
+      "preview": "Asthma"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 179,
+      "preview": "History of myocardial infarction"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 180,
+      "preview": "$\\square$ BMI 25.1"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 181,
+      "preview": "$\\square$ Ventilator dependence"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 182,
+      "preview": "Acute kidney injury"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 183,
+      "preview": "Diabetes Mellitus"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 184,
+      "preview": "History of neoplastic disease"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 185,
+      "preview": "$\\square$ Orthopedic injury"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 188
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 190,
+      "preview": "- Identify four medical and/or clinical conditions that increase this patients risk for EN intoleran"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 191,
+      "preview": "Asthma"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 192,
+      "preview": "History of myocardial infarction"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 193,
+      "preview": "$\\square$ BMI 25.1"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 194,
+      "preview": "$\\checkmark$ Ventilator dependence"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 195,
+      "preview": "$\\square$ Orthopedic injury"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 196,
+      "preview": "$\\checkmark$ Acute kidney injury"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 197,
+      "preview": "$\\checkmark$ Diabetes Mellitus"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 198,
+      "preview": "$\\checkmark$ History of neoplastic disease"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 200,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 202
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 204,
+      "preview": "Match each condition with the potential problem associated with EN:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 206,
+      "preview": "- Ventilator dependence"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 207,
+      "preview": "- Acute kidney injury"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 208,
+      "preview": "- Diabetes Mellitus"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 209,
+      "preview": "- History of radiation therapy"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 211,
+      "preview": "Intolerance and complications of EN:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 213,
+      "preview": "1. Fluid and electrolyte disturbance"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 214,
+      "preview": "2. Diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 215,
+      "preview": "3. Delayed gastric emptying"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 216,
+      "preview": "4. Paralytic ileus"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 217,
+      "preview": "5. Pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 218,
+      "preview": "6. Sepsis"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 220
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 222,
+      "preview": "Match each condition with the potential problem associated with EN:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 224,
+      "preview": "- Ventilator dependence"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 225,
+      "preview": "- Acute kidney injury"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 226,
+      "preview": "- Diabetes Mellitus"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 227,
+      "preview": "- History of radiation therapy"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 228,
+      "preview": "$\\rightarrow$ E) Pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 229,
+      "preview": "$\\rightarrow$ A) Fluid and electrolyte disturbance"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 230,
+      "preview": "$\\rightarrow$ C) Delayed gastric emptying"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 231,
+      "preview": "$\\rightarrow$ D) Diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 233,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 235
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 237,
+      "preview": "| Condition | Suggested Criteria |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 238,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 239,
+      "preview": "| Hyperglycemia | Glucose greater than $180 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 240,
+      "preview": "| Azotemia | BUN greater than $100 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 241,
+      "preview": "| Hypertriglyceridemia | Serum triglycerides greater than $200 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 242,
+      "preview": "| Hyponatremia | Serum sodium less than $130 \\mathrm{mEq} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 243,
+      "preview": "| Hypernatremia | Serum sodium greater than $150 \\mathrm{mEq} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 244,
+      "preview": "| Hypokalemia | Serum potassiumless than $3 \\mathrm{mEq} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 245,
+      "preview": "| Hypomagnesemia | Serum magnesium less than $1.3 \\mathrm{mEq} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 246,
+      "preview": "| Hypocalcemia | Ionized calcium less than $4.5 \\mathrm{mEq} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 247,
+      "preview": "| Hypophosphatemia | Serum phosphate less than $2 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "text",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 249,
+      "preview": "Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "text",
+      "section": "WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS",
+      "line": 250,
+      "preview": "Solomon DM et al. Nutr Clin Pract. 2017; 32(3):400-06."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 252
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 254,
+      "preview": "- As discussed in the Complications Module"
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 255,
+      "preview": "- Severe, potentially fatal, electrolyte and fluid disturbances with that occur with re-introduction"
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 256,
+      "preview": "- Reported with oral, enteral or parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 257,
+      "preview": "- Characterized by profound hypophosphatemia, hypokalemia, and hypomagnesemia"
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 258,
+      "preview": "- What to do..."
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 259,
+      "preview": "- Consider delaying nutrition support until electrolytes levels are corrected"
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 260,
+      "preview": "- Follow guidance recommendations provided in the Complications Module."
+    },
+    {
+      "type": "text",
+      "section": "BE ALERT FOR REFEEDING SYNDROME",
+      "line": 262,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 264
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 266,
+      "preview": "- Physical assessment"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 267,
+      "preview": "- Laboratory monitoring"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 268,
+      "preview": "- Recurring nutrition assessment"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 269,
+      "preview": "- Condition of the enteral or parenteral access device"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 270,
+      "preview": "- Functional status: stamina, performance"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 271,
+      "preview": "- Psychosocial response to therapy"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 272,
+      "preview": "- Observation of techniques used"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 273,
+      "preview": "- Competency assessment"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 274,
+      "preview": "- Patient education, reassessment for home nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 275,
+      "preview": "- Outcome parameters: length of stay, changes in nutritional status"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 277,
+      "preview": "Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 279,
+      "preview": "CLINICAL MONITORING IN HOSPITALIZED"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 280,
+      "preview": "PATIENTS"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 282,
+      "preview": "|  Monitoring Parameter | Approach | Frequency  |"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 283,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 284,
+      "preview": "|  Physical exam | Nutrition focused exam"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 285,
+      "preview": "- Muscle and fat stores"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 286,
+      "preview": "- Fluid accumulation"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 287,
+      "preview": "- Micronutrient abnormalities"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 288,
+      "preview": "- Functional status | On initial exam  |"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 289,
+      "preview": "|  Height, weight and growth | Weight scales used in consistent manner: same time of day, similar cl"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 290,
+      "preview": "|  Assess energy and macronutrient needs | Use of appropriate predictive equations, indirect calorim"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 291,
+      "preview": "|  Intake and output records | Oral or enteral intake, IV PN, other fluids and medications, blood pr"
+    },
+    {
+      "type": "table",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 292,
+      "preview": "|  Vital signs | Blood pressure, respiratory rate, pulse, temperature | On initial exam and then dai"
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 294,
+      "preview": "Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "text",
+      "section": "COMPONENTS OF NUTRITION SUPPORT MONITORING",
+      "line": 296,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 298
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 300,
+      "preview": "|  Parameter | Approach | Frequency  |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 301,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 302,
+      "preview": "|  Blood glucose monitoring | Capillary glucose levels, in addition to a correctional dose insulin p"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 303,
+      "preview": "|  Evaluation of micronutrient status | Serum levels vitamins, minerals, and trace elements | When h"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 304,
+      "preview": "|  Examination of the enteral or vascular access device | Inspection and palpation to assess for evi"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 305,
+      "preview": "|  Continued need for EN or PN | Review of oral and enteral intake, evaluation of changes in GI func"
+    },
+    {
+      "type": "table",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 306,
+      "preview": "|  Response to therapy | Wound healing, stamina, functional status, progress toward weight/growth go"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 308,
+      "preview": "Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 310,
+      "preview": "NUTRITION: SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 312,
+      "preview": "MONITORING TOLERANCE OF EN"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 314,
+      "preview": "- Physical Examination"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 315,
+      "preview": "- Abdominal distension, flatus, pain, tenderness. Bowel sounds?"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 316,
+      "preview": "- Subjective complaints of GI symptoms"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 317,
+      "preview": "- Nausea, bloating, etc."
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 318,
+      "preview": "- Risk for aspiration"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 319,
+      "preview": "- Delayed gastric emptying, emesis, high GRVs"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 320,
+      "preview": "- Inability to maintain head elevated"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 322,
+      "preview": "McClave SA et al. AmJ Gastroenterol. 2016; 111(3):315-34"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 324,
+      "preview": "NUTRITION: SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.",
+      "line": 326,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MONITORING TOLERANCE OF EN, CONT.",
+      "line": 328
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TOLERANCE OF EN, CONT.",
+      "line": 330,
+      "preview": "- Presence of diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TOLERANCE OF EN, CONT.",
+      "line": 331,
+      "preview": "- Volume"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TOLERANCE OF EN, CONT.",
+      "line": 332,
+      "preview": "- Precipitating factors-malabsorption?"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TOLERANCE OF EN, CONT.",
+      "line": 333,
+      "preview": "- Infectious causes"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TOLERANCE OF EN, CONT.",
+      "line": 334,
+      "preview": "- Medication effects: type of medication and administration methods"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING TOLERANCE OF EN, CONT.",
+      "line": 336,
+      "preview": "McClave SA et al. AmJ Gastroenterol. 2016; 111(3):315-34"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 338
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 340,
+      "preview": "- Accurate I \\& O records (volume prescribed versus volume delivered)"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 341,
+      "preview": "- Tube feeding infusing \"at goal\" in hospital"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 342,
+      "preview": "- Taking less formula than prescribed at home"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 343,
+      "preview": "- Record volumes from actual pump tally rather than \"guestimate\""
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 344,
+      "preview": "- Frequency of interruptions"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 345,
+      "preview": "- Diagnostic and therapeutic procedures"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 346,
+      "preview": "- Routine care activities"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 347,
+      "preview": "- Stopping feeding for GRV < 500 mL"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 348,
+      "preview": "- Enteral access malfunction"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 349,
+      "preview": "- Occluded tubes or patient initiated removal of device"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY OF EN",
+      "line": 351,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 353
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 355,
+      "preview": "- Factors impairing adequate energy delivery"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 356,
+      "preview": "- Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 357,
+      "preview": "- Hypertriglyceridemia"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 358,
+      "preview": "- Factors impacting protein delivery"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 359,
+      "preview": "- Renal and hepatic function"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 360,
+      "preview": "- Metabolic response to PN"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 361,
+      "preview": "- Electrolyte stability / refeeding syndrome"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 362,
+      "preview": "- Fluid shifts / edema"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN",
+      "line": 364,
+      "preview": "Worthington Pet al. J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 366
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 368,
+      "preview": "- Shortages, allergies, nutrient intolerance"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 369,
+      "preview": "- Nutrient shortages: vitamins, electrolytes, amino acids, lipids, etc."
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 370,
+      "preview": "- Disorders of lipid metabolism"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 371,
+      "preview": "- Allergy: often related to the excipient in multivitamin product"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 372,
+      "preview": "- Problems related to infusion cycle"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 373,
+      "preview": "- Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 374,
+      "preview": "- Shortness of breath"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 375,
+      "preview": "- Nocturia"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 376,
+      "preview": "- Vascular access"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 377,
+      "preview": "- Disruptions in care due to complications: CLABSI, DVT, occlusion"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.",
+      "line": 379,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LABORATORY MONITORING",
+      "line": 381
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING",
+      "line": 383,
+      "preview": "Parenteral Nutrition Safety Consensus Recommendations: - Vascular access devices used for PN adminis"
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING",
+      "line": 385,
+      "preview": "Rationale: - Manipulation of the line for blood withdrawal is associated with increased risk for mic"
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING",
+      "line": 387,
+      "preview": "Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333"
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING",
+      "line": 389,
+      "preview": "SUBTITIOUS UP FOR CHEMICALS"
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING",
+      "line": 391,
+      "preview": "LABORATORY MONITORING DURING PN"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 393,
+      "preview": "|   | Acute Care PN |  |  | Long-Term PN |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 394,
+      "preview": "| --- | --- | --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 395,
+      "preview": "|  Parameter | Baseline | Days 1-7 | Ongoing, stable | Initial, post discharge | Weeks 1-4 (or until"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 396,
+      "preview": "|  Glucose, BUN, creatinine, electrolytes, calcium, magnesium, phosphorous | \u221a | Daily x 3 or until "
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 397,
+      "preview": "|  CBC with differential | \u221a | Daily x 3 or until stable | 1-2 x/week | \u221a | \u221a |  | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 398,
+      "preview": "|  Total bilirubin, direct bilirubin, AP, AST, ALT, | \u221a |  | Weekly | \u221a |  |  | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 399,
+      "preview": "|  PTT, PT, INR | \u221a |  | Weekly |  |  |  | Monthly  |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING",
+      "line": 400,
+      "preview": "|  Triglyceride level | \u221a | Pediatric: daily until stable then weekly | Weekly | \u221a |  |  | Monthly  "
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING",
+      "line": 402,
+      "preview": "Worthington P et al. J Parenter Enter Nutr. 2017; 41:324-77"
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING",
+      "line": 404,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 406
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 408,
+      "preview": "|  | Acute Care PN |  |  | Long-Term PN |  |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 409,
+      "preview": "| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 410,
+      "preview": "| Parameter | Baseline | Days $1-7$ | Ongoing, stable | Initial, post discharge | $\\begin{aligned} &"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 411,
+      "preview": "| Serum proteins (To monitor inflammation) | $\\checkmark$ |  | Weekly | $\\checkmark$ |  |  | Monthly"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 412,
+      "preview": "| Iron indices |  |  | As clinically indicated |  |  | $\\checkmark$ | Every 3-6 months |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 413,
+      "preview": "| Zinc, selenium, manganese, copper, chromium |  |  | As clinically indicated |  |  | $\\checkmark$ |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 414,
+      "preview": "| Vitamin A, OH- <br> 25 vitamin D, vitamin E |  |  | As clinically indicated |  |  | $\\checkmark$ |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 415,
+      "preview": "| Vitamin $B_{12}$ and folate |  |  | As clinically indicated |  |  | $\\checkmark$ | Every 6-12 mont"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 416,
+      "preview": "| TSH |  |  |  | As indicated |  |  | Every 12 months |"
+    },
+    {
+      "type": "table",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 417,
+      "preview": "| Carnitine |  |  | No guideline for adults |  |  | $\\checkmark$ <br> Pediatric patients | Every 3-1"
+    },
+    {
+      "type": "text",
+      "section": "LABORATORY MONITORING DURING PN, CONT",
+      "line": 419,
+      "preview": "Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ALBUMIN, PREALBUMIN AND TRANSFERRIN LEVELS",
+      "line": 421
+    },
+    {
+      "type": "text",
+      "section": "ALBUMIN, PREALBUMIN AND TRANSFERRIN LEVELS",
+      "line": 423,
+      "preview": "- Current guidelines recommend against using albumin, prealbumin (also called transthyretin) and tra"
+    },
+    {
+      "type": "text",
+      "section": "ALBUMIN, PREALBUMIN AND TRANSFERRIN LEVELS",
+      "line": 424,
+      "preview": "- A single measurement of albumin can provide prognostic information regarding surgical risk"
+    },
+    {
+      "type": "text",
+      "section": "ALBUMIN, PREALBUMIN AND TRANSFERRIN LEVELS",
+      "line": 425,
+      "preview": "- These proteins act as negative acute-phase proteins: levels fall precipitously during inflammation"
+    },
+    {
+      "type": "text",
+      "section": "ALBUMIN, PREALBUMIN AND TRANSFERRIN LEVELS",
+      "line": 426,
+      "preview": "- Today these proteins are recognized as surrogate markers of inflammation, rather than indicators o"
+    },
+    {
+      "type": "text",
+      "section": "ALBUMIN, PREALBUMIN AND TRANSFERRIN LEVELS",
+      "line": 428,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 430
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 432,
+      "preview": "| Assessment Parameter | Frequency of Monitoring |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 433,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 434,
+      "preview": "| Signs and symptoms of intolerance to therapy | Weekly, or at each home visit \\& patient encounter "
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 435,
+      "preview": "| Home environment safety assessment | Before discharge \\& regularly throughout therapy |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 436,
+      "preview": "| Vital signs | At each home visit \\& patient encounter |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 437,
+      "preview": "| Weight changes and/or growth as appropriate | Weekly or at each home visit \\& patient encounter |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 438,
+      "preview": "| Hydration status | Baseline and regularly throughout therapy |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 439,
+      "preview": "| Review of systems and/or physical exam | Weekly, or at each home visit \\& patient encounter with h"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 440,
+      "preview": "| Clinical signs of nutrient deficiency or excess | Baseline and regularly throughout therapy |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 441,
+      "preview": "| Comorbiditiesthat may affect the nutrition plan | Baseline and regularly throughout therapy |"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES",
+      "line": 443,
+      "preview": "Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 445
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 447,
+      "preview": "| Assessment Parameter | Frequency of Monitoring |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 448,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 449,
+      "preview": "| Assess readiness to begin or advance oral or enteral intake | At baseline and at each home visit a"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 450,
+      "preview": "| Functional status and performance | At each home visit and each patient encounter |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 451,
+      "preview": "| Enteral or vascular access device and insertion/exit site | At each home visit and each patient en"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 452,
+      "preview": "| Psychosocial status; quality of life | At each home visit and at each patient encounter |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 453,
+      "preview": "| Patient compliance with techniques, procedures, infusion schedule | At each home visit |"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 454,
+      "preview": "| Dual energy x-ray absorptiometry scan (PN) | Baseline when expected duration of PN exceeds 6 month"
+    },
+    {
+      "type": "table",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 455,
+      "preview": "| Liver and biliary ultrasonography (PN) | As clinically indicated |"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.",
+      "line": 457,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#2",
+      "line": 459
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 461,
+      "preview": "A 45 year old women with a history of a colectomy for ulcerative colitis, received PN in the hospita"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#2",
+      "line": 463
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 465,
+      "preview": "Based on the patient case, which of the following monitoring parameter(s) should be performed weekly"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 466,
+      "preview": "$\\square$ Serum protein levels"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 467,
+      "preview": "$\\square$ Glucose"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 468,
+      "preview": "$\\square$ CBC with differential"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 469,
+      "preview": "$\\square$ Iron"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 470,
+      "preview": "$\\square$ Liver function tests"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 471,
+      "preview": "$\\square$ Triglyceride level"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 472,
+      "preview": "$\\square$ Sodium, potassium, chloride, bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 473,
+      "preview": "$\\square$ Blood urea nitrogen"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 475,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#2",
+      "line": 477
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 479,
+      "preview": "Based on the patient case, which of the following monitoring parameter(s) should be performed weekly"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 480,
+      "preview": "$\\square$ Serum protein levels"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 481,
+      "preview": "$\\checkmark$ Glucose"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 482,
+      "preview": "$\\checkmark$ CBC with differential"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 483,
+      "preview": "$\\square$ Iron"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 484,
+      "preview": "$\\square$ Liver function tests"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 485,
+      "preview": "$\\square$ Triglyceride level"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 486,
+      "preview": "$\\checkmark$ Sodium, potassium, chloride, bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#2",
+      "line": 487,
+      "preview": "$\\checkmark$ Blood urea nitrogen"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#3",
+      "line": 489
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 491,
+      "preview": "- A 45 year old woman with a history of a colectomy and high output ileostomy, has received home PN "
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 492,
+      "preview": "- Height: 5 ft 6 inches; current weight:124 lbs; discharge weight: 127."
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 493,
+      "preview": "- She receives a PN formulation that provides 85 g amino acids and 1700 kcal in 1.5 liters over 12 h"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 494,
+      "preview": "- PN contains a standard electrolyte product and trace minerals."
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 496,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#3",
+      "line": 498
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 500,
+      "preview": "Laboratory tests performed this week are as follows:"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 502,
+      "preview": "| Parameter | Normal Range | Current Lab Result |"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 503,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 504,
+      "preview": "| Sodium | $135-145 \\mathrm{mEq} / \\mathrm{L}$ | $149 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 505,
+      "preview": "| Potassium | $3.5-5-5 \\mathrm{mEq} / \\mathrm{L}$ | $3.3 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 506,
+      "preview": "| Chloride | $100-110 \\mathrm{mEq} / \\mathrm{L}$ | $114 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 507,
+      "preview": "| Bicarbonate | $24-26 \\mathrm{mEq} / \\mathrm{L}$ | $21 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 508,
+      "preview": "| BUN | $15-20 \\mathrm{mg} / \\mathrm{dL}$ | $32 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "CASE STUDY \\#3",
+      "line": 509,
+      "preview": "| Creatinine | $0.8-1.4 \\mathrm{mg} / \\mathrm{dL}$ | $1.0 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 511,
+      "preview": "Monitoring reveals:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 513,
+      "preview": "- weight loss, elevated sodium, low potassium and elevated BUN"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#3",
+      "line": 516
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 518,
+      "preview": "Based on the data, select the appropriate change(s) to the nutrition support regimen:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 519,
+      "preview": "$\\square$ Contact patient regarding test results"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 520,
+      "preview": "$\\square$ Increase calories"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 521,
+      "preview": "$\\square$ Increase volume"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 522,
+      "preview": "$\\square$ Reduce amino acids"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 523,
+      "preview": "$\\square$ Maintain current macronutrient content"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 524,
+      "preview": "$\\square$ Delete all sodium"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 525,
+      "preview": "$\\square$ Recommend oral potassium supplement"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 526,
+      "preview": "$\\square$ Increase potassium in PN formulation"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 527,
+      "preview": "$\\square$ Increase frequency of laboratory monitoring"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 528,
+      "preview": "$\\square$ Adjust infusion cycle"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 530,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#3",
+      "line": 532
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 534,
+      "preview": "Based on the data, select the appropriate change(s) to the nutrition support regimen:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 535,
+      "preview": "$\\checkmark$ Contact patient regarding test results"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 536,
+      "preview": "$\\square$ Increase calories"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 537,
+      "preview": "$\\checkmark$ Increase volume"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 538,
+      "preview": "$\\square$ Reduce amino acids"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 539,
+      "preview": "$\\checkmark$ Maintain current macronutrient content"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 540,
+      "preview": "$\\square$ Delete all sodium"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 541,
+      "preview": "$\\square$ Recommend oral potassium supplement"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 542,
+      "preview": "$\\checkmark$ Increase potassium in PN formulation"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 543,
+      "preview": "$\\checkmark$ Increase frequency of laboratory monitoring"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3",
+      "line": 544,
+      "preview": "$\\square$ Adjust infusion cycle"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 546
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 548,
+      "preview": "Conclusion: Monitoring data suggests that the patient is dehydrated."
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 549,
+      "preview": "$\\checkmark$ Contact patient:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 551,
+      "preview": "- Review clinical status"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 552,
+      "preview": "- Confirm output trends"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 553,
+      "preview": "- Verify compliance with daily schedule"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 554,
+      "preview": "$\\square$ Increase calories:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 555,
+      "preview": "- Current energy intake is appropriate at $\\sim 29 \\mathrm{kcal} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 556,
+      "preview": "- Weight loss is most likely not related to inadequate energy intake"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY",
+      "line": 558,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 560
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 562,
+      "preview": "$\\checkmark$ Increase volume:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 564,
+      "preview": "- Fluid intake ( $\\sim 25 \\mathrm{~mL} / \\mathrm{kg}$ ) is likely not sufficient due to ostomy losse"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 565,
+      "preview": "- Target: $1750-2000 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 566,
+      "preview": "- May need to consider supplemental IV fluid"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 567,
+      "preview": "$\\square$ Reduce amino acids:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 568,
+      "preview": "- Elevated BUN could be due to excess protein intake but ( $\\sim 1.4 \\mathrm{~g} / \\mathrm{kg}$ ) is"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 569,
+      "preview": "- Increase most likely reflects volume deficit (prerenal azotemia)"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 570,
+      "preview": "$\\checkmark$ Maintain current macronutrient content: Current intake is consistent with practice guid"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 573
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 575,
+      "preview": "$\\square$ Delete all sodium:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 577,
+      "preview": "- Rehydration may correct hypernatremia"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 578,
+      "preview": "- High ostomy output likely contributes to ongoing sodium loss"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 579,
+      "preview": "- Some reduction may be appropriate, but not to completely delete"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 580,
+      "preview": "$\\square$ Recommend oral potassium supplement"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 581,
+      "preview": "- Concern for poor absorption, increase in ostomy out put"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 582,
+      "preview": "$\\checkmark$ Increase potassium in PN formulation: Chloride versus acetate"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 583,
+      "preview": "$\\checkmark$ Increase frequency of laboratory monitoring"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 584,
+      "preview": "$\\square$ Adjust infusion cycle"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#3 SUMMARY, CONT.",
+      "line": 586,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 588
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 590,
+      "preview": "- Goal:"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 591,
+      "preview": "- Prompt advancement as GI function and patient tolerance allows"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 592,
+      "preview": "- Avoid unnecessary PN and EN"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 593,
+      "preview": "- Removal of vascular access device is a priority"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 594,
+      "preview": "- Remove nasally placed enteral feeding tubes as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 595,
+      "preview": "- Less urgency regarding removal of abdominal enteral devices such as gastrostomy and jejunostomy tu"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS",
+      "line": 597,
+      "preview": "Worthington Pet al. J Parenter Enter Nutr. 2017;41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 599
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 601,
+      "preview": "- Monitoring progress"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 602,
+      "preview": "- Routinely asses for changes in GI function that impact tolerance"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 603,
+      "preview": "- Evaluate contribution of all sources of nutrient intake: oral, enteral, parenteral"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 604,
+      "preview": "- Consider weaning PN when oral/enteral intake reaches 50-75\\% of requirements"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 605,
+      "preview": "- Verify metabolic and clinical stability"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 606,
+      "preview": "- Confirm objective evidence with subjective impression of the patient"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 607,
+      "preview": "- Closely follow weight and hydration status"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 608,
+      "preview": "- Consider increasing metabolic monitoring during transition periods"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.",
+      "line": 610,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "WEANING PN",
+      "line": 612
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 614,
+      "preview": "- Establish clear goals with patient"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 615,
+      "preview": "- Provide nutrition counseling and dietary guidance as indicated"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 616,
+      "preview": "- Optimize pharmacologic management of GI symptoms"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 617,
+      "preview": "- Eliminate 1 or 2 non-consecutive infusions per week; in children consider reducing PN by a small p"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 618,
+      "preview": "- Increase frequency of weight and metabolic monitoring during the transition"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 619,
+      "preview": "- Further reductions if nutrition and hydration status remains stable"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 620,
+      "preview": "- Evaluate the need for oral or intravenous fluid, electrolytes, and/or vitamins"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 621,
+      "preview": "- Make a nutrition monitoring plan after PN is stopped to ensure safe transition to full oral or ent"
+    },
+    {
+      "type": "text",
+      "section": "WEANING PN",
+      "line": 623,
+      "preview": "Worthington Petal.J Parenter Enter Nutr. 2017; 41:324-77."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#4",
+      "line": 625
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 627,
+      "preview": "- A 58 year old man who has been receiving home PN for the past 8 months due short bowel syndrome th"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 628,
+      "preview": "- Weight: 4 lb . increase in the past month"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 629,
+      "preview": "- Laboratory tests: Within normal limits"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 631,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#4",
+      "line": 633
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 635,
+      "preview": "Select appropriate adjustments in the PN regimen to ensure successful weaning of PN:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 636,
+      "preview": "$\\square$ Increase frequency of laboratory monitoring"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 637,
+      "preview": "D Discontinue PN for 1-2 weeks and monitor weight"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 638,
+      "preview": "D Continue PN until patient consistently achieves 100\\% of oral intake"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 639,
+      "preview": "D Reduce the PN formula by 50\\%"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 640,
+      "preview": "D Eliminate 1 or 2 infusions each week"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 641,
+      "preview": "D Recommend nocturnal tube feeding to ensure adequate intake"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 642,
+      "preview": "D Consider initiating an oral vitamin and mineral supplement"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#4",
+      "line": 644
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 646,
+      "preview": "Select appropriate adjustments in the PN regimen to ensure successful weaning of PN:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 647,
+      "preview": "$\\checkmark$ Increase frequency of laboratory monitoring"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 648,
+      "preview": "D Discontinue PN for 1-2 weeks and monitor weight"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 649,
+      "preview": "D Continue PN until patient consistently achieves 100\\% of oral intake"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 650,
+      "preview": "D Reduce the PN formula by 50\\%"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 651,
+      "preview": "$\\checkmark$ Eliminate 1 or 2 non-consecutive infusions each week"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 652,
+      "preview": "D Recommend nocturnal tube feeding"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 653,
+      "preview": "$\\checkmark$ Consider initiating an oral vitamin and mineral supplement"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#4",
+      "line": 655,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 657
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 659,
+      "preview": "The pharmacy receives a request to increase the PN formulation for a patient in ICU. The prescriber "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 660,
+      "preview": "A. The albumin level represents moderate to severe malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 661,
+      "preview": "B. Low albumin levels indicate the need to increase protein intake"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 662,
+      "preview": "C. Both protein and energy should be increased"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 663,
+      "preview": "D. Albumin levels do not serve a valid markers of nutrition status"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 665
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 667,
+      "preview": "The pharmacy receives a request to increase the PN formulation for a patient in ICU. The prescriber "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 668,
+      "preview": "A. The albumin level represents moderate to severe malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 669,
+      "preview": "B. Low albumin levels indicate the need to increase protein intake"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 670,
+      "preview": "C. Both protein and energy should be increased"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 671,
+      "preview": "D. Albumin levels do not serve a valid markers of nutrition status"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 673,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 675
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 677,
+      "preview": "A patient with a small bowel obstruction is to begin PN. Nutritional assessment has documented that "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 678,
+      "preview": "A. Restrict ILE administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 679,
+      "preview": "B. Initiate PN promptly with standard electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 680,
+      "preview": "C. Delay PN to correct electrolyte abnormalities"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 681,
+      "preview": "D. Increase calories provided by dextrose in the base PN formulation"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 683
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 685,
+      "preview": "A patient with a small bowel obstruction is to begin PN. Nutritional assessment has documented that "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 686,
+      "preview": "A. Restrict ILE administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 687,
+      "preview": "B. Initiate PN promptly with standard electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 688,
+      "preview": "C. Delay PN to correct electrolyte abnormalities"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 689,
+      "preview": "D. Increase calories provided by dextrose in the base PN formulation"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 691,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 693
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 695,
+      "preview": "- The nutrition plan of care should be evaluated and revised based on results of ongoing monitoring."
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 696,
+      "preview": "- The goal of monitoring aims to determine the appropriateness of the nutrition interventions, ensur"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 697,
+      "preview": "- The scope and frequency of monitoring is determined by the metabolic and clinical stability of the"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 700
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 702,
+      "preview": "- Ayers P, Adams S, Boulatta J et al. ASPEN Parenteral nutrition safety consensus recommendations. J"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 703,
+      "preview": "- Boullata JI, Carrera AL, Harvey L et al. ASPEN safe practices for enteral nutrition therapy. JPEN "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 704,
+      "preview": "- DaSilva JSV, Seres DS, Sabino K, et al. ASPEN consensus recommendations for refeeding syndrome. Nu"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 705,
+      "preview": "- Durfee SM, Adams SC, Arthur E et al. ASPEN standards for nutrition support: Home and alternate sit"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 706,
+      "preview": "- Evans DC, Corkins MR, Malone A, Miller S. The use of visceral proteins as nutrition markers. An AS"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 708,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 710
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 712,
+      "preview": "- McClave SA, DiBaise JK, Mullin GE et al. ACG Clinical Guideline: Nutrition Therapy in the Adult Ho"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 713,
+      "preview": "- McClave SA, Taylor BE, Martindale RG et al. Guidelines for the provision and assessment of nutriti"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 714,
+      "preview": "- National Collaborating Centre for Acute Care (UK). Nutrition Support for Adults: Oral Nutrition Su"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 717
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 719,
+      "preview": "- Schwartz DB, Barrocas A, Annetta MG, et al. Ethical aspects of artificially administered nutrition"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 720,
+      "preview": "- Solomon DM, Hollands JM, Siemianowski LA et al. Do patients with a baseline clinical condition war"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 721,
+      "preview": "- Ukleja A, Gilbert K, Mogensen KM et al. ASPEN standards for nutrition support: Hospitalized adults"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 722,
+      "preview": "- Worthington P, Balint J, Bechtold M et al. When is parenteral nutrition appropriate? J Parenter En"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 724,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 726,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 728,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 730,
+      "content": "![img-2.jpeg](images/88ad64d6eec31e06.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 732,
+      "preview": "David C. Evans, M.D., FACS, FASPEN<br>Trauma and Acute Care Surgeon<br>OhioHealth Trauma and Surgica"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 734,
+      "preview": "David C. Evans served as Director of Nutrition Support Services, Trauma Medical Director, and Associ"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 736,
+      "preview": "His special interests include nutrition support in surgical and ICU patients and research in surgery"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 738,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 740
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 742,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 744,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 746,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 748,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 749,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 750,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 751,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 752,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 754,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 756,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 758
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 760,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 762,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 764
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 766,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 768
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 770,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 772,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "9c01a79eee8ab186.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/9c01a79eee8ab186.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/11_OngoingMonitoringofNutritionSupport/images/9c01a79eee8ab186.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c01a79eee8ab186"
+    },
+    {
+      "sha_name": "507c3945c7cecce9.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/507c3945c7cecce9.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/11_OngoingMonitoringofNutritionSupport/images/507c3945c7cecce9.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "507c3945c7cecce9"
+    },
+    {
+      "sha_name": "88ad64d6eec31e06.png",
+      "original_ref": "img-2.jpeg",
+      "page": 31,
+      "relative_path": "images/88ad64d6eec31e06.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/11_OngoingMonitoringofNutritionSupport/images/88ad64d6eec31e06.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "88ad64d6eec31e06"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754694990",
+    "ts": "2025-08-08T23:16:30.616842+00:00"
+  }
+}

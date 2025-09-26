@@ -1,0 +1,890 @@
+{
+  "doc_id": "ucsf_neonatal_tpn__fdd835",
+  "original_filename": "UCSF Neonatal TPN.pdf",
+  "md_path": "data/parsed/UCSF Neonatal TPN/UCSF Neonatal TPN.md",
+  "rmd_path": "data/parsed/UCSF Neonatal TPN/UCSF Neonatal TPN.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "UGx Children's Hospital",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Intensive Care Nursery House Staff Manual",
+      "line": 2
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Neonatal Parenteral Nutrition",
+      "line": 4
+    },
+    {
+      "type": "text",
+      "section": "Neonatal Parenteral Nutrition",
+      "line": 6,
+      "preview": "INTRODUCTION: Many sick newborn infants cannot obtain adequate nutrition via the GI tract and, thus,"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GENERAL GUIDELINES:",
+      "line": 8
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES:",
+      "line": 10,
+      "preview": "- Sick newborns usually have increased caloric requirements."
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES:",
+      "line": 11,
+      "preview": "- Minimal caloric requirements to prevent catabolism are at least $40 \\mathrm{kcal} / \\mathrm{kg} / "
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES:",
+      "line": 12,
+      "preview": "- For growth, minimal requirements are $80 \\mathrm{kcal} / \\mathrm{kg} / \\mathrm{d}$ and protein int"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES:",
+      "line": 13,
+      "preview": "- Nutrition support should be initiated within 3 days of birth and should include protein. A \"starte"
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES:",
+      "line": 14,
+      "preview": "- Start PN when at least $30 \\mathrm{cc} / \\mathrm{kg} / \\mathrm{d}$ can be used for this route."
+    },
+    {
+      "type": "text",
+      "section": "GENERAL GUIDELINES:",
+      "line": 15,
+      "preview": "- Although growth can be obtained with PN, enteral feedings should be initiated as soon as feasible,"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "INFUSION ROUTES:",
+      "line": 18
+    },
+    {
+      "type": "text",
+      "section": "INFUSION ROUTES:",
+      "line": 20,
+      "preview": "1. Peripheral route is used for partial or supplemental PN. This route is usually used for short-ter"
+    },
+    {
+      "type": "text",
+      "section": "INFUSION ROUTES:",
+      "line": 21,
+      "preview": "2. Central PN is delivered by a venous catheter with the tip in a central location (see the section "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "\"STARTER TPN\"",
+      "line": 23
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 25,
+      "preview": "Neonatal nutrition support literature supports early and aggressive nutrition support for the VLBW i"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 27,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 29,
+      "preview": "birth with higher initial amounts is well tolerated. \"Starter TPN\" is now available on the unit to d"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 31,
+      "preview": "1. Target infants are $<1200$ grams or $<30$ weeks or those expected to require parental support bas"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 32,
+      "preview": "2. 150 ml bags of D10AA3.5, no electrolytes are stocked in the ICN East refrigerator."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 33,
+      "preview": "3. The admitting MD/NNP writes the admit orders to initiate \"starter\" TPN as one of the IVF at $60-8"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 34,
+      "preview": "4. Maximum \"starter\" TPN amount is $100 \\mathrm{ml} / \\mathrm{kg} /$ day. Additional IVF will be ord"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 35,
+      "preview": "5. For fluid restriction, the \"starter\" TPN can run at a lower rate but the protein intake will be l"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 36,
+      "preview": "6. The admitting MD/NNP will also write the TPN order for the next bag, advancing as per ICN guideli"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 38,
+      "preview": "COMPONENTS OF PARENTERAL NUTRITION include:"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 40,
+      "preview": "1. Protein is administered as a solution of amino acids, Premasol ${ }^{\\mathrm{TM}}$, a preparation"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 42,
+      "preview": "- Start amino acids at $2-3 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{d}$, as much as possible depending o"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 43,
+      "preview": "- Maximum is $3 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{d}$ in term infants and $3.5 \\mathrm{~g} / \\math"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 44,
+      "preview": "- Include protein in you calorie count. Protein yields $4 \\mathrm{kcal} / \\mathrm{g}$."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 46,
+      "preview": "Potential complications/risk include:"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 48,
+      "preview": "- Acidosis"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 49,
+      "preview": "- Elevated BUN"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 50,
+      "preview": "- Hyperammonemia"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 51,
+      "preview": "- Cholestasis with prolonged administration"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 53,
+      "preview": "2. Carbohydrate is administered as dextrose monohydrate."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 55,
+      "preview": "- Start with $4-6 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$ or D10-D12.5. Alternatively, calculate t"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 57,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 59,
+      "preview": "- Very preterm infants may not tolerate that much dextrose and may even need insulin as an infusion "
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 60,
+      "preview": "- Advance by $1-3 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$ daily to a maximum of $12 \\mathrm{mg} / "
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 61,
+      "preview": "- Dextrose yields $3.4 \\mathrm{kcal} / \\mathrm{g}$."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 62,
+      "preview": "- Consult reverse side of TPN order sheet for maximal allowable dextrose/amino acid concentrations."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 63,
+      "preview": "- Potential complications/risks include:"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 64,
+      "preview": "- Hyperglycemia or hypoglycemia"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 65,
+      "preview": "- Glycosuria and potential osmotic diuresis"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 66,
+      "preview": "- Cholestasis and/or hepatic steatosis with high caloric intake usually from long-term high concentr"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 68,
+      "preview": "3. Fat: Intravenous lipid emulsions are essential components of TPN. They provide essential fatty ac"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 70,
+      "preview": "- A lipid intake of $0.25-0.5 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{d}$ is required to prevent essenti"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 71,
+      "preview": "- Include lipid emulsion in calculations of total fluid intake."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 72,
+      "preview": "- Lipids yield $10 \\mathrm{kcal} / \\mathrm{g}$."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 73,
+      "preview": "- IV lipid preparations are available as a $20 \\%$ soybean emulsion that yields 2 $\\mathrm{kcal} / \\"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 74,
+      "preview": "- See Table below for starting and advancing lipids."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 75,
+      "preview": "- Deliver IV lipids over 24 hours."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 76,
+      "preview": "- Do not allow lipids to exceed $60 \\%$ of total caloric intake."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 77,
+      "preview": "- Potential complications/risks include:"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 78,
+      "preview": "- Hyperlipidemia"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 79,
+      "preview": "- Potential risk of kernicterus at low levels of unconjugated bilirubin because of displacement of b"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 80,
+      "preview": "- Potential increased risk or exacerbation of chronic lung disease"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 81,
+      "preview": "- Potential exacerbation of Persistent Pulmonary Hypertension (PPHN)"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 82,
+      "preview": "- Lipid overload syndrome with coagulopathy and liver failure"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 84,
+      "preview": "Table 1. Guidelines for starting and increasing IV lipid emulsions by clinical status."
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 86,
+      "preview": "| Gestation | Weight/Diagnosis | Initiate | Advance by | Goal is |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 87,
+      "preview": "| :-- | :-- | :-- | :-- | :-- |"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 89,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 91,
+      "preview": "|  |  | $(0.5 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{d})$ | $0.5 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{d}"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 92,
+      "preview": "| :-- | :-- | :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 93,
+      "preview": "| Preterm | $<1,500 \\mathrm{~g}$, stable | DOL 3 | DOL 7 | DOL 11 |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 94,
+      "preview": "|  | $\\geq 1,500 \\mathrm{~g}$, stable | DOL 3 | DOL 4 | DOL 9 |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 95,
+      "preview": "|  | Very unstable (e.g., <br> severe RDS, $\\uparrow$ bilirubin) | DOL 3 | When status improves |  |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 96,
+      "preview": "| Term | No pulm. disease | DOL 3 | DOL 4 | DOL 9 |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 97,
+      "preview": "|  | Severe pulm. disease, <br> PPHN, MAS | Consider DOL 7 | When status improves |  |"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 99,
+      "preview": "(DOL, day of life; pulm., pulmonary; PPHN, persistent pulmonary hypertension of newborn; MAS meconiu"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 100,
+      "preview": "4. Electrolyte requirements are stated on the parenteral nutrition order form and must be adjusted a"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 101,
+      "preview": "5. Minerals: Preterm infants and term infants receiving long-term parenteral nutrition are at increa"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 103,
+      "preview": "Calcium is only allowed if the TPN if the line is central. If only a peripheral line is available, a"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 104,
+      "preview": "Only 1 mineral may be added if the solution also contains sodium or potassium. The maximum $\\mathrm{"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 105,
+      "preview": "Mark Premasol box."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 106,
+      "preview": "Determine current dose of calcium prescribed in mEq of elemental calcium $/ \\mathrm{kg}$. (approxima"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 107,
+      "preview": "If the current calcium gluconate dose significantly exceeds the goal amount, start calcium in the TP"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 108,
+      "preview": "See table below for advancement. Try to keep a $\\mathrm{Ca}(\\mathrm{mEq})$ to $\\mathrm{P}(\\mathrm{mm"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 110,
+      "preview": "- Check Premasol solubility table on back of TPN form."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 111,
+      "preview": "- Advance as long as $\\mathrm{Ca}_{\\mathrm{r}}<1.4$. To treat a high $\\mathrm{Ca}_{\\mathrm{r}}$, inc"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 112,
+      "preview": "- Follow ionized calcium and weekly pediatric TPN panels."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 113,
+      "preview": "- Do not start magnesium until the serum level is $<2.5 \\mathrm{mg} / \\mathrm{dL}$."
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 115,
+      "preview": "Table 2. Parenteral Calcium and Phosphorus Doses:"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 117,
+      "preview": "|  | Calcium $(\\mathbf{m E q} / \\mathbf{k g})$ | Phosphorus $(\\mathbf{m m o l} / \\mathbf{k g})$ |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 118,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 119,
+      "preview": "| Initiate | $2 \\mathrm{mEq} / \\mathrm{kg}$ | $1 \\mathrm{mmol} / \\mathrm{kg}$ |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 120,
+      "preview": "| Advance every 1-2 days | $0.5 \\mathrm{mEq} / \\mathrm{kg}$ | $0.3-0.5 \\mathrm{mmol} / \\mathrm{kg}$ "
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 121,
+      "preview": "| Goal | $3 \\mathrm{mEq} / \\mathrm{kg}$ (preterm) | $1.5 \\mathrm{mmol} / \\mathrm{kg}$ (preterm) |"
+    },
+    {
+      "type": "table",
+      "section": "\"STARTER TPN\"",
+      "line": 122,
+      "preview": "|  | $2 \\mathrm{mEq} / \\mathrm{kg}$ (term) | $1.2 \\mathrm{mmol} / \\mathrm{kg}$ (term) |"
+    },
+    {
+      "type": "text",
+      "section": "\"STARTER TPN\"",
+      "line": 124,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Table 3. Normal Serum Values:",
+      "line": 126
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 128,
+      "preview": "| $>1$ week of age | Ionized calcium <br> $(\\mathbf{m m o l} / \\mathbf{L})$ | Total Calcium <br> $(\\"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 129,
+      "preview": "| :-- | :-- | :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 130,
+      "preview": "| Preterm | $1.2-1.4$ | $8-11$ | $6-8$ | $2-2.5$ |"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 131,
+      "preview": "| Term | $1.2-1.3$ | $8-12$ | $5-9.5$ | $1.8-2.3$ |"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 133,
+      "preview": "6. Other Additives include:"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 135,
+      "preview": "- Trace elements are recommended as $0.2 \\mathrm{~mL} / \\mathrm{kg} / \\mathrm{d}$ of trace element s"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 136,
+      "preview": "- Preterm infants need additional zinc $(300 \\mathrm{mcg} / \\mathrm{kg} / \\mathrm{d})$ and selenium "
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 137,
+      "preview": "- Term infants need additional zinc $(200 \\mathrm{mcg} / \\mathrm{kg} / \\mathrm{d})$ and selenium ( 2"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 138,
+      "preview": "- For infants with cholestasis (i.e,. direct bilirubin $>2.5 \\mathrm{mg} / \\mathrm{dL}$ ), discontin"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 139,
+      "preview": "- Zinc $400 \\mathrm{mcg} / \\mathrm{kg} / \\mathrm{d}$ TOTAL (preterm infants)"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 140,
+      "preview": "- $300 \\mathrm{mcg} / \\mathrm{kg} / \\mathrm{d}$ TOTAL (term infants)"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 141,
+      "preview": "- Chromium $0.2 \\mathrm{mcg} / \\mathrm{kg} / \\mathrm{d}$"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 142,
+      "preview": "- Selenium $2 \\mathrm{mcg} / \\mathrm{kg} / \\mathrm{d}$"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 143,
+      "preview": "- Discontinue selenium with patients on renal dialysis."
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 144,
+      "preview": "- $\\cdot$Vitamins: Pediatric multivitamins are recommended as $2.0 \\mathrm{~mL} / \\mathrm{kg} / \\mat"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 145,
+      "preview": "- $\\cdot$Heparin ( $1 \\mathrm{unit} / \\mathrm{mL}$ ) is added to all central venous lines and to all"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 147,
+      "preview": "METABOLIC MONITORING of infants receiving parenteral nutrition should include:"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 148,
+      "preview": "Table 4. Lab tests:"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 150,
+      "preview": "| Test | Initial | When stable |"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 151,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 152,
+      "preview": "| Electrolytes, <br> BUN/creatinine | Daily | $2-3 x /$ week |"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 153,
+      "preview": "| Chemstrip/glucose | q6hr-daily | Daily, more frequently when <br> changing CHO |"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 154,
+      "preview": "| Calcium, ionized | daily | $2-3 x /$ week |"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 155,
+      "preview": "| Total calcium, phosphorus, <br> magnesium, bilirubin (T/D), <br> ALT, alkaline phosphatase, GGT, <"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 156,
+      "preview": "| Triglycerides | When lipid infusion reaches 1.5 g <br> fat $/ \\mathrm{kg} / \\mathrm{d}$ and <br> $"
+    },
+    {
+      "type": "table",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 157,
+      "preview": "| CBC/Diff and platelets |  | weekly |"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 159,
+      "preview": "Note: The Pediatric TPN panel includes all of the above laboratory tests except the CBC/diff, platel"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 161,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "text",
+      "section": "Table 3. Normal Serum Values:",
+      "line": 163,
+      "preview": "MONITORING GROWTH of infants receiving PN is essential, including weekly measurements of head circum"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TPN WEANING GUIDELINES",
+      "line": 165
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 167,
+      "preview": "When the patient is tolerating $>50 \\mathrm{ml} / \\mathrm{kg} /$ day of feedings, the TPN should be "
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 169,
+      "preview": "Directions: Determine total fluid allowance for the day. Write the TPN for the suggested volume and "
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 171,
+      "preview": "Table 5. TPN Weaning Guidelines:"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 173,
+      "preview": "| Feed <br> Volume <br> $(\\mathrm{cc} / \\mathrm{kg})$ | PN Substrate <br> $(\\mathrm{CHO} /$ prot/fat"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 174,
+      "preview": "| :-- | :-- | :-- | :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 175,
+      "preview": "| $0-49$ | $12 / 3.5 / 3$ | $100-140$ | $100-140$ | $3 / 1.5$ | 20 |"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 176,
+      "preview": "| $50-74$ | $10 / 2.5 / 2$ | $120-140$ | $70-90$ | $2.45 / 1.2$ | 20 |"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 177,
+      "preview": "| $75-99$ | $8 / 2 / 1.5$ | $130-140$ | $55-65^{4}$ | $1.75 / 0.85$ | 20 |"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 178,
+      "preview": "| $100-120$ | $8 / 2 / 1$ | $130-150$ | $55^{4}$ | $1.75 / 0.85$ | 22 |"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 179,
+      "preview": "| $120-150$ | None | NA | None | N/A | $22-24$ |"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 180,
+      "preview": "| $150-160$ | None | NA | None | N/A | 24 |"
+    },
+    {
+      "type": "table",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 181,
+      "preview": "|  |  |  |  |  |  |"
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 183,
+      "preview": "1. $\\mathrm{mg} \\mathrm{CHO} / \\mathrm{kg} / \\mathrm{min}, \\mathrm{g}$ prot $/ \\mathrm{kg}, \\mathrm{"
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 184,
+      "preview": "2. Total TPN volume $=(\\mathrm{IV}+$ po goal $)$-(lower end of indicated feed volume range)"
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 185,
+      "preview": "3. Total TPN volume includes lipids"
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 186,
+      "preview": "4. Keep the minimum dextrose/amino acid volume at $50 \\mathrm{cc} / \\mathrm{kg}$ for ordering purpos"
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 187,
+      "preview": "5. Amount per kg as ordered on the TPN form"
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 189,
+      "preview": "DISCONTINUING PARENTERAL NUTRITION: PN may be stopped when the infant is tolerating $\\geq 100-120 \\m"
+    },
+    {
+      "type": "text",
+      "section": "TPN WEANING GUIDELINES",
+      "line": 191,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Parenteral Nutrition",
+      "line": 193
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition",
+      "line": 195,
+      "preview": "For additional information regarding PN:"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition",
+      "line": 197,
+      "preview": "- Please see the following web site:"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition",
+      "line": 198,
+      "preview": "http://yew.ucsf.edu/DIAS/parenteral_nutr_guide_Neo_ped.htm"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Nutrition",
+      "line": 199,
+      "preview": "- Request consult from Nutrition Services: 353-1461 or 353-1814, Ext. 1; on weekends, page the Nutri"
+    }
+  ],
+  "images": [],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696591",
+    "ts": "2025-08-08T23:43:11.798560+00:00"
+  }
+}

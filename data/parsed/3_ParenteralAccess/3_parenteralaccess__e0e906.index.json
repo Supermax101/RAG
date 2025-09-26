@@ -1,0 +1,2226 @@
+{
+  "doc_id": "3_parenteralaccess__e0e906",
+  "original_filename": "3_ParenteralAccess.pdf",
+  "md_path": "data/parsed/3_ParenteralAccess/3_ParenteralAccess.md",
+  "rmd_path": "data/parsed/3_ParenteralAccess/3_ParenteralAccess.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Parenteral Access",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Parenteral Access",
+      "line": 4,
+      "content": "![img-0.jpeg](images/3e6a28d8357085b1.png)"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Access",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Access",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Access",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Parenteral Access",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT ACCESS PARENTERAL ACCESS",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ACCESS PARENTERAL ACCESS",
+      "line": 15,
+      "preview": "David Evans, M.D."
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ACCESS PARENTERAL ACCESS",
+      "line": 16,
+      "preview": "The Ohio State University"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT ACCESS PARENTERAL ACCESS",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Identify factors that influence the selection of an appropriate vascular access device for parente"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Compare and contrast the vascular access options available for administering parenteral nutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Describe strategies for preventing potential complications of vascular access devices"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 39
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- CLABSI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- CRBI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- CVC:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- IV:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- PICC:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- POD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- SICU:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- SVC:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "- VAP:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "central line associated bloodstream infection"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "catheter related bloodstream infection"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "central venous catheter"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "intravenous"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "peripherally inserted central catheter"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "post operative day"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "surgical intensive care unit"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "superior vena cava"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 60,
+      "preview": "ventilator-associated pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 62,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT",
+      "line": 64
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 66,
+      "preview": "DE is a 6-year-old male who is PN dependent with a tunneled single lumen CVC. He has been readmitted"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 67,
+      "preview": "A. Chlorhexidine-impreganted sponge dressing"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 68,
+      "preview": "B. Increasing the frequency of IV lipid emulsion administration from 3 times weekly to to daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 69,
+      "preview": "C. Ethanol lock therapy"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 70,
+      "preview": "D. Isopropyl alcohol disinfecting caps"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PICC",
+      "line": 72
+    },
+    {
+      "type": "text",
+      "section": "PICC",
+      "line": 74,
+      "preview": "Enter peripheral vein, terminate in SVC or right atrium"
+    },
+    {
+      "type": "image",
+      "section": "PICC",
+      "line": 75,
+      "content": "![img-1.jpeg](images/79746844487638ed.png)"
+    },
+    {
+      "type": "text",
+      "section": "PICC",
+      "line": 77,
+      "preview": "CC Image courtesy of Wikimedia Commons. https://commons.wikimedia.org/wiki/File:PICC_Line_Catheter.j"
+    },
+    {
+      "type": "text",
+      "section": "PICC",
+      "line": 79,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PICC",
+      "line": 81
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Advantages",
+      "line": 83
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 85,
+      "preview": "- Easy Placement"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 86,
+      "preview": "- Readily Available"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 87,
+      "preview": "- Easy Removal"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 88,
+      "preview": "- Users:"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 89,
+      "preview": "- Typically selected for use $<3$ months"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Disadvantages",
+      "line": 92
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 94,
+      "preview": "- Weekly dressing changes by nurse required"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 95,
+      "preview": "- Not appropriate in renal patients (damage veins for dialysis access)"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 96,
+      "preview": "- Durability limited"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TEMPORARY CVC",
+      "line": 99
+    },
+    {
+      "type": "image",
+      "section": "TEMPORARY CVC",
+      "line": 101,
+      "content": "![img-2.jpeg](images/85ef2272e2177587.png)"
+    },
+    {
+      "type": "image",
+      "section": "TEMPORARY CVC",
+      "line": 102,
+      "content": "![img-3.jpeg](images/e09ca62d36670dba.png)"
+    },
+    {
+      "type": "text",
+      "section": "TEMPORARY CVC",
+      "line": 104,
+      "preview": "- Many physicians place"
+    },
+    {
+      "type": "text",
+      "section": "TEMPORARY CVC",
+      "line": 105,
+      "preview": "- Maintenance is complex"
+    },
+    {
+      "type": "text",
+      "section": "TEMPORARY CVC",
+      "line": 106,
+      "preview": "- Can't leave hospital"
+    },
+    {
+      "type": "text",
+      "section": "TEMPORARY CVC",
+      "line": 108,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "\"PERMANENT\" TUNNELED OR PORT",
+      "line": 110
+    },
+    {
+      "type": "image",
+      "section": "\"PERMANENT\" TUNNELED OR PORT",
+      "line": 112,
+      "content": "![img-4.jpeg](images/abe13b46dcee144b.png)"
+    },
+    {
+      "type": "text",
+      "section": "\"PERMANENT\" TUNNELED OR PORT",
+      "line": 114,
+      "preview": "CC Image Wikimedia Commons."
+    },
+    {
+      "type": "text",
+      "section": "\"PERMANENT\" TUNNELED OR PORT",
+      "line": 115,
+      "preview": "https://commons.wikimedia.org/wiki/File:Central_Venous_Access_Device_(Tunneled).png (accessed 2019 M"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 117
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 119,
+      "preview": "- Historical / Brand Names you may hear"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 120,
+      "preview": "- Groshong, Hickman, Broviac, etc."
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 121,
+      "preview": "- Cuffed versus \"cuffless\""
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 122,
+      "preview": "- Materials vary - silicone preferred for ethanol locks but there is little evidence"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 123,
+      "preview": "- Power-injectable rated (for IV contrast injection\u2014typically for CT scan)"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 124,
+      "preview": "- Antimicrobial materials (coating and/or impregnation)"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 125,
+      "preview": "- Chlorhexidine"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 126,
+      "preview": "- Silver sulfadiazine / Silver ion"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 127,
+      "preview": "- Rifampin-Minocycline"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 128,
+      "preview": "- 5-Fluorouracil"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 129,
+      "preview": "- Work with your local proceduralist (may be surgeon, vascular access procedure team, etc.) to ensur"
+    },
+    {
+      "type": "text",
+      "section": "TYPES OF TUNNELED LINES",
+      "line": 131,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SOURCES OF INTRAVASCULAR CATHETER INFECTION",
+      "line": 133
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF INTRAVASCULAR CATHETER INFECTION",
+      "line": 135,
+      "preview": "- Hematogenous: from distant sites"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF INTRAVASCULAR CATHETER INFECTION",
+      "line": 136,
+      "preview": "- Intraluminal: from tubes and hubs"
+    },
+    {
+      "type": "text",
+      "section": "SOURCES OF INTRAVASCULAR CATHETER INFECTION",
+      "line": 137,
+      "preview": "- Extraluminal: from skin"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 140
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 142,
+      "preview": "- Subcutaneous infusion ports instead of tunneled catheters $(P=.001)$"
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 143,
+      "preview": "- Multiple lumen catheters $(P=.001)$"
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 144,
+      "preview": "- Increased frequency of lipid emulsion infusion $(P=.001)$"
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 145,
+      "preview": "- Drawing blood from the CVC $(P<0.001)$"
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 146,
+      "preview": "- Infusion of non-PN medications via the CVC $(P<.001)$"
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 147,
+      "preview": "- Increased PN frequency $(P=.001)$ in children only, but not in adults."
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 148,
+      "preview": "- Take-home point: Minimize PN Line Access \"Events\""
+    },
+    {
+      "type": "text",
+      "section": "RISK FACTORS FOR PN-CRESI",
+      "line": 150,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 152
+    },
+    {
+      "type": "table",
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 154,
+      "preview": "| Institutional Policy | $\\%$ | Institutional Policy | $\\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 155,
+      "preview": "| :-- | :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 156,
+      "preview": "| Require a previously unused lumen/port <br> when initiating PN via a temporary CVC <br> (and guide"
+    },
+    {
+      "type": "table",
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 157,
+      "preview": "| Stipulate a maximum age of CVC prior to <br> PN initiation | 17 | Change the PN line in patients w"
+    },
+    {
+      "type": "table",
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 158,
+      "preview": "| Allow Y-site injections along with PN | 59 | With bacteremia, hold PN for some period of time, eit"
+    },
+    {
+      "type": "table",
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 159,
+      "preview": "| Require blood cultures off the line (in the <br> absence of other evidence of infection) <br> prio"
+    },
+    {
+      "type": "table",
+      "section": "SURVEY OF HOSPITAL PN PROGRAMS",
+      "line": 160,
+      "preview": "| Allow lab draws off of PN line | 65 |  |  |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CVC SITE SELECTION",
+      "line": 162
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION",
+      "line": 164,
+      "preview": "| Approach | Advantages | Disadvantages |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION",
+      "line": 165,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION",
+      "line": 166,
+      "preview": "| Internal <br> Jugular | Control of bleeding <br> Pneumothorax uncommon <br> Lower infection rate ("
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION",
+      "line": 167,
+      "preview": "| Subclavian | Maintenance of dressings <br> More comfortable <br> Clearer landmarks <br> Subclavian"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION",
+      "line": 168,
+      "preview": "| Femoral | No interference with <br> cardiopulmonary resuscitation <br> No risk of Pneumothorax | H"
+    },
+    {
+      "type": "text",
+      "section": "CVC SITE SELECTION",
+      "line": 170,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 172
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 174,
+      "preview": "|   | Internal"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 175,
+      "preview": "Jugular | Subclavian | Femoral  |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 176,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 177,
+      "preview": "|  Pneumothorax (%) | <0.1 -0.2 | 1.5 - 3.1 | n/a  |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 178,
+      "preview": "|  Hemothorax (%) | n/a | 0.4 \u2013 0.6 | n/a  |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 179,
+      "preview": "|  Infection (rate per 1000 catheter days) | 8.6 | 4 | 15.3  |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 180,
+      "preview": "|  Thrombus (rate per 1000 catheter days) | 1.2 \u2013 3 | 0 \u2013 13 | 8 \u2013 34  |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 181,
+      "preview": "|  Arterial Puncture (%) | 3 | 0.5 | 6.25  |"
+    },
+    {
+      "type": "table",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 182,
+      "preview": "|  Malposition | low | high | low  |"
+    },
+    {
+      "type": "text",
+      "section": "CVC SITE SELECTION COMPLICATIONS",
+      "line": 184,
+      "preview": "*Graham AS et al. N Engl J Med. 2007; 356(21):21.*"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ULTRASOUND TO IMPROVE SAFETY",
+      "line": 186
+    },
+    {
+      "type": "image",
+      "section": "ULTRASOUND TO IMPROVE SAFETY",
+      "line": 188,
+      "content": "![img-5.jpeg](images/a411eb271d595e1b.png)"
+    },
+    {
+      "type": "text",
+      "section": "ULTRASOUND TO IMPROVE SAFETY",
+      "line": 190,
+      "preview": "*Kent A et al. Ann Thorac Med. 2015; 10(1):44\u20139.*"
+    },
+    {
+      "type": "image",
+      "section": "ULTRASOUND TO IMPROVE SAFETY",
+      "line": 192,
+      "content": "![img-6.jpeg](images/b1838c8edecb4c03.png)"
+    },
+    {
+      "type": "text",
+      "section": "ULTRASOUND TO IMPROVE SAFETY",
+      "line": 194,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 196
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 198,
+      "preview": "- Ethanol (most common / most studied)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 199,
+      "preview": "- Antibiotics (usually vancomycin)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 200,
+      "preview": "- Taurolidine-citrate"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 201,
+      "preview": "- Chelators"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 202,
+      "preview": "- Methylene Blue"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 203,
+      "preview": "- Saline"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 204,
+      "preview": "- Heparin (may reduce infection by reducing thrombosis)"
+    },
+    {
+      "type": "image",
+      "section": "ETHANOL AND OTHER LOCKS",
+      "line": 206,
+      "content": "![img-7.jpeg](images/857b91e1b3b14dee.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ETHANOL LOCK IMPROVES PN CVC OUTCOMES \u2013 RETROSPECTIVE STUDY",
+      "line": 208
+    },
+    {
+      "type": "image",
+      "section": "ETHANOL LOCK IMPROVES PN CVC OUTCOMES \u2013 RETROSPECTIVE STUDY",
+      "line": 210,
+      "content": "![img-8.jpeg](images/1097064facb26cfc.png)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK IMPROVES PN CVC OUTCOMES \u2013 RETROSPECTIVE STUDY",
+      "line": 212,
+      "preview": "**Figure 2.** Rates per 1000 catheter days for all outcomes in the 15 tunneled catheter (TC) pre- an"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK IMPROVES PN CVC OUTCOMES \u2013 RETROSPECTIVE STUDY",
+      "line": 214,
+      "preview": "*John BK et al. JPEN J Parenter Enteral Nutr. 2012; 36(5):603-10.*"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK IMPROVES PN CVC OUTCOMES \u2013 RETROSPECTIVE STUDY",
+      "line": 216,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 218
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 220,
+      "preview": "CLABSI Significantly Reduced (RR 0.66, 95\\% CI 0.51-0.86)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 222,
+      "preview": "Side effects:"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 224,
+      "preview": "- Nausea (RR 1.54, 95\\% CI 1.01-2.35)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 225,
+      "preview": "- Dizziness (RR 4.21, 95\\% CI 2.40-7.39)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 226,
+      "preview": "- Facial blushing (RR 3.27, 95\\% CI 2.05-5.22)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 227,
+      "preview": "- Altered taste (RR 2.61, 95\\% CI 1.93-3.54)"
+    },
+    {
+      "type": "text",
+      "section": "ETHANOL LOCK - 2018 META-ANALYSIS",
+      "line": 229,
+      "preview": "Zhang P et al. BMC Anesthesiology. 2018; 18(1):93."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY",
+      "line": 231
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY",
+      "line": 233,
+      "preview": "29 yo female with ischemic bowel due to midgut volvulus"
+    },
+    {
+      "type": "image",
+      "section": "CASE STUDY",
+      "line": 234,
+      "content": "![img-9.jpeg](images/19cad7cc5abb1a0a.png)"
+    },
+    {
+      "type": "image",
+      "section": "CASE STUDY",
+      "line": 235,
+      "content": "![img-10.jpeg](images/c7fa3cb98fb96ae4.png)"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY",
+      "line": 237,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY - POD\\#1, SICU",
+      "line": 239
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - POD\\#1, SICU",
+      "line": 241,
+      "preview": "- CVC in place"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - POD\\#1, SICU",
+      "line": 242,
+      "preview": "- Norepinephrine drip running"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - POD\\#1, SICU",
+      "line": 243,
+      "preview": "- 60 cm of small bowel with end jejunostomy"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - POD\\#1, SICU",
+      "line": 244,
+      "preview": "- Is the line safe to use?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY - POD\\#9, MED-SURG",
+      "line": 247
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - POD\\#9, MED-SURG",
+      "line": 249,
+      "preview": "- Preparing to go to a rehab facility on PN"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - POD\\#9, MED-SURG",
+      "line": 250,
+      "preview": "- Access options at this juncture?"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - POD\\#9, MED-SURG",
+      "line": 252,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 254
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 256,
+      "preview": "- Wound is healed"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 257,
+      "preview": "- Electrolytes and fluid requirements stabilized"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 258,
+      "preview": "- Running PN 6 days / week, 12 hour cycle"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 259,
+      "preview": "- Living at home, thinking about going back to work"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 260,
+      "preview": "- What is the best line at this point?"
+    },
+    {
+      "type": "image",
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 261,
+      "content": "![img-11.jpeg](images/d5c749264250dc41.png)"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY - 2 MONTHS LATER",
+      "line": 263,
+      "preview": "CC Image courtesy Free Stock Photos.biz http://www.freestockphotos.biz/stockphoto/9052 (accessed 201"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 265
+    },
+    {
+      "type": "image",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 267,
+      "content": "![img-12.jpeg](images/bc83762be6bcdaf8.png)"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 269,
+      "preview": "CVC"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 270,
+      "preview": "2.7/1000 catheter-days"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 272,
+      "preview": "PICCs"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 273,
+      "preview": "2.1/1000 catheter-days"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 275,
+      "preview": "Tunneled CVCs"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 276,
+      "preview": "1.6/1000 catheter-days"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 278,
+      "preview": "Peripheral Venous Catheters"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 279,
+      "preview": "0.5/1000 catheter-days"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 281,
+      "preview": "Implantable Port"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 282,
+      "preview": "0.1/1000 catheter-days"
+    },
+    {
+      "type": "text",
+      "section": "CLABSI RATES BY TYPE OF LINE",
+      "line": 284,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 286
+    },
+    {
+      "type": "text",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 288,
+      "preview": "- Education including:"
+    },
+    {
+      "type": "text",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 289,
+      "preview": "- Hand hygiene"
+    },
+    {
+      "type": "text",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 290,
+      "preview": "- Dressings of the insertion site; care of tubing and stopcocks"
+    },
+    {
+      "type": "text",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 291,
+      "preview": "- Aseptic preparation of infusates"
+    },
+    {
+      "type": "table",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 293,
+      "preview": "|  | Baseline | Intervention |"
+    },
+    {
+      "type": "table",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 294,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 295,
+      "preview": "| CRBSI incidence density <br> (per 1000 CVC days) | 3.9 | 1.0 |"
+    },
+    {
+      "type": "table",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 296,
+      "preview": "| Time to infection (Mean <br> $+/-$ SD) | $6.52+/-3.48$ | $9.3+/-6.63$ |"
+    },
+    {
+      "type": "text",
+      "section": "HAND HYGIENE AND CLEAN PROCESSES MATTER",
+      "line": 298,
+      "preview": "Zingg W et al. Crit Care Med. 2009; 37(7):2167"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 300
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 302,
+      "preview": "- Pre-procedure Prep: sterile technique"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 303,
+      "preview": "- Chlorhexidine"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 304,
+      "preview": "- 30 second friction scrub with 60 second dry time for dry site"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 305,
+      "preview": "- 30 second friction scrub with 2 minute \"soak\" time for moist site"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 306,
+      "preview": "- Maximum Barrier Precautions"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 307,
+      "preview": "- Sterile Gloves"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 308,
+      "preview": "- Long-sleeved gowns"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 309,
+      "preview": "- Full field drape"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 310,
+      "preview": "- Masks/Caps for all participants \\& observers"
+    },
+    {
+      "type": "text",
+      "section": "SKIN PREPARATION IS KEY",
+      "line": 312,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CHLORHEXIDINE-IMPREGNATED SPONGE",
+      "line": 314
+    },
+    {
+      "type": "image",
+      "section": "CHLORHEXIDINE-IMPREGNATED SPONGE",
+      "line": 316,
+      "content": "![img-13.jpeg](images/1eb56359113e959b.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "70\\% ISOPROPYL ALCOHOL CAPS",
+      "line": 318
+    },
+    {
+      "type": "image",
+      "section": "70\\% ISOPROPYL ALCOHOL CAPS",
+      "line": 320,
+      "content": "![img-14.jpeg](images/2ad955ea315617e4.png)"
+    },
+    {
+      "type": "text",
+      "section": "70\\% ISOPROPYL ALCOHOL CAPS",
+      "line": 322,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CATHETER-RELATED THROMBOSIS",
+      "line": 324
+    },
+    {
+      "type": "text",
+      "section": "CATHETER-RELATED THROMBOSIS",
+      "line": 326,
+      "preview": "- Catheter-related central vein thrombosis is closely associated with catheter-related blood stream "
+    },
+    {
+      "type": "text",
+      "section": "CATHETER-RELATED THROMBOSIS",
+      "line": 328,
+      "preview": "Timsit JF et al. Chest. 1998; 114(1):207-13."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 330
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 332,
+      "preview": "- Bundle of evidence-based actions designed to Improve a procedure or process"
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 333,
+      "preview": "- Hand hygiene"
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 334,
+      "preview": "- Maximum barrier precautions"
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 335,
+      "preview": "- \"time out\" during insertion"
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 336,
+      "preview": "- Chlorhexidine gluconate site disinfection"
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 337,
+      "preview": "- Optimal catheter site (avoid femoral vein)"
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 338,
+      "preview": "- Daily review of line necessity - remove when no longer medically indicated"
+    },
+    {
+      "type": "text",
+      "section": "CRBSI \"BUNDLE\"",
+      "line": 340,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GAME-CHANGING PAPER",
+      "line": 342
+    },
+    {
+      "type": "text",
+      "section": "GAME-CHANGING PAPER",
+      "line": 344,
+      "preview": "- Multi-center trial of bundle to reduce CLABSI"
+    },
+    {
+      "type": "text",
+      "section": "GAME-CHANGING PAPER",
+      "line": 345,
+      "preview": "- Hand hygiene"
+    },
+    {
+      "type": "text",
+      "section": "GAME-CHANGING PAPER",
+      "line": 346,
+      "preview": "- Maximal sterile barrier precautions"
+    },
+    {
+      "type": "text",
+      "section": "GAME-CHANGING PAPER",
+      "line": 347,
+      "preview": "- Skin antisepsis with chlorhexidine"
+    },
+    {
+      "type": "text",
+      "section": "GAME-CHANGING PAPER",
+      "line": 348,
+      "preview": "- Avoiding femoral access"
+    },
+    {
+      "type": "text",
+      "section": "GAME-CHANGING PAPER",
+      "line": 349,
+      "preview": "- Remove CVC when possible"
+    },
+    {
+      "type": "text",
+      "section": "GAME-CHANGING PAPER",
+      "line": 351,
+      "preview": "Pronovost P et al. New Engl J Med. 2006; 355(26):2725."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 353
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 355,
+      "preview": "| Study Period | \\# of ICUs | CRBI Rate (per 1000 <br> CVC days) |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 356,
+      "preview": "| :-- | :--: | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 357,
+      "preview": "| Baseline | 55 | $2.7(0.6-4.8)$ |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 358,
+      "preview": "| Implementation Period | 96 | $1.6(0-4.4)$ |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 359,
+      "preview": "| After Implementation |  |  |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 360,
+      "preview": "| $0-3$ months | 96 | $0(0-3.0)$ |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 361,
+      "preview": "| $4-6$ months | 96 | $0(0-2.7)$ |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 362,
+      "preview": "| $7-9$ months | 95 | $0(0-2.1)$ |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 363,
+      "preview": "| $10-12$ months | 90 | $0(0-1.9)$ |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 364,
+      "preview": "| $13-15$ months | 85 | $0(0-1.6)$ |"
+    },
+    {
+      "type": "table",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 365,
+      "preview": "| $16-18$ months | 70 | $0(0-2.4)$ |"
+    },
+    {
+      "type": "text",
+      "section": "CRBI RATES BEFORE \\& AFTER BUNDLE",
+      "line": 367,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LINE CLOGGING / LUMEN THROMBOSIS",
+      "line": 369
+    },
+    {
+      "type": "image",
+      "section": "LINE CLOGGING / LUMEN THROMBOSIS",
+      "line": 371,
+      "content": "![img-15.jpeg](images/d89bd8fe79b739f1.png)"
+    },
+    {
+      "type": "text",
+      "section": "LINE CLOGGING / LUMEN THROMBOSIS",
+      "line": 373,
+      "preview": "- Alteplase to treat line clogging"
+    },
+    {
+      "type": "image",
+      "section": "LINE CLOGGING / LUMEN THROMBOSIS",
+      "line": 375,
+      "content": "![img-16.jpeg](images/be7a76cf881b25f9.png)"
+    },
+    {
+      "type": "text",
+      "section": "LINE CLOGGING / LUMEN THROMBOSIS",
+      "line": 377,
+      "preview": "*CC Image courtesy of cathflo\u00ae. https://www.cathflo.com/catheter-management/mechanism-of-action.html"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 379
+    },
+    {
+      "type": "image",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 381,
+      "content": "![img-17.jpeg](images/4575b75f190e3c22.png)"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 383,
+      "preview": "**Special Report:** \"Safe Practices for Parenteral Nutrition\" (JPEN)"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 385,
+      "preview": "- Precipitation reactions are a real concern\u2014obstruction, infection, embolus"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 386,
+      "preview": "- Never remove a filter"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 387,
+      "preview": "- Do not add additional meds to PN"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 388,
+      "preview": "- Minimize Y-site infusions - confirm compatibility"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 390,
+      "preview": "*Mirtallo J et al. JPEN J Parenter Enteral Nutr. 2004; 28(6):S39-70.*"
+    },
+    {
+      "type": "text",
+      "section": "SAFE PRACTICES: TAKE HOMES",
+      "line": 392,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT",
+      "line": 394
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 396,
+      "preview": "DE is a 6-year-old male who is PN dependent with a tunneled single lumen CVC. He has been readmitted"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 397,
+      "preview": "A. Chlorhexidine-impregnated sponge dressing"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 398,
+      "preview": "B. Increasing the frequency of IV lipid emulsion administration from 3 times weekly to to daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 399,
+      "preview": "C. Ethanol lock therapy"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 400,
+      "preview": "D. Isopropyl alcohol disinfecting caps"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT",
+      "line": 402
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 404,
+      "preview": "DE is a 6-year-old male who is PN dependent with a tunneled single lumen CVC. He has been readmitted"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 405,
+      "preview": "A. Chlorhexidine-impregnated sponge dressing"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 406,
+      "preview": "B. Increasing the frequency of IV lipid emulsion administration from 3 times weekly to to daily"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 407,
+      "preview": "C. Ethanol lock therapy"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 408,
+      "preview": "D. Isopropyl alcohol disinfecting caps"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT",
+      "line": 410,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 412
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 414,
+      "preview": "- Buchman AL, Opilla M, Kwasny M et al. Risk factors for the development of catheterrelated bloodstr"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 415,
+      "preview": "- Graham AS, Ozment C, Tegtmeyer K, Lai S, Braner DA. Central venous catheterization. N Engl J Med. "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 416,
+      "preview": "- John BK, Khan MA, Speerhas R, et al. Ethanol lock therapy in reducing catheter-related bloodstream"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 417,
+      "preview": "- Kent A, Patil P, Davila V et al. Sonographic evaluation of intravascular volume status: Can intern"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 418,
+      "preview": "- Mermel LA. Prevention of intravascular catheter-related infections. Ann Intern Med. 2000; 132(5):3"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 420,
+      "preview": "REFERENCES, CONT."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 422,
+      "preview": "- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parenter En"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 423,
+      "preview": "- Maki DG, Kluger DM, Crnich CJ. The risk of bloodstream infection in adults with different intravas"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 424,
+      "preview": "- Pronovost P, Needham D, Berenholtz S, et al. An intervention to decrease catheterrelated bloodstre"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 425,
+      "preview": "- Ramirez C, Lee AM, Welch K. Central venous catheter protective connector caps reduce intraluminal "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 427,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 429
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 431,
+      "preview": "- Ruschulte H, Franke M, Gastmeier P, et al. Prevention of central venous catheter related infection"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 432,
+      "preview": "- Timsit JF, Farkas JC, Boyer JM, et al. Central vein catheter-related thrombosis in intensive care "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 433,
+      "preview": "- Zhang P, Lei JH, Su XJ, et al. Ethanol locks for the prevention of catheter-related bloodstream in"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 434,
+      "preview": "- Zingg W, Imhof A, Maggiorini M, et al. Impact of a prevention strategy targeting hand hygiene and "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 436,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 438,
+      "content": "![img-18.jpeg](images/e78e02a6de84e59d.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 440,
+      "preview": "David C. Evans, M.D., FACS"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 441,
+      "preview": "Trauma and Acute Care Surgeon"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 442,
+      "preview": "OhioHealth Trauma and Surgical Services"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 443,
+      "preview": "Columbus, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 445,
+      "preview": "David C. Evans served as Director of Nutrition Support Services, Trauma Medical Director, and Associ"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 447,
+      "preview": "His special interests include nutrition support in surgical and ICU patients and research in surgery"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 449,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 451
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 453,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 455,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 457,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 459,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 460,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 461,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 462,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 463,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 465,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 467,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 469
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 471,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 473,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 475
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 477,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 479
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 481,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 483,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "3e6a28d8357085b1.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/3e6a28d8357085b1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/3e6a28d8357085b1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "3e6a28d8357085b1"
+    },
+    {
+      "sha_name": "79746844487638ed.png",
+      "original_ref": "img-1.jpeg",
+      "page": 3,
+      "relative_path": "images/79746844487638ed.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/79746844487638ed.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "79746844487638ed"
+    },
+    {
+      "sha_name": "85ef2272e2177587.png",
+      "original_ref": "img-2.jpeg",
+      "page": 4,
+      "relative_path": "images/85ef2272e2177587.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/85ef2272e2177587.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "85ef2272e2177587"
+    },
+    {
+      "sha_name": "e09ca62d36670dba.png",
+      "original_ref": "img-3.jpeg",
+      "page": 4,
+      "relative_path": "images/e09ca62d36670dba.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/e09ca62d36670dba.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e09ca62d36670dba"
+    },
+    {
+      "sha_name": "abe13b46dcee144b.png",
+      "original_ref": "img-4.jpeg",
+      "page": 5,
+      "relative_path": "images/abe13b46dcee144b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/abe13b46dcee144b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "abe13b46dcee144b"
+    },
+    {
+      "sha_name": "a411eb271d595e1b.png",
+      "original_ref": "img-5.jpeg",
+      "page": 8,
+      "relative_path": "images/a411eb271d595e1b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/a411eb271d595e1b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a411eb271d595e1b"
+    },
+    {
+      "sha_name": "b1838c8edecb4c03.png",
+      "original_ref": "img-6.jpeg",
+      "page": 8,
+      "relative_path": "images/b1838c8edecb4c03.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/b1838c8edecb4c03.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b1838c8edecb4c03"
+    },
+    {
+      "sha_name": "857b91e1b3b14dee.png",
+      "original_ref": "img-7.jpeg",
+      "page": 9,
+      "relative_path": "images/857b91e1b3b14dee.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/857b91e1b3b14dee.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "857b91e1b3b14dee"
+    },
+    {
+      "sha_name": "1097064facb26cfc.png",
+      "original_ref": "img-8.jpeg",
+      "page": 9,
+      "relative_path": "images/1097064facb26cfc.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/1097064facb26cfc.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1097064facb26cfc"
+    },
+    {
+      "sha_name": "19cad7cc5abb1a0a.png",
+      "original_ref": "img-9.jpeg",
+      "page": 10,
+      "relative_path": "images/19cad7cc5abb1a0a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/19cad7cc5abb1a0a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "19cad7cc5abb1a0a"
+    },
+    {
+      "sha_name": "c7fa3cb98fb96ae4.png",
+      "original_ref": "img-10.jpeg",
+      "page": 10,
+      "relative_path": "images/c7fa3cb98fb96ae4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/c7fa3cb98fb96ae4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c7fa3cb98fb96ae4"
+    },
+    {
+      "sha_name": "d5c749264250dc41.png",
+      "original_ref": "img-11.jpeg",
+      "page": 12,
+      "relative_path": "images/d5c749264250dc41.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/d5c749264250dc41.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d5c749264250dc41"
+    },
+    {
+      "sha_name": "bc83762be6bcdaf8.png",
+      "original_ref": "img-12.jpeg",
+      "page": 12,
+      "relative_path": "images/bc83762be6bcdaf8.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/bc83762be6bcdaf8.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "bc83762be6bcdaf8"
+    },
+    {
+      "sha_name": "1eb56359113e959b.png",
+      "original_ref": "img-13.jpeg",
+      "page": 14,
+      "relative_path": "images/1eb56359113e959b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/1eb56359113e959b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1eb56359113e959b"
+    },
+    {
+      "sha_name": "2ad955ea315617e4.png",
+      "original_ref": "img-14.jpeg",
+      "page": 14,
+      "relative_path": "images/2ad955ea315617e4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/2ad955ea315617e4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2ad955ea315617e4"
+    },
+    {
+      "sha_name": "d89bd8fe79b739f1.png",
+      "original_ref": "img-15.jpeg",
+      "page": 17,
+      "relative_path": "images/d89bd8fe79b739f1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/d89bd8fe79b739f1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d89bd8fe79b739f1"
+    },
+    {
+      "sha_name": "be7a76cf881b25f9.png",
+      "original_ref": "img-16.jpeg",
+      "page": 17,
+      "relative_path": "images/be7a76cf881b25f9.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/be7a76cf881b25f9.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "be7a76cf881b25f9"
+    },
+    {
+      "sha_name": "4575b75f190e3c22.png",
+      "original_ref": "img-17.jpeg",
+      "page": 17,
+      "relative_path": "images/4575b75f190e3c22.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/4575b75f190e3c22.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "4575b75f190e3c22"
+    },
+    {
+      "sha_name": "e78e02a6de84e59d.png",
+      "original_ref": "img-18.jpeg",
+      "page": 21,
+      "relative_path": "images/e78e02a6de84e59d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/3_ParenteralAccess/images/e78e02a6de84e59d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e78e02a6de84e59d"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695976",
+    "ts": "2025-08-08T23:32:56.775515+00:00"
+  }
+}

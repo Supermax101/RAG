@@ -1,0 +1,2772 @@
+{
+  "doc_id": "9_fluidandsodiumdisorders__0be601",
+  "original_filename": "9_FluidandSodiumDisorders.pdf",
+  "md_path": "data/parsed/9_FluidandSodiumDisorders/9_FluidandSodiumDisorders.md",
+  "rmd_path": "data/parsed/9_FluidandSodiumDisorders/9_FluidandSodiumDisorders.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Fluids \\& Sodium Disorders",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Fluids \\& Sodium Disorders",
+      "line": 4,
+      "content": "![img-0.jpeg](images/8c5f43f4bf7b01e4.png)"
+    },
+    {
+      "type": "text",
+      "section": "Fluids \\& Sodium Disorders",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Fluids \\& Sodium Disorders",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Fluids \\& Sodium Disorders",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Fluids \\& Sodium Disorders",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT COMPLICATIONS: FLUIDS \\& SODIUM DISORDERS",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: FLUIDS \\& SODIUM DISORDERS",
+      "line": 15,
+      "preview": "Anne M. Tucker, Pharm.D., BCNSP"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: FLUIDS \\& SODIUM DISORDERS",
+      "line": 16,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: FLUIDS \\& SODIUM DISORDERS",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Analyze patient information to determine the type of fluid \\& sodium disorder."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Describe common etiologies of fluid \\& sodium disorders and their impact on the nutrition prescrip"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Design recommendations for the prevention and management of fluid and sodium disorders."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 39
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 41,
+      "preview": "- AdjBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 42,
+      "preview": "- BUN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 43,
+      "preview": "- $\\mathrm{CO}_{2}$ :"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- ECF:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- IBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- ICF:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "adjusted body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "blood urea nitrogen"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "carbon dioxide"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "extracellular fluid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "ideal body weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "intracellular fluid"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATIONS",
+      "line": 58
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 60,
+      "preview": "- SIAD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 61,
+      "preview": "- sOsm:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 62,
+      "preview": "- TBW:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 63,
+      "preview": "- uNa:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 64,
+      "preview": "- uOsm:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 65,
+      "preview": "syndrome of inappropriate antidiuresis"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 66,
+      "preview": "serum osmolality"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 67,
+      "preview": "total body water"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 68,
+      "preview": "urine sodium"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 69,
+      "preview": "urine osmolality"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 72
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 74,
+      "preview": "- MN is a 72 year-old female who is admitted to the medicine service for a nonspecific complaint of "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 75,
+      "preview": "- Past medical history: HTN, osteoarthritis, and hyperlipidemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 76,
+      "preview": "- Home medications: hydrochlorothiazide, aspirin, simvastatin, calcium carbonate, vitamin D"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 77,
+      "preview": "- Vital signs: BP 96/52, HR 100, RR 14, Temp 37 C"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 78,
+      "preview": "- Laboratory values: Na $122 \\mathrm{mEq} / \\mathrm{L}, \\mathrm{K} 4 \\mathrm{mEq} / \\mathrm{L}, \\mat"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 80,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 82
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 84,
+      "preview": "Which of the following is the most likely diagnosis for this patient's hyponatremia?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 85,
+      "preview": "A. Hypertonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 86,
+      "preview": "B. Hypovolemic hypotonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 87,
+      "preview": "C. Euvolemic hypotonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 88,
+      "preview": "D. Hypervolemic hypotonic"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FLUID AND SODIUM DISORDERS",
+      "line": 90
+    },
+    {
+      "type": "text",
+      "section": "FLUID AND SODIUM DISORDERS",
+      "line": 92,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TOTAL BODY WATER (TBW)",
+      "line": 94
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER (TBW)",
+      "line": 96,
+      "preview": "- Water content of the body"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER (TBW)",
+      "line": 97,
+      "preview": "- 60\\% lean body mass for males"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER (TBW)",
+      "line": 98,
+      "preview": "- 50\\% lean body mass for females"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER (TBW)",
+      "line": 99,
+      "preview": "- Body composition influence on TBW"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER (TBW)",
+      "line": 100,
+      "preview": "- Water content of fat $\\sim 10 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "TOTAL BODY WATER (TBW)",
+      "line": 101,
+      "preview": "- Water content of muscle $\\sim 75 \\%$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 104
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 106,
+      "preview": "- Intracellular fluid (ICF)"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 107,
+      "preview": "- 2/3 total body water"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 108,
+      "preview": "- Potassium, magnesium phosphorus"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 109,
+      "preview": "- Extracellular fluid (ECF)"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 110,
+      "preview": "- 1/3 total body water"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 111,
+      "preview": "- Sodium, chloride, bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 112,
+      "preview": "- Subdivisions"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 113,
+      "preview": "- 3/4 ECF - Interstitial fluid"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 114,
+      "preview": "- 1/4 ECF - Intravascular fluid"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 115,
+      "preview": "- Transcellular fluid"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 116,
+      "preview": "\\%TBW"
+    },
+    {
+      "type": "image",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 117,
+      "content": "![img-1.jpeg](images/9411fbacb0baa453.png)"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 118,
+      "preview": "$\\square$ ICF $\\square$ ECF"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID DISTRIBUTION",
+      "line": 120,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 122
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 124,
+      "preview": "- Normal cellular function"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 125,
+      "preview": "- Tight regulation"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 126,
+      "preview": "- Serum osmolality (sOsm)"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 127,
+      "preview": "- Important determinant of intracellular volume"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 128,
+      "preview": "- $\\mathrm{sOsm}=2 \\times[\\mathrm{Na}]+[$ glucose/18] + [BUN/2.8]"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 129,
+      "preview": "- Alterations $\\Rightarrow$ neurological symptoms"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 130,
+      "preview": "- Blood volume"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 131,
+      "preview": "- Determinant of effective tissue perfusion"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 132,
+      "preview": "- Plasma proteins play role in oncotic pressure"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 133,
+      "preview": "- Oxygen \\& nutrient delivery"
+    },
+    {
+      "type": "text",
+      "section": "BODY FLUID MAINTENANCE",
+      "line": 134,
+      "preview": "- Metabolic waste removal"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FLUID REQUIREMENTS",
+      "line": 137
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS",
+      "line": 139,
+      "preview": "- Weight and age based"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS",
+      "line": 140,
+      "preview": "- Ages 18-55 years: $35 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS",
+      "line": 141,
+      "preview": "- Ages 56-75 years: $30 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS",
+      "line": 142,
+      "preview": "- Ages $>75$ years: $25 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS",
+      "line": 143,
+      "preview": "- Fluid-restricted adults: $\\leq 25 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS",
+      "line": 145,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 147
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 149,
+      "preview": "- Adjusted Holiday-Segar formula"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 150,
+      "preview": "- 1500 mL for the first 20 kg of body weight, then ADD"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 151,
+      "preview": "- Ages $\\leq 50$ years: 20 mL per kg of remaining body weight"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 152,
+      "preview": "- Ages $>50$ years: 15 mL per kg of remaining body weight"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 153,
+      "preview": "- $1 \\mathrm{~mL} / \\mathrm{kcal}$ ingested"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 154,
+      "preview": "- 1500-1600 mL/m\u00b2 per 24 hours"
+    },
+    {
+      "type": "text",
+      "section": "FLUID REQUIREMENTS, CONT.",
+      "line": 156,
+      "preview": "Canada TW et al. ASPEN Adult Nutrition Support Core Curriculum 3rd ed. 2017:113-37."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 158
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 160,
+      "preview": "- Physical exam (mucous membranes, skin turgor, edema)"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 161,
+      "preview": "- Urine output ( $0.5-2 \\mathrm{~mL} / \\mathrm{kg} / \\mathrm{hour}$ )"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 162,
+      "preview": "- Weight changes"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 163,
+      "preview": "- Temperature"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 164,
+      "preview": "- Vital signs (blood pressure, heart rate)"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 165,
+      "preview": "- Intake and output records"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 166,
+      "preview": "- Insensible losses"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FLUID BALANCE",
+      "line": 168,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 170
+    },
+    {
+      "type": "image",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 172,
+      "content": "![img-2.jpeg](images/aa0c6c5ac58b95b3.png)"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 174,
+      "preview": "|  Body Fluid Type | mEq/L |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 175,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 176,
+      "preview": "|   | Na | Cl | K | HCO\u2083  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 177,
+      "preview": "|  Stomach | 60 | 130 | 15 | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 178,
+      "preview": "|  Duodenum | 140 | 80 | 5 | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 179,
+      "preview": "|  Pancreas | 140 | 75 | 5 | 115  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 180,
+      "preview": "|  Bile | 145 | 100 | 5 | 35  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 181,
+      "preview": "|  Ileum | 140 | 104 | 5 | 30  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 182,
+      "preview": "|  Colon | 60 | 40 | 30 | 0  |"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 184,
+      "preview": "*ASPEN Adult Nutrition Support Core Curriculum, 3rd edition, 2017:113-137.*"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 186
+    },
+    {
+      "type": "image",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 188,
+      "content": "![img-3.jpeg](images/59a2e4473ef0906b.png)"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 190,
+      "preview": "|  Body Fluid Type | mEq/L |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 191,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 192,
+      "preview": "|   | Na | Cl | K | HCO\u2083  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 193,
+      "preview": "|  Stomach | 60 | 130 | 15 | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 194,
+      "preview": "|  Duodenum | 140 | 80 | 5 | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 195,
+      "preview": "|  Pancreas | 140 | 75 | 5 | 115  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 196,
+      "preview": "|  Bile | 145 | 100 | 5 | 35  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 197,
+      "preview": "|  Ileum | 140 | 104 | 5 | 30  |"
+    },
+    {
+      "type": "table",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 198,
+      "preview": "|  Colon | 60 | 40 | 30 | 0  |"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 200,
+      "preview": "*ASPEN Adult Nutrition Support Core Curriculum, 3rd edition, 2017:113-137.*"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL LOSSES",
+      "line": 202,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REPLACEMENT FLUIDS",
+      "line": 204
+    },
+    {
+      "type": "text",
+      "section": "REPLACEMENT FLUIDS",
+      "line": 206,
+      "preview": "- Based upon specific losses"
+    },
+    {
+      "type": "text",
+      "section": "REPLACEMENT FLUIDS",
+      "line": 207,
+      "preview": "- Gastric and colonic fluid losses"
+    },
+    {
+      "type": "text",
+      "section": "REPLACEMENT FLUIDS",
+      "line": 208,
+      "preview": "- 0.45\\% NaCl (1/2 Normal Saline) + 10-20 mEq KCl/L"
+    },
+    {
+      "type": "text",
+      "section": "REPLACEMENT FLUIDS",
+      "line": 209,
+      "preview": "- Small bowel fluid losses"
+    },
+    {
+      "type": "text",
+      "section": "REPLACEMENT FLUIDS",
+      "line": 210,
+      "preview": "- 0.9\\% NaCl (Normal Saline)"
+    },
+    {
+      "type": "text",
+      "section": "REPLACEMENT FLUIDS",
+      "line": 211,
+      "preview": "- Bicarbonate or acetate-based customized fluid"
+    },
+    {
+      "type": "text",
+      "section": "REPLACEMENT FLUIDS",
+      "line": 212,
+      "preview": "- Balanced crystalloid (e.g., Ringers Lactate)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 215
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 217,
+      "preview": "| Electrolyte | Adult |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 218,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 219,
+      "preview": "| Sodium | $135-145 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 220,
+      "preview": "| Potassium | $3.5-5 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 221,
+      "preview": "| Chloride | $98-108 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 222,
+      "preview": "| $\\mathrm{CO}_{2}$ | $23-30 \\mathrm{mEq} / \\mathrm{L}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 223,
+      "preview": "| Calcium | $9-10.5 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 224,
+      "preview": "| Phosphorus | $2.5-4.5 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 225,
+      "preview": "| Magnesium | $1.7-2.4 \\mathrm{mg} / \\mathrm{dL}$ |"
+    },
+    {
+      "type": "table",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 226,
+      "preview": "| *Variations in lab values exist between institutions |  |"
+    },
+    {
+      "type": "text",
+      "section": "NORMAL ELECTROLYTE CONCENTRATIONS",
+      "line": 228,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 230
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 232,
+      "preview": "| Electrolyte | Requirements |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 233,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 234,
+      "preview": "| Sodium | $60-100 \\mathrm{mEq} /$ day or $1-2 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 235,
+      "preview": "| Potassium | $60-100 \\mathrm{mEq} /$ day or $1-2 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 236,
+      "preview": "| Chloride | As needed to maintain acid-base balance |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 237,
+      "preview": "| Acetate | As needed to maintain acid-base balance |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 238,
+      "preview": "| Calcium | $10-15 \\mathrm{mEq} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 239,
+      "preview": "| Phosphorus | $20-40 \\mathrm{mmol} /$ dayor $0.25-0.5 \\mathrm{mmol} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 240,
+      "preview": "| Magnesium | $8-20 \\mathrm{mEq} /$ day or $0.25-0.5 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 241,
+      "preview": "| *Consider lower doses for those with renal insufficiency |  |"
+    },
+    {
+      "type": "text",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 243,
+      "preview": "Mirtallo J et al.JPEN J ParentEnteral Nutr. 2004; 28:S39-S70."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 245
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 247,
+      "preview": "- Electrolyte disorders"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 248,
+      "preview": "- Acute (< 48 hours) vs. chronic (> 48 hours)"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 249,
+      "preview": "- Rate of development, degree of abnormality and/or symptoms"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 250,
+      "preview": "- Renal dysfunction"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 251,
+      "preview": "- Empiric dose - 50\\% recommended dose"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 252,
+      "preview": "- Obesity"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 253,
+      "preview": "- Adjusted body weight (AdjBW) for weight-based electrolyte dosing"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 254,
+      "preview": "- AdjBW $=[($ weight in $\\mathrm{kg}-\\mathrm{IBW}) \\times 0.25]+\\mathrm{IBW}$"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTE DOSING CONSIDERATIONS",
+      "line": 256,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SODIUM",
+      "line": 258
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 260,
+      "preview": "- Most abundant extracellular cation"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 261,
+      "preview": "- Normal serum sodium $135-145 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 262,
+      "preview": "- Primary influence on serum osmolality"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 263,
+      "preview": "- Changes in serum sodium are due to water balance changes"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 264,
+      "preview": "- Water flows from areas of lower osmolality to higher osmolality"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 265,
+      "preview": "- Sodium disorder diagnosis"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 266,
+      "preview": "- History and physical"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 267,
+      "preview": "- Laboratory analysis (serum, urine)"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 268,
+      "preview": "- Serum osmolality"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM",
+      "line": 269,
+      "preview": "- Volume status of the patient"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 272
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 274,
+      "preview": "- Common electrolyte disorder"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 275,
+      "preview": "- $28 \\%$ hospitalized patients"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 276,
+      "preview": "- $17.2 \\%$ critically ill patients"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 277,
+      "preview": "- Up to 6-fold increase in morbidity and mortality"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 278,
+      "preview": "- Wide symptomatology - neurologic in nature"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 279,
+      "preview": "- None"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 280,
+      "preview": "- Moderate: headache, nausea, confusion"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 281,
+      "preview": "- Severe: vomiting, obtunded, seizures, coma"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA (NA < 135 MEQ/L)",
+      "line": 283,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DIAGNOSTIC ALGORITHM",
+      "line": 285
+    },
+    {
+      "type": "image",
+      "section": "DIAGNOSTIC ALGORITHM",
+      "line": 287,
+      "content": "![img-4.jpeg](images/71d7339a195cc11f.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DIAGNOSTIC ALGORITHM",
+      "line": 289
+    },
+    {
+      "type": "image",
+      "section": "DIAGNOSTIC ALGORITHM",
+      "line": 291,
+      "content": "![img-5.jpeg](images/5781be882b69f7ca.png)"
+    },
+    {
+      "type": "text",
+      "section": "DIAGNOSTIC ALGORITHM",
+      "line": 293,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SIAD",
+      "line": 295
+    },
+    {
+      "type": "text",
+      "section": "SIAD",
+      "line": 297,
+      "preview": "Sustained or intermittently elevated antidiuretic hormone (ADH) level inappropriate for osmotic and "
+    },
+    {
+      "type": "table",
+      "section": "SIAD",
+      "line": 299,
+      "preview": "| Essential Criteria | Supplemental Criteria |"
+    },
+    {
+      "type": "table",
+      "section": "SIAD",
+      "line": 300,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "SIAD",
+      "line": 301,
+      "preview": "| Effective sOsm < $275 \\mathrm{mOsm} / \\mathrm{kg}$ <br> uOsm $>100 \\mathrm{mOsm} / \\mathrm{kg}$ at"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CAUSES OF SIAD",
+      "line": 303
+    },
+    {
+      "type": "text",
+      "section": "CAUSES OF SIAD",
+      "line": 305,
+      "preview": "- Diagnosis of exclusion"
+    },
+    {
+      "type": "text",
+      "section": "CAUSES OF SIAD",
+      "line": 306,
+      "preview": "- Causes"
+    },
+    {
+      "type": "text",
+      "section": "CAUSES OF SIAD",
+      "line": 307,
+      "preview": "- Pulmonary (small cell lung cancer, pneumonia, abscess, tuberculosis)"
+    },
+    {
+      "type": "text",
+      "section": "CAUSES OF SIAD",
+      "line": 308,
+      "preview": "- Neurologic (tumors, trauma, meningitis, abscess, subarachnoid hemorrhage, pain, anxiety, nausea)"
+    },
+    {
+      "type": "text",
+      "section": "CAUSES OF SIAD",
+      "line": 309,
+      "preview": "- Hypothyroidism"
+    },
+    {
+      "type": "text",
+      "section": "CAUSES OF SIAD",
+      "line": 310,
+      "preview": "- Medications"
+    },
+    {
+      "type": "text",
+      "section": "CAUSES OF SIAD",
+      "line": 312,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 314
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 316,
+      "preview": "- Anticancer agents: cyclophosphamide, ifosfamide, vincristine"
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 317,
+      "preview": "- Anticonvulsants: carbamazepine, oxcarbazepine"
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 318,
+      "preview": "- Antidepressants: SSRIs, TCADs, MAOI, venlafaxine"
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 319,
+      "preview": "- Antidiabetic agent: chlorpropamide"
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 320,
+      "preview": "- Antipsychotics: phenothiazines"
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 321,
+      "preview": "- Miscellaneous: opiates, 3,4-methylenedioxy-methamphetamine (MDMA), nonsteroidal anti-inflammatory "
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 322,
+      "preview": "- Vasopressin analogs: desmopressin, oxytocin, terlipressin, vasopressin"
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 324,
+      "preview": "Braun MM et al. AmFamPhysician. 2015; 91(5):299-307."
+    },
+    {
+      "type": "text",
+      "section": "SIAD: MEDICATIONS ASSOCIATED",
+      "line": 325,
+      "preview": "Kraft MD et al. AmJ Health-Syst Pharm. 2005; 62:1663-82."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 327
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 329,
+      "preview": "- Focus on treatment of underlying cause"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 330,
+      "preview": "- Discontinuation of hypotonic fluids"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 331,
+      "preview": "- Replace sodium deficit or water excess"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 332,
+      "preview": "- Change in serum $\\mathrm{Na}=$ infusate $\\mathrm{Na}-$ serum Na"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 334,
+      "preview": "TBW + 1"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 336,
+      "preview": "- Hypertonic saline for symptomatic patients"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 337,
+      "preview": "- Sodium correction limited to 8-10 mEq per Liter per day"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 338,
+      "preview": "- Prevention of central pontine myelinolysis"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 339,
+      "preview": "- Gradual onset of neurologic alterations"
+    },
+    {
+      "type": "text",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 341,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 343
+    },
+    {
+      "type": "table",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 345,
+      "preview": "| Hyponatremia Type | Treatment (plus treat or remove underlying cause) |"
+    },
+    {
+      "type": "table",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 346,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 347,
+      "preview": "| Hypertonic | Insulin (hyperglycemia), discontinue mannitol |"
+    },
+    {
+      "type": "table",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 348,
+      "preview": "| Hypotonic | Isotonic fluids (0.9\\% sodium chloride, lactated ringers), discontinue <br> diuretics,"
+    },
+    {
+      "type": "table",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 349,
+      "preview": "| Hypovolemic | Fluid restriction $\\pm$ loop diuretics, concentrate PN, ensure at least isotonic <br"
+    },
+    {
+      "type": "table",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 350,
+      "preview": "| Euvolemic | Sodium and fluid restriction, vaptans, diuretics |"
+    },
+    {
+      "type": "table",
+      "section": "HYPONATREMIA MANAGEMENT",
+      "line": 351,
+      "preview": "| Hypervolemic |  |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 353
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 355,
+      "preview": "Which of the following medications increases the risk of developing hypotonic euvolemic hyponatremia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 356,
+      "preview": "A. Hydrochlorothiazide"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 357,
+      "preview": "B. Ondansetron"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 358,
+      "preview": "C. Sertraline"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 359,
+      "preview": "D. Spironolactone"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 361,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 363
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 365,
+      "preview": "Which of the following sodium concentrations ( $\\mathrm{mEq} / \\mathrm{L}$ ) is the most appropriate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 366,
+      "preview": "A. 38.5 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 367,
+      "preview": "B. 77 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 368,
+      "preview": "C. 115 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 369,
+      "preview": "D. 154 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 371,
+      "preview": "HYPERNATREMIA (NA > 145 MEQ/L)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 373,
+      "preview": "- All cases are hypertonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 374,
+      "preview": "- Less common than hyponatremia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 375,
+      "preview": "- 1-7.9\\% hospitalized patients"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 376,
+      "preview": "- Up to $70 \\%$ increase in mortality"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 377,
+      "preview": "- Symptoms - neurologic in nature"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 378,
+      "preview": "- Thirst, dry mucus membranes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 379,
+      "preview": "- Mild-moderate: lethargy, weakness, confusion, irritability"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 380,
+      "preview": "- Severe: twitching, seizures, coma"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 382,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DIAGNOSTIC ALGORITHM",
+      "line": 384
+    },
+    {
+      "type": "image",
+      "section": "DIAGNOSTIC ALGORITHM",
+      "line": 386,
+      "content": "![img-6.jpeg](images/2963edb030eecf9b.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DIABETES INSIPIDUS",
+      "line": 388
+    },
+    {
+      "type": "text",
+      "section": "DIABETES INSIPIDUS",
+      "line": 390,
+      "preview": "- Condition resulting in imbalance of water in the body due to large amounts of dilute urine excreti"
+    },
+    {
+      "type": "text",
+      "section": "DIABETES INSIPIDUS",
+      "line": 391,
+      "preview": "- Central diabetes insipidus: lack of or decrease in antidiuretic hormone secretion"
+    },
+    {
+      "type": "text",
+      "section": "DIABETES INSIPIDUS",
+      "line": 392,
+      "preview": "- Nephrogenic diabetes insipidus: decreased renal response to antidiuretic hormone"
+    },
+    {
+      "type": "text",
+      "section": "DIABETES INSIPIDUS",
+      "line": 393,
+      "preview": "- Medication and electrolyte causes of nephrogenic diabetes insipidus"
+    },
+    {
+      "type": "text",
+      "section": "DIABETES INSIPIDUS",
+      "line": 394,
+      "preview": "- Amphotericin B, cidofovir, foscarnet, demeclocycline, lithium toxicity"
+    },
+    {
+      "type": "text",
+      "section": "DIABETES INSIPIDUS",
+      "line": 395,
+      "preview": "- Hypercalcemia, hypokalemia"
+    },
+    {
+      "type": "text",
+      "section": "DIABETES INSIPIDUS",
+      "line": 397,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 399
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 401,
+      "preview": "- Focus on treatment of underlying cause"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 402,
+      "preview": "- Discontinuation of hypertonic fluids"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 403,
+      "preview": "- Correct water deficit with hypotonic fluids"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 404,
+      "preview": "- Water deficit (L) = TBW x [1 - (serum $\\mathrm{Na} / 140)]$"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 405,
+      "preview": "- Administer 50\\% in first 24 hours, remainder in next 48-72 hours"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 406,
+      "preview": "- Isotonic fluids for hemodynamic instability"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 407,
+      "preview": "- Sodium correction limited to 8-10 mEq per Liter per day"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 408,
+      "preview": "- Prevention of cerebral edema"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 410,
+      "preview": "Braun MM et al. AmFamPhysician. 2015; 91(5):299-307."
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 411,
+      "preview": "Kraft MD et al. AmJ Health-Syst Pharm. 2005; 62:1663-82."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 413
+    },
+    {
+      "type": "image",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 415,
+      "content": "![img-7.jpeg](images/9618c3738db82cc4.png)"
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 417,
+      "preview": "Hypernatremia Type"
+    },
+    {
+      "type": "table",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 419,
+      "preview": "| Hypovolemic | Oral water, enteral water flushes, hypotonic fluids (dextrose 5\\% in water, 0.45\\% s"
+    },
+    {
+      "type": "table",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 420,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 421,
+      "preview": "|  | Desmopressin (central diabetes insipidus) |"
+    },
+    {
+      "type": "table",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 422,
+      "preview": "| Euvolemic | Thiazide diuretics, sodium restriction, calcium or potassium supplementation (nephroge"
+    },
+    {
+      "type": "table",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 423,
+      "preview": "| Hypervolemic | Loop diuretic, hypotonic fluids (sodium overload), adrenalectomy or spironolactone "
+    },
+    {
+      "type": "text",
+      "section": "HYPERNATREMIA MANAGEMENT",
+      "line": 425,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 427
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 429,
+      "preview": "- TT is a 65-year-old patient with enterocutaneous fistula who is on parenteral nutrition providing "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 430,
+      "preview": "- Vital signs: BP 102/62, HR 85, RR 20, Temp 38 C"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 431,
+      "preview": "- Physical exam: +thirst and dry mucous membranes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 432,
+      "preview": "- Basic metabolic panel: Na $154 \\mathrm{mEq} / \\mathrm{L}, \\mathrm{K} 3.2 \\mathrm{mEq} / \\mathrm{L}"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 433,
+      "preview": "- Input: $2200 \\mathrm{~mL} /$ day ( $31 \\mathrm{~mL} / \\mathrm{kg} /$ day $)$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 434,
+      "preview": "- Urine output: $5400 \\mathrm{~mL} /$ day ( $3.2 \\mathrm{~mL} / \\mathrm{kg} /$ hour)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 437
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 439,
+      "content": "![img-8.jpeg](images/7089326f7c052b5b.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 441,
+      "preview": "Which of the following is the likely type and cause of TT's hypernatremia?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 442,
+      "preview": "A. Hypervolemic hypernatremia due to excessive fluid administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 443,
+      "preview": "B. Nephrogenic diabetes insipidus"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 444,
+      "preview": "C. Syndrome of inappropriate antidiuresis (SIAD)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 445,
+      "preview": "D. Hypovolemic hypernatremia due to solute diuresis"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 447,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Self Assessment Questions and Answers",
+      "line": 449
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 451
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 453,
+      "preview": "- MN is a 72 year-old female who is admitted to the medicine service for a nonspecific complaint of "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 454,
+      "preview": "- Past medical history: HTN, osteoarthritis, and hyperlipidemia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 455,
+      "preview": "- Home medications: hydrochlorothiazide, aspirin, simvastatin, calcium carbonate, vitamin D"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 456,
+      "preview": "- Vital signs: BP 96/52, HR 100, RR 14, Temp 37 C"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 457,
+      "preview": "- Laboratory values: Na $122 \\mathrm{mEq} / \\mathrm{L}, \\mathrm{K} 4 \\mathrm{mEq} / \\mathrm{L}, \\mat"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 459,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 461
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 463,
+      "preview": "Which of the following is the most likely diagnosis for this patient's hyponatremia?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 464,
+      "preview": "A. Hypertonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 465,
+      "preview": "B. Hypovolemic hypotonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 466,
+      "preview": "C. Euvolemic hypotonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 467,
+      "preview": "D. Hypervolemic hypotonic"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 469
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 471,
+      "preview": "Which of the following is the most likely diagnosis for this patient's hyponatremia?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 472,
+      "preview": "A. Hypertonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 473,
+      "preview": "B. Hypovolemic hypotonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 474,
+      "preview": "C. Euvolemic hypotonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 475,
+      "preview": "D. Hypervolemic hypotonic"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1, CONT.",
+      "line": 477,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 479
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 481,
+      "preview": "Which of the following medications increases the risk of developing hypotonic euvolemic hyponatremia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 482,
+      "preview": "A. Hydrochlorothiazide"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 483,
+      "preview": "B. Ondansetron"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 484,
+      "preview": "C. Sertraline"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 485,
+      "preview": "D. Spironolactone"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 487
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 489,
+      "preview": "Which of the following medications increases the risk of developing hypotonic euvolemic hyponatremia"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 490,
+      "preview": "A. Hydrochlorothiazide"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 491,
+      "preview": "B. Ondansetron"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 492,
+      "preview": "C. Sertraline"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 493,
+      "preview": "D. Spironolactone"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 495,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 497
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 499,
+      "preview": "Which of the following sodium concentrations ( $\\mathrm{mEq} / \\mathrm{L}$ ) is the most appropriate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 500,
+      "preview": "A. 38.5 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 501,
+      "preview": "B. 77 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 502,
+      "preview": "C. 115 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 503,
+      "preview": "D. 154 mEq sodium per Liter"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 505
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 507,
+      "preview": "Which of the following sodium concentrations ( $\\mathrm{mEq} / \\mathrm{L}$ ) is the most appropriate"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 508,
+      "preview": "A. 38.5 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 509,
+      "preview": "B. 77 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 510,
+      "preview": "C. 115 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 511,
+      "preview": "D. 154 mEq sodium per Liter"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#3",
+      "line": 513,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 515
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 517,
+      "preview": "- TT is a 65-year-old patient with enterocutaneous fistula who is on parenteral nutrition providing "
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 518,
+      "preview": "- Vital signs: BP 102/62, HR 85, RR 20, Temp 38 C"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 519,
+      "preview": "- Physical exam: +thirst and dry mucous membranes"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 520,
+      "preview": "- Basic metabolic panel: Na $154 \\mathrm{mEq} / \\mathrm{L}, \\mathrm{K} 3.2 \\mathrm{mEq} / \\mathrm{L}"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 521,
+      "preview": "- Input: $2200 \\mathrm{~mL} /$ day ( $31 \\mathrm{~mL} / \\mathrm{kg} /$ day $)$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 522,
+      "preview": "- Urine output: $5400 \\mathrm{~mL} /$ day ( $3.2 \\mathrm{~mL} / \\mathrm{kg} /$ hour)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 525
+    },
+    {
+      "type": "image",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 527,
+      "content": "![img-9.jpeg](images/ff43deafda73b053.png)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 529,
+      "preview": "Which of the following is the likely type and cause of TT's hypernatremia?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 530,
+      "preview": "A. Hypervolemic hypernatremia due to excessive fluid administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 531,
+      "preview": "B. Nephrogenic diabetes insipidus"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 532,
+      "preview": "C. Syndrome of inappropriate antidiuresis (SIAD)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 533,
+      "preview": "D. Hypovolemic hypernatremia due to solute diuresis"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 535,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 537
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 539,
+      "preview": "Which of the following is the likely type and cause of TT's hypernatremia?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 540,
+      "preview": "A. Hypervolemic hypernatremia due to excessive fluid administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 541,
+      "preview": "B. Nephrogenic diabetes insipidus"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 542,
+      "preview": "C. Syndrome of inappropriate antidiuresis (SIAD)"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#4",
+      "line": 543,
+      "preview": "D. Hypovolemic hypernatremia due to solute diuresis"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONCLUSIONS",
+      "line": 545
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 547,
+      "preview": "- A thorough history and physical, including medication review, is important for identification and "
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 548,
+      "preview": "- Knowledge of causes of fluid \\& sodium disorders will help in determining appropriate prevention a"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 549,
+      "preview": "- Development of a nutrition care plan should be done using a systematic approach including comorbid"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 551,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 553
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 555,
+      "preview": "- Braun MM, Barstow CH, Pyzocha NJ. Diagnosis and management of sodium disorders: hyponatremia and h"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 556,
+      "preview": "- Canada TW, Lord LM. Chapter 7 Fluid, Electrolytes, and Acid-Base Disorders. In: Mueller CM, ed. Th"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 557,
+      "preview": "- Kraft MD, Btaiche IF, Sacks GS, Kudsk KA. Treatment of electrolytes disorders in adult patients in"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 560
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 562,
+      "preview": "- Mannesse CK, Vondeling AM, van Marum RJ et al. Prevalence of hyponatremia on geriatric wards compa"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 563,
+      "preview": "- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parent Ente"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 564,
+      "preview": "- Verbalis JG, Goldsmith, SR, Greenberg A et al. Diagnosis, evaluation, and treatment of hyponatremi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 566,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 568,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 570,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 572,
+      "content": "![img-10.jpeg](images/d0651196d10662d6.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 574,
+      "preview": "Anne M. Tucker, Pharm.D., BCNSP<br>Clinical pharmacy Specialist<br>University of Texas MD Anderson C"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 576,
+      "preview": "Anne M. Tucker is clinical pharmacy specialist at the MD Anderson Cancer Center, Houston, Texas. She"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 578,
+      "preview": "Dr. Tucker is currently the Chair of the American Society for Parenteral and Enteral Nutrition (ASPE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 580,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 582
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 584,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 586,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 588,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 590,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 591,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 592,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 593,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 594,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 596,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 598,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 600
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 602,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 604,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 606
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 608,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 610
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 612,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 614,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "8c5f43f4bf7b01e4.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/8c5f43f4bf7b01e4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/8c5f43f4bf7b01e4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8c5f43f4bf7b01e4"
+    },
+    {
+      "sha_name": "9411fbacb0baa453.png",
+      "original_ref": "img-1.jpeg",
+      "page": 5,
+      "relative_path": "images/9411fbacb0baa453.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/9411fbacb0baa453.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9411fbacb0baa453"
+    },
+    {
+      "sha_name": "aa0c6c5ac58b95b3.png",
+      "original_ref": "img-2.jpeg",
+      "page": 8,
+      "relative_path": "images/aa0c6c5ac58b95b3.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/aa0c6c5ac58b95b3.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "aa0c6c5ac58b95b3"
+    },
+    {
+      "sha_name": "59a2e4473ef0906b.png",
+      "original_ref": "img-3.jpeg",
+      "page": 8,
+      "relative_path": "images/59a2e4473ef0906b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/59a2e4473ef0906b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "59a2e4473ef0906b"
+    },
+    {
+      "sha_name": "71d7339a195cc11f.png",
+      "original_ref": "img-4.jpeg",
+      "page": 12,
+      "relative_path": "images/71d7339a195cc11f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/71d7339a195cc11f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "71d7339a195cc11f"
+    },
+    {
+      "sha_name": "5781be882b69f7ca.png",
+      "original_ref": "img-5.jpeg",
+      "page": 12,
+      "relative_path": "images/5781be882b69f7ca.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/5781be882b69f7ca.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "5781be882b69f7ca"
+    },
+    {
+      "sha_name": "2963edb030eecf9b.png",
+      "original_ref": "img-6.jpeg",
+      "page": 17,
+      "relative_path": "images/2963edb030eecf9b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/2963edb030eecf9b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2963edb030eecf9b"
+    },
+    {
+      "sha_name": "9618c3738db82cc4.png",
+      "original_ref": "img-7.jpeg",
+      "page": 18,
+      "relative_path": "images/9618c3738db82cc4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/9618c3738db82cc4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9618c3738db82cc4"
+    },
+    {
+      "sha_name": "7089326f7c052b5b.png",
+      "original_ref": "img-8.jpeg",
+      "page": 19,
+      "relative_path": "images/7089326f7c052b5b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/7089326f7c052b5b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7089326f7c052b5b"
+    },
+    {
+      "sha_name": "ff43deafda73b053.png",
+      "original_ref": "img-9.jpeg",
+      "page": 24,
+      "relative_path": "images/ff43deafda73b053.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/ff43deafda73b053.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ff43deafda73b053"
+    },
+    {
+      "sha_name": "d0651196d10662d6.png",
+      "original_ref": "img-10.jpeg",
+      "page": 28,
+      "relative_path": "images/d0651196d10662d6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9_FluidandSodiumDisorders/images/d0651196d10662d6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d0651196d10662d6"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696273",
+    "ts": "2025-08-08T23:37:53.418587+00:00"
+  }
+}

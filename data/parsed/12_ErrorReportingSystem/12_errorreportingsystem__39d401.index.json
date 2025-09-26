@@ -1,0 +1,1623 @@
+{
+  "doc_id": "12_errorreportingsystem__39d401",
+  "original_filename": "12_ErrorReportingSystem.pdf",
+  "md_path": "data/parsed/12_ErrorReportingSystem/12_ErrorReportingSystem.md",
+  "rmd_path": "data/parsed/12_ErrorReportingSystem/12_ErrorReportingSystem.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Error Reporting System",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Error Reporting System",
+      "line": 4,
+      "content": "![img-0.jpeg](images/3e6a28d8357085b1.png)"
+    },
+    {
+      "type": "text",
+      "section": "Error Reporting System",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Error Reporting System",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Error Reporting System",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Error Reporting System",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ERROR REPORTING SYSTEM",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "ERROR REPORTING SYSTEM",
+      "line": 15,
+      "preview": "Jay M. Mirtallo, B.S.Pharm., M.S., BCNSP, FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ERROR REPORTING SYSTEM",
+      "line": 16,
+      "preview": "The Ohio State University, ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "ERROR REPORTING SYSTEM",
+      "line": 18,
+      "preview": "Phil Ayers, Pharm.D., BCNSP, FASHP"
+    },
+    {
+      "type": "text",
+      "section": "ERROR REPORTING SYSTEM",
+      "line": 19,
+      "preview": "Baptist Medical Center, University of Mississippi"
+    },
+    {
+      "type": "text",
+      "section": "ERROR REPORTING SYSTEM",
+      "line": 21,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 23
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 25,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 27,
+      "preview": "- Phil Ayers: Fersenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "- Jay Mirtallo: Fresenius Kabi: consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 32,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 34,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 36
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 38,
+      "preview": "- Describe errors and potential errors that may occur with parenteral and enteral nutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 39,
+      "preview": "- Examine error reporting methods to evaluate error trends that may occur with parenteral and entera"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 40,
+      "preview": "- Explain the importance of reporting errors associated with nutrition support."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 41,
+      "preview": "- Select appropriate systems and processes for potential safety improvements."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 44
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- EN: enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- KCl : potassium chloride"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- PN: parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- ISMP: Institute for Safe Medication Practices"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "- MERP: Medication Error Reporting Program of ISMP"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DEFINITION",
+      "line": 54
+    },
+    {
+      "type": "text",
+      "section": "DEFINITION",
+      "line": 56,
+      "preview": "- MED-MARX ${ }^{\\circledR}$ : Subscription-based medication error reporting program."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 59
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 61,
+      "preview": "A patient became hyperglycemic when the insulin prescribed in his PN was inadvertently omitted durin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 62,
+      "preview": "A. Prescribing and order review"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 63,
+      "preview": "B. Verify/review the PN order"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 64,
+      "preview": "C. Administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 65,
+      "preview": "D. Compounding and dispensing"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 67,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 69
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 71,
+      "preview": "The approach to PN ordering in your organization is different between the critical care patients and"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 72,
+      "preview": "A. Do nothing, the clinicians are used to the system and there have been no reported errors or patie"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 73,
+      "preview": "B. Develop an interdisciplinary task force consisting of clinicians from both areas to review the pr"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 74,
+      "preview": "C. Adopt a standardized approach to reporting and classifying PN-associated errors and near misses t"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 75,
+      "preview": "D. Adopt the ordering method used in the critical care area to the entire organization"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITION SUPPORT",
+      "line": 77
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT",
+      "line": 79,
+      "preview": "- Nutrition support is a complicated medical therapy that includes a nutrition care plan, modificati"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT",
+      "line": 80,
+      "preview": "- EN and PN are complex treatments"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT",
+      "line": 81,
+      "preview": "- Involving multiple dosage of nutrients"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT",
+      "line": 82,
+      "preview": "- Affecting multiple biological processes"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT",
+      "line": 83,
+      "preview": "- Risk extends beyond their side effects or complications"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT",
+      "line": 84,
+      "preview": "- Errors in the system"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT",
+      "line": 86,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION CARE PROCESS: A SYSTEM OF CARE",
+      "line": 88
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION CARE PROCESS: A SYSTEM OF CARE",
+      "line": 90,
+      "preview": "Interdisciplinary care"
+    },
+    {
+      "type": "image",
+      "section": "NUTRITION CARE PROCESS: A SYSTEM OF CARE",
+      "line": 91,
+      "content": "![img-1.jpeg](images/0f37426b9cf4b024.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 93
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 95,
+      "preview": "- Errors in the system result from:"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 96,
+      "preview": "- Systems issues"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 97,
+      "preview": "- Performance"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 98,
+      "preview": "- Knowledge"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 99,
+      "preview": "- Factors involved with EN/PN errors:"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 100,
+      "preview": "- Nutrition education in health professionals is inconsistent"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 101,
+      "preview": "- EN/PN processes once developed are seldom revised and updated"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 102,
+      "preview": "- Error reporting systems are infrequently present to investigate opportunities for system improveme"
+    },
+    {
+      "type": "text",
+      "section": "HEALTH SYSTEM SAFETY: ERROR REPORTING",
+      "line": 104,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ERRORS WITH EN SYSTEM",
+      "line": 106
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "- Access",
+      "line": 108
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 110,
+      "preview": "- Misplacement"
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 111,
+      "preview": "- Dislodgement"
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 112,
+      "preview": "- Administration"
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 113,
+      "preview": "- Infuse intravenously or intrathecally"
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 114,
+      "preview": "- Medication precipitation within the feeding tube causing a clog"
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 115,
+      "preview": "- Loss of enteral access"
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 116,
+      "preview": "- Error - interruption in therapy with less than 100\\% of ordered dose administered"
+    },
+    {
+      "type": "text",
+      "section": "- Access",
+      "line": 118,
+      "preview": "Boullata JI et al. J Parenter Enter Nutr. 2017; 41(1):15-103."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 120
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 122,
+      "preview": "| Event | Age | Outcome | Contributing factors |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 123,
+      "preview": "| :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 124,
+      "preview": "| Zinc overdose | Neonate | Death | - Performance deficit: <br> training not completed <br> - Compou"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 125,
+      "preview": "| Calcium/Phosphorous <br> precipitate | Adult | Death, <br> respiratory <br> distress | - Improper "
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 126,
+      "preview": "| Glucose overdose | Pediatric | Death | - Misinterpretation of product <br> label and order |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 127,
+      "preview": "| Glucose underdose | Infant | Death | - Final concentration 1.75\\% <br> rather than 17.5\\% |"
+    },
+    {
+      "type": "text",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 129,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 131
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 133,
+      "preview": "| Event | Age | Outcome | Contributing factors |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 134,
+      "preview": "| :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 135,
+      "preview": "| No dextrose in PN | Neonate | Permanent brain damage | Compounding error |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 136,
+      "preview": "| Iron overload | Pediatric | Liver toxicity | Misinterpretation of label, 50 fold error |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 137,
+      "preview": "| Hyperkalemia | Child | Death | Manual preparation of PN |"
+    },
+    {
+      "type": "table",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 138,
+      "preview": "| Hypermagnesemia | Neonate | Toxicity | Compounder malfunction |"
+    },
+    {
+      "type": "text",
+      "section": "EVENTS RELATED TO COMPLEX PARENTERAL NUTRITION SYSTEM",
+      "line": 140,
+      "preview": "Mirtallo JM et al. J Parenter Enter Nutr. 2004; 28(6):S39-S70"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 142
+    },
+    {
+      "type": "text",
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 144,
+      "preview": "- Institute for Safe Medication Practices"
+    },
+    {
+      "type": "text",
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 145,
+      "preview": "- www.ismp.org"
+    },
+    {
+      "type": "text",
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 146,
+      "preview": "- Devoted entirely to medication error prevention and safe medication use"
+    },
+    {
+      "type": "text",
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 147,
+      "preview": "- Medication Error Reporting Program (ISMP-MERP)"
+    },
+    {
+      "type": "text",
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 148,
+      "preview": "- National Database"
+    },
+    {
+      "type": "text",
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 149,
+      "preview": "- PN not considered a medication limits number of reports"
+    },
+    {
+      "type": "text",
+      "section": "ERRORS WITH PN SYSTEMS: EVIDENCE",
+      "line": 151,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 153
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 155,
+      "preview": "- Typical errors (severe-harm)"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 156,
+      "preview": "- Wrong dextrose concentration"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 157,
+      "preview": "- Confusion of 5\\% dextrose with concentrated KCl"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 158,
+      "preview": "- Catheter misconnections"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 159,
+      "preview": "- Infusion via epidural catheter"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 160,
+      "preview": "- Insulin/heparin additives - units and dosage designations"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 161,
+      "preview": "- Reported to national database (ISMP-MERP)"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 163,
+      "preview": "Cohen MR. JPEN. 2012; 36:14S-19S"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 165
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 167,
+      "preview": "- Institute for Safe Medication Practices, MED-MARX ${ }^{\\circledR}$ Database"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 168,
+      "preview": "- National, anonymous subscription-based medication error reporting system"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 169,
+      "preview": "- Errors are described and assigned a severity by the individual completing the report"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION ERRORS",
+      "line": 171,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 173
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 175,
+      "preview": "|  Severity | Description  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 176,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 177,
+      "preview": "|  A | Circumstances or events that have the capacity to cause error  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 178,
+      "preview": "|   | An Error occurred:  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 179,
+      "preview": "|  B | Did not reach the patient  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 180,
+      "preview": "|  C | Reached the patient but no resulted in no harm  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 181,
+      "preview": "|  D | Required monitoring to confirm that it resulted in no harm and/or required intervention to pr"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 182,
+      "preview": "|  E | May have contributed to or resulted in temporary harm or required intervention  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 183,
+      "preview": "|  F | Contributed to or resulted in temporary harm and required initial or prolonged hospitalizatio"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 184,
+      "preview": "|  G | Contributed to or resulted in permanent harm  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 185,
+      "preview": "|  H | Intervention required to sustain life  |"
+    },
+    {
+      "type": "table",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 186,
+      "preview": "|  I | Resulted in patient death  |"
+    },
+    {
+      "type": "text",
+      "section": "MED-MARX\u00ae DATABASE SEVERITY SCALE",
+      "line": 188,
+      "preview": "National Coordinating Council for Medication Error Reporting and Prevention (accessed 2019 Feb 1)."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 190
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 192,
+      "preview": "|  Node | Severity, N A-D | Severity, N E-I | Type  |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 193,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 194,
+      "preview": "|  Ordering | 472 | 8 | Improper dose, omission of dose  |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 195,
+      "preview": "|  Transcribing | 360 | 3 | Omission of dose, prepared incorrectly  |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 196,
+      "preview": "|  Compounding | 90 | 1 | Deteriorated product, omission  |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 197,
+      "preview": "|  Administration | 487 | 10 | Expired drug, deteriorated product, omission  |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 198,
+      "preview": "|  Ingredient |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 199,
+      "preview": "|  Dextrose | 21 | 3 |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 200,
+      "preview": "|  Fat Emulsion | 254 | 3 |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 201,
+      "preview": "|  Electrolyte | 92 | 2 |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 202,
+      "preview": "|  Other | 74 | 5* | *Preparation, administration, ordering and administration  |"
+    },
+    {
+      "type": "text",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 204,
+      "preview": "*Insulin was the most frequent in the 'Other' category related to more harmful events."
+    },
+    {
+      "type": "text",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 206,
+      "preview": "Storey MA et al. Nutr Clin Pract. 2016; 31(2):211-17."
+    },
+    {
+      "type": "text",
+      "section": "PN ERRORS REPORTED TO MED-MARX\u00ae BY NODE AND INGREDIENT",
+      "line": 208,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 210
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 212,
+      "preview": "- Patient information"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 213,
+      "preview": "- Drug information"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 214,
+      "preview": "- Adequate communication"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 215,
+      "preview": "- Drug packaging, labeling, and nomenclature"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 216,
+      "preview": "- Medication storage, stock, standardization, and distribution"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 217,
+      "preview": "- Drug device acquisition, use, and monitoring"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 218,
+      "preview": "- Environmental factors"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 219,
+      "preview": "- Staff education and competency"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 220,
+      "preview": "- Patient education"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 221,
+      "preview": "- Quality processes and risk management"
+    },
+    {
+      "type": "text",
+      "section": "KEY ELEMENTS OF MEDICATION USE",
+      "line": 223,
+      "preview": "Institute for Safe Medication Practices. Key elements of medication use. https://www.ismp.org/ten-ke"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PN AND ERROR REPORTING",
+      "line": 225
+    },
+    {
+      "type": "text",
+      "section": "PN AND ERROR REPORTING",
+      "line": 227,
+      "preview": "- National Survey revealed 44\\% of organizations do not track or are unaware of medication errors re"
+    },
+    {
+      "type": "text",
+      "section": "PN AND ERROR REPORTING",
+      "line": 228,
+      "preview": "- $23 \\%$ do not have a pharmacist dedicated to review PN orders"
+    },
+    {
+      "type": "text",
+      "section": "PN AND ERROR REPORTING",
+      "line": 229,
+      "preview": "- In a gap analysis, estimated frequency of PN-related medication errors was 0-10 errors per month b"
+    },
+    {
+      "type": "text",
+      "section": "PN AND ERROR REPORTING",
+      "line": 231,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "COMMON PN ERRORS",
+      "line": 233
+    },
+    {
+      "type": "text",
+      "section": "COMMON PN ERRORS",
+      "line": 235,
+      "preview": "- Improper dose/quantity"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PN ERRORS",
+      "line": 236,
+      "preview": "- Omission"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PN ERRORS",
+      "line": 237,
+      "preview": "- Wrong patient"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PN ERRORS",
+      "line": 238,
+      "preview": "- Wrong time"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PN ERRORS",
+      "line": 239,
+      "preview": "- Wrong drug"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PN ERRORS",
+      "line": 240,
+      "preview": "- Preparation"
+    },
+    {
+      "type": "text",
+      "section": "COMMON PN ERRORS",
+      "line": 242,
+      "preview": "Storey MA et al. Nutr Clin Pract. 2016; 31(2):211-17."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REPORTING OF PN ERRORS",
+      "line": 244
+    },
+    {
+      "type": "text",
+      "section": "REPORTING OF PN ERRORS",
+      "line": 246,
+      "preview": "- Promote safe use of PN"
+    },
+    {
+      "type": "text",
+      "section": "REPORTING OF PN ERRORS",
+      "line": 247,
+      "preview": "- Error reporting can be used as a mechanism to identify opportunities for improvement in the medica"
+    },
+    {
+      "type": "text",
+      "section": "REPORTING OF PN ERRORS",
+      "line": 248,
+      "preview": "- Provides insight and assist in optimizing improved care in the medication use process"
+    },
+    {
+      "type": "text",
+      "section": "REPORTING OF PN ERRORS",
+      "line": 250,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 252
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 254,
+      "preview": "A patient became hyperglycemic when the insulin prescribed in his PN was inadvertently omitted durin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 255,
+      "preview": "A. Prescribing and order review"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 256,
+      "preview": "B. Verify/review the PN order"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 257,
+      "preview": "C. Administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 258,
+      "preview": "D. Compounding and dispensing"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 260
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 262,
+      "preview": "A patient became hyperglycemic when the insulin prescribed in his PN was inadvertently omitted durin"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 263,
+      "preview": "A. Prescribing and order review"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 264,
+      "preview": "B. Verify/review the PN order"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 265,
+      "preview": "C. Administration"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 266,
+      "preview": "D. Compounding and dispensing"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 268,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 270
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 272,
+      "preview": "The approach to PN ordering in your organization is different between the critical care patients and"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 273,
+      "preview": "A. Do nothing, the clinicians are used to the system and there have been no reported errors or patie"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 274,
+      "preview": "B. Develop an interdisciplinary task force consisting of clinicians from both areas to review the pr"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 275,
+      "preview": "C. Adopt a standardized approach to reporting and classifying PN-associated errors and near misses t"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 276,
+      "preview": "D. Adopt the ordering method used in the critical care area to the entire organization"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 278
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 280,
+      "preview": "The approach to PN ordering in your organization is different between the critical care patients and"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 281,
+      "preview": "A. Do nothing, the clinicians are used to the system and there have been no reported errors or patie"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 282,
+      "preview": "B. Develop an interdisciplinary task force consisting of clinicians from both areas to review the pr"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 283,
+      "preview": "C. Adopt a standardized approach to reporting and classifying PN-associated errors and near misses t"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 284,
+      "preview": "D. Adopt the ordering method used in the critical care area to the entire organization"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 286,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONCLUSIONS",
+      "line": 288
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 290,
+      "preview": "- Nutrition is a complex medical process involving multiple disciplines that creates a risk to patie"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 291,
+      "preview": "- Using principles of error reporting systems will help organizations to minimize risk of nutrition "
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 294
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 296,
+      "preview": "- Ayers P, Adams S, Boullata JI et al. ASPEN parenteral nutrition safety consensus recommendations. "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 297,
+      "preview": "- Boullata JI, Carrera AL, Harvey L et al. ASPEN safe practices for enteral nutrition. J Parenter En"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 298,
+      "preview": "- Boullata JI, Guenter P, Mirtallo JM. A parenteral nutrition use survey with gap analysis. JPEN J P"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 299,
+      "preview": "- Cohen MR, Safe practices for compounding of parenteral nutrition. JPEN J Parenter Enter Nutr. 2012"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 300,
+      "preview": "- Guenter P, Ayers P, Boullata JI et al. Parenteral nutrition errors and potential errors reported o"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 302,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 304
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 306,
+      "preview": "- Institute for Safe Medication Practices. Key elements of medication use. https://www.ismp.org/ten-"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 307,
+      "preview": "- Mirtallo JM, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parenter E"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 308,
+      "preview": "- Story MA, Weber RJ, Besco K et al. An Evaluation of parenteral nutrition errors in an era of drug "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 309,
+      "preview": "- National Coordinating Council for Medication Error Reporting and Prevention (NCC-MERP). NCC MERP I"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 311,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 313,
+      "content": "![img-2.jpeg](images/f924b03ebc1501ed.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 315,
+      "preview": "Phil Ayers, Pharm.D., BSNCP, FASHP"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 316,
+      "preview": "Chief, Clinical Pharmacy Services"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 317,
+      "preview": "Mississippi Baptist Medical Center"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 318,
+      "preview": "Clinical Associate Professor, Pharmacy Practice"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 319,
+      "preview": "University of Mississippi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 320,
+      "preview": "Jackson, Mississippi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 321,
+      "preview": "Phil Ayers received his Bachelor of Science degree in pharmacy and Doctor of Pharmacy Degree from th"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 323,
+      "preview": "Dr. Ayers is currently serving the American Society for Parenteral and Enteral Nutrition (ASPEN) on "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 325,
+      "preview": "Dr. Ayers was awarded the Excellence in Nutrition Support Education Award by ASPEN in 2011 and the S"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 327,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 329,
+      "content": "![img-3.jpeg](images/9dd5e54f61fe5a00.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 331,
+      "preview": "Jay M. Mirtallo, M.S., R.Ph, BCNSP, FASHP, FASPEN"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 332,
+      "preview": "The Professor Emeritus"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 333,
+      "preview": "The Ohio State University, College of Pharmacy"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 334,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 335,
+      "preview": "American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 336,
+      "preview": "Delaware, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 337,
+      "preview": "As one of the pharmacy specialist pioneers, Professor Mirtallo was instrumental in leading cost-effe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 339,
+      "preview": "Professor Mirtallo has been very active in professional societies and is Past President of the Ameri"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 341,
+      "preview": "As a representative to the Joint Commission, he served on the task force that created the Nutrition "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 343,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 345
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 347,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 349,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 351,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 353,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 354,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 355,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 356,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 357,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 359,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 361,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 363
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 365,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 367,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 369
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 371,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 373
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 375,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 377,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "3e6a28d8357085b1.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/3e6a28d8357085b1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/12_ErrorReportingSystem/images/3e6a28d8357085b1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "3e6a28d8357085b1"
+    },
+    {
+      "sha_name": "0f37426b9cf4b024.png",
+      "original_ref": "img-1.jpeg",
+      "page": 5,
+      "relative_path": "images/0f37426b9cf4b024.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/12_ErrorReportingSystem/images/0f37426b9cf4b024.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0f37426b9cf4b024"
+    },
+    {
+      "sha_name": "f924b03ebc1501ed.png",
+      "original_ref": "img-2.jpeg",
+      "page": 16,
+      "relative_path": "images/f924b03ebc1501ed.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/12_ErrorReportingSystem/images/f924b03ebc1501ed.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "f924b03ebc1501ed"
+    },
+    {
+      "sha_name": "9dd5e54f61fe5a00.png",
+      "original_ref": "img-3.jpeg",
+      "page": 17,
+      "relative_path": "images/9dd5e54f61fe5a00.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/12_ErrorReportingSystem/images/9dd5e54f61fe5a00.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9dd5e54f61fe5a00"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695006",
+    "ts": "2025-08-08T23:16:46.254736+00:00"
+  }
+}

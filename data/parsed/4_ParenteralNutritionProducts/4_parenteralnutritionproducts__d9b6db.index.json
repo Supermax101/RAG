@@ -1,0 +1,4035 @@
+{
+  "doc_id": "4_parenteralnutritionproducts__d9b6db",
+  "original_filename": "4_ParenteralNutritionProducts.pdf",
+  "md_path": "data/parsed/4_ParenteralNutritionProducts/4_ParenteralNutritionProducts.md",
+  "rmd_path": "data/parsed/4_ParenteralNutritionProducts/4_ParenteralNutritionProducts.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Parenteral Nutrition",
+      "line": 2
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Products",
+      "line": 4
+    },
+    {
+      "type": "image",
+      "section": "Products",
+      "line": 6,
+      "content": "![img-0.jpeg](images/9c01a79eee8ab186.png)"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 8,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 9,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 11,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Products",
+      "line": 13,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENTERAL AND PARENTERAL PRODUCTS: PARENTERAL NUTRITION",
+      "line": 15
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCTS: PARENTERAL NUTRITION",
+      "line": 17,
+      "preview": "Anne M. Tucker, Pharm.D., BCNSP"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCTS: PARENTERAL NUTRITION",
+      "line": 18,
+      "preview": "University of Texas MD Anderson Cancer Center"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL AND PARENTERAL PRODUCTS: PARENTERAL NUTRITION",
+      "line": 20,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 32,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 34
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Differentiate among available parenteral nutrition products."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Compare advantages and disadvantages of standardized commercially-available parenteral nutrition p"
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 38,
+      "preview": "- Select parenteral nutrition products based on relevant patient characteristics, availability, stab"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATION",
+      "line": 41
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 43,
+      "preview": "- ASHP:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 44,
+      "preview": "- ASPEN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 45,
+      "preview": "- BG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 46,
+      "preview": "- BP:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 47,
+      "preview": "- BPM:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 48,
+      "preview": "- BUN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 49,
+      "preview": "- GIR:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 50,
+      "preview": "- HR:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 51,
+      "preview": "- ILE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 52,
+      "preview": "- MCB-PN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 54,
+      "preview": "American Society of Health-System Pharmacists"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 55,
+      "preview": "American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 56,
+      "preview": "blood glucose"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 57,
+      "preview": "blood pressure"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 58,
+      "preview": "beats per minute"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 59,
+      "preview": "blood urea nitrogen"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 60,
+      "preview": "glucose infusion rate ( $\\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$ )"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 61,
+      "preview": "heart rate"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 62,
+      "preview": "lipid injectable emulsion"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 63,
+      "preview": "multi-chamber bag parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION",
+      "line": 65,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 67
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 69,
+      "preview": "- MCT:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 70,
+      "preview": "- MVI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 71,
+      "preview": "- MTE:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 72,
+      "preview": "- NS:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 73,
+      "preview": "- NPO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 74,
+      "preview": "- RR:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 75,
+      "preview": "- RRT:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 76,
+      "preview": "- SCAPN:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 77,
+      "preview": "- SCCM:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 78,
+      "preview": "- WNL:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 79,
+      "preview": "medium-chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 80,
+      "preview": "multivitamin"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 81,
+      "preview": "multiple trace element"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 82,
+      "preview": "normal saline"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 83,
+      "preview": "nothing by mouth"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 84,
+      "preview": "respiratory rate"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 85,
+      "preview": "renal replacement therapy"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 86,
+      "preview": "standardized commercially-available parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 87,
+      "preview": "Society of Critical Care Medicine"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 88,
+      "preview": "within normal limits"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1",
+      "line": 91
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 93,
+      "preview": "- TJ is a 53 year old patient who was admitted to the intensive care unit 3 days ago with septic sho"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 94,
+      "preview": "- Past medical history"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 95,
+      "preview": "- Hypertension"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 96,
+      "preview": "- Hypothyroidism"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 97,
+      "preview": "- Small bowel resection (2 weeks ago)"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 99,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 101
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 103,
+      "preview": "- Vital signs:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 104,
+      "preview": "- BP: 122/68 mmHg"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 105,
+      "preview": "- HR: 80 bpm"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 106,
+      "preview": "- RR: 16 breaths/min"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 107,
+      "preview": "- Temperature: $37.8^{\\circ} \\mathrm{C}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 108,
+      "preview": "- Medications:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 109,
+      "preview": "- piperacillin-tazobactam 2.25 g IV every 6 hours"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 110,
+      "preview": "- levothyroxine 40 mcg IV daily"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 111,
+      "preview": "- thiamine 200 mg IV every 12 hours"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 112,
+      "preview": "- D5 $1 / 2$ NS at $100 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 114,
+      "preview": "CASE STUDY \\#1, CONT."
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 116,
+      "preview": "Laboratory Values:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 118,
+      "preview": "- Na: $139 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 119,
+      "preview": "- $\\mathrm{K}: 4.5 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 120,
+      "preview": "- $\\mathrm{Cl}: 112 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 121,
+      "preview": "- $\\mathrm{CO}_{2}: 17 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 122,
+      "preview": "- BUN: $68 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 123,
+      "preview": "- Cr: $2.4 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 124,
+      "preview": "- Glucose: $130 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 125,
+      "preview": "- Magnesium: $2.4 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 126,
+      "preview": "- Phosphorus: $4.8 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 127,
+      "preview": "- Liver function: WNL"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 129,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 131
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 133,
+      "preview": "Which amino acid product would be the best choice for TJ?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 134,
+      "preview": "A. FreAmine ${ }^{\\circledR}$ III $10 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 135,
+      "preview": "B. Travasol ${ }^{\\circledR} 10 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 136,
+      "preview": "C. Aminosyn ${ }^{\\circledR}$ II $15 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 137,
+      "preview": "D. HepatAmine ${ }^{\\circledR} 8 \\%$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 139
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 141,
+      "preview": "- A parenteral nutrition consult is placed for a 65 year old male with colon cancer with small bowel"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 142,
+      "preview": "- Past medical history: hypertension, atrial fibrillation, heart failure, colon cancer"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 143,
+      "preview": "- Upon evaluating the appropriateness of a SCAPN product, which of the following patient characteris"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 144,
+      "preview": "A. Colon cancer"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 145,
+      "preview": "B. Heart failure"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 146,
+      "preview": "C. Hypertension"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 147,
+      "preview": "D. Small bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 149,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PARENTERAL NUTRITION",
+      "line": 151
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 153,
+      "preview": "- Macronutrients"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 154,
+      "preview": "- Carbohydrates (dextrose)"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 155,
+      "preview": "- Protein (amino acids)"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 156,
+      "preview": "- Fat (lipid injectable emulsion)"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 157,
+      "preview": "- Micronutrients"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 158,
+      "preview": "- Electrolytes and minerals"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 159,
+      "preview": "- Vitamins"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 160,
+      "preview": "- Trace elements"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 161,
+      "preview": "- Additives"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 162,
+      "preview": "- Insulin (regular insulin)"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 163,
+      "preview": "- Histamine-2 receptor blockers"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 164,
+      "preview": "- Cysteine"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 165,
+      "preview": "- Sterile water for injection"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 167,
+      "preview": "CARBOHYDRATES - DEXTROSE"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 169,
+      "preview": "- Provides $3.4 \\mathrm{kcal} / \\mathrm{g}$ (when hydrolyzed)"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 170,
+      "preview": "- Stock solutions $2.5 \\%$ to $70 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 171,
+      "preview": "- Greater than 10\\% necessitates central venous access"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 172,
+      "preview": "- Safe dosing range: $2-7 \\mathrm{~g} / \\mathrm{kg} /$ day in adults"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 173,
+      "preview": "- Recommended GIR - Adults"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 174,
+      "preview": "- Non-critically ill: $3-5 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 175,
+      "preview": "- Critically ill, diabetes mellitus: $2-4 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$"
+    },
+    {
+      "type": "text",
+      "section": "PARENTERAL NUTRITION",
+      "line": 177,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HYPERGLYCEMIA AND GIR",
+      "line": 179
+    },
+    {
+      "type": "image",
+      "section": "HYPERGLYCEMIA AND GIR",
+      "line": 181,
+      "content": "![img-1.jpeg](images/a4ede1e530bd321c.png)"
+    },
+    {
+      "type": "text",
+      "section": "HYPERGLYCEMIA AND GIR",
+      "line": 183,
+      "preview": "Rosmarin DK et al. Nutr Clin Pract. 1996; 11:151-6."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CARBOHYDRATES - GLYCERIN",
+      "line": 185
+    },
+    {
+      "type": "text",
+      "section": "CARBOHYDRATES - GLYCERIN",
+      "line": 187,
+      "preview": "- Provides $4.3 \\mathrm{kcal} / \\mathrm{g}$"
+    },
+    {
+      "type": "text",
+      "section": "CARBOHYDRATES - GLYCERIN",
+      "line": 188,
+      "preview": "- Sugar alcohol"
+    },
+    {
+      "type": "text",
+      "section": "CARBOHYDRATES - GLYCERIN",
+      "line": 189,
+      "preview": "- Alternative to dextrose"
+    },
+    {
+      "type": "text",
+      "section": "CARBOHYDRATES - GLYCERIN",
+      "line": 190,
+      "preview": "- Used in 1 SCAPN product"
+    },
+    {
+      "type": "text",
+      "section": "CARBOHYDRATES - GLYCERIN",
+      "line": 192,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 194
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 196,
+      "preview": "- Crystalline amino acid solutions (essential and non-essential amino acids)"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 197,
+      "preview": "- Provides $4 \\mathrm{kcal} / \\mathrm{g}$"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 198,
+      "preview": "- $16 \\%$ nitrogen ( 1 g nitrogen $=6.25 \\mathrm{~g}$ amino acids)"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 199,
+      "preview": "- Stock solutions $3.5 \\%$ to $20 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 200,
+      "preview": "- Solutions are acetate-based"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 201,
+      "preview": "- Dosing range (adults): $0.8-2 \\mathrm{mg} / \\mathrm{kg}$ per day"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 202,
+      "preview": "- Dosing based"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 203,
+      "preview": "- Catabolic status"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 204,
+      "preview": "- Organ function"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 205,
+      "preview": "- Wounds"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 206,
+      "preview": "- Losses"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 208,
+      "preview": "ADULT AMINO ACID PRODUCTS"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 210,
+      "preview": "| Brand | Type | Concentration <br> $(\\%)$ | Sodium <br> $(\\mathrm{mEq} / \\mathrm{L})$ | Chloride <b"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 211,
+      "preview": "| :--: | :--: | :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 212,
+      "preview": "| Aminosyn ${ }^{\\text {\u00ae }}$ II | Standard | 10 | 30 | - | 71.8 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 213,
+      "preview": "| Aminosyn ${ }^{\\text {\u00ae }}$ II | Fluid restricted | 15 | 50 | 0 | 107.6 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 214,
+      "preview": "| Clinisol ${ }^{\\text {\u00ae }}$ | Fluid restricted | 15 | 0 | 0 | 127 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 215,
+      "preview": "| FreAmine ${ }^{\\text {\u00ae }}$ III | Standard | 10 | 10 | $<3$ | 89 | 10 |"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 216,
+      "preview": "| HepatAmine ${ }^{\\text {\u00ae }}$ | Hepatic | 8 | 10 | $<3$ | 62 | 10 |"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 217,
+      "preview": "| Plenamine ${ }^{\\text {\u00ae }}$ | Fluid restricted | 15 | 0 | 0 | 148 | 0 |"
+    },
+    {
+      "type": "table",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 218,
+      "preview": "| Travasol ${ }^{\\text {\u00ae }}$ | Standard | 10 | 0 | 40 | 88 | 0 |"
+    },
+    {
+      "type": "text",
+      "section": "PROTEIN - AMINO ACIDS",
+      "line": 220,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 222
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 224,
+      "preview": "- Oil-in-water emulsion"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 225,
+      "preview": "- Provides $9 \\mathrm{kcal} / \\mathrm{g}$"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 226,
+      "preview": "- Supplement essential fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 227,
+      "preview": "- Main product differences based on oil types"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 228,
+      "preview": "- Omega ( $\\omega$ ) -6 and $\\omega-3$ composition"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 229,
+      "preview": "- Recommended infusion time: 4 to 12 hours"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 230,
+      "preview": "- Maximum infusion rate $0.11 \\mathrm{~g} / \\mathrm{kg} / \\mathrm{hr}$ (fat overload syndrome)"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 231,
+      "preview": "- Preservative free"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 232,
+      "preview": "- Infuse via di-2-ethylhexyl phthalate (DEHP) administration sets and tubing"
+    },
+    {
+      "type": "text",
+      "section": "FAT - LIPID INTRAVENOUS EMULSION (ILE)",
+      "line": 234,
+      "preview": "Derenski K et al. Nutr Clin Pract. 2016; 31:578-95."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ILE IN CRITICALLY ILL",
+      "line": 236
+    },
+    {
+      "type": "text",
+      "section": "ILE IN CRITICALLY ILL",
+      "line": 238,
+      "preview": "- ASPEN-SCCM Critical Care Nutrition Support Guidelines 2016"
+    },
+    {
+      "type": "text",
+      "section": "ILE IN CRITICALLY ILL",
+      "line": 239,
+      "preview": "- Withhold use of soybean based ILE during the first week following parenteral nutrition initiation"
+    },
+    {
+      "type": "text",
+      "section": "ILE IN CRITICALLY ILL",
+      "line": 240,
+      "preview": "- Limit to at least $100 \\mathrm{~g} /$ week of soybean oil ILEs if concern for essential fatty acid"
+    },
+    {
+      "type": "text",
+      "section": "ILE IN CRITICALLY ILL",
+      "line": 241,
+      "preview": "- Soybean oil-based ILE were only available when guidelines published"
+    },
+    {
+      "type": "text",
+      "section": "ILE IN CRITICALLY ILL",
+      "line": 242,
+      "preview": "- Consideration regarding use of mixed oil ILE products when become available in the United States"
+    },
+    {
+      "type": "text",
+      "section": "ILE IN CRITICALLY ILL",
+      "line": 244,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "OIL TYPES IN ILE",
+      "line": 246
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 248,
+      "preview": "- Soybean oil"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 249,
+      "preview": "- Supplies essential fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 250,
+      "preview": "- Fish oil"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 251,
+      "preview": "- Reduced inflammatory processes"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 252,
+      "preview": "- Source of DHA and EPA"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 253,
+      "preview": "- Medium-chain triglycerides (coconut oil)"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 254,
+      "preview": "- Rapid energy source"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 255,
+      "preview": "- Does not provide essential fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 256,
+      "preview": "- Olive oil"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 257,
+      "preview": "- Reduced inflammatory effect"
+    },
+    {
+      "type": "text",
+      "section": "OIL TYPES IN ILE",
+      "line": 258,
+      "preview": "- Minimal essential fatty acids"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ILE COMPONENTS",
+      "line": 261
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 263,
+      "preview": "- Source of essential fatty acids:"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 264,
+      "preview": "- Linoleic \\& linolenic acid"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 265,
+      "preview": "- Adults: Provide at least 2\\%-4\\% of linoleic acid and $0.25 \\%-0.5 \\%$ of alinolenic acid of total"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 266,
+      "preview": "- Egg yolk phospholipid (emulsifier)"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 267,
+      "preview": "- Provides additional 15 mmol phosphate per Liter"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 268,
+      "preview": "- Sodium hydroxide"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 269,
+      "preview": "- Glycerin (tonicity)"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 270,
+      "preview": "- Vitamin K"
+    },
+    {
+      "type": "text",
+      "section": "ILE COMPONENTS",
+      "line": 272,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SOYBEAN OIL ILE",
+      "line": 274
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 276,
+      "preview": "- Rich in omega-6 fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 277,
+      "preview": "- Highest $\\omega$-6: $\\omega-3$ ratio"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 278,
+      "preview": "- Available concentrations: $20 \\%(2 \\mathrm{kcal} / \\mathrm{mL})$ and $30 \\%(3 \\mathrm{kcal} / \\mat"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 279,
+      "preview": "- $10 \\%$ concentration ( $1.1 \\mathrm{kcal} / \\mathrm{mL}$ ) found in certain medications"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 280,
+      "preview": "- Product size: $100 \\mathrm{~mL}, 250 \\mathrm{~mL}, 500 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 281,
+      "preview": "- Prevention of essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 282,
+      "preview": "- Provide as 5\\% of total weekly calories"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 283,
+      "preview": "- 100 g per week (e.g., $20 \\% 250 \\mathrm{~mL}$ dosed twice weekly)"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 284,
+      "preview": "- Higher amounts of phytosterols (PN-associated liver disease)"
+    },
+    {
+      "type": "text",
+      "section": "SOYBEAN OIL ILE",
+      "line": 286,
+      "preview": "Derenski K et al. Nutr Clin Pract. 2016; 31:578-95."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 288
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 290,
+      "preview": "SMOFlipid ${ }^{\\circledR}$"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 292,
+      "preview": "- 30\\% Soybean oil ( $\\omega$-6) $+30 \\%$ MCT $+25 \\%$ Olive oil ( $\\omega$-9) $+15 \\%$ Fish oil ( $"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 293,
+      "preview": "- Less $\\omega$-6 fatty acids $\\rightarrow$ less inflammation"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 294,
+      "preview": "- Contains alpha $(\\alpha)$-tocopherol $\\rightarrow$ antioxidant"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 295,
+      "preview": "- Less phytosterols"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 296,
+      "preview": "- Available concentration: $20 \\%(2 \\mathrm{kcal} / \\mathrm{mL})$"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 297,
+      "preview": "- Product size: $100 \\mathrm{~mL}, 250 \\mathrm{~mL}, 500 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 298,
+      "preview": "- Improved outcomes in critically ill patients, surgical patients, and in PN associated liver diseas"
+    },
+    {
+      "type": "text",
+      "section": "FOUR OIL MIXTURE ILE",
+      "line": 300,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FISH OIL ILE",
+      "line": 302
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 304
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 306,
+      "preview": "- 100\\% fish oil without plant source oils"
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 307,
+      "preview": "- Rich in $\\omega-3$ fatty acids $\\rightarrow$ less inflammation"
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 308,
+      "preview": "- Minimal phytosterol content"
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 309,
+      "preview": "- Product availability: 5 g per 50 mL and 10 g per 100 mL"
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 310,
+      "preview": "- FDA approved for providing calories and fatty acids for pediatric patients with PNassociated chole"
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 311,
+      "preview": "- Age-appropriate growth attainment and maintenance"
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 312,
+      "preview": "- Improvement in liver function parameters and platelet count"
+    },
+    {
+      "type": "text",
+      "section": "Omegaven ${ }^{\\circledR}$",
+      "line": 314,
+      "preview": "Omegaven ${ }^{\\circledR}$ product information (accessed 2019Jan 15)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 316
+    },
+    {
+      "type": "table",
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 318,
+      "preview": "| Brand | Oil Type(s) <br> Percent <br> Makeup | Linoleic <br> $(\\mathrm{g} / 100 \\mathrm{~mL})$ | $"
+    },
+    {
+      "type": "table",
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 319,
+      "preview": "| :--: | :--: | :--: | :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 320,
+      "preview": "| Intralipid ${ }^{\\circledR}$ <br> Liposyn ${ }^{\\circledR}$ III <br> Nutrilipid ${ }^{\\circledR}$ "
+    },
+    {
+      "type": "table",
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 321,
+      "preview": "| SMOFlipid ${ }^{\\circledR}$ | Soybean oil 30\\% <br> MCT oil 30\\% <br> Olive oil 25\\% <br> Fish oil"
+    },
+    {
+      "type": "table",
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 322,
+      "preview": "| Omegaven ${ }^{\\circledR}$ | Fish oil 100\\% | $0.1-0.7$ | $<0.2$ | $1: 8$ | 0 | $150-296$ |"
+    },
+    {
+      "type": "table",
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 323,
+      "preview": "| **SMOFlipid ${ }^{\\circledR}$ and Omegaven ${ }^{\\circledR}$ also contain EPA and DHA |  |  |  |  "
+    },
+    {
+      "type": "text",
+      "section": "LIPID INJECTABLE PRODUCTS (ILE)",
+      "line": 325,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ILE CONTRAINDICATIONS",
+      "line": 327
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Pediatric Black Box Warning (soybean-containing ILE)",
+      "line": 329
+    },
+    {
+      "type": "text",
+      "section": "Pediatric Black Box Warning (soybean-containing ILE)",
+      "line": 331,
+      "preview": "- \"Deaths in preterm infants following administration of fat emulsion have been reported; autopsy fi"
+    },
+    {
+      "type": "text",
+      "section": "Pediatric Black Box Warning (soybean-containing ILE)",
+      "line": 333,
+      "preview": "Lexicomp Online (accessed 2019Jan 15)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 335
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 337,
+      "preview": "Pediatric Black Box Warning (soybean-containing ILE)"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 339,
+      "preview": "- Do not exceed recommended doses"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 340,
+      "preview": "- Consider less than recommended doses in preterm or small for gestational age infants"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 341,
+      "preview": "- Caution use in jaundiced or premature infants"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 342,
+      "preview": "- SMOFlipid does not currently have pediatric indication"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 344,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 346
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 348,
+      "preview": "- Food or excipient allergies"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 349,
+      "preview": "- Intralipid ${ }^{\\circledR}$, Liposyn ${ }^{\\circledR}$, Nutrilipid ${ }^{\\circledR}$ : Egg or soy"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 350,
+      "preview": "- SMOFlipid ${ }^{\\circledR}$ : Fish, egg, soybean, or peanut protein allergy"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 351,
+      "preview": "- cross allergy reactions have been observed between soybean and peanut oil"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 352,
+      "preview": "- Omegaven ${ }^{\\circledR}$ : Fish or egg protein allergy"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 353,
+      "preview": "- Severe hypertriglyceridemia (TG > $1000 \\mathrm{mg} / \\mathrm{dL}$ ) or severe disorders of lipid "
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 354,
+      "preview": "- Severe hemorrhagic disorders (Omegaven ${ }^{\\circledR}$ only) - potential effect on platelet aggr"
+    },
+    {
+      "type": "text",
+      "section": "ILE CONTRAINDICATIONS, CONT.",
+      "line": 356,
+      "preview": "PateI R. ASPEN Adult Nutriton Support Core Curriculum. 3rd ed. 2017: 297-320."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 358
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 360,
+      "preview": "- Multiple electrolyte/mineral salts available"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 361,
+      "preview": "- Sodium (chloride, acetate, phosphate)"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 362,
+      "preview": "- Potassium (chloride, acetate, phosphate)"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 363,
+      "preview": "- Magnesium (sulfate*, chloride)"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 364,
+      "preview": "- Calcium (gluconate*, chloride)"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 365,
+      "preview": "* Preferred salts for PN"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS",
+      "line": 367,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ELECTROLYTES \\& MINERALS, CONT",
+      "line": 369
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS, CONT",
+      "line": 371,
+      "preview": "- Use the least number of electrolyte salts in PN to minimize"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS, CONT",
+      "line": 372,
+      "preview": "- Compounding error"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS, CONT",
+      "line": 373,
+      "preview": "- Compounding contamination"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS, CONT",
+      "line": 374,
+      "preview": "- Compounding time"
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS, CONT",
+      "line": 376,
+      "preview": "Derenski K et al. Nutr Clin Pract. 2016; 31:578-95."
+    },
+    {
+      "type": "text",
+      "section": "ELECTROLYTES \\& MINERALS, CONT",
+      "line": 377,
+      "preview": "Patel R. ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017: 297-320."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 379
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 381,
+      "preview": "| Electrolyte | Requirements |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 382,
+      "preview": "| :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 383,
+      "preview": "| Sodium | $1-2 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 384,
+      "preview": "| Potassium* | $1-2 \\mathrm{mEq} / \\mathrm{kg} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 385,
+      "preview": "| Chloride | As needed to maintain acid-base balance |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 386,
+      "preview": "| Acetate | As needed to maintain acid-base balance |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 387,
+      "preview": "| Magnesium* | $8-20 \\mathrm{mEq} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 388,
+      "preview": "| Phosphorus* | $20-40 \\mathrm{mmol} /$ day |"
+    },
+    {
+      "type": "table",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 389,
+      "preview": "| Calcium | $10-15 \\mathrm{mEq} /$ day |"
+    },
+    {
+      "type": "text",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 391,
+      "preview": "*Consider lower doses in renal insufficiency"
+    },
+    {
+      "type": "text",
+      "section": "ADULT ELECTROLYTE REQUIREMENTS",
+      "line": 393,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 395
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 397,
+      "preview": "- Glycophos ${ }^{\\circledR}$"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 398,
+      "preview": "- Temporary importation from Europe $(2013,2018)$"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 399,
+      "preview": "- Differences"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 400,
+      "preview": "- Organic phosphate (standard phosphates are inorganic)"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 401,
+      "preview": "- More calcium compatible"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 402,
+      "preview": "- Equivalent dosing (mmol)"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 403,
+      "preview": "- 1 mmol of phosphate $/ \\mathrm{mL}$ (standard inorganic phosphates $3 \\mathrm{mmol} / \\mathrm{mL}$"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 404,
+      "preview": "- 2 mEq sodium $/ \\mathrm{mL}$ ( 30 mmol dose $=60 \\mathrm{mEq}$ sodium $)$"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 405,
+      "preview": "- Preservative-free (single dose vial)"
+    },
+    {
+      "type": "text",
+      "section": "SODIUM GLYCEROPHOSPHATE",
+      "line": 407,
+      "preview": "Glycophos ${ }^{\\circledR}$ injection product information (accessed 2019 Jan 15)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "VITAMINS",
+      "line": 409
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 411,
+      "preview": "- Multiple vitamin IV products"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 412,
+      "preview": "- Contain fat and water soluble vitamins"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 413,
+      "preview": "- MVI-13: contains 150 mcg vitamin K"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 414,
+      "preview": "- MVI-12: requires vitamin K supplementation 1 mg daily or $5-10 \\mathrm{mg}$ weekly"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 415,
+      "preview": "- Individual vitamin IV products - ascorbic acid, thiamine, pyridoxine, cyanocobalamin, folic acid, "
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 416,
+      "preview": "- Increased thiamine requirements (refeeding syndrome)"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 417,
+      "preview": "- 200-300 mg IV prior to starting nutrition support"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 418,
+      "preview": "- 100 mg IV daily for 5 to 7 days (can be added to PN formulation)"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 420,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 422,
+      "preview": "| Vitamin | Adult MVI-12(10 mL) | Adult MVI-12(10 mL) |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 423,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 424,
+      "preview": "| Vitamin A | 3300 international units | 3300 international units |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 425,
+      "preview": "| Vitamin D | 200 international units | 200 international units |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 426,
+      "preview": "| Vitamin E | 10 international units | 10 international units |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 427,
+      "preview": "| Vitamin K | $150 \\mathrm{mcg}^{*}$ | 0 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 428,
+      "preview": "| Vitamin B1 (thiamine) | 6 mg | 6 mg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 429,
+      "preview": "| Vitamin B2 (riboflavin) | 3.6 mg | 3.6 mg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 430,
+      "preview": "| Vitamin B3 (niacin) | 40 mg | 40 mg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 431,
+      "preview": "| Vitamin B5 <br> (pantothenic acid) | 15 mg | 15 mg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 432,
+      "preview": "| Vitamin B6 (pyridoxine) | 6 mg | 6 mg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 433,
+      "preview": "| Vitamin B7 (biotin) | 60 mcg | 60 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 434,
+      "preview": "| Vitamin B12 | 5 mcg | 5 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 435,
+      "preview": "| Vitamin C | 200 mg | 200 mg |"
+    },
+    {
+      "type": "table",
+      "section": "VITAMINS",
+      "line": 436,
+      "preview": "| Folic acid | 600 mcg | 600 mcg |"
+    },
+    {
+      "type": "text",
+      "section": "VITAMINS",
+      "line": 438,
+      "preview": "Derenski Ket al. Nutr Clin Pract. 2016;31:578-95."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "TRACE ELEMENTS",
+      "line": 440
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 442,
+      "preview": "- Multiple trace element IV products"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 443,
+      "preview": "- Individual trace element IV products"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 444,
+      "preview": "- Zinc, selenium, copper"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 445,
+      "preview": "- Iron (5 products) -iron dextran preferred for addition to non-ILE PN"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 446,
+      "preview": "- Manganese, molybdenum"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 447,
+      "preview": "- Excretion"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 448,
+      "preview": "- Biliary tract: copper, manganese"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 449,
+      "preview": "- Urine: zinc, selenium"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 450,
+      "preview": "- Stool: zinc, copper"
+    },
+    {
+      "type": "text",
+      "section": "TRACE ELEMENTS",
+      "line": 452,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ZINC",
+      "line": 454
+    },
+    {
+      "type": "text",
+      "section": "ZINC",
+      "line": 456,
+      "preview": "- Standard dosing recommendation"
+    },
+    {
+      "type": "text",
+      "section": "ZINC",
+      "line": 457,
+      "preview": "- 3 to 5 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "ZINC",
+      "line": 458,
+      "preview": "- Increased requirements"
+    },
+    {
+      "type": "text",
+      "section": "ZINC",
+      "line": 459,
+      "preview": "- Significant diarrhea (stool weight > $300 \\mathrm{~g} /$ day): 12 mg daily"
+    },
+    {
+      "type": "text",
+      "section": "ZINC",
+      "line": 461,
+      "preview": "VanekVW, et al. Nutr Clin Pract. 2015;30(4):559-569."
+    },
+    {
+      "type": "text",
+      "section": "ZINC",
+      "line": 462,
+      "preview": "Wolman SL et al. Gastrolenterology. 1979; 76:458-67."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "IMPORTED PRODUCT",
+      "line": 464
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 466
+    },
+    {
+      "type": "text",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 468,
+      "preview": "- Multiple trace element product (2013-2015)"
+    },
+    {
+      "type": "text",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 469,
+      "preview": "- Utilizes different trace element salts compared to US product"
+    },
+    {
+      "type": "text",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 470,
+      "preview": "- Limited compatibility with TNA formulations"
+    },
+    {
+      "type": "text",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 471,
+      "preview": "- Contains iron (risk for ILE destabilization)"
+    },
+    {
+      "type": "text",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 472,
+      "preview": "- Addition to non-ILE PN formulations"
+    },
+    {
+      "type": "text",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 474,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 476,
+      "preview": "| Trace"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 477,
+      "preview": "Element | ASPEN"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 478,
+      "preview": "Recommendation | Tralement"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 479,
+      "preview": "(1mL dose) | Addamel N"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 480,
+      "preview": "(10 mL dose) |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 481,
+      "preview": "| :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 482,
+      "preview": "| Zinc | $3-5 \\mathrm{mg}$ | 3 mg | 6.5 mg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 483,
+      "preview": "| Copper | $0.3-0.5 \\mathrm{mg}$ | 0.3 mg | 1.3 mg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 484,
+      "preview": "| Manganese | 55 mcg | 55 mcg | 270 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 485,
+      "preview": "| Selenium | $60-100 \\mathrm{mcg}$ | 60 mcg | 32 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 486,
+      "preview": "| Chromium | $<1 \\mathrm{mg}$ | 0 | 10 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 487,
+      "preview": "| lodine | No recommendation | 0 | 0.13 mg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 488,
+      "preview": "| Fluorine | No recommendation | 0 | 0.95 mg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 489,
+      "preview": "| Molybdenum | No recommendation | 0 | 19 mcg |"
+    },
+    {
+      "type": "table",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 490,
+      "preview": "| Iron | Monthly $25-50 \\mathrm{mg}$ | 0 | 1.1 mg |"
+    },
+    {
+      "type": "text",
+      "section": "Addamel-N ${ }^{\\circledR}$",
+      "line": 492,
+      "preview": "Vanek VW, et al. Nutr Clin Pract. 2015;30(4):559-569. Tralement\u00ae product information (accessed 2021 "
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN PRODUCT SHORTAGES",
+      "line": 494
+    },
+    {
+      "type": "text",
+      "section": "PN PRODUCT SHORTAGES",
+      "line": 496,
+      "preview": "- FDA Drug Shortages Site"
+    },
+    {
+      "type": "text",
+      "section": "PN PRODUCT SHORTAGES",
+      "line": 497,
+      "preview": "- ASHP Medication Shortages Site and Overview"
+    },
+    {
+      "type": "text",
+      "section": "PN PRODUCT SHORTAGES",
+      "line": 498,
+      "preview": "- ASPEN Product Shortage Considerations"
+    },
+    {
+      "type": "text",
+      "section": "PN PRODUCT SHORTAGES",
+      "line": 499,
+      "preview": "- Various ASPEN Clinical Practice Committee publications in Nutr Clin Pract"
+    },
+    {
+      "type": "text",
+      "section": "PN PRODUCT SHORTAGES",
+      "line": 500,
+      "preview": "- Recommendations provided for amino acids, electrolytes/minerals, ILE, vitamins, trace elements, an"
+    },
+    {
+      "type": "text",
+      "section": "PN PRODUCT SHORTAGES",
+      "line": 502,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SCAPN",
+      "line": 504
+    },
+    {
+      "type": "text",
+      "section": "SCAPN",
+      "line": 506,
+      "preview": "- Manufactured compounded, sterile parenteral nutrition product"
+    },
+    {
+      "type": "text",
+      "section": "SCAPN",
+      "line": 507,
+      "preview": "- Single chamber formulation"
+    },
+    {
+      "type": "text",
+      "section": "SCAPN",
+      "line": 508,
+      "preview": "- MCB-PN formulations"
+    },
+    {
+      "type": "text",
+      "section": "SCAPN",
+      "line": 509,
+      "preview": "- 2 and 3 chamber products available"
+    },
+    {
+      "type": "text",
+      "section": "SCAPN",
+      "line": 510,
+      "preview": "- 2 chamber products available with or without standardized electrolytes and minerals"
+    },
+    {
+      "type": "text",
+      "section": "SCAPN",
+      "line": 511,
+      "preview": "- Central and peripheral PN formulations"
+    },
+    {
+      "type": "text",
+      "section": "SCAPN",
+      "line": 512,
+      "preview": "- Each chamber is divided by a seal and activated (opened) prior to infusion"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MCB-PN ACTIVATION",
+      "line": 515
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN ACTIVATION",
+      "line": 517,
+      "preview": "- Videos provided on recommended activation process per manufacturer websites"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN ACTIVATION",
+      "line": 518,
+      "preview": "- In general"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN ACTIVATION",
+      "line": 519,
+      "preview": "- Remove MCB-PN from protective bag"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN ACTIVATION",
+      "line": 520,
+      "preview": "- Grab top 2 corners of bag"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN ACTIVATION",
+      "line": 521,
+      "preview": "- Roll down from top to bottom until divider seals are broken and contents allowed to mix (seals mus"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN ACTIVATION",
+      "line": 522,
+      "preview": "- Gently mix contents"
+    },
+    {
+      "type": "text",
+      "section": "MCB-PN ACTIVATION",
+      "line": 524,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 526
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 528,
+      "preview": "- Procalamine ${ }^{\\circledR}$ (3\\% amino acid and 3\\% glycerin injection with electrolytes)"
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 529,
+      "preview": "- Can be given peripherally or centrally"
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 530,
+      "preview": "- Contains a standardized amount of electrolytes (sodium $35 \\mathrm{mEq} / \\mathrm{L}$, potassium $"
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 531,
+      "preview": "- Supplied as 1000 mL bags"
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 532,
+      "preview": "- Does not require refrigeration"
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 533,
+      "preview": "- Found to have protein sparing effect"
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 534,
+      "preview": "- ILE must be administered separately"
+    },
+    {
+      "type": "text",
+      "section": "1-CHAMBER SCAPN PRODUCT",
+      "line": 536,
+      "preview": "Procalamine\u00aeproductinformation (accessed 2019Jan 15)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 538
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 540,
+      "preview": "- Concentrated amino acids + concentrated dextrose"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 541,
+      "preview": "- Clinimix ${ }^{\\circledR}$ (amino acids, dextrose)"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 542,
+      "preview": "- Multiple concentrations (\\%amino acids/\\%dextrose) - 1000 mL \\& 2000 mL"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 543,
+      "preview": "- Peripheral and central administration: 2.75/5, 4.25/5"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 544,
+      "preview": "- Central venous administration: 2.75/10, 4.25/10, 4.25/25, 5/15, 5/20, 5/25"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 545,
+      "preview": "- Clinimix E\u00ae (amino acids with electrolytes, dextrose with calcium)"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 546,
+      "preview": "- Multiple concentrations (\\%amino acids/\\%dextrose) - 1000 mL \\& 2000 mL"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 547,
+      "preview": "- Peripheral and central administration: 2.75/5, 4.25/5"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 548,
+      "preview": "- Central venous administration: 4.25/10, 4.25/20, 4.25/25, 5/15, 5/20, 5/25"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 549,
+      "preview": "- ILE is added after seal activation or administered as separate infusion"
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 551,
+      "preview": "Clinimix ${ }^{\\circledR}$ product information (accessed 2019Jan 15)."
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 552,
+      "preview": "Clinimix $E^{\\circledR}$ productinformation (accessed 2019Jan 15)."
+    },
+    {
+      "type": "text",
+      "section": "2-CHAMBER SCAPN PRODUCTS",
+      "line": 554,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 556
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 558,
+      "preview": "- Concentrated amino acids with electrolytes + concentrated dextrose + ILE"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 559,
+      "preview": "- Electrolytes provided as sodium acetate, potassium chloride, sodium glycero-phosphate, magnesium s"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 560,
+      "preview": "- ILE is soybean oil based"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 561,
+      "preview": "- Kabiven ${ }^{\\circledR}$ (central parenteral nutrition)"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 562,
+      "preview": "- Macronutrient concentrations: $3.3 \\%$ amino acids, $9.8 \\%$ dextrose, $3.9 \\%$ lipids"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 563,
+      "preview": "- Available volumes: $1026 \\mathrm{~mL}, 1540 \\mathrm{~mL}, 2053 \\mathrm{~mL}, 2566 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 564,
+      "preview": "- Perikabiven ${ }^{\\circledR}$ (peripheral or central parenteral nutrition)"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 565,
+      "preview": "- Macronutrient concentrations: $2.4 \\%$ amino acids, $6.8 \\%$ dextrose, $3.5 \\%$ lipids"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 566,
+      "preview": "- Available volumes: $1440 \\mathrm{~mL}, 1920 \\mathrm{~mL}, 240 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 568,
+      "preview": "Kabiven\u00ae productinformation (accessed 2019 Jan 15)."
+    },
+    {
+      "type": "text",
+      "section": "3-CHAMBER SCAPN PRODUCTS",
+      "line": 569,
+      "preview": "Perikabiven\u00ae product information (accessed 2019 Jan 15)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SCAPN / MCB-PN",
+      "line": 571
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Advantages",
+      "line": 573
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 575,
+      "preview": "- No refrigeration prior to activation"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 576,
+      "preview": "- Two year shelf life"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 577,
+      "preview": "- Reduced compounding time and cost"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 578,
+      "preview": "- Reduced errors"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 579,
+      "preview": "- Central and peripheral formulations"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 580,
+      "preview": "- Reduced infectious complications"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 581,
+      "preview": "- Helpful during shortages"
+    },
+    {
+      "type": "text",
+      "section": "Advantages",
+      "line": 583,
+      "preview": "Turpin RS et al. Appl Health Econ Health Policy. 2011; 9:281-92. Gervasio J. JPENJ Parent Enteral Nu"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Disadvantages",
+      "line": 585
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 587,
+      "preview": "- Limited product availability"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 588,
+      "preview": "- Different ordering and labeling"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 589,
+      "preview": "- Requires additives to make nutrient complete"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 590,
+      "preview": "- Increased risk of electrolyte abnormalities"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 591,
+      "preview": "- Higher volumes to meet needs"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 592,
+      "preview": "- Due to preset volumes, possible waste or use of multiple bags per day"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 593,
+      "preview": "- Educational initiatives"
+    },
+    {
+      "type": "text",
+      "section": "Disadvantages",
+      "line": 595,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 597
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 599,
+      "preview": "|  Electrolyte | Cliniimix-E 5/15 | Kabiven | ASPEN Recommendations  |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 600,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 601,
+      "preview": "|  Sodium | 35 mEq/L | 31 mEq/L | 1-2 mEq/kg/day  |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 602,
+      "preview": "|  Potassium | 30 mEq/L | 23 mEq/L | 1-2 mEq/kg/day  |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 603,
+      "preview": "|  Chloride | 39 mEq/L | 45 mEq/L | Adjust per acid-base status  |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 604,
+      "preview": "|  Acetate | 80 mEq/L | 38 mEq/L | Adjust per acid-base status  |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 605,
+      "preview": "|  Magnesium | 5 mEq/L | 7.8 mEq/L | 8-20 mEq/day  |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 606,
+      "preview": "|  Phosphorus | 15 mmol/L | 9.7 mmol/L | 20-40 mEq/day  |"
+    },
+    {
+      "type": "table",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 607,
+      "preview": "|  Calcium | 2.2 mEq/L | 3.8 mEq/L | 10-15 mEq/day  |"
+    },
+    {
+      "type": "text",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 609,
+      "preview": "*Cliniimix E\u00ae product information (accessed 2019 Jan 15). Kabiven\u00ae product information (accessed 201"
+    },
+    {
+      "type": "image",
+      "section": "STANDARDIZED ELECTROLYTES VS RECOMMENDATIONS",
+      "line": 611,
+      "content": "![img-2.jpeg](images/1b1503a5f5fdf48e.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 613
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 615,
+      "preview": "|  Table 3. Comparative Outcomes in Patients Receiving Custom or Standardized Parenteral Nutrition ("
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 616,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 617,
+      "preview": "|  Outcome | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 618,
+      "preview": "|  ---------------------------- | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 619,
+      "preview": "|  Primary Outcome | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 620,
+      "preview": "|  Receiving 70% of estimated | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 621,
+      "preview": "|  caloric requirements | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 622,
+      "preview": "|  Secondary Outcomes | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 623,
+      "preview": "|  Receiving 90% of estimated | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 624,
+      "preview": "|  caloric requirements | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 625,
+      "preview": "|  Receiving 70% of estimated | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 626,
+      "preview": "|  protein requirements | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 627,
+      "preview": "|  Receiving 90% of estimated | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 628,
+      "preview": "|  protein requirements | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 629,
+      "preview": "|  Receiving 90% of estimated | |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 630,
+      "preview": "|  protein requirements | |"
+    },
+    {
+      "type": "text",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 632,
+      "preview": "*Blanchette L M et al. Am J Health-Syst Pharm. 2014; 71:114-21.*"
+    },
+    {
+      "type": "text",
+      "section": "FIXED MACROAUTRIENT CONCENTRATIONS",
+      "line": 634,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 636
+    },
+    {
+      "type": "text",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 638,
+      "preview": "Table 3. Comparative Outcomes in Patients Receiving Custom or Standardized Parenteral Nutrition (PN)"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 640,
+      "preview": "|  Outcome | Custom"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 641,
+      "preview": "PN | Standardized"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 642,
+      "preview": "PN | p  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 643,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 644,
+      "preview": "|  Electrolyte abnormalities |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 645,
+      "preview": "|  Hypernatremia | 5 (10) | 6 (11) | 1.00  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 646,
+      "preview": "|  Hyponatremia | 7 (14) | 21 (37) | 0.01  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 647,
+      "preview": "|  Hyperkalemia | 4 (8) | 5 (9) | 1.00  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 648,
+      "preview": "|  Hypokalemia | 7 (14) | 16 (28) | 0.10  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 649,
+      "preview": "|  Hyperphosphatemia | 12 (24) | 22 (39) | 0.15  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 650,
+      "preview": "|  Hypophosphatemia | 19 (39) | 13 (23) | 0.12  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 651,
+      "preview": "|  Hypermagnesemia | 1 (2) | 3 (5) | 0.66  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 652,
+      "preview": "|  Hypomagnesemia | 5 (10) | 13 (23) | 0.12  |"
+    },
+    {
+      "type": "text",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 654,
+      "preview": "*Blanchette LMetal. AmJ Health-Syst Pharm 2014;71:114-21.*"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 656
+    },
+    {
+      "type": "text",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 658,
+      "preview": "Table 3. Comparative Outcomes in Patients Receiving Custom or Standardized Parenteral Nutrition (PN)"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 660,
+      "preview": "|  Outcome | Custom"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 661,
+      "preview": "PN | Standardized"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 662,
+      "preview": "PN | p  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 663,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 664,
+      "preview": "|  Electrolyte abnormalities |  |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 665,
+      "preview": "|  Hypernatremia | 5 (10) | 6 (11) | 1.00  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 666,
+      "preview": "|  Hyponatremia | 7 (14) | 21 (37) | 0.01  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 667,
+      "preview": "|  Hyperkalemia | 4 (8) | 5 (9) | 1.00  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 668,
+      "preview": "|  Hypokalemia | 7 (14) | 16 (28) | 0.10  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 669,
+      "preview": "|  Hyperphosphatemia | 12 (24) | 22 (39) | 0.15  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 670,
+      "preview": "|  Hypophosphatemia | 19 (39) | 13 (23) | 0.12  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 671,
+      "preview": "|  Hypermagnesemia | 1 (2) | 3 (5) | 0.66  |"
+    },
+    {
+      "type": "table",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 672,
+      "preview": "|  Hyponaginesemia | 5 (10) | 13 (23) | 0.12  |"
+    },
+    {
+      "type": "text",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 674,
+      "preview": "*Blanchette LMetal. AmJ Health-Syst Pharm 2014;71:114-21.*"
+    },
+    {
+      "type": "text",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 676,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "FIXED ELECTROLYTE CONCENTRATIONS",
+      "line": 678,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 680
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 682,
+      "preview": "- Co-morbid conditions"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 683,
+      "preview": "- Diabetes mellitus (limit dextrose/GIR, assess need for insulin)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 684,
+      "preview": "- CKD (limit protein, potassium, magnesium, phosphorus unless RRT)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 685,
+      "preview": "- High stool, ostomy or fistula outputs (increased acetate, potassium, magnesium, zinc)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 686,
+      "preview": "- Hypertriglyceridemia (restrictions on ILE dosing)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 687,
+      "preview": "- Refeeding syndrome (increased potassium, magnesium, phosphorus, thiamine; sodium restriction)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 688,
+      "preview": "- Heart Failure (limit fluid, sodium)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 689,
+      "preview": "- Syndrome of inappropriate antidiuresis (limit fluid, isotonic sodium)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 692
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 694,
+      "preview": "- Organ function (protein provision, electrolytes/minerals dosing)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 695,
+      "preview": "- Severity of illness (increased protein and energy needs)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 696,
+      "preview": "- Hidden electrolytes (sodium and phosphorus in amino acid formulations)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 697,
+      "preview": "- ILE formulations (oil composition)"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 698,
+      "preview": "- Products on formulary"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 699,
+      "preview": "- Customized PN or SCAPN"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 700,
+      "preview": "- Customized PN and SCAPN"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 701,
+      "preview": "- Parenteral access"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 702,
+      "preview": "- Product shortages"
+    },
+    {
+      "type": "text",
+      "section": "CONSIDERATIONS FOR PRODUCT SELECTION",
+      "line": 704,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1",
+      "line": 706
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 708,
+      "preview": "- TJ is a 53 year old patient who was admitted to the intensive care unit 3 days ago with septic sho"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 709,
+      "preview": "- Past medical history"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 710,
+      "preview": "- Hypertension"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 711,
+      "preview": "- Hypothyroidism"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1",
+      "line": 712,
+      "preview": "- Small bowel resection (2 weeks ago)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 715
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 717,
+      "preview": "- Vital signs:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 718,
+      "preview": "- BP: $122 / 68 \\mathrm{mmHg}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 719,
+      "preview": "- HR: 80 bpm"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 720,
+      "preview": "- RR: 16 breaths/min"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 721,
+      "preview": "- Temperature: $37.8^{\\circ} \\mathrm{C}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 722,
+      "preview": "- Medications:"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 723,
+      "preview": "- piperacillin-tazobactam 2.25 g IV every 6 hours"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 724,
+      "preview": "- levothyroxine 40 mcg IV daily"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 725,
+      "preview": "- thiamine 200 mg IV every 12 hours"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 726,
+      "preview": "- D5 $1 / 2$ NS at $100 \\mathrm{~mL} / \\mathrm{hr}$"
+    },
+    {
+      "type": "text",
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 728,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CASE STUDY \\#1, CONT.",
+      "line": 730
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Laboratory Values:",
+      "line": 732
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 734,
+      "preview": "- Na: $139 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 735,
+      "preview": "- K: $4.5 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 736,
+      "preview": "- $\\mathrm{Cl}: 112 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 737,
+      "preview": "- $\\mathrm{CO}_{2}: 17 \\mathrm{mEq} / \\mathrm{L}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 738,
+      "preview": "- BUN: $68 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 739,
+      "preview": "- Cr: $2.4 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 740,
+      "preview": "- Glucose: $130 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 741,
+      "preview": "- Magnesium: $2.4 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 742,
+      "preview": "- Phosphorus: $4.8 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "Laboratory Values:",
+      "line": 743,
+      "preview": "- Liver function: WNL"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 746
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 748,
+      "preview": "Which amino acid product would be the best choice for TJ?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 749,
+      "preview": "A. FreAmine ${ }^{\\circledR}$ III $10 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 750,
+      "preview": "B. Travasol ${ }^{\\circledR} 10 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 751,
+      "preview": "C. Aminosyn ${ }^{\\circledR}$ II $15 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 752,
+      "preview": "D. HepatAmine ${ }^{\\circledR} 8 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 754,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 756
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 758,
+      "preview": "Which amino acid product would be the best choice for TJ?"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 759,
+      "preview": "A. FreAmine ${ }^{\\circledR}$ III $10 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 760,
+      "preview": "B. Travasol ${ }^{\\circledR} 10 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 761,
+      "preview": "C. Aminosyn ${ }^{\\circledR}$ II $15 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 762,
+      "preview": "D. HepatAmine ${ }^{\\circledR} 8 \\%$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 764
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 766,
+      "preview": "- A parenteral nutrition consult is placed for a 65 year old male with colon cancer with small bowel"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 767,
+      "preview": "- Past medical history: hypertension, atrial fibrillation, heart failure, colon cancer"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 768,
+      "preview": "- Upon evaluating the appropriateness of a SCAPN product, which of the following patient characteris"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 769,
+      "preview": "A. Colon cancer"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 770,
+      "preview": "B. Heart failure"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 771,
+      "preview": "C. Hypertension"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 772,
+      "preview": "D. Small bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 774,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 776
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 778,
+      "preview": "- A parenteral nutrition consult is placed for a 65 year old male with colon cancer with small bowel"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 779,
+      "preview": "- Past medical history: hypertension, atrial fibrillation, heart failure, colon cancer"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 780,
+      "preview": "- Upon evaluating the appropriateness of a SCAPN product, which of the following patient characteris"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 781,
+      "preview": "A. Colon cancer"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 782,
+      "preview": "B. Heart failure"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 783,
+      "preview": "C. Hypertension"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 784,
+      "preview": "D. Small bowel obstruction"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONCLUSIONS",
+      "line": 787
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 789,
+      "preview": "- Differences exist amongst available parenteral nutrition products within the same nutrient class"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 790,
+      "preview": "- Knowledge of these differences helps the practicing clinician choose medically appropriate product"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 791,
+      "preview": "- ASPEN has published recommendations for use in handling parenteral nutrition product shortages"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 792,
+      "preview": "- SCAPN products provide an useful alternative to customized parenteral nutrition for select patient"
+    },
+    {
+      "type": "text",
+      "section": "CONCLUSIONS",
+      "line": 794,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES",
+      "line": 796
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 798,
+      "preview": "- Addamel N injection (trace elements with selenium and iodine) [package insert]. Uppsala, Sweden: F"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 799,
+      "preview": "- Blanchette LM, Huiras P, Papadopoulous S. Standardized versus custom parenteral nutrition: impact "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 800,
+      "preview": "- Clinimix\u00ae (amino acids, dextrose) [package insert]. Deerfield, IL: Baxter Healthcare Corporation; "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 801,
+      "preview": "- Clinimix E\u00ae (amino acids with electrolytes in dextrose with calcium) [package insert]. Deerfield, "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 802,
+      "preview": "- Derenski K, Catlin J, Allen L. Parenteral nutrition basics for the clinician caring for the adult "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 804,
+      "preview": "NUTRITION SUPPORT"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 805,
+      "preview": "CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 807
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 809,
+      "preview": "- Edmunds CE, Brody RA, Parrott JS et al. The effects of different IV fat emulsions ion clinical out"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 810,
+      "preview": "- Gervasio, J. Compounding vs standardized commercial parenteral nutrition product: pros and cons. J"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 811,
+      "preview": "- Glycophos\u00ae injection (sodium glycolate) [package insert]. Uppsala, Sweden: Fresenius Kabi US; revi"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 812,
+      "preview": "- Kabiven\u00ae (Amino acids, electrolytes, dextrose, and lipid injectable emulsion) [package insert]. Up"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 813,
+      "preview": "- Manzanares W, Hardy G. Thiamine supplementation in the critically ill. Curr Opinion in Clin Nutr M"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 815,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 817
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 819,
+      "preview": "- Manzanares W, Langlois PL, Dhaliwal R et al. Intravenous fish oil lipid emulsions in critically il"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 820,
+      "preview": "- McClave SA, Taylor BE, Martindale RG et al. Guidelines for the provision and assessment of nutriti"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 821,
+      "preview": "- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parent Ente"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 822,
+      "preview": "- Omegaven ${ }^{\\circledR}$ (fish oil injection, emulsion) [package insert]. Uppsala, Sweden: Frese"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 824,
+      "preview": "NUTRITION SUPPORT"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 825,
+      "preview": "CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 827
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 829,
+      "preview": "- Patel R. Chapter 15 Parenteral Nutrition Formulations In:Mueller CM, ed. The ASPEN Adult Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 830,
+      "preview": "- Perikabiven ${ }^{\\circledR}$ (Amino acids, electrolytes, dextrose, and lipid injectable emulsion)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 831,
+      "preview": "- Procalamine ${ }^{\\circledR}$ (3\\% amino acid and 3\\% glycerin injection with electrolytes) [packa"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 832,
+      "preview": "- Rosmarin DK, Wardlaw GM, Mirtallo J. Hyperglycemia associated with high, continuous infusion rates"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 833,
+      "preview": "- SMOFlipid ${ }^{\\circledR}$ (lipid injectable emulsion) [package insert]. Uppsala, Sweden: Freseni"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 835,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 837
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 839,
+      "preview": "- Tralement ${ }^{\\circledR}$ (trace elements injection 4) [package insert]. Shirley, NY: American R"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 840,
+      "preview": "- Turpin RS, Canada T, Liu RX, Mercaldi CJ, Pontes-Arruda A, Wishchmeyer P. Nutrition therapy cost a"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 841,
+      "preview": "- Vanek VW, Borum P, Buchman A et al. A call to action to bring safer parenteral micronutrient produ"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 842,
+      "preview": "- Wolman SL, Anderson GH, Marliss EB et al. Zinc in total parenteral nutrition: requirements and met"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 844,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 846,
+      "content": "![img-3.jpeg](images/d0651196d10662d6.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 848
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 850,
+      "preview": "Clinical pharmacy Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 851,
+      "preview": "University of Texas MD Anderson Cancer Center Houston, Texas"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 853,
+      "preview": "Anne M. Tucker is clinical pharmacy specialist at the MD Anderson Cancer Center, Houston, Texas. She"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 855,
+      "preview": "Dr. Tucker is currently the Chair of the American Society for Parenteral and Enteral Nutrition (ASPE"
+    },
+    {
+      "type": "text",
+      "section": "Anne M. Tucker, Pharm.D., BCNSP",
+      "line": 857,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 859
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 861,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 863,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 865,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 867,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 868,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 869,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 870,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 871,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 873,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 875,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 877
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 879,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 881,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 883
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 885,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 887
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 889,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 891,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "9c01a79eee8ab186.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/9c01a79eee8ab186.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_ParenteralNutritionProducts/images/9c01a79eee8ab186.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9c01a79eee8ab186"
+    },
+    {
+      "sha_name": "a4ede1e530bd321c.png",
+      "original_ref": "img-1.jpeg",
+      "page": 7,
+      "relative_path": "images/a4ede1e530bd321c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_ParenteralNutritionProducts/images/a4ede1e530bd321c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a4ede1e530bd321c"
+    },
+    {
+      "sha_name": "1b1503a5f5fdf48e.png",
+      "original_ref": "img-2.jpeg",
+      "page": 23,
+      "relative_path": "images/1b1503a5f5fdf48e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_ParenteralNutritionProducts/images/1b1503a5f5fdf48e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1b1503a5f5fdf48e"
+    },
+    {
+      "sha_name": "d0651196d10662d6.png",
+      "original_ref": "img-3.jpeg",
+      "page": 33,
+      "relative_path": "images/d0651196d10662d6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/4_ParenteralNutritionProducts/images/d0651196d10662d6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d0651196d10662d6"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696093",
+    "ts": "2025-08-08T23:34:53.714309+00:00"
+  }
+}

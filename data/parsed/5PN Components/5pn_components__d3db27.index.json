@@ -1,0 +1,2487 @@
+{
+  "doc_id": "5pn_components__d3db27",
+  "original_filename": "5PN Components.pdf",
+  "md_path": "data/parsed/5PN Components/5PN Components.md",
+  "rmd_path": "data/parsed/5PN Components/5PN Components.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Components of PN",
+      "line": 0
+    },
+    {
+      "type": "image",
+      "section": "Components of PN",
+      "line": 2,
+      "content": "![img-0.jpeg](images/ccfca2ac4446485e.png)"
+    },
+    {
+      "type": "image",
+      "section": "Components of PN",
+      "line": 4,
+      "content": "![img-1.jpeg](images/175d54a88c00cc54.png)"
+    },
+    {
+      "type": "text",
+      "section": "Components of PN",
+      "line": 6,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Typical Nutritional Components of PN",
+      "line": 8
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Water",
+      "line": 10
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Macronutrients",
+      "line": 12
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients",
+      "line": 14,
+      "preview": "- Protein"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients",
+      "line": 15,
+      "preview": "- Carbohydrate"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients",
+      "line": 16,
+      "preview": "- Fat"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Micronutrients",
+      "line": 19
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients",
+      "line": 21,
+      "preview": "- Electrolytes \\& Minerals"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients",
+      "line": 22,
+      "preview": "- Vitamins"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients",
+      "line": 23,
+      "preview": "- Trace elements"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Other additives",
+      "line": 26
+    },
+    {
+      "type": "text",
+      "section": "Other additives",
+      "line": 28,
+      "preview": "- Heparin"
+    },
+    {
+      "type": "text",
+      "section": "Other additives",
+      "line": 29,
+      "preview": "- Cysteine"
+    },
+    {
+      "type": "text",
+      "section": "Other additives",
+      "line": 30,
+      "preview": "- Carnitine"
+    },
+    {
+      "type": "text",
+      "section": "Other additives",
+      "line": 31,
+      "preview": "- Medications (e.g., famotidine, insulin)"
+    },
+    {
+      "type": "text",
+      "section": "Other additives",
+      "line": 33,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN Macronutrients",
+      "line": 35
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 37,
+      "preview": "- Three major macronutrients"
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 38,
+      "preview": "- Carbohydrates (Dextrose)"
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 39,
+      "preview": "- Fat (Intravenous Lipid Emulsion - ILE)"
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 40,
+      "preview": "- Protein (Amino Acids - AA)"
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 41,
+      "preview": "- Macronutrients may be combined in PN solution as follows"
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 42,
+      "preview": "- 2-in-1: Dextrose + AA (lipids administered separately)"
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 43,
+      "preview": "- 3-in-1: Dextrose + AA + Lipids"
+    },
+    {
+      "type": "text",
+      "section": "PN Macronutrients",
+      "line": 45,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 47
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 49,
+      "preview": "|  Infants (< 1 yr) | Initiation |  | Advance By |  | Goals |   |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 50,
+      "preview": "| --- | --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 51,
+      "preview": "|   | Preterm | Term | Preterm | Term | Preterm | Term  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 52,
+      "preview": "|  Protein (g/kg/day)* | $\\begin{gathered} 1-3 \\ (3-4 \\text { max }) \\end{gathered}$ | $2.5-3$ | - |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 53,
+      "preview": "|  Dextrose (mg/kg/min) | $6-8$ | $6-8$ | $1-2$ | $1-2$ | $\\begin{gathered} 10-14 \\ (\\max 14-18) \\en"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 54,
+      "preview": "|  ILE (g/kg/day)** | $0.5-1$ | $0.5-1$ | $0.5-1$ | $0.5-1$ | $\\begin{gathered} 3 \\ (\\max 0.15 \\math"
+    },
+    {
+      "type": "text",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 56,
+      "preview": "*Protein can be initiated at goal.* *ILE doses based on soybean oil emulsion."
+    },
+    {
+      "type": "text",
+      "section": "Components of PN: Macronutrient Guidelines - Infants",
+      "line": 58,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 60
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 62,
+      "preview": "|  Children (1-10 yr) | Initiation | Advance By | Goals  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 63,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 64,
+      "preview": "|  Protein (g/kg/day) | $1.5-2.5$ | - | $1.5-2.5$  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 65,
+      "preview": "|  Dextrose (mg/kg/min) | $3-6$ | $1-2$ | $8-10$  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 66,
+      "preview": "|  ILE (g/kg/day)** | $1-2$ | $0.5-1$ | $2-2.5$  |"
+    },
+    {
+      "type": "text",
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 68,
+      "preview": "**ILE doses based on soybean oil emulsion."
+    },
+    {
+      "type": "text",
+      "section": "Components of PN: Macronutrient Guidelines - Children",
+      "line": 70,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 72
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 74,
+      "preview": "|  Adolescents | Initiation | Advance By | Goals  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 75,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 76,
+      "preview": "|  Protein (g/kg/day) | $0.8-2$ | - | $0.8-2$  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 77,
+      "preview": "|  Dextrose (mg/kg/min) | $2.5-3$ | $1-2$ | $5-6$  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 78,
+      "preview": "|  ILE (g/kg/day)** | 1 | 1 | $1-2$  |"
+    },
+    {
+      "type": "text",
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 80,
+      "preview": "**ILE doses based on soybean oil emulsion."
+    },
+    {
+      "type": "text",
+      "section": "Components of PN: Macronutrient Guidelines - Adolescents",
+      "line": 82,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Macronutrients: Carbohydrates",
+      "line": 84
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 86,
+      "preview": "- Dextrose (D-glucose monohydrate) is the primary carbohydrate"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 87,
+      "preview": "- Monohydrate form provides $3.4 \\mathrm{kcal} / \\mathrm{g}$"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 88,
+      "preview": "- Enteral carbohydrates provide approximately $4 \\mathrm{cal} / \\mathrm{g}$"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 89,
+      "preview": "- Typically, 40-55\\% of caloric intake comes from dextrose"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 90,
+      "preview": "- Intravenous dextrose must be slowly introduced to allow appropriate endogenous insulin response"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 91,
+      "preview": "- Toxicity"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 92,
+      "preview": "- Hyperglycemia, glucosuria and osmotic diuresis"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 93,
+      "preview": "- Glucose provision typically expressed as \\% dextrose"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Carbohydrates",
+      "line": 95,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 97
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 99,
+      "preview": "- GIR needs vary with age of patient"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 100,
+      "preview": "- GIR (mg/kg/min) = (Dextrose (g/dL) x Infusion Rate (mL/hr) x 0.167)/wt(kg)"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 101,
+      "preview": "- Typical glucose oxidation rate under most circumstances $=7-13 \\mathrm{mg} / \\mathrm{kg} / \\mathrm"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 102,
+      "preview": "- Beyond this, fat synthesis increases leading to increased respiratory quotient (RQ: $\\mathrm{CO}_{"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 103,
+      "preview": "- In the presence of pulmonary disease, large energy intake may lead to $\\mathrm{CO}_{2}$ retention"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 104,
+      "preview": "- Glucose oxidation rate changes with GIR based on age"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 105,
+      "preview": "- Neonates, infants: $12.5 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 106,
+      "preview": "- Children, adolescents: $6 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$"
+    },
+    {
+      "type": "text",
+      "section": "Glucose Infusion Rate (GIR)",
+      "line": 108,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GIR - Cont'd",
+      "line": 110
+    },
+    {
+      "type": "text",
+      "section": "GIR - Cont'd",
+      "line": 112,
+      "preview": "- Multiple online calculators exist"
+    },
+    {
+      "type": "text",
+      "section": "GIR - Cont'd",
+      "line": 113,
+      "preview": "- Online tools may allow calculation of total GIR across multiple infusions with different dextrose "
+    },
+    {
+      "type": "text",
+      "section": "GIR - Cont'd",
+      "line": 114,
+      "preview": "- www.nicutools.org (\"glucose delivery\")"
+    },
+    {
+      "type": "text",
+      "section": "GIR - Cont'd",
+      "line": 116,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 118
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 120,
+      "preview": "Minimum Dextrose Requirements Based On Age"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 122,
+      "preview": "|  Age | GIR (mg/kg/min) | g/kg/day  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 123,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 124,
+      "preview": "|  Newborn | 7.9 | 11.5  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 125,
+      "preview": "|  Children | 4.7 | 6.8  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 126,
+      "preview": "|  Adolescents | 1.9 | 2.7  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 127,
+      "preview": "|  Adult | 1.0 | 1.4  |"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 129,
+      "preview": "- These are the estimated minimum dextrose intakes to meet energy needs of the brain and other gluco"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 130,
+      "preview": "- If patients develop persistent hyperglycemia (>180mg/dL) at these minimum levels, consider providi"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Dextrose / GIR Minimum Requirements",
+      "line": 132,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Macronutrients: Protein",
+      "line": 134
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Protein",
+      "line": 136,
+      "preview": "- Major physiological functions of protein"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Protein",
+      "line": 137,
+      "preview": "- Structure (i.e., muscle)"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Protein",
+      "line": 138,
+      "preview": "- Function (i.e., enzymes, transport proteins)"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Protein",
+      "line": 139,
+      "preview": "- Nitrogen donor to other compounds (i.e., nucleic acids, carnitine, taurine)"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Protein",
+      "line": 140,
+      "preview": "- Protein should not be considered a main energy source"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Protein",
+      "line": 141,
+      "preview": "- Protein requirements vary by age and disease state"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Protein",
+      "line": 143,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 145
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 147,
+      "preview": "- Infant protein needs"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 148,
+      "preview": "- Conditional AA needed: histidine, taurine, cysteine"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 149,
+      "preview": "- Immature synthetic abilities"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 150,
+      "preview": "- Cysteine added in infants $<1 \\mathrm{~kg}$ to improve nitrogen balance"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 151,
+      "preview": "- Also decreases PN solution pH , allowing more calcium and phosphate to be added"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 152,
+      "preview": "- Infant AA solutions are modelled off the serum AA patterns seen in breastfed infants"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 153,
+      "preview": "- Further study of infant AA requirements ongoing"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 154,
+      "preview": "- Excess protein intake leads to azotemia (elevated blood urea nitrogen, other compounds in blood)"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Amino Acid (AA) Solutions",
+      "line": 156,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 158
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 160,
+      "preview": "|   | Amino acid | Aminosyn II ${ }^{\\circ}$ | Novamine $^{\\circ}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 161,
+      "preview": "$10 \\%$ | Premasol ${ }^{\\circledR}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 162,
+      "preview": "$10 \\%$ | Trophamine $^{\\circ}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 163,
+      "preview": "$10 \\%$ | Aminosyn ${ }^{\\circ}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 164,
+      "preview": "PF | Travasol ${ }^{\\circ}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 165,
+      "preview": "| --- | --- | --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 166,
+      "preview": "|  Essential | Isoleucine (g) | 0.72 | 0.6 | 0.82 | 0.82 | 0.76 | 0.6  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 167,
+      "preview": "|   | Leucine (g) | 0.94 | 0.73 | 1.4 | 1.4 | 1.2 | 0.73  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 168,
+      "preview": "|   | Lysine (g) | 0.72 | 0.58 | 0.82 | 0.82 | 0.677 | 0.58  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 169,
+      "preview": "|   | Methionine (g) | 0.40 | 0.40 | 0.34 | 0.34 | 0.18 | 0.40  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 170,
+      "preview": "|   | Phenylalanine (g) | 0.44 | 0.56 | 0.48 | 0.48 | 0.427 | 0.56  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 171,
+      "preview": "|   | Threonine (g) | 0.52 | 0.42 | 0.42 | 0.42 | 0.512 | 0.42  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 172,
+      "preview": "|   | Tryptophan (g) | 0.16 | 0.18 | 0.20 | 0.20 | 0.18 | 0.18  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 173,
+      "preview": "|   | Valine (g) | 0.8 | 0.58 | 0.78 | 0.78 | 0.673 | 0.58  |"
+    },
+    {
+      "type": "text",
+      "section": "Examples of AA Solutions (per 100 mL)",
+      "line": 175,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 177
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 179,
+      "preview": "|   | Amino acid | Aminosyn II ${ }^{\\circ}$ | Novamine $^{\\circ}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 180,
+      "preview": "$10 \\%$ | Premasol ${ }^{\\circledR}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 181,
+      "preview": "$10 \\%$ | Trophamine $^{\\circ}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 182,
+      "preview": "$10 \\%$ | Aminosyn ${ }^{\\circ}$"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 183,
+      "preview": "PF | Travasol ${ }^{\\circ}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 184,
+      "preview": "| --- | --- | --- | --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 185,
+      "preview": "|  Nonessential | Aspartic Acid"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 186,
+      "preview": "(g) | - | - | 0.32 | 0.32 | 0.527 | -  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 187,
+      "preview": "|   | Serine (g) | 0.42 | 0.50 | 0.38 | 0.38 | 0.495 | 0.50  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 188,
+      "preview": "|   | Glutamic Acid"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 189,
+      "preview": "(g) | - |  | 0.50 | 0.50 | 0.82 | -  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 190,
+      "preview": "|   | Alanine (g) | 1.28 | 2.07 | 0.54 | 0.54 | 0.698 | 2.07  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 191,
+      "preview": "|   | Proline (g) | 0.86 | 0.68 | 0.68 | 0.68 | 0.812 | 0.68  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 192,
+      "preview": "|  Conditionally Essential | Arginine (g) | 0.98 | 1.15 | 1.2 | 1.2 | 1.227 | 1.15  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 193,
+      "preview": "|   | Glycine (g) | 1.28 | 1.03 | 0.36 | 0.36 | 0.385 | 1.03  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 194,
+      "preview": "|   | Glutamine (g) | - | - | 0.50 | 0.50 | - | -  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 195,
+      "preview": "|   | Taurine (g) | - | - | 0.025 | 0.025 | 0.070 | -  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 196,
+      "preview": "|   | Cysteine (g) | - | - | $<0.016$ | $<0.016$ | - | -  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 197,
+      "preview": "|   | Histidine (g) | 0.3 | 0.48 | 0.48 | 0.48 | 0.31 | 0.48  |"
+    },
+    {
+      "type": "table",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 198,
+      "preview": "|   | Tyrosine (g) | 0.444 | 0.04 | 0.24 | 0.24 | 0.044 | 0.04  |"
+    },
+    {
+      "type": "text",
+      "section": "Examples of Amino Acid Solutions (per 100 mL)",
+      "line": 200,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Conditions With Altered Protein Needs",
+      "line": 202
+    },
+    {
+      "type": "text",
+      "section": "Conditions With Altered Protein Needs",
+      "line": 204,
+      "preview": "- Increased protein needs (from RDA)"
+    },
+    {
+      "type": "text",
+      "section": "Conditions With Altered Protein Needs",
+      "line": 205,
+      "preview": "- Malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "Conditions With Altered Protein Needs",
+      "line": 206,
+      "preview": "- Enteric/urinary protein losses"
+    },
+    {
+      "type": "text",
+      "section": "Conditions With Altered Protein Needs",
+      "line": 207,
+      "preview": "- Physiologic stress"
+    },
+    {
+      "type": "text",
+      "section": "Conditions With Altered Protein Needs",
+      "line": 208,
+      "preview": "- Drugs (i.e., corticosteroids)"
+    },
+    {
+      "type": "text",
+      "section": "Conditions With Altered Protein Needs",
+      "line": 209,
+      "preview": "- Burns"
+    },
+    {
+      "type": "text",
+      "section": "Conditions With Altered Protein Needs",
+      "line": 211,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 213
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 215,
+      "preview": "- Fats"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 216,
+      "preview": "- Concentrated source of calories"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 217,
+      "preview": "- Meets essential fatty acid needs"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 218,
+      "preview": "- Multiple lipid solutions available providing triglycerides derived from different oils"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 219,
+      "preview": "- Essential fatty acid (EFA) needs: 1-4\\% calories (minimum) must come from a combination of linolei"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 220,
+      "preview": "- Serum triene:tetraene ratio > 0.2 reflects EFA deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 221,
+      "preview": "- Ratio may not accurately reflect EFA deficiency if both EFAs low"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Intravenous Fat Emulsions (ILE)",
+      "line": 223,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 225
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 227,
+      "preview": "- Fats are infused over 24 hours to maximize tolerance"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 228,
+      "preview": "- Monitor triglycerides to assess tolerance"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 229,
+      "preview": "- Neonates: triglyceride levels $<200 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 230,
+      "preview": "- Children: triglyceride levels $<300-400 \\mathrm{mg} / \\mathrm{dL}$"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 231,
+      "preview": "- Fat decreases the osmolality of the PN solution"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 232,
+      "preview": "- More concentrated form of calories compared to dextrose and amino acids"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: ILE - Cont'd",
+      "line": 234,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 236
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 238,
+      "preview": "|  Component | Intralipid ${ }^{\\circledR}$ | Omegaven ${ }^{\\circledR}$ | ClinoLipid ${ }^{\\circled"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 239,
+      "preview": "ClinOleic ${ }^{\\circledR}$ | SMOFLipid ${ }^{\\circledR}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 240,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 241,
+      "preview": "|  Soybean oil, \\% | 100 |  | 20 | 30  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 242,
+      "preview": "|  Medium-chain triglycerides, \\% |  |  |  | 30  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 243,
+      "preview": "|  Olive oil, \\% |  |  | 80 | 25  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 244,
+      "preview": "|  Fish oil, \\% |  | 100 |  | 15  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 245,
+      "preview": "|  Glycerol, g/100 mL | 2.25 | 2.5 | 2.25 | 2.5  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 246,
+      "preview": "|  Egg phospholipid, g/10 mL | 1.2 | 1.2 | 1.2 | 1.2  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 247,
+      "preview": "|  Phytosterols, mg/100 ml | $439 \\pm 5.7$ | 3.66 | $274 \\pm 2.6$ | 207  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 248,
+      "preview": "|  Vitamin E, mg/100 mL | 3.8 | $15-30$ | 3.2 | $16-23$  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 249,
+      "preview": "|  LA, \\% | 50 | 4.4 | 18.5 | 21.4  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 250,
+      "preview": "|  ALA, \\% | 9 | 1.8 | 2 | 2.5  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 251,
+      "preview": "|  EPA, \\% | 0 | 19.2 | 0 | 3  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 252,
+      "preview": "|  DHA, \\% | 0 | 12.1 | 0 | 2  |"
+    },
+    {
+      "type": "table",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 253,
+      "preview": "|  ARA, \\% | 0 | $1-4$ | 0 | $0.15-0.6$  |"
+    },
+    {
+      "type": "text",
+      "section": "Macronutrients: Comparison of ILE",
+      "line": 255,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients Overview",
+      "line": 257
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 259,
+      "preview": "- General principle: monitor regularly and adjust in PN if needed"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 260,
+      "preview": "- Maintain homeostasis"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 261,
+      "preview": "- Weight-based supplementation appropriate starting point"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 262,
+      "preview": "- Alterations may be necessary by disease states"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 263,
+      "preview": "- Neonatal period"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 264,
+      "preview": "- Critical illness"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 265,
+      "preview": "- Renal disease"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 266,
+      "preview": "- Liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients Overview",
+      "line": 268,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients Overview - Cont'd",
+      "line": 270
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Sodium",
+      "line": 272
+    },
+    {
+      "type": "text",
+      "section": "Sodium",
+      "line": 274,
+      "preview": "- Consider acid-base balance, fluids \\& diuretic therapy"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Potassium",
+      "line": 277
+    },
+    {
+      "type": "text",
+      "section": "Potassium",
+      "line": 279,
+      "preview": "- Consider renal function, diuretic therapy, gastrointestinal losses, medication interactions (inclu"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Calcium",
+      "line": 282
+    },
+    {
+      "type": "text",
+      "section": "Calcium",
+      "line": 284,
+      "preview": "- Consider phosphate levels, bone health, serum albumin level"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Phosphate",
+      "line": 287
+    },
+    {
+      "type": "text",
+      "section": "Phosphate",
+      "line": 289,
+      "preview": "- Consider ionized calcium levels, renal function, bone health"
+    },
+    {
+      "type": "text",
+      "section": "Phosphate",
+      "line": 290,
+      "preview": "- Calcium and phosphate requirements higher in preterm infants"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Magnesium",
+      "line": 293
+    },
+    {
+      "type": "text",
+      "section": "Magnesium",
+      "line": 295,
+      "preview": "- Consider potassium, calcium, phosphate levels, renal losses, gastrointestinal losses, bone health,"
+    },
+    {
+      "type": "text",
+      "section": "Magnesium",
+      "line": 297,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 299
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 301,
+      "preview": "|   | Preterm"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 302,
+      "preview": "Neonates | Infants /"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 303,
+      "preview": "Children | Adolescents /"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 304,
+      "preview": "Children $>40 \\mathrm{~kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 305,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 306,
+      "preview": "|  Sodium (mEq/kg/day) | $2-5$ | $2-5$ | $80-150 \\mathrm{mEq} /$ day  |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 307,
+      "preview": "|  Potassium (mEq/kg/day) | $2-4$ | $2-4$ | $40-60 \\mathrm{mEq} /$ day  |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 308,
+      "preview": "|  Calcium (mEq/kg/day) | $2-4$ | $0.5-4$ | $10-20 \\mathrm{mEq} /$ day  |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 309,
+      "preview": "|  Phosphorus (nmol/kg/day) | $1-2$ | $0.5-2$ | $10-40 \\mathrm{mmol} /$ day  |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 310,
+      "preview": "|  Magnesium (mEq/kg/day) | $0.3-0.5$ | $0.3-0.5$ | $10-30 \\mathrm{mEq} /$ day  |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 311,
+      "preview": "|  Acetate | As needed to maintain acid-base balance |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 312,
+      "preview": "|  Chloride | As needed to maintain acid-base balance |  |   |"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 314,
+      "preview": "Corkins MR, et al. The A.S.P.E.N. Pediatric Nutrition Support Core Curriculum, 2nd Ed. ASPEN;2015. D"
+    },
+    {
+      "type": "text",
+      "section": "Electrolyte and Mineral Requirements",
+      "line": 316,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 318
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 320,
+      "preview": "- Limitations to amounts of calcium and phosphate that may be supplied in PN"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 321,
+      "preview": "- Calcium and phosphate may precipitate depending on the amounts added to PN solutions"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 322,
+      "preview": "- Cysteine lowers pH and may be added to neonate/infant PN to increase solubility of Ca and Phosphat"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 323,
+      "preview": "- Factors affecting solubility include"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 324,
+      "preview": "- Temperature"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 325,
+      "preview": "- Concentration of calcium and phosphate"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 326,
+      "preview": "- Type of AA product"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 327,
+      "preview": "- Dextrose concentration"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 328,
+      "preview": "- pH of the final solution"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 329,
+      "preview": "- Cysteine"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 330,
+      "preview": "- Lighting"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 331,
+      "preview": "- Order of mixing"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Calcium / Phosphate",
+      "line": 333,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Trace Elements",
+      "line": 335
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements",
+      "line": 337,
+      "preview": "- Numerous minerals are integrated into various physiologic functions"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements",
+      "line": 338,
+      "preview": "- Commercial PN products contain zinc, copper, chromium, manganese"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements",
+      "line": 339,
+      "preview": "- Higher amounts of certain trace elements are present in PN solutions due to contamination during m"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements",
+      "line": 340,
+      "preview": "- Optimal requirements of trace elements for children are not well understood"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements",
+      "line": 342,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 344
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 346,
+      "preview": "- In patients with liver disease, copper and manganese doses often need adjustment"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 347,
+      "preview": "- Excreted via bile"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 348,
+      "preview": "- Levels need to be monitored in patients with cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 349,
+      "preview": "- In patients with renal disease, selenium and chromium need to be used with caution"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 350,
+      "preview": "- Levels need to be monitored"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 351,
+      "preview": "- Manganese can be present as a contaminant in PN solutions"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 352,
+      "preview": "- Monitor for manganese toxicity in long-term PN patients"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 353,
+      "preview": "- Chromium may not be needed in patients on long-term PN"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Trace Elements - Cont'd",
+      "line": 355,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Components of PN: Trace Elements",
+      "line": 357
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 359,
+      "preview": "|  Solution Name | Multrys ${ }^{\\circledR}$ | Tralement ${ }^{\\circledR}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 360,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 361,
+      "preview": "|  Age indication | Neonatal/Pediatric | Pediatric/Adolescent/Adult  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 362,
+      "preview": "|  Weight indication | $<10 \\mathrm{~kg}$ | $\\geq 10 \\mathrm{~kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 363,
+      "preview": "|  Trace element in 1 mL solution (mcg) |  |   |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 364,
+      "preview": "|  Zinc (Zn) | 1,000 | 3,000  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 365,
+      "preview": "|  Copper (Cu) | 50 | 300  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 366,
+      "preview": "|  Selenium (Se) | 6 | 55  |"
+    },
+    {
+      "type": "table",
+      "section": "Components of PN: Trace Elements",
+      "line": 367,
+      "preview": "|  Manganese (Mn) | 3 | 60  |"
+    },
+    {
+      "type": "text",
+      "section": "Components of PN: Trace Elements",
+      "line": 369,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 371
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 373,
+      "preview": "- Iron deficiency is common in PN recipients"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 374,
+      "preview": "- Also consider other non-iron deficiency causes of anemia"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 375,
+      "preview": "- Consider enteral supplementation over parenteral route for treatment"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 376,
+      "preview": "- Addition of Fe to PN requires consideration due to potential increased risk of sepsis (pro-oxidant"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 377,
+      "preview": "- Consider supplementation in patients who have been NPO"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 378,
+      "preview": "- Avoid Fe in patients receiving frequent blood transfusions due to possibility of Fe overload"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 379,
+      "preview": "- Parenteral Fe preparations"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 380,
+      "preview": "- Iron sucrose"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 381,
+      "preview": "- Iron dextran"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 382,
+      "preview": "- Ferric carboxymaltose (small risk of hypophosphatemia)"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Iron (Fe)",
+      "line": 384,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 386
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 388,
+      "preview": "- Important trace element for growth, wound healing"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 389,
+      "preview": "- Signs of zinc deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 390,
+      "preview": "- Dermatitis, alopecia, diarrhea, immune deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 391,
+      "preview": "- Zinc excreted mainly in stool"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 392,
+      "preview": "- Increased needs in diarrhea, hypercatabolic states, ostomy losses, intrathoracic/peritoneal drains"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 393,
+      "preview": "- Measures of zinc status"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 394,
+      "preview": "- Serum zinc is a poor measure of total body zinc status"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 395,
+      "preview": "- Low alkaline phosphatase may be a better marker of zinc deficiency but is not diagnostic"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 396,
+      "preview": "- May increase PN intake to 1.5 - 2x usual dosing if increased metabolic demand (to maintain one lin"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 397,
+      "preview": "- Monitor for copper deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Zinc (Zn)",
+      "line": 399,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 401
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 403,
+      "preview": "- Copper deficiency is rare, except in patients with cholestasis"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 404,
+      "preview": "- Risk factors: malabsorption, prematurity, severe malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 405,
+      "preview": "- May present with anemia (hypochromic, microcytic), leukopenia, neutropenia, bone abnormalities"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 406,
+      "preview": "- Biliary tract is the primary route for Cu excretion"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 407,
+      "preview": "- Patients with cholestasis have decreased excretion, may be at increased risk for toxicity"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 408,
+      "preview": "- Note that patients without cholestasis can also have elevated Cu levels"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 409,
+      "preview": "- Monitor through serum Cu and ceruloplasmin levels"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 410,
+      "preview": "- Clinical picture should be evaluated to assess Cu status"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 411,
+      "preview": "- Toxicity may present similarly to Wilson's disease: cirrhosis, neurological disorders, renal damag"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 412,
+      "preview": "- Deficiency may present similarly to $\\mathrm{B}_{12}$ deficiency, with cardiac disease, arthritis,"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Copper (Cu)",
+      "line": 414,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 416
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 418,
+      "preview": "- Deficiency very uncommon in humans"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 419,
+      "preview": "- Mn contamination is commonly found through manufacturing of various PN components"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 420,
+      "preview": "- Biliary tract primary route for Mn excretion"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 421,
+      "preview": "- Patients with cholestasis may have decreased Mn excretion"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 422,
+      "preview": "- Toxicity"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 423,
+      "preview": "- Symptoms include insomnia, headache, forgetfulness, anxiety, cholestasis, Parkinson's disease-like"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 424,
+      "preview": "- Best assessed through MRI brain (accumulation in basal ganglia)"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 425,
+      "preview": "- Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 426,
+      "preview": "- Regular monitoring of patients receiving chronic PN"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 427,
+      "preview": "- Erythrocyte or whole-blood Mn concentrations should be measured"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Manganese (Mn)",
+      "line": 429,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 431
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 433,
+      "preview": "- Deficiency may develop within 6 weeks of being Se-free in PN"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 434,
+      "preview": "- Can cause cardiomyopathy, growth retardation, pseudo-albinism, white fingernails, hypothyroidism"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 435,
+      "preview": "- Patients should be supplemented if on exclusive PN for $>4$ weeks"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 436,
+      "preview": "- Toxicity rare"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 437,
+      "preview": "- May cause nausea, diarrhea, irritability, fatigue, peripheral neuropathy, hair loss, nail changes"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 438,
+      "preview": "- In patients with impaired renal function, reduce Se from PN"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 439,
+      "preview": "- Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 440,
+      "preview": "- Total plasma selenium, glutathione peroxidase, C-reactive protein"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 441,
+      "preview": "- In presence of systemic inflammation, Se levels may decrease"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 442,
+      "preview": "- Close monitoring in patients with renal dysfunction"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Selenium (Se)",
+      "line": 444,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 446
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 448,
+      "preview": "- Excreted in kidneys"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 449,
+      "preview": "- Common contaminant in PN solutions"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 450,
+      "preview": "- Contamination can increase delivery by 10-100\\%. Deficiency is rare."
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 451,
+      "preview": "- Chromium deficiency symptoms primarily involve reversible glucose intolerance that does not improv"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 452,
+      "preview": "- Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 453,
+      "preview": "- Close monitoring in patients with renal dysfunction"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 454,
+      "preview": "- Consider monitoring both serum Cr concentrations and HbA1C levels regularly in long-term PN patien"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 455,
+      "preview": "- Best method for diagnosing Cr deficiency is demonstrating insulin resistance that improves with Cr"
+    },
+    {
+      "type": "text",
+      "section": "Micronutrients: Chromium (Cr)",
+      "line": 457,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Multivitamin Vials - Pediatric",
+      "line": 459
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 461
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 463,
+      "preview": "|  Infuvite ${ }^{\\text {\u00ae }}$ Pediatric Vial #1 contents (per 4 mL ) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 464,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 465,
+      "preview": "|  Active Ingredient | Quantity  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 466,
+      "preview": "|  Ascorbic acid (Vitamin C) | 80 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 467,
+      "preview": "|  Vitamin A* (as palmitate) | 2,300 IU (equals 0.7 mg )  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 468,
+      "preview": "|  Vitamin $\\mathrm{D}_{3}{ }^{*}$ (cholecalciferol) | 400 IU (equals 10 mcg )  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 469,
+      "preview": "|  Thiamine (Vitamin $\\mathrm{B}_{1}$ ) (as the hydrochloride) | 1.2 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 470,
+      "preview": "|  Riboflavin (Vitamin $\\mathrm{B}_{2}$ ) (as riboflavin 5-phosphate sodium) | 1.4 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 471,
+      "preview": "|  Pyridoxine HCl (Vitamin $\\mathrm{B}_{3}$ ) | 1 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 472,
+      "preview": "|  Niacinamide | 17 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 473,
+      "preview": "|  Dexpanthenol (as d-pantothenyl alcohol) | 5 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 474,
+      "preview": "|  Vitamin E* (d/ $\\alpha$-tocopheryl acetate) | 7 IU (equals 7 mg )  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 475,
+      "preview": "|  Vitamin $\\mathrm{K}_{1}{ }^{*}$ | 0.2 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 476,
+      "preview": "|  *Polyovitate 80 is used to water solubilize the oil-soluble vitamins A, D, E, and K. |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 478,
+      "preview": "|  Infuvite ${ }^{\\text {\u00ae }}$ Pediatric Vial #2 contents |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 479,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 480,
+      "preview": "|  Active Ingredient | Quantity  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 481,
+      "preview": "|  Folic acid | 140 mcg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 482,
+      "preview": "|  Biotin | 20 mcg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 483,
+      "preview": "|  Vitamin B12 (cyanocobalamin) | 1 mcg  |"
+    },
+    {
+      "type": "text",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2)",
+      "line": 485,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Micronutrients: Multivitamin Vials - Adult",
+      "line": 487
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 489
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 491,
+      "preview": "|  Infuvite ${ }^{\\text {\u00ae }}$ Adult Vial #1 contents (per 5 mL ) | Infuvite ${ }^{\\text {\u00ae }}$ Adul"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 492,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 493,
+      "preview": "|  Ascorbic acid (Vitamin C) | 600 mcg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 494,
+      "preview": "|  Vitamin A* (as palmitate) | 60 mcg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 495,
+      "preview": "|  Vitamin D3* (cholecalciferol) | 5 mcg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 496,
+      "preview": "|  Thiamine (Vitamin B1) (as the hydrochloride) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 497,
+      "preview": "|  Riboflavin (Vitamin B2) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 498,
+      "preview": "|  (as riboflavin 5-phosphate sodium) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 499,
+      "preview": "|  Pyridoxine HCl (Vitamin B6) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 500,
+      "preview": "|  Niacinamide |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 501,
+      "preview": "|  Dexpanthenol |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 502,
+      "preview": "|  (as d-pantothenyl alcohol) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 503,
+      "preview": "|  Vitamin E* (dl-a-tocopheryl acetate) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 504,
+      "preview": "|  Vitamin K1* |   |"
+    },
+    {
+      "type": "text",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 506,
+      "preview": "U.S. Food and Drug Administration. \"FDA Online Label Repository.\" Accessed September 19, 2024. https"
+    },
+    {
+      "type": "text",
+      "section": "Multi-vitamins in PN typically supplied as 2 injectable vials (Vial 1, Vial 2; note differences in dosing and volume)",
+      "line": 508,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Acid Base / Balance",
+      "line": 510
+    },
+    {
+      "type": "text",
+      "section": "Acid Base / Balance",
+      "line": 512,
+      "preview": "- May be managed by addition or removal of sodium, potassium acetate"
+    },
+    {
+      "type": "text",
+      "section": "Acid Base / Balance",
+      "line": 513,
+      "preview": "- Acetate = bicarbonate precursor"
+    },
+    {
+      "type": "text",
+      "section": "Acid Base / Balance",
+      "line": 514,
+      "preview": "- Bicarbonate contraindicated in PN"
+    },
+    {
+      "type": "text",
+      "section": "Acid Base / Balance",
+      "line": 515,
+      "preview": "- Calcium / phosphate precipitation"
+    },
+    {
+      "type": "text",
+      "section": "Acid Base / Balance",
+      "line": 516,
+      "preview": "- High Na load"
+    },
+    {
+      "type": "text",
+      "section": "Acid Base / Balance",
+      "line": 517,
+      "preview": "- Generates $\\mathrm{CO}_{2}$ in PN bag"
+    },
+    {
+      "type": "text",
+      "section": "Acid Base / Balance",
+      "line": 519,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Heparin",
+      "line": 521
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 523,
+      "preview": "- Prophylactic anticoagulant used to prevent thrombosis"
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 524,
+      "preview": "- Reduces formation of fibrin sheath around catheter"
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 525,
+      "preview": "- May reduce phlebitis with peripheral IV access"
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 526,
+      "preview": "- May facilitate lipid clearance (increases lipolysis and releases free fatty acids)"
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 527,
+      "preview": "- Heparin dosing"
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 528,
+      "preview": "- 1 unit/mL full-term infants to adults"
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 529,
+      "preview": "- 0.5 units/mL preterm and VLBW infants (< 1500 g)"
+    },
+    {
+      "type": "text",
+      "section": "Heparin",
+      "line": 531,
+      "preview": "--- page 35 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case: Review",
+      "line": 533
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 535,
+      "preview": "- Jerry is a previously healthy 13-year-old male. He was transferred from an outside hospital after "
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 536,
+      "preview": "- Since surgery he has been having 75 - $100 \\mathrm{~mL} / \\mathrm{kg}$ of ostomy output daily. He "
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 538,
+      "preview": "Question: What is the most appropriate way to provide adequate hydration and nutrition to GE?"
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 540,
+      "preview": "--- page 36 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case: Review",
+      "line": 542
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 544,
+      "preview": "- Jerry is a previously healthy 13-year-old male. He was transferred from an outside hospital after "
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 545,
+      "preview": "- 3 months after initial ostomy creation, ostomy was taken down and intestines were placed in contin"
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 546,
+      "preview": "- PN weaned inpatient over 14 days after ostomy take down"
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 547,
+      "preview": "- He continues to require micronutrient supplementation ( $\\mathrm{B}_{12}, \\mathrm{Zn}$ ), but eats"
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 549,
+      "preview": "Question: What is the most appropriate way to provide adequate hydration and nutrition to GE?"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "ccfca2ac4446485e.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/ccfca2ac4446485e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5PN Components/images/ccfca2ac4446485e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ccfca2ac4446485e"
+    },
+    {
+      "sha_name": "175d54a88c00cc54.png",
+      "original_ref": "img-1.jpeg",
+      "page": 1,
+      "relative_path": "images/175d54a88c00cc54.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/5PN Components/images/175d54a88c00cc54.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "175d54a88c00cc54"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696102",
+    "ts": "2025-08-08T23:35:02.254904+00:00"
+  }
+}

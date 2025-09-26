@@ -1,0 +1,2679 @@
+{
+  "doc_id": "10_enteralfeeding__42e0c2",
+  "original_filename": "10_EnteralFeeding.pdf",
+  "md_path": "data/parsed/10_EnteralFeeding/10_EnteralFeeding.md",
+  "rmd_path": "data/parsed/10_EnteralFeeding/10_EnteralFeeding.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Enteral Feeding",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Enteral Feeding",
+      "line": 4,
+      "content": "![img-0.jpeg](images/3f968b9c0f6bacf2.png)"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Feeding",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Feeding",
+      "line": 7,
+      "preview": "(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Enteral Feeding",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Enteral Feeding",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ENTERAL FEEDING",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ENTERAL FEEDING",
+      "line": 15,
+      "preview": "Ainsley Malone, M.S., R.D., L.D., CNSC, FASPEN ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ENTERAL FEEDING",
+      "line": 16,
+      "preview": "Mt. Carmel Grove City Hospital"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SUPPORT COMPLICATIONS: ENTERAL FEEDING",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Identify gastrointestinal complications in patients receiving enteral nutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Recommend strategies for managing gastrointestinal complications in enterally fed patients."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Assess risk of pulmonary aspiration in patients receiving enteral nutrition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ABBREVIATIONS",
+      "line": 39
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 41,
+      "preview": "- EN:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 42,
+      "preview": "- GI:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 43,
+      "preview": "- GE:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 44,
+      "preview": "- GERD:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 45,
+      "preview": "- GCS:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 46,
+      "preview": "- GRV:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 47,
+      "preview": "- FODMAP's:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 48,
+      "preview": "- HOB:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 49,
+      "preview": "- ICU:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 50,
+      "preview": "- MCT:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 51,
+      "preview": "- RCT:"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 52,
+      "preview": "enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 53,
+      "preview": "gastrointestinal"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 54,
+      "preview": "gastric emptying"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 55,
+      "preview": "gastroesophageal reflux disease"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 56,
+      "preview": "Glascow coma scale"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 57,
+      "preview": "gastric residual volume"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 58,
+      "preview": "Fermentable, oligo-, di-, monosaccharides and polyols"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 59,
+      "preview": "head of bed"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 60,
+      "preview": "intensive care unit"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 61,
+      "preview": "medium chain triglycerides"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 62,
+      "preview": "randomized controlled trial"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 64,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 66
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 68,
+      "preview": "Interventions to manage gastroparesis in patients receiving enteral feedings include:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 69,
+      "preview": "A. Change to a high fiber, high fat enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 70,
+      "preview": "B. Decrease feeding volume"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 71,
+      "preview": "C. Change from a continuous feeding to a bolus feeding"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 72,
+      "preview": "D. Increase sedative agent"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 74
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 76,
+      "preview": "Diarrhea can be defined as:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 77,
+      "preview": "A. 2 loose stools/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 78,
+      "preview": "B. 100 mL liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 79,
+      "preview": "C. $>500 \\mathrm{~mL}$ liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 80,
+      "preview": "D. $300 \\mathrm{~mL} /$ liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 82,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 84
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 86,
+      "preview": "- Complications of enteral nutrition related to multiple variables"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 87,
+      "preview": "- Disease or illness"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 88,
+      "preview": "- Treatment side effects"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 89,
+      "preview": "- Types include GI, pulmonary and metabolic"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 90,
+      "preview": "- GI complications"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 91,
+      "preview": "- Nausea, vomiting"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 92,
+      "preview": "- Abdominal distention"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 93,
+      "preview": "- Diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 94,
+      "preview": "- Constipation"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 95,
+      "preview": "- Pulmonary: Aspiration"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION COMPLICATIONS",
+      "line": 97,
+      "preview": "Malone A et al. ASPEN nutrition support core curriculum, 3rd ed. 2017: 265-84."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ENTERAL NUTRITION AND COMPLICATIONS",
+      "line": 99
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION AND COMPLICATIONS",
+      "line": 101,
+      "preview": "- EN tolerance and complications are often used interchangeably"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION AND COMPLICATIONS",
+      "line": 102,
+      "preview": "- EN tolerance definitions vary considerably"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION AND COMPLICATIONS",
+      "line": 103,
+      "preview": "- Defined by Wang et al. as two or more GI symptoms"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION AND COMPLICATIONS",
+      "line": 104,
+      "preview": "- $32 \\%$ experienced intolerance"
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION AND COMPLICATIONS",
+      "line": 105,
+      "preview": "- Blaser et al. defined as \"a complex assessment of GI symptoms\" vs \"a single measurement\""
+    },
+    {
+      "type": "text",
+      "section": "ENTERAL NUTRITION AND COMPLICATIONS",
+      "line": 107,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 109
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 111,
+      "preview": "Nausea and vomiting:"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 113,
+      "preview": "- Occurrence ranges from 7\\%- 26\\% of critically ill patients"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 114,
+      "preview": "- Delayed GE most common cause"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 115,
+      "preview": "- Gastroparesis etiologies"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 116,
+      "preview": "- Connective tissue disorders, autoimmune disorders, prior gastric surgery, ischemia, and medication"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 117,
+      "preview": "- Diabetes: Demonstrated 47\\% delayed GE in Type I diabetes"
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 118,
+      "preview": "- Medications: Narcotics, tricyclic antidepressants, anticholinergics, octreotide, etc."
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 120,
+      "preview": "Malone A et al. ASPEN nutrition support core curriculum. 3rd ed. 2017: 265-84."
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 121,
+      "preview": "Wang K et al. JPEN J Parent Enteral Nutr. 2016; 41:959-67."
+    },
+    {
+      "type": "text",
+      "section": "GASTROINTESTINAL COMPLICATIONS",
+      "line": 122,
+      "preview": "Blaser AR et al. Clin Nutr. 2015; 34:956-61."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 124
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 126,
+      "preview": "- Hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 127,
+      "preview": "- Medications (opiates, catecholamines)"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 128,
+      "preview": "- Increased intracranial pressure"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 129,
+      "preview": "- Electrolyte abnormalities"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 130,
+      "preview": "- Ischemia, hypoxia"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 131,
+      "preview": "- Sepsis"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 132,
+      "preview": "- Burns, trauma, surgery"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 133,
+      "preview": "- High fat enteral formulas"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 134,
+      "preview": "- Physiology"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 135,
+      "preview": "- Nguyen et al."
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 136,
+      "preview": "- Demonstrated abnormal proximal and distal gastric motility"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 137,
+      "preview": "- Lower frequency of fundic waves"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 138,
+      "preview": "- Gastric emptying is downregulated earlier in critical illness"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 139,
+      "preview": "- Altered migrating motor complex"
+    },
+    {
+      "type": "text",
+      "section": "DELAYED GASTRIC EMPTYING IN THE ICU",
+      "line": 141,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "INTERVENTIONS FOR GASTROPARESIS",
+      "line": 143
+    },
+    {
+      "type": "text",
+      "section": "INTERVENTIONS FOR GASTROPARESIS",
+      "line": 145,
+      "preview": "- Modification of narcotic medications"
+    },
+    {
+      "type": "text",
+      "section": "INTERVENTIONS FOR GASTROPARESIS",
+      "line": 146,
+      "preview": "- Change enteral formula to a low fiber formula without excessive fat content"
+    },
+    {
+      "type": "text",
+      "section": "INTERVENTIONS FOR GASTROPARESIS",
+      "line": 147,
+      "preview": "- Reduce feeding volume"
+    },
+    {
+      "type": "text",
+      "section": "INTERVENTIONS FOR GASTROPARESIS",
+      "line": 148,
+      "preview": "- Changing feeding administration"
+    },
+    {
+      "type": "text",
+      "section": "INTERVENTIONS FOR GASTROPARESIS",
+      "line": 149,
+      "preview": "- Consider a prokinetic agent"
+    },
+    {
+      "type": "text",
+      "section": "INTERVENTIONS FOR GASTROPARESIS",
+      "line": 151,
+      "preview": "Malone A et al. ASPEN nutrition support core curriculum. 3rd ed. 2017:265-84."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ABDOMINAL DISTENTION",
+      "line": 153
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 155,
+      "preview": "- Common reason for EN interruption"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 156,
+      "preview": "- May be associated with bloating and cramping"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 157,
+      "preview": "- Etiologies"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 158,
+      "preview": "- Ileus"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 159,
+      "preview": "- Obstruction"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 160,
+      "preview": "- Obstipation"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 161,
+      "preview": "- Diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 162,
+      "preview": "- Visual inspection and palpation important for assessment"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 163,
+      "preview": "- Screen GI abnormality with abdominal film"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 164,
+      "preview": "- May require more definitive radiology"
+    },
+    {
+      "type": "text",
+      "section": "ABDOMINAL DISTENTION",
+      "line": 166,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DIARRHEA",
+      "line": 168
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 170,
+      "preview": "- Most common GI side effect with EN (2\\% - 68\\% prevalence)"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 171,
+      "preview": "- Standard definition is important"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 172,
+      "preview": "- Normal stool water: $250-500 \\mathrm{~mL}$"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 173,
+      "preview": "- $>500 \\mathrm{~mL}$ stool/day"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 174,
+      "preview": "- > 3 liquid stools/day"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 175,
+      "preview": "- Often underappreciated"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 176,
+      "preview": "- Disrupts rehabilitation"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 177,
+      "preview": "- Increases risk of skin breakdown"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 178,
+      "preview": "- Increases fluid and electrolyte losses"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 180,
+      "preview": "Brito-Ashurst I et al. JPEN J Parenter Enteral Nutr. 2016; 40:913-23."
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA",
+      "line": 181,
+      "preview": "Ferrie S et al. Aust Crit Care. 2007; 20:7-13."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ETIOLOGY OF DIARRHEA",
+      "line": 183
+    },
+    {
+      "type": "table",
+      "section": "ETIOLOGY OF DIARRHEA",
+      "line": 185,
+      "preview": "| Osmotic | Secretory |"
+    },
+    {
+      "type": "table",
+      "section": "ETIOLOGY OF DIARRHEA",
+      "line": 186,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ETIOLOGY OF DIARRHEA",
+      "line": 187,
+      "preview": "| - Undigested nutrients result in a hyperosmolar load <br> - Watery stool is rapidly evacuated <br>"
+    },
+    {
+      "type": "text",
+      "section": "ETIOLOGY OF DIARRHEA",
+      "line": 189,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 191
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 193,
+      "preview": "- Discontinue offensive medications or diluents"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 194,
+      "preview": "- Hyperosmolar"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 195,
+      "preview": "- Sorbitol - 10-20 grams can lead to GI effects"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 196,
+      "preview": "- Identify source of maldigestion and/or malabsorption and treat accordingly"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 197,
+      "preview": "- Short bowel syndrome, pancreatic exocrine dysfunction, vagotomy"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 198,
+      "preview": "- Alter nutrient form"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 199,
+      "preview": "- Chemically defined nutrients"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 200,
+      "preview": "- Pancreatic enzymes if applicable"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 201,
+      "preview": "- Consider antidiarrheal agent"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 202,
+      "preview": "- Discontinue EN if unable to resolve"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA - TREATMENT STRATEGIES",
+      "line": 204,
+      "preview": "Malone A et al. ASPEN nutrition support core curriculum, 3rd ed. 2017:265-84."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 206
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 208,
+      "preview": "- Pilot trial in ICU patients ( $n=49$ )"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 209,
+      "preview": "- RCT comparing peptide (fish oil and MCT) vs standard enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 210,
+      "preview": "- Tolerance and EN volume baseline measurements collected and up to 21 days of feeding."
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 211,
+      "preview": "- Results"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 212,
+      "preview": "- Significantly fewer days with adverse events"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 213,
+      "preview": "- Significantly fewer days with undesired GI events"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 214,
+      "preview": "- Significantly fewer days with distention post baseline"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 216,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 218
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 220,
+      "preview": "- Pilot trial in ICU patients ( $n=49$ )"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 221,
+      "preview": "- RCT d"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 222,
+      "preview": "\"A specialized peptide-based formula containing fish"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 223,
+      "preview": "formula"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 224,
+      "preview": "- Tolerance a feeding."
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 225,
+      "preview": "\"A specialized peptide-based formula containing fish oil and MCT in"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 226,
+      "preview": "- Results"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 227,
+      "preview": "enterally fed critically ill patients may predispose to better"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 228,
+      "preview": "- Signifi"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 229,
+      "preview": "gastrointestinal tolerance\""
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 230,
+      "preview": "- Significantly fewer days with distention post baseline"
+    },
+    {
+      "type": "text",
+      "section": "PEPTIDE VS INTACT NUTRIENT FORMULA",
+      "line": 232,
+      "preview": "Seres DS et al. Clin Nutr. 2017; 36:706-09."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 234
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 236,
+      "preview": "- Does diarrhea equate to malabsorption?"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 237,
+      "preview": "- Wierdsma et al. Crit Care 2011 (pilot study)"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 238,
+      "preview": "- Validate the diagnostic accuracy of fecal weight as a biomarker for fecal loss"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 239,
+      "preview": "- Assess fecal macronutrient contents"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 240,
+      "preview": "- Stool from 48 patients analyzed"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 241,
+      "preview": "- 10 with $>350$ grams/day; 38 with $<350$ grams/day"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 242,
+      "preview": "- More than 350 grams/day feces was statistically significantly associated with an energy-absorption"
+    },
+    {
+      "type": "text",
+      "section": "DIARRHEA AND MALABSORPTION",
+      "line": 244,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FIBER AND DIARRHEA",
+      "line": 246
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 248,
+      "preview": "- Multiple small studies have demonstrated improvement in diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 249,
+      "preview": "- Meta-analysis of aggregated data (over 400 subjects) in 17 studies"
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 250,
+      "preview": "- No difference in diarrhea in ICU patients receiving dietary fiber"
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 251,
+      "preview": "- Reduced diarrhea in non-ICU patients receiving dietary fiber"
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 252,
+      "preview": "- Short chain fructo-oligo saccharides may contribute to diarrhea (FODMAP's)"
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 253,
+      "preview": "- Especially in those receiving antibiotics impacting intestinal microbiota"
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 254,
+      "preview": "- Highly osmotic"
+    },
+    {
+      "type": "text",
+      "section": "FIBER AND DIARRHEA",
+      "line": 256,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40:159-211."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 258
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 260,
+      "preview": "- Once Clostridum difficile ruled out"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 261,
+      "preview": "- Loperamide"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 262,
+      "preview": "- Directly acts on the circular and longitudinal muscles of the intestinal wall to slow motility"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 263,
+      "preview": "- Inhibits fluid and electrolyte secretion and/or increase water absorption"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 264,
+      "preview": "- $2-4 \\mathrm{mg}$ for each loose stool (or four times daily)"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 265,
+      "preview": "- Max of $16 \\mathrm{mg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 266,
+      "preview": "- Greater effectiveness with scheduled doses"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 267,
+      "preview": "- Clinical improvement within 48 hours"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 269,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 271
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 273,
+      "preview": "- Diphenoxylate"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 274,
+      "preview": "- Acts locally and centrally on the smooth muscle cells of the GI tract to inhibit GI motility and s"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 275,
+      "preview": "- $2.5-5 \\mathrm{mg}$ four times daily"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 276,
+      "preview": "- Maximum of $20 \\mathrm{mg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 277,
+      "preview": "- Discontinue with clinical improvement"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 278,
+      "preview": "- Tincture of Opium"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 279,
+      "preview": "- Inhibits peristalsis through opioid receptor stimulation in the GI tract"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 280,
+      "preview": "- $3-6 \\mathrm{mg}$ one to four times/day"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 281,
+      "preview": "- Maximum of $24 \\mathrm{mg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "ANTI-DIARRHEAL AGENTS",
+      "line": 283,
+      "preview": "Btaiche I et al. Nutr Clin Pract. 2010; 25:32-49."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "CONSTIPATION",
+      "line": 285
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 287,
+      "preview": "- Difficult to define"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 288,
+      "preview": "- Normal defecation patterns vary"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 289,
+      "preview": "- Dependent on residue and absorption of enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 290,
+      "preview": "- Clinical definition"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 291,
+      "preview": "- Accumulation of excess waste in the colon, often up to the transverse colon or even the cecum"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 292,
+      "preview": "- Causes"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 293,
+      "preview": "- Dehydration"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 294,
+      "preview": "- Inadequate or excessive dietary fiber"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 295,
+      "preview": "- Stool softener or cleansing enema maybe considered"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 297,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "CONSTIPATION",
+      "line": 299
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 301,
+      "preview": "- Addition of fiber to enteral regimen"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 302,
+      "preview": "- Insoluble module or mixed fiber enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 303,
+      "preview": "- May need additional fluid to facilitate regular stool output"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 304,
+      "preview": "- Minimum of 1 mL fluid per enteral calorie intake"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 305,
+      "preview": "- Incidence in critically ill patients"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 306,
+      "preview": "- Observational study in 106 ICU patients ( $>3$ days admission)"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 307,
+      "preview": "- Lack of bowel movement for 3 consecutive days"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 308,
+      "preview": "- 70\\% experienced constipation"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 309,
+      "preview": "- Early enteral feedings reduced risk of constipation by $16 \\%$ ( $p<0.01$ )"
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 311,
+      "preview": "Seres DS et al. Clin Nutr. 2017; 36:706-09."
+    },
+    {
+      "type": "text",
+      "section": "CONSTIPATION",
+      "line": 312,
+      "preview": "Nassar AP et al. J Crit Care. 2009; 24(4):630-e9."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 314
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 316,
+      "preview": "- Aspiration is the inhalation of material into the airway"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 317,
+      "preview": "- Assumption that pneumonia can develop from aspiration of enteral feeding"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 318,
+      "preview": "- Relationship between enteral feedings and aspiration is associative"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 319,
+      "preview": "- Progression from aspiration to pneumonia depends on the quantity and the acidity of the formula"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 320,
+      "preview": "- Aspiration pneumonia may account for 5\\% to 15\\% of pneumonia in hospitalized patients"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 321,
+      "preview": "- Incidence of gastric contents in tracheal secretions: $22 \\%$ to $31 \\%$"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION AND ENTERAL FEEDINGS",
+      "line": 323,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 325
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 327,
+      "preview": "- Low HOB elevation"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 328,
+      "preview": "- Gastric feedings"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 329,
+      "preview": "- Low GCS"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 330,
+      "preview": "- Gastro-esophageal reflux disease"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 331,
+      "preview": "- Use of paralytic agents"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 332,
+      "preview": "- High sedation levels"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 333,
+      "preview": "- Feeding tube malposition"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 334,
+      "preview": "- Transportation within the hospital"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 335,
+      "preview": "- Inadequate nursing staff"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION RISK FACTORS",
+      "line": 337,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 2016; 40:159-211."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 339
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 341,
+      "preview": "- Historical use of measuring gastric volume during feeding"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 342,
+      "preview": "- Highly subjective"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 343,
+      "preview": "- Not physiologically sound"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 344,
+      "preview": "- Often leads to underfeeding"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 345,
+      "preview": "- Accuracy influenced by many factors"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 346,
+      "preview": "- Tube diameter"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 347,
+      "preview": "- Location of the tube's openings"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 348,
+      "preview": "- Patient positioning"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 349,
+      "preview": "- Skill of the clinician"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUME ASPIRATION RISK MARKER?",
+      "line": 351,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 353
+    },
+    {
+      "type": "image",
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 355,
+      "content": "![img-1.jpeg](images/c8ed6bd8ccfbfe1d.png)"
+    },
+    {
+      "type": "text",
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 357,
+      "preview": "Physical Exam"
+    },
+    {
+      "type": "image",
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 358,
+      "content": "![img-2.jpeg](images/dc2944d84c27d609.png)"
+    },
+    {
+      "type": "text",
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 360,
+      "preview": "Medominal Radiograph"
+    },
+    {
+      "type": "text",
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 362,
+      "preview": "- Physical exam findings correlate to radiographic findings ( $p=0.016$ )"
+    },
+    {
+      "type": "text",
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 363,
+      "preview": "- GRV failed to correlate with physical exam or radiology findings"
+    },
+    {
+      "type": "text",
+      "section": "GRV COMPARISON WITH ABDOMINAL EXAM \\& RADIOLOGY",
+      "line": 365,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 1992; 16:99-105."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "GASTRIC RESIDUAL VOLUMES",
+      "line": 367
+    },
+    {
+      "type": "image",
+      "section": "GASTRIC RESIDUAL VOLUMES",
+      "line": 369,
+      "content": "![img-3.jpeg](images/ecce29c096a37222.png)"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUMES",
+      "line": 371,
+      "preview": "- Suggest that GRVs not be used as part of routine care to monitor ICU patients receiving EN (L)"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUMES",
+      "line": 372,
+      "preview": "- Those ICUs where GRVs are still utilized, holding EN for GRVs $<500 \\mathrm{~mL}$ in the absence o"
+    },
+    {
+      "type": "text",
+      "section": "GASTRIC RESIDUAL VOLUMES",
+      "line": 374,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PRACTICE ALERT",
+      "line": 376
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 378,
+      "preview": "- Maintain HOB 30'- 45 unless contraindicated"
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 379,
+      "preview": "- Use sedatives sparingly"
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 380,
+      "preview": "- Assess feeding tube placement every 4 hours"
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 381,
+      "preview": "- Observe for change in external tube"
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 382,
+      "preview": "- Assess GI tolerance every 4 hours"
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 383,
+      "preview": "- Assess GRV's and abdominal status"
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 384,
+      "preview": "- Avoid bolus feedings for those at high aspiration risk"
+    },
+    {
+      "type": "text",
+      "section": "PRACTICE ALERT",
+      "line": 386,
+      "preview": "Metheny, NA. Critical Care Nurse. 2016; 36(1):e20-e24."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ASPIRATION PREVENTION",
+      "line": 388
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 390
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 392,
+      "preview": "- Mechanical ventilation"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 393,
+      "preview": "- Continuous infusion of sedatives"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 394,
+      "preview": "- Paralytic agents and inotropes"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 395,
+      "preview": "- High nasogastric output"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 396,
+      "preview": "- Gastric resection or altered gastric anatomy"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 397,
+      "preview": "- Severe gastroparesis or gastro esophageal reflux"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 398,
+      "preview": "- Supine position"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 399,
+      "preview": "- Neurological deficits or impaired level of consciousness"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 400,
+      "preview": "- Advanced age"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 402,
+      "preview": "McClave SA et al. JPEN J Parenter Enteral Nutr. 1992; 16:99-105."
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 403,
+      "preview": "\"Recommend that the level of infusion be diverted lower in the GI tract in those critically ill pati"
+    },
+    {
+      "type": "text",
+      "section": "ASPEN/SCCM Critical Care Nutrition Guidelines:",
+      "line": 405,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASPIRATION PREVENTION",
+      "line": 407
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 409,
+      "preview": "- Monitor patients at least every 4 hours for positioning"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 410,
+      "preview": "- Minimize use of sedatives"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 411,
+      "preview": "- Monitor patient status for tolerance"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 412,
+      "preview": "- Abdominal distention or firmness"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 413,
+      "preview": "- High GRV's"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 414,
+      "preview": "- Bloating or nausea"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 415,
+      "preview": "- Monitor tube position at least every 4 hours"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 416,
+      "preview": "- Metheny, 2006 - 201 ICU patients"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 417,
+      "preview": "- 25 patients with malpositioned tubes after 3 days"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 418,
+      "preview": "- Significantly higher incidence of pneumonia"
+    },
+    {
+      "type": "text",
+      "section": "ASPIRATION PREVENTION",
+      "line": 420,
+      "preview": "Metheny NA et al. Crit Care Med. 2006; 34:1007-15."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 422
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 424,
+      "preview": "- Monitoring schedules should be based on clinical status"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 425,
+      "preview": "- EN intolerance in ICU likely to occur 1-3 days following initiation"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 426,
+      "preview": "- Nutrition risk assessment will likely dictate monitoring schedule"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 428,
+      "preview": "Reasons for Intolerance in Blaser Study ( $n=576$ ):"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 430,
+      "preview": "- Abdominal distention ( $n=96$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 431,
+      "preview": "- Subjective discomfort ( $n=46$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 432,
+      "preview": "- Vomiting/emesis or diarrhea ( $n=211$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 433,
+      "preview": "- High gastric residual volume ( $n=355$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 435,
+      "preview": "Symptoms in Gungabissoon Study ( $n=1,712$ ):"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 437,
+      "preview": "- Vomiting ( $n=432$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 438,
+      "preview": "- Absent bowel sounds ( $n=370$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 439,
+      "preview": "- GRV> $500 \\mathrm{~mL} / 24$ hours ( $n=176$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 440,
+      "preview": "- Bowel distention ( $n=67$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 441,
+      "preview": "- Diarrhea ( $n=56$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 443,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 445
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 447,
+      "preview": "- Monitoring schedules should be based on clinical status"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 448,
+      "preview": "- EN into"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 449,
+      "preview": "- Nutritio \"Patients should be monitored daily for tolerance of EN"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 450,
+      "preview": "Reasons (determined by physical exam, passage of flatus or stool,"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 451,
+      "preview": "Study (n radiologic evaluations and absence of patient complaints"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 452,
+      "preview": "Study (n such as pain or abdominal distention).\" ASPEN/SCCM 2016"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 453,
+      "preview": "- Abdom Critical Care Nutrition Guidelines"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 454,
+      "preview": "- Subjed"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 455,
+      "preview": "- Vomiting/emesis or diarrhea ( $n=211$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 456,
+      "preview": "- GRV> 500mL / 24 hours ( $n=176$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 457,
+      "preview": "- High gastric residual volume ( $n=355$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 458,
+      "preview": "- Bowel distention ( $n=67$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 459,
+      "preview": "- Diarrhea ( $n=56$ )"
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 461,
+      "preview": "Blaser AR et al. Clin Nutr 2015;34:956-961."
+    },
+    {
+      "type": "text",
+      "section": "MONITORING AND REASSESSMENT OF ENTERAL NUTRITION",
+      "line": 462,
+      "preview": "Gungabissoon U et al. JPEN J Parenter Enteral Nutr. 2015; 39:441-48."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 464
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 466,
+      "preview": "Interventions to manage gastroparesis in patients receiving enteral feedings include:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 467,
+      "preview": "A. Change to a high fiber, high fat enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 468,
+      "preview": "B. Decrease feeding volume"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 469,
+      "preview": "C. Change from a continuous feeding to a bolus feeding"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 470,
+      "preview": "D. Increase sedative agent"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 472,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 474
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 476,
+      "preview": "Interventions to manage gastroparesis in patients receiving enteral feedings include:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 477,
+      "preview": "A. Change to a high fiber, high fat enteral formula"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 478,
+      "preview": "B. Decrease feeding volume"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 479,
+      "preview": "C. Change from a continuous feeding to a bolus feeding"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 480,
+      "preview": "D. Increase sedative agent"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 482
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 484,
+      "preview": "Diarrhea can be defined as:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 485,
+      "preview": "A. 2 loose stools/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 486,
+      "preview": "B. 100 mL liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 487,
+      "preview": "C. $>500 \\mathrm{~mL}$ liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 488,
+      "preview": "D. $300 \\mathrm{~mL} /$ liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 490,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 492
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 494,
+      "preview": "Diarrhea can be defined as:"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 495,
+      "preview": "A. 2 loose stools/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 496,
+      "preview": "B. 100 mL liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 497,
+      "preview": "C. $>500 \\mathrm{~mL}$ liquid stool/day"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 498,
+      "preview": "D. $300 \\mathrm{~mL} /$ liquid stool/day"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 500
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 502,
+      "preview": "- Bharucha A, Batey-Schaefer B, Cleary PA et al. Delayed gastric emptying is associated with early a"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 503,
+      "preview": "- Blaser AR, Starkopf L, Deane AM et al. Comparison of different definitions of feeding intolerance:"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 504,
+      "preview": "- Btaiche I, Neander-Chan L, Pleva M, Kraft MD. Critical illness, gastrointestinal complications, an"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 505,
+      "preview": "- Brito-Ashurst I, Presier JC. Diarrhea in critically ill patients. JPEN J Parenter Enteral Nutr. 20"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 506,
+      "preview": "- DiBardino DM, Wunderink RG. Aspiration pneumonia: a review of modern trends. J Crit Care. 2015; 30"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 507,
+      "preview": "- Ferrie S, East V. Managing diarrhea in intensive care. Aust Crit Care. 2007; 20:7-13."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 508,
+      "preview": "- Gungabissoon U, Mphil KH, Bains C et al. prevalence, risk factors, clinical consequences, and trea"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 509,
+      "preview": "- Malone A. Seres D, Lord L. Enteral nutrition complications. In: Mueller C, ed. Maryland: ASPEN nut"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 511,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 513
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 515,
+      "preview": "- McClave SA, Snider HL, Lowen CC et al. Use of residual volume as a marker for enteral feeding into"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 516,
+      "preview": "- McClave SA, Taylor BE, Martindale RG et al. Guidelines for the provision and assessment of nutriti"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 517,
+      "preview": "- Metheny, NA. Prevention of Aspiration in Adults. Critical Care Nurse. 2016; 36(1):e20-e24."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 518,
+      "preview": "- Metheny NA, Clouse RE, Yie-Hwa C et al. Tracheobronchial aspiration of gastric contents in critica"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 519,
+      "preview": "- Nassar AP, Queiroz de Silva FM, Cleva RD. Constipation in intensive care unit: incidence and risk "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 520,
+      "preview": "- Nguyen, NQ, Fraser, RJ, Bryant, LK et al. Diminished functional association between proximal and d"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 521,
+      "preview": "- Poulard F, Dimet J, Martin-Lefevre L et al. Impact of not measuring residual gastric volume in mec"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 524
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 526,
+      "preview": "- Seres DS, Ippolito PR. Pilot study evaluating the efficacy, tolerance and safety of a peptide-base"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 527,
+      "preview": "- Stein B, Everhart KK, Lacy BE. Gasgtroparesis. J Clin Gastroenterol. 2015; 49:550-58."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 529,
+      "preview": "Bharucha A, Batey-Schaefer B, Cleary PA et al. Delayed gastric emptying is associated with early and"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 531,
+      "preview": "- Wang K. Mcllroy K, Plank L et al. Prevalence, outcomes, and management of enteral tube feeding int"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 532,
+      "preview": "- Wierdsma NJ, Peters JH, Weijs PJ et al. Malabsorption and nutritional balance in the ICU: fecal we"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 534,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 536,
+      "content": "![img-4.jpeg](images/b421ed6e6c83bb0f.png)"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 538,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 540,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 542,
+      "content": "![img-5.jpeg](images/939184865fd2c259.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 544
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 546,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 547,
+      "preview": "The American Society for Parenteral and Enteral Nutrition (ASPEN) Nutrition Support Dietitian"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 548,
+      "preview": "Mount Carmel Grove City"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 549,
+      "preview": "Columbus, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 550,
+      "preview": "Ainsley Malone is a Dietitian member of the Nutrition Support Team at Mount Carmel Grove City in Col"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 551,
+      "preview": "Clinical Practice Specialist for the American Society for Parenteral and Enteral Nutrition (ASPEN) w"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 553,
+      "preview": "Ms. Malone is a certified nutrition support clinician and has given international, national and loca"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 555,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 557
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 559,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 561,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 563,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 565,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 566,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 567,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 568,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 569,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 571,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 573,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 575
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 577,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 579,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 581
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 583,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 585
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 587,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 589,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "3f968b9c0f6bacf2.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/3f968b9c0f6bacf2.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_EnteralFeeding/images/3f968b9c0f6bacf2.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "3f968b9c0f6bacf2"
+    },
+    {
+      "sha_name": "c8ed6bd8ccfbfe1d.png",
+      "original_ref": "img-1.jpeg",
+      "page": 14,
+      "relative_path": "images/c8ed6bd8ccfbfe1d.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_EnteralFeeding/images/c8ed6bd8ccfbfe1d.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "c8ed6bd8ccfbfe1d"
+    },
+    {
+      "sha_name": "dc2944d84c27d609.png",
+      "original_ref": "img-2.jpeg",
+      "page": 14,
+      "relative_path": "images/dc2944d84c27d609.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_EnteralFeeding/images/dc2944d84c27d609.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "dc2944d84c27d609"
+    },
+    {
+      "sha_name": "ecce29c096a37222.png",
+      "original_ref": "img-3.jpeg",
+      "page": 14,
+      "relative_path": "images/ecce29c096a37222.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_EnteralFeeding/images/ecce29c096a37222.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ecce29c096a37222"
+    },
+    {
+      "sha_name": "b421ed6e6c83bb0f.png",
+      "original_ref": "img-4.jpeg",
+      "page": 21,
+      "relative_path": "images/b421ed6e6c83bb0f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_EnteralFeeding/images/b421ed6e6c83bb0f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b421ed6e6c83bb0f"
+    },
+    {
+      "sha_name": "939184865fd2c259.png",
+      "original_ref": "img-5.jpeg",
+      "page": 22,
+      "relative_path": "images/939184865fd2c259.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/10_EnteralFeeding/images/939184865fd2c259.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "939184865fd2c259"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754694979",
+    "ts": "2025-08-08T23:16:19.496826+00:00"
+  }
+}

@@ -1,0 +1,3480 @@
+{
+  "doc_id": "1_prevention_assessment_andtreatmentofmalnutrition__a5c0d5",
+  "original_filename": "1_Prevention,Assessment,andTreatmentofMalnutrition.pdf",
+  "md_path": "data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/1_Prevention,Assessment,andTreatmentofMalnutrition.md",
+  "rmd_path": "data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/1_Prevention,Assessment,andTreatmentofMalnutrition.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SUPPORT CERTIFICATE",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Prevention, Assessment and Treatment of Malnutrition",
+      "line": 2
+    },
+    {
+      "type": "image",
+      "section": "Prevention, Assessment and Treatment of Malnutrition",
+      "line": 4,
+      "content": "![img-0.jpeg](images/3c0f2b7b3726528e.png)"
+    },
+    {
+      "type": "text",
+      "section": "Prevention, Assessment and Treatment of Malnutrition",
+      "line": 6,
+      "preview": "Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the Americ"
+    },
+    {
+      "type": "text",
+      "section": "Prevention, Assessment and Treatment of Malnutrition",
+      "line": 7,
+      "preview": "(C)2022 American Society of Health-System Pharmacists, Inc. All rights reserved."
+    },
+    {
+      "type": "text",
+      "section": "Prevention, Assessment and Treatment of Malnutrition",
+      "line": 9,
+      "preview": "No part of this publication may be reproduced or transmitted in any form or by any means, electronic"
+    },
+    {
+      "type": "text",
+      "section": "Prevention, Assessment and Treatment of Malnutrition",
+      "line": 11,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PREVENTION, ASSESSMENT AND TREATMENT OF MALNUTRITION",
+      "line": 13
+    },
+    {
+      "type": "text",
+      "section": "PREVENTION, ASSESSMENT AND TREATMENT OF MALNUTRITION",
+      "line": 15,
+      "preview": "Ainsley Malone, M.S., R.D., L.D., CNSC, FASPEN ASPEN"
+    },
+    {
+      "type": "text",
+      "section": "PREVENTION, ASSESSMENT AND TREATMENT OF MALNUTRITION",
+      "line": 16,
+      "preview": "Mt. Carmel Grove City Hospital"
+    },
+    {
+      "type": "text",
+      "section": "PREVENTION, ASSESSMENT AND TREATMENT OF MALNUTRITION",
+      "line": 18,
+      "preview": "NUTRITION SUPPORT CERTIFICATE"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 20
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 22,
+      "preview": "The following persons in control of this activity's content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 24,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 26,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 28,
+      "preview": "As defined by the Standards of Integrity and Independence definition of ineligible company. All rele"
+    },
+    {
+      "type": "text",
+      "section": "RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE",
+      "line": 30,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LEARNING OBJECTIVES",
+      "line": 32
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 34,
+      "preview": "- Describe an etiology-based approach to diagnosing malnutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 35,
+      "preview": "- Identify patients at risk for malnutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 36,
+      "preview": "- Employ an appropriate referral process to nutritional specialists."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 37,
+      "preview": "- Recognize clinical outcomes that are affected negatively by malnutrition."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 38,
+      "preview": "- Formulate a step-wise nutrition assessment process for patients with nutritional problems."
+    },
+    {
+      "type": "text",
+      "section": "LEARNING OBJECTIVES",
+      "line": 39,
+      "preview": "- Use appropriate criteria to diagnose the presence of malnutrition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "KEY ABBREVIATIONS",
+      "line": 42
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 44,
+      "preview": "- CABG:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 45,
+      "preview": "- COPD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 46,
+      "preview": "- CHF:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 47,
+      "preview": "- Ht:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 48,
+      "preview": "- IV:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 49,
+      "preview": "- MST:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 50,
+      "preview": "- NGT:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 51,
+      "preview": "- NPO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 52,
+      "preview": "coronary artery bypass graft"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 53,
+      "preview": "chronic obstructive pulmonary disease"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 54,
+      "preview": "congestive heart failure"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 55,
+      "preview": "height"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 56,
+      "preview": "intravenous"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 57,
+      "preview": "malnutrition screening tool"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 58,
+      "preview": "nasogastric tube"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 59,
+      "preview": "nil per os (nothing by mouth)"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATIONS",
+      "line": 61,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 63
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 65,
+      "preview": "- RD:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 66,
+      "preview": "- SBO:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 67,
+      "preview": "- UTI:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 68,
+      "preview": "- Wt:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 69,
+      "preview": "- WBC:"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 70,
+      "preview": "registered dietitian"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 71,
+      "preview": "small bowel obstruction"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 72,
+      "preview": "urinary tract infection"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 73,
+      "preview": "weight"
+    },
+    {
+      "type": "text",
+      "section": "KEY ABBREVIATION, CONT.",
+      "line": 74,
+      "preview": "white blood count"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 77
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 79,
+      "preview": "The relationship between a nutritional factor and a negative clinical outcome was first identified i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 80,
+      "preview": "A. True"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 81,
+      "preview": "B. False"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 83,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 85
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 87,
+      "preview": "SJ has been admitted for complaints of 2 week history of nausea/vomiting. A positive nutrition scree"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 88,
+      "preview": "A. Weight loss"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 89,
+      "preview": "B. Albumin level"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 90,
+      "preview": "C. Inadequate energy intake"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 91,
+      "preview": "D. A and C"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MALNUTRITION: NOT A NEW ISSUE",
+      "line": 93
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION: NOT A NEW ISSUE",
+      "line": 95,
+      "preview": "Example:"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION: NOT A NEW ISSUE",
+      "line": 97,
+      "preview": "- 1936 Publication \"Percentage of Weight Loss: Basic Indicator of Surgical Risk in Patients with Chr"
+    },
+    {
+      "type": "image",
+      "section": "MALNUTRITION: NOT A NEW ISSUE",
+      "line": 99,
+      "content": "![img-1.jpeg](images/46cadc7057e0793e.png)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION: NOT A NEW ISSUE",
+      "line": 101,
+      "preview": "Image labeled for reuse; retrieved via Google Images"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION: NOT A NEW ISSUE",
+      "line": 103,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 105
+    },
+    {
+      "type": "text",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 107,
+      "preview": "\"There may be four different causes, any of which will provide the same result, the patient slowly s"
+    },
+    {
+      "type": "text",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 109,
+      "preview": "- defect in cooking"
+    },
+    {
+      "type": "text",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 110,
+      "preview": "- defect in choice of diet"
+    },
+    {
+      "type": "text",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 111,
+      "preview": "- defect in choice of hours for taking diet"
+    },
+    {
+      "type": "text",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 112,
+      "preview": "- defect in appetite of patient"
+    },
+    {
+      "type": "text",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 114,
+      "preview": "Fee E et al. Am J Public Health. 2010;100:1591."
+    },
+    {
+      "type": "image",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 115,
+      "content": "![img-2.jpeg](images/2e64a1f58fe1bce7.png)"
+    },
+    {
+      "type": "text",
+      "section": "FLORENCE NIGHTINGALE",
+      "line": 117,
+      "preview": "Image labeled for reuse; retrieved via Google Images"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "LANDMARK PUBLICATION",
+      "line": 119
+    },
+    {
+      "type": "text",
+      "section": "LANDMARK PUBLICATION",
+      "line": 121,
+      "preview": "1974 Publication \"The Skeleton in the Hospital Closet\""
+    },
+    {
+      "type": "text",
+      "section": "LANDMARK PUBLICATION",
+      "line": 122,
+      "preview": "\"I suspect, as a matter of fact, that one of the largest pockets of unrecognized malnutrition in Ame"
+    },
+    {
+      "type": "text",
+      "section": "LANDMARK PUBLICATION",
+      "line": 124,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MALNUTRITION RECOGNITION",
+      "line": 126
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION RECOGNITION",
+      "line": 128,
+      "preview": "\"Underfeeding is a debt that must eventually be repaid, and like all debts it is made worse when it "
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION RECOGNITION",
+      "line": 130,
+      "preview": "- Richard D. Griffiths M.D."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION RECOGNITION",
+      "line": 132,
+      "preview": "Weinsier, RL et al. Am J Clin Nutr. 1979;32:418-426."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MALNUTRITION DEFINITION",
+      "line": 134
+    },
+    {
+      "type": "image",
+      "section": "MALNUTRITION DEFINITION",
+      "line": 136,
+      "content": "![img-3.jpeg](images/0b89e2f900739d0b.png)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION DEFINITION",
+      "line": 137,
+      "preview": "\"An acute, subacute or chronic state of nutrition, in which a combination of varying degrees of over"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION DEFINITION",
+      "line": 139,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MALNUTRITION RECOGNITION",
+      "line": 141
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Personal",
+      "line": 143
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 145,
+      "preview": "- Age"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 146,
+      "preview": "- Apathy/Depression"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 147,
+      "preview": "- Disease"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 148,
+      "preview": "- Inability to buy/prepare food"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 149,
+      "preview": "- Inability to chew/swallow"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 150,
+      "preview": "- Limited mobility"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 151,
+      "preview": "- Sensory loss"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 152,
+      "preview": "- Medications"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 153,
+      "preview": "- Therapies: ventilators/drains/NPO"
+    },
+    {
+      "type": "text",
+      "section": "Personal",
+      "line": 155,
+      "preview": "Kubrak C et al. Int J Nurs Stud. 2007; 44(6):1036-54."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Organizational",
+      "line": 157
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 159,
+      "preview": "- Lack of recognition"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 160,
+      "preview": "- Lack of screening/assessment"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 161,
+      "preview": "- Lack of nutrition education"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 162,
+      "preview": "- Confusion re: responsibility"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 163,
+      "preview": "- Ht / Wt not measured/recorded"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 164,
+      "preview": "- Failure to food intake"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 165,
+      "preview": "- Inadequate nutrients provided"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 166,
+      "preview": "- Lack of feeding assistance staff"
+    },
+    {
+      "type": "text",
+      "section": "Organizational",
+      "line": 167,
+      "preview": "- Nutrition status low priority"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 170
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 172,
+      "preview": "| Population | Patients (n) | Malnourished Patients (n\\%) |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 173,
+      "preview": "| :-- | :-- | :-- |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 174,
+      "preview": "| Acute Care $^{1}$ | 251 | $44 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 175,
+      "preview": "| Acute Care $^{2}$ | 2448 | $39 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 176,
+      "preview": "| ICU $^{3}$ | 129 | $43 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 177,
+      "preview": "| Acute Care $^{4}$ | 404 | $54 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 178,
+      "preview": "| ICU $^{5}$ | 57 | $50 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 179,
+      "preview": "| Acute Care and ICU $^{6}$ | 274 | $32-44 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 180,
+      "preview": "| Acute Care $^{7}$ | 404 | $48 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 181,
+      "preview": "| Pancreatic Surgery $^{8}$ | 43 | $56 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 182,
+      "preview": "| Acute Care $^{9}$ | 3759 | $68 \\%$ |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 183,
+      "preview": "| Critically III $^{10}$ | 327 | $30 \\%$ |"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE",
+      "line": 185,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 187
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 189,
+      "preview": "- Bistrian BR et al. JAMA. 1974; 230(6):858-60."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 190,
+      "preview": "- Veterans Affairs Study Group, N Engl J Med. 1991; 325(8):525."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 191,
+      "preview": "- Giner M et al. Nutrition. 1996; 12(1):23-29."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 192,
+      "preview": "- Braunschweig C et al. J Am Diet Assoc. 2000; 100(11):1316-22."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 193,
+      "preview": "- Sheean PM et al. Clin Nutr. 2013; 32(5):752-57."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 194,
+      "preview": "- Nicolo M et al. JPEN J Parenter Enteral Nutr. 2014; 38(8):954-49."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 195,
+      "preview": "- Hiller LD et al. JPEN J Parenter Enteral Nutr. 2018; 41:1316-24."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 196,
+      "preview": "- Berry A et al. Abstract \\#2392918. ASPEN Clinical Nutrition Week 2016."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 197,
+      "preview": "- Hudson L et al. JPEN J Parenter Enteral Nutr. 2018; 42(5):892-97."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 198,
+      "preview": "- Ceniccola GD et al. J Crit Care. 2018; 44:398-403."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 200,
+      "preview": "MALNUTRITION IMPACTS OUTCOME"
+    },
+    {
+      "type": "image",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 201,
+      "content": "![img-4.jpeg](images/6ce163b37be6d35b.png)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION PREVALENCE, CONT.",
+      "line": 203,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "HOSPITAL ACQUIRED EVENTS WITH PRE-EXISTING MALNUTRITION",
+      "line": 205
+    },
+    {
+      "type": "image",
+      "section": "HOSPITAL ACQUIRED EVENTS WITH PRE-EXISTING MALNUTRITION",
+      "line": 207,
+      "content": "![img-5.jpeg](images/b77f7965199d02f9.png)"
+    },
+    {
+      "type": "text",
+      "section": "HOSPITAL ACQUIRED EVENTS WITH PRE-EXISTING MALNUTRITION",
+      "line": 209,
+      "preview": "Fry DE et al. Arch Surg. 2010; 145:148-151."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MALNUTRITION AND OUTCOMES",
+      "line": 211
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION AND OUTCOMES",
+      "line": 213,
+      "preview": "- 2016 Statistical Brief by Agency for Healthcare Research and Quality:"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION AND OUTCOMES",
+      "line": 214,
+      "preview": "- $7.1 \\%$ of all discharges included a malnutrition diagnosis"
+    },
+    {
+      "type": "image",
+      "section": "MALNUTRITION AND OUTCOMES",
+      "line": 215,
+      "content": "![img-6.jpeg](images/ab26139f650b4595.png)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION AND OUTCOMES",
+      "line": 217,
+      "preview": "Agency of Healthcare Research and Quality. Statistical Brief \\#210."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION AND OUTCOMES",
+      "line": 218,
+      "preview": "Image adapted from AHRQ, Baxter, and ASPEN infographic; labeled for reuse"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION AND OUTCOMES",
+      "line": 220,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MALNUTRITION AND READMISSIONS",
+      "line": 222
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION AND READMISSIONS",
+      "line": 224,
+      "preview": "|   | With Malnutrition | Without Malnutrition  |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION AND READMISSIONS",
+      "line": 225,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION AND READMISSIONS",
+      "line": 226,
+      "preview": "|  30 Day Readmission | 23% | 14.9%  |"
+    },
+    {
+      "type": "table",
+      "section": "MALNUTRITION AND READMISSIONS",
+      "line": 227,
+      "preview": "|  Cost of Readmission | $16,200 | $13,400  |"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION AND READMISSIONS",
+      "line": 229,
+      "preview": "- Compared readmissions in patients with malnutrition in their \"index\" admission vs those without ma"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION AND READMISSIONS",
+      "line": 231,
+      "preview": "*Agency of Healthcare Research and Quality. Statistical Brief #218.*"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 233
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 235,
+      "preview": "- nutritionDay\u00ae - a one-day cross-sectional audit with outcome evaluation"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 236,
+      "preview": "- **Goals:**"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 237,
+      "preview": "- To improve knowledge and awareness of malnutrition in health care institutions"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 238,
+      "preview": "- Enhance the quality of nutritional care"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 239,
+      "preview": "- All hospitals worldwide can participate"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 240,
+      "preview": "- Provides data reports for benchmarking"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 241,
+      "preview": "- Comparative with other country facilities and worldwide"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 242,
+      "preview": "- Processes of own facility year to year"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 244,
+      "preview": "nutritionDay\u00ae worldwide. nutritionday.org (accessed 2019 Feb 10)."
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae",
+      "line": 246,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 248
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 250,
+      "preview": "Food Intake on nutritionDay\u00ae"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 252,
+      "preview": "|  |   |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 253,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 254,
+      "preview": "|  All | 36.5%  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 255,
+      "preview": "|  Half | 25.8%  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 256,
+      "preview": "|  Quarter | 18.1%  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 257,
+      "preview": "|  Nothing | 7.1%  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 258,
+      "preview": "|  Not allowed | 6.9%  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 259,
+      "preview": "|  Missing | 5.6%  |"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 261,
+      "preview": "Risk of Mortality Based on Food Intake"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 263,
+      "preview": "|  |   |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 264,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 265,
+      "preview": "|  Amount eaten | Hazard Ratio (95% CI)  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 266,
+      "preview": "|  All | Referent  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 267,
+      "preview": "|  Half | 1.27 (0.62; 2.59)  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 268,
+      "preview": "|  Quarter | 3.14 (7.73; 6.07)  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 269,
+      "preview": "|  Nothing | 5.99 (3.03; 11.84)  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 270,
+      "preview": "|  Not allowed | 4.38 (2.00; 9.58)  |"
+    },
+    {
+      "type": "table",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 271,
+      "preview": "|  Missing | 3.56 (1.20; 10.58)  |"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 273,
+      "preview": "NUTRITION SAFERIY CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 275,
+      "preview": "Sauer AC et al. JPEN J Parenter Enteral Nutr. 2018, epub."
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 277,
+      "preview": "NUTRITION SAFERIY CERTIFICATE"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 279,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 281,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 283,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 285,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 287,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 289,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 291,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 293,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 295,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 297,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 299,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 301,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 303,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 305,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 307,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 309,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 311,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 313,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 315,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 317,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 319,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 321,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 323,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 325,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 327,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 329,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 331,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 333,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 335,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 337,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 339,
+      "preview": "NUTRITION SAFERIY"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITIONDAY\u00ae US RESULTS",
+      "line": 343,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 345
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 347,
+      "preview": "- Should be simple and easy to use"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 348,
+      "preview": "- Should be a sensitive, specific, and reliable tool"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 349,
+      "preview": "- Should have broad applicability"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 350,
+      "preview": "- Common valid nutrition screening tools:"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 351,
+      "preview": "- Malnutrition screening tool (MST)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 352,
+      "preview": "- Nutrition Risk Score 2002 - NRS 2002"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 353,
+      "preview": "- Malnutrition Universal Screening Tool (MUST)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 354,
+      "preview": "- Mini-Nutrition Assessment Short Form (MNA-SF)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 356,
+      "preview": "Skipper A et al. JPEN J Parenter Enteral Nutr. 2011;36:292-298."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 358
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 360,
+      "preview": "- MST"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 361,
+      "preview": "- Weight loss, appetite"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 362,
+      "preview": "- NRS 2002"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 363,
+      "preview": "- Weight loss, body mass index, disease severity, age"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 364,
+      "preview": "- MUST"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 365,
+      "preview": "- Weight loss, BMI, food intake, disease severity"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 366,
+      "preview": "- MNA-SF"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 367,
+      "preview": "- Weight loss, food intake, appetite, disease severity, depression"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING TOOLS",
+      "line": 369,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 371
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 373,
+      "preview": "- Have you recently lost weight without trying?"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 374,
+      "preview": "- No (0) / Unsure (2)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 375,
+      "preview": "- If Yes, how much weight have you lost?"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 376,
+      "preview": "- 2-13lbs (1) / 14-23lbs (2) / 24-33lbs (3) / 34lbs (3) / Unsure (2)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 377,
+      "preview": "- Have you been eating poorly because of decreased appetite?"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 378,
+      "preview": "- No (0) / Yes (1)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 379,
+      "preview": "- Add response to find MST score"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 380,
+      "preview": "- MST $=0$ or $1 \\rightarrow$ not at risk"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 381,
+      "preview": "- MST $=2$ or more $\\rightarrow$ at risk"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 383,
+      "preview": "Malnutrition screening tool (MST) adapted from Abbott Nutrition Form."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 385
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 387,
+      "preview": "- Hospitalized patients often don't eat well"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 388,
+      "preview": "- Audit of mealtimes in European hospital 2016"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 389,
+      "preview": "- Approximately 40\\% of patients ate half or less of their meal"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 390,
+      "preview": "- nutritionDay ${ }^{\\circledR}$ confirms similar findings"
+    },
+    {
+      "type": "image",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 391,
+      "content": "![img-7.jpeg](images/d8fe60128a29e9bf.png)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 393,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 395
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 397,
+      "preview": "- Hospitalized patients often don't eat well"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 398,
+      "preview": "- Audit of"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 399,
+      "preview": "hospita"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 400,
+      "preview": "- Approx or less"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 401,
+      "preview": "- nutritionDay ${ }^{\\circledR}$ confirms similar findings"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 403,
+      "preview": "Audit of Mealtimes in European Hospital (2016)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 404,
+      "preview": "$\\pm 75-100 \\%$ of meal $\\pm 25-50 \\%$ of meal $\\pm$ Nothing"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 405,
+      "preview": "All clinicians can identify those patients not eating well and refer them to the nutrition clinician"
+    },
+    {
+      "type": "image",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 406,
+      "content": "![img-8.jpeg](images/6f193f0544c3d22c.png)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION SCREENING DURING HOSPITALIZATION",
+      "line": 408,
+      "preview": "Young A et al. J Adv Nurs. 2016; 72:1616-25."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "NUTRITION ASSESSMENT",
+      "line": 410
+    },
+    {
+      "type": "image",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 412,
+      "content": "![img-9.jpeg](images/18e2bca17bdcac0a.png)"
+    },
+    {
+      "type": "text",
+      "section": "NUTRITION ASSESSMENT",
+      "line": 414,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 416
+    },
+    {
+      "type": "image",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 418,
+      "content": "![img-10.jpeg](images/e9a1966b07afb6b1.png)"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 420,
+      "preview": "**Consensus Statement**"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 422,
+      "preview": "**Consensus Statement: Academy of Nutrition and Dietetics and American Society for Parenteral and En"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 424,
+      "preview": "Jane V. White, PhD, RD, FADA\u00b9; Peggi Guenter, PhD, RN\u00b9;"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 425,
+      "preview": "Gordon Jensen, MD, PhD, FASPEN\u00b2; Ainsley Malone, MS, RD, CNSC\u00b3;"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 426,
+      "preview": "Marsha Schofield, MS, RD\u2074; the Academy Malnutrition Work Group;"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 427,
+      "preview": "the A.S.P.E.N. Malnutrition Task Force; and the A.S.P.E.N. Board of Directors"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 429,
+      "preview": "*White JV et al. JPEN J Parent Ent Nutr. 2012; 36:275-283.*"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 431,
+      "preview": "**NUTRITION SUPPORT CONFERENCE**"
+    },
+    {
+      "type": "image",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 433,
+      "content": "![img-11.jpeg](images/a58e5b0d51c57446.png)"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 435,
+      "preview": "**Nutritional Risk Identified**"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 436,
+      "preview": "Compromised intake or loss"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 437,
+      "preview": "of body mass"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 439,
+      "preview": "Inflammation Present?"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 441,
+      "preview": "No"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 443,
+      "preview": "Yes"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 444,
+      "preview": "(Mild \u2013 Moderate)"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 446,
+      "preview": "Yes"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 447,
+      "preview": "(Marked Inflammatory"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 448,
+      "preview": "Response)"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 450,
+      "preview": "**Starvation-Related"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 451,
+      "preview": "Malnutrition**"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 452,
+      "preview": "(pure chronic starvation,"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 453,
+      "preview": "anorexia nervosa)"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 455,
+      "preview": "**Chronic Disease-Related"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 456,
+      "preview": "Malnutrition**"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 457,
+      "preview": "(organ failure, pancreatic"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 458,
+      "preview": "cancer, rheumatoid arthritis,"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 459,
+      "preview": "sarcopenic obesity)"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 461,
+      "preview": "**Acute Disease or Injury-"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 462,
+      "preview": "Related Malnutrition**"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 463,
+      "preview": "(major infection, burns,"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 464,
+      "preview": "trauma, closed head injury)"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 466,
+      "preview": "*Jensen GL et al. JPEN J Parenter Enteral Nutr. 2009; 33:710-16.*"
+    },
+    {
+      "type": "text",
+      "section": "A NEW APPROACH TO DEFINING MALNUTRITION",
+      "line": 468,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 470
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 472,
+      "preview": "| Disease State |  |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 473,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 474,
+      "preview": "| Degree | Diagnosis |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 475,
+      "preview": "| Intense | Critical illness, sepsis, acute respiratory distress syndrome, severe burns, major abdom"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 476,
+      "preview": "| Mild to moderate | CHF, COPD, rheumatoid arthritis, Crohn's disease, solid tumors |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 477,
+      "preview": "| None | Starvation, dementia, anorexia nervosa |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 480,
+      "preview": "| Clinical Signs |  |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 481,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 482,
+      "preview": "| Parameter Type | Parameter |"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 483,
+      "preview": "| Biochemical | Depleted visceral proteins, elevated c-reactive protein, hyperglycemia, high or low "
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 484,
+      "preview": "| Microbiological | Positive urine culture, blood culture, fecal culture and other bodily fluid cult"
+    },
+    {
+      "type": "table",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 485,
+      "preview": "| Clinical | Fever, chills, tachycardia, low blood pressure, productive cough, skin redness and swel"
+    },
+    {
+      "type": "text",
+      "section": "ASSESSING FOR INFLAMMATION",
+      "line": 487,
+      "preview": "Jevenn A et al. ASPEN Adult Nutrition Support Core Curriculum, Mueller CM. 3rd Ed. 2017: 186-212."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 489
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 491,
+      "preview": "The Academy of Nutrition and Dietetics/ASPEN Consensus Characteristics:"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 493,
+      "preview": "- Unintentional weight loss"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 494,
+      "preview": "- Evidence of inadequate intake"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 495,
+      "preview": "- Loss of muscle mass"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 496,
+      "preview": "- Loss of subcutaneous fat"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 497,
+      "preview": "- Fluid accumulation"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 498,
+      "preview": "- Reduced hand grip strength"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 499,
+      "preview": "*The presence of two or more characteristics is necessary for the diagnosis of malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION CHARACTERISTICS",
+      "line": 501,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 503
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 505,
+      "preview": "| Characteristic | Acute Illness/Injury | Chronic Illness | Social/ <br> Environmental |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 506,
+      "preview": "| :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 507,
+      "preview": "| Weight Loss | $>2 \\% / 1$ week <br> $>5 \\% / 1$ month <br> $>7.5 \\% / 3$ months | $5 \\% / 1$ month"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 508,
+      "preview": "| Energy Intake | $</=50 \\%$ for $>/=5$ days | $</=75 \\%$ for $>/=1$ month | $</=50 \\%$ for $>/=1$ m"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 509,
+      "preview": "| Body Fat | Moderate depletion | Severe depletion | Severe depletion |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 510,
+      "preview": "| Muscle Mass | Moderate depletion | Severe depletion | Severe depletion |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 511,
+      "preview": "| Fluid Accumulation | Moderate $\\rightarrow$ Severe | Severe | Severe |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 512,
+      "preview": "| Grip Strength | Not recommended in the ICU | Reduced for age/gender | Reduced for age/gender |"
+    },
+    {
+      "type": "image",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 514,
+      "content": "![img-12.jpeg](images/2d168e791640e9f6.png)"
+    },
+    {
+      "type": "text",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 516,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 518
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 520,
+      "preview": "- Fat loss"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 521,
+      "preview": "- Orbital"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 522,
+      "preview": "- Triceps"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 523,
+      "preview": "- Mid-axillary"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 524,
+      "preview": "- Muscle wasting"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 525,
+      "preview": "- Temporal"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 526,
+      "preview": "- Scapular and clavicular"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 527,
+      "preview": "- Interosseous areas of hand"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 528,
+      "preview": "- Quadriceps and deltoid areas"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 529,
+      "preview": "- Calf muscle"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 530,
+      "preview": "- Biceps"
+    },
+    {
+      "type": "text",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 532,
+      "preview": "Image labeled for reuse: Google Images"
+    },
+    {
+      "type": "image",
+      "section": "PHYSICAL ASSESSMENT",
+      "line": 533,
+      "content": "![img-13.jpeg](images/97c37dce0e1ac5ba.png)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 535
+    },
+    {
+      "type": "text",
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 537,
+      "preview": "- Body down-regulates albumin synthesis so that needed proteins for immune, clotting, and wound heal"
+    },
+    {
+      "type": "text",
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 538,
+      "preview": "- Positive - antibodies, complement, C-reactive protein, and fibrinogen"
+    },
+    {
+      "type": "text",
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 539,
+      "preview": "- Negative - albumin, transferrin, prealbumin, retinol binding protein"
+    },
+    {
+      "type": "text",
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 540,
+      "preview": "- Malnourished individuals (pure semi-starvation) likely will exhibit normal visceral proteins (anor"
+    },
+    {
+      "type": "text",
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 541,
+      "preview": "- Any degree of inflammation will down-regulate visceral protein synthesis"
+    },
+    {
+      "type": "text",
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 542,
+      "preview": "- Infection, obesity, surgical stress, chronic inflammatory disease, malignancy, etc"
+    },
+    {
+      "type": "text",
+      "section": "WHY NOT SERUM ALBUMIN OR VISCERAL PROTEINS?",
+      "line": 544,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 546
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 548,
+      "preview": "- Perform nutrition screen"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 549,
+      "preview": "- If positive screen, refer to nutrition clinician"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 550,
+      "preview": "- Assess for the presence of inflammation"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 551,
+      "preview": "- Determine etiology of potential malnutrition"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 552,
+      "preview": "- Assess for presence of two malnutrition characteristics"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 553,
+      "preview": "- Is the patient malnourished?"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 554,
+      "preview": "- If yes, determine severity via thresholds of specific characteristics"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 556,
+      "preview": "Jevenn A, Galand M, Hipskind P, Bury C. Malnutrition screening and assessment. In: The ASPEN Adult N"
+    },
+    {
+      "type": "image",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 558,
+      "content": "![img-14.jpeg](images/715f086018ead5be.png)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 560,
+      "preview": "Jevenn A et al. The ASPEN Adult Nutrition Support Core Curriculum. 3rd ed. 2017; 186-212."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION ASSESSMENT PROCESS",
+      "line": 562,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MALNUTRITION RESOURCES",
+      "line": 564
+    },
+    {
+      "type": "image",
+      "section": "MALNUTRITION RESOURCES",
+      "line": 566,
+      "content": "![img-15.jpeg](images/1609524fd31fd48e.png)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION RESOURCES",
+      "line": 568,
+      "preview": "CC Image courtesy of the American Society for Enteral and Parenteral Nutrition."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION RESOURCES",
+      "line": 569,
+      "preview": "http://blog.nutritioncare.org/ask-about-your-nutrition/ (accessed 2019 Feb 1)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "PATIENT CASE STUDY",
+      "line": 571
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 573,
+      "preview": "- LC, a 70 year old female, was admitted with likely SBO"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 574,
+      "preview": "- Transferred from a critical access hospital (1 week admission)"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 575,
+      "preview": "- LC reports a 2 week history of worsening abdominal pain with nausea and occasional vomiting on adm"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 576,
+      "preview": "- Previous hospital course included NGT placement, IV and NPO status"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 577,
+      "preview": "- NGT removal and diet advancement unsuccessful; patient transferred to regional center"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 578,
+      "preview": "- Admission Ht: 5' 4\""
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 579,
+      "preview": "- Admission Wt: 123 lbs, Usual Wt (4 weeks ago): 130lbs"
+    },
+    {
+      "type": "text",
+      "section": "PATIENT CASE STUDY",
+      "line": 581,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LC HOSPITAL COURSE",
+      "line": 583
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 585,
+      "preview": "The admitting nurse performs a nutrition screen using the MST"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 587,
+      "preview": "- What is the MST score for LC?"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 588,
+      "preview": "- Should LC be referred to the RD for a nutrition assessment?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 591
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 593,
+      "preview": "- Have you recently lost weight without trying?"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 594,
+      "preview": "- No (0) / Unsure (2) / Yes (see below)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 595,
+      "preview": "- If yes, how much weight have you lost?"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 596,
+      "preview": "- 2-13lbs (1) / 14-23lbs (2) / 24-33lbs (3) / 34lbs (3) / Unsure (2)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 597,
+      "preview": "- Have you been eating poorly because of decreased appetite?"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 598,
+      "preview": "- No (0) / Yes (1)"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 599,
+      "preview": "- Add response to find MST score"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 600,
+      "preview": "- MST $=0$ or $1 \\rightarrow$ not at risk"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 601,
+      "preview": "- MST $=2$ or more $\\rightarrow$ at risk"
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 603,
+      "preview": "Malnutrition screening tool (MST) adapted from Abbott Nutrition Form."
+    },
+    {
+      "type": "text",
+      "section": "MALNUTRITION SCREENING TOOL",
+      "line": 605,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "LC HOSPITAL COURSE",
+      "line": 607
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 609,
+      "preview": "The admitting nurse performs a nutrition screen using the MST"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 611,
+      "preview": "- What is the MST score for LC?"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 612,
+      "preview": "- Her score is 2"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 613,
+      "preview": "- Yes to weight loss of 7 lbs $=1$"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 614,
+      "preview": "- Poorly eating $=1$"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 615,
+      "preview": "- Should LC be referred to the dietitian for a nutrition assessment?"
+    },
+    {
+      "type": "text",
+      "section": "LC HOSPITAL COURSE",
+      "line": 616,
+      "preview": "- Yes, a score of 2 or higher = automatic referral to a dietitian"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "LC NUTRITION ASSESSMENT",
+      "line": 619
+    },
+    {
+      "type": "table",
+      "section": "LC NUTRITION ASSESSMENT",
+      "line": 621,
+      "preview": "| Anthropometric <br> Data | Intake | Physical Assessment <br> and Lab Data |"
+    },
+    {
+      "type": "table",
+      "section": "LC NUTRITION ASSESSMENT",
+      "line": 622,
+      "preview": "| :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "LC NUTRITION ASSESSMENT",
+      "line": 623,
+      "preview": "| - Weight loss of 7 lbs over <br> four weeks <br> - Equates to to <br> approximately $5 \\%$ weight "
+    },
+    {
+      "type": "text",
+      "section": "LC NUTRITION ASSESSMENT",
+      "line": 625,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 627
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 629,
+      "preview": "- Is LC malnourished?"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 630,
+      "preview": "- What criteria in LC's nutrition assessment is important in diagnosing malnutrition?"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 631,
+      "preview": "- What is the etiology of LC's malnutrition?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 634
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 636,
+      "preview": "- Is LC malnourished?"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 637,
+      "preview": "- Yes"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 638,
+      "preview": "- What criteria in LC's nutrition assessment is important in diagnosing malnutrition?"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 639,
+      "preview": "- Weight loss, inadequate energy intake and reduced hand grip strength are the criteria that meet LC"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 640,
+      "preview": "- LC is assessed to have severe malnutrition based upon the thresholds for weight loss, inadequate i"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 641,
+      "preview": "- What is the etiology of LC's malnutrition?"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 642,
+      "preview": "- Chronic disease related to her mild/moderate inflammation (reflected by low albumin/prealbumin lev"
+    },
+    {
+      "type": "text",
+      "section": "WHAT IS LC'S NUTRITION STATUS?",
+      "line": 644,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 646
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 648,
+      "preview": "| Characteristic | Acute Illness/Injury | Chronic Illness | Social/ <br> Environmental |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 649,
+      "preview": "| :--: | :--: | :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 650,
+      "preview": "| Weight Loss | $>2 \\% / 1$ week $>5 \\% / 1$ month $>7.5 \\% / 3$ months | $\\begin{gathered} 5 \\% / 1"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 651,
+      "preview": "| Energy Intake | $</=50 \\%$ for $>/=5$ days | $</=75 \\%$ for $>/=1$ month | $</=50 \\%$ for $>/=1$ m"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 652,
+      "preview": "| Body Fat | Moderate depletion | Severe depletion | Severe depletion |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 653,
+      "preview": "| Muscle Mass | Moderate depletion | Severe depletion | Severe depletion |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 654,
+      "preview": "| Fluid Accumulation | Moderate $\\rightarrow$ Severe | Severe | Severe |"
+    },
+    {
+      "type": "table",
+      "section": "SEVERE MALNUTRITION CRITERIA",
+      "line": 655,
+      "preview": "| Grip Strength | Not recommended in the ICU | Reduced for age/gender | Reduced for age/gender |"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 657
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 659,
+      "preview": "The relationship between a nutritional factor and a negative clinical outcome was first identified i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 660,
+      "preview": "A. True"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 661,
+      "preview": "B. False"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 663,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 665
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 667,
+      "preview": "The relationship between a nutritional factor and a negative clinical outcome was first identified i"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 668,
+      "preview": "A. True"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#1",
+      "line": 669,
+      "preview": "B. False"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 671
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 673,
+      "preview": "SJ has been admitted for complaints of 2 week history of nausea/vomiting. A positive nutrition scree"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 674,
+      "preview": "A. Weight loss"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 675,
+      "preview": "B. Albumin level"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 676,
+      "preview": "C. Inadequate energy intake"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 677,
+      "preview": "D. A and C"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 679,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 681
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 683,
+      "preview": "SJ has been admitted for complaints of 2 week history of nausea/vomiting. A positive nutrition scree"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 684,
+      "preview": "A. Weight loss"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 685,
+      "preview": "B. Albumin level"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 686,
+      "preview": "C. Inadequate energy intake"
+    },
+    {
+      "type": "text",
+      "section": "SELF-ASSESSMENT \\#2",
+      "line": 687,
+      "preview": "D. A and C"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES",
+      "line": 689
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 691,
+      "preview": "- Agency of Healthcare Research and Quality. Characteristics of hospital stays involving malnutritio"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 692,
+      "preview": "- ASPEN. Definition of Terms, Style, and Conventions Used in ASPEN Board of DirectorsApproved Docume"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 693,
+      "preview": "- Blackburn GA, Bistrian BR, Maini BS et al. Nutritional and metabolic assessment of the hospitalize"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 694,
+      "preview": "- Braunschweig C, Gomez S, Sheean PM. Impact of declines in nutritional status on outcomes in adult "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 695,
+      "preview": "- Butterworth C. The skeleton in the hospital closet. Nutr Today. 1974; 9(2):4-8."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 696,
+      "preview": "- Ceniccola GD, Holanda TP, Pequeno RSF et al. Relevance of AND-ASPEN criteria of malnutrition to pr"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 697,
+      "preview": "A prospective study. J Crit Care. 2018; 44:398-403."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES",
+      "line": 699,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 701
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 703,
+      "preview": "- Fee E, Garofalo ME. Florence Nightingale and the Crimean War. Am J Public Health. 2010; 100(9):159"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 704,
+      "preview": "- Fry DE, Pine M, Jones BL et al. Patient characteristics and the occurrence of never events. Arch S"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 705,
+      "preview": "- Giner M, Laviano A, Meguid MM et al. In 1995 a correlation between malnutrition and poor outcome i"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 706,
+      "preview": "- Hiller LD, Shaw RF, Fabri PJ. Difference in composite end point of readmission and death between m"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 709
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 711,
+      "preview": "- Hudson L, Griffith C, Chittams J, Compher C. Malnutrition identified by Academy of Nutrition and D"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 712,
+      "preview": "- Jensen GL, Bistrian B, Roubenoff R, Heimburger D. Malnutrition syndromes: A conundrum vs continuum"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 713,
+      "preview": "- Jevenn A, Galand M, Hipskind P, Bury C. Malnutrition screening and assessment. In: The ASPEN Adult"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 714,
+      "preview": "- Kubrak C, Jensen L. Malnutrition in acute care patients: a narrative review. Int J Nurs Stud. 2007"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 716,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 718
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 720,
+      "preview": "- Mogensen KM, Bouma S, Haney A et al. Hospital nutrition assessment practice survey. Nutr Clin Prac"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 721,
+      "preview": "- Nicolo M, Compher CW, Still C. Feasibility of accessing data in hospitalized patients to support d"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 722,
+      "preview": "- nutritionDay ${ }^{\\circledR}$ worldwide. https://www.nutritionday.org (accessed 2019 Feb 10)."
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 723,
+      "preview": "- Sauer A.C, Goates S, Malone A et al. Prevalence of malnutrition risk and the impact of nutrition r"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 724,
+      "preview": "- Schneider SM, Veyres P, Pivot X et al. Malnutrition is an independent factor associated with nosoc"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "REFERENCES, CONT.",
+      "line": 727
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 729,
+      "preview": "- Sheean PM, Peterson SJ, Chen Y et al. Utilizing multiple methods to classify malnutrition among el"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 730,
+      "preview": "- Skipper A, Ferguson M, Thompson K et al. Nutrition screening tools: An analysis of the evidence. J"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 731,
+      "preview": "- Soeters P, Schols A. Advances in understanding and assessing malnutrition. Curr Opin Clin Nutr Met"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 732,
+      "preview": "- Studley HO. Percentage of weight loss basic indicator of surgical risk in patients with chronic pe"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 733,
+      "preview": "- Veterans Affairs Total Parenteral Nutrition Cooperative Study Group. Perioperative total parentera"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 735,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "REFERENCES, CONT.",
+      "line": 737
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 739,
+      "preview": "- Weinsier RL, Hunker EM, Krumdieck CL, Butterworth CE. Hospital malnutrition A prospective evaluati"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 740,
+      "preview": "- White JV, Guenter P, Jensen GL et al. Consensus statement: academy of nutrition and dietetics and "
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 741,
+      "preview": "- Young A, Allia A, Jolliffe L, et al. Assisted or Protected Mealtimes? Exploring the impact of hosp"
+    },
+    {
+      "type": "text",
+      "section": "REFERENCES, CONT.",
+      "line": 743,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "image",
+      "section": "REFERENCES, CONT.",
+      "line": 745,
+      "content": "![img-16.jpeg](images/d587e98a379b2e93.png)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 747
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 749,
+      "preview": "Clinical Practice Specialist"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 750,
+      "preview": "The American Society for Parenteral and Enteral Nutrition (ASPEN)"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 751,
+      "preview": "Nutrition Support Dietitian"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 752,
+      "preview": "Mount Carmel Grove City"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 753,
+      "preview": "Columbus, Ohio"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 754,
+      "preview": "Ainsley Malone is a Dietitian member of the Nutrition Support Team at Mount Carmel Grove City in Col"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 755,
+      "preview": "Clinical Practice Specialist for the American Society for Parenteral and Enteral Nutrition (ASPEN) w"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 757,
+      "preview": "Ms. Malone is a certified nutrition support clinician and has given international, national and loca"
+    },
+    {
+      "type": "text",
+      "section": "Ainsley Malone, M.S., RDN, L.D., CNSC, FAND, FASPEN",
+      "line": 759,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 761
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 763,
+      "preview": "In accordance with our accreditor\u2019s Standards of Integrity and Independence in Accredited Continuing"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 765,
+      "preview": "An ineligible company is any entity producing, marketing, re-selling, or distributing health care go"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 767,
+      "preview": "The following persons in control of this activity\u2019s content have relevant financial relationships:"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 769,
+      "preview": "- Phil Ayers: Fresenius Kabi, consultant and speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 770,
+      "preview": "- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; "
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 771,
+      "preview": "- Andrew Mays: Fresenius Kabi, speaker"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 772,
+      "preview": "- Jay Mirtallo: Fresenius Kabi, consultant"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 773,
+      "preview": "- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 775,
+      "preview": "All other persons in control of content do not have any relevant financial relationships with an ine"
+    },
+    {
+      "type": "text",
+      "section": "Relevant Financial Relationship Disclosure",
+      "line": 777,
+      "preview": "As required by the Standards of Integrity and Independence in Accredited Continuing Education defini"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Methods and CE Requirements",
+      "line": 779
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 781,
+      "preview": "This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians"
+    },
+    {
+      "type": "text",
+      "section": "Methods and CE Requirements",
+      "line": 783,
+      "preview": "Participants must participate in the entire activity, complete the evaluation and all required compo"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 785
+    },
+    {
+      "type": "text",
+      "section": "Important Note \u2013 ACPE 60 Day Deadline:",
+      "line": 787,
+      "preview": "Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "System Technical Requirements",
+      "line": 789
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 791,
+      "preview": "Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should hav"
+    },
+    {
+      "type": "text",
+      "section": "System Technical Requirements",
+      "line": 793,
+      "preview": "View Frequently Asked Questions for more information."
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "3c0f2b7b3726528e.png",
+      "original_ref": "img-0.jpeg",
+      "page": 1,
+      "relative_path": "images/3c0f2b7b3726528e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/3c0f2b7b3726528e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "3c0f2b7b3726528e"
+    },
+    {
+      "sha_name": "46cadc7057e0793e.png",
+      "original_ref": "img-1.jpeg",
+      "page": 4,
+      "relative_path": "images/46cadc7057e0793e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/46cadc7057e0793e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "46cadc7057e0793e"
+    },
+    {
+      "sha_name": "2e64a1f58fe1bce7.png",
+      "original_ref": "img-2.jpeg",
+      "page": 5,
+      "relative_path": "images/2e64a1f58fe1bce7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/2e64a1f58fe1bce7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2e64a1f58fe1bce7"
+    },
+    {
+      "sha_name": "0b89e2f900739d0b.png",
+      "original_ref": "img-3.jpeg",
+      "page": 6,
+      "relative_path": "images/0b89e2f900739d0b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/0b89e2f900739d0b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "0b89e2f900739d0b"
+    },
+    {
+      "sha_name": "6ce163b37be6d35b.png",
+      "original_ref": "img-4.jpeg",
+      "page": 8,
+      "relative_path": "images/6ce163b37be6d35b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/6ce163b37be6d35b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6ce163b37be6d35b"
+    },
+    {
+      "sha_name": "b77f7965199d02f9.png",
+      "original_ref": "img-5.jpeg",
+      "page": 9,
+      "relative_path": "images/b77f7965199d02f9.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/b77f7965199d02f9.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b77f7965199d02f9"
+    },
+    {
+      "sha_name": "ab26139f650b4595.png",
+      "original_ref": "img-6.jpeg",
+      "page": 9,
+      "relative_path": "images/ab26139f650b4595.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/ab26139f650b4595.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ab26139f650b4595"
+    },
+    {
+      "sha_name": "d8fe60128a29e9bf.png",
+      "original_ref": "img-7.jpeg",
+      "page": 13,
+      "relative_path": "images/d8fe60128a29e9bf.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/d8fe60128a29e9bf.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d8fe60128a29e9bf"
+    },
+    {
+      "sha_name": "6f193f0544c3d22c.png",
+      "original_ref": "img-8.jpeg",
+      "page": 14,
+      "relative_path": "images/6f193f0544c3d22c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/6f193f0544c3d22c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6f193f0544c3d22c"
+    },
+    {
+      "sha_name": "18e2bca17bdcac0a.png",
+      "original_ref": "img-9.jpeg",
+      "page": 14,
+      "relative_path": "images/18e2bca17bdcac0a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/18e2bca17bdcac0a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "18e2bca17bdcac0a"
+    },
+    {
+      "sha_name": "e9a1966b07afb6b1.png",
+      "original_ref": "img-10.jpeg",
+      "page": 15,
+      "relative_path": "images/e9a1966b07afb6b1.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/e9a1966b07afb6b1.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e9a1966b07afb6b1"
+    },
+    {
+      "sha_name": "a58e5b0d51c57446.png",
+      "original_ref": "img-11.jpeg",
+      "page": 15,
+      "relative_path": "images/a58e5b0d51c57446.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/a58e5b0d51c57446.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a58e5b0d51c57446"
+    },
+    {
+      "sha_name": "2d168e791640e9f6.png",
+      "original_ref": "img-12.jpeg",
+      "page": 17,
+      "relative_path": "images/2d168e791640e9f6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/2d168e791640e9f6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2d168e791640e9f6"
+    },
+    {
+      "sha_name": "97c37dce0e1ac5ba.png",
+      "original_ref": "img-13.jpeg",
+      "page": 18,
+      "relative_path": "images/97c37dce0e1ac5ba.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/97c37dce0e1ac5ba.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "97c37dce0e1ac5ba"
+    },
+    {
+      "sha_name": "715f086018ead5be.png",
+      "original_ref": "img-14.jpeg",
+      "page": 19,
+      "relative_path": "images/715f086018ead5be.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/715f086018ead5be.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "715f086018ead5be"
+    },
+    {
+      "sha_name": "1609524fd31fd48e.png",
+      "original_ref": "img-15.jpeg",
+      "page": 20,
+      "relative_path": "images/1609524fd31fd48e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/1609524fd31fd48e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1609524fd31fd48e"
+    },
+    {
+      "sha_name": "d587e98a379b2e93.png",
+      "original_ref": "img-16.jpeg",
+      "page": 30,
+      "relative_path": "images/d587e98a379b2e93.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/1_Prevention,Assessment,andTreatmentofMalnutrition/images/d587e98a379b2e93.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d587e98a379b2e93"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754695708",
+    "ts": "2025-08-08T23:28:28.453389+00:00"
+  }
+}

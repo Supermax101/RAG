@@ -1,0 +1,778 @@
+---
+title: "11_OngoingMonitoringofNutritionSupport"
+output: github_document
+---
+
+# NUTRITION SUPPORT CERTIFICATE 
+
+## Ongoing Monitoring of Nutrition Support
+
+![img-0.jpeg](images/9c01a79eee8ab186.png)
+
+Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the American Society for Parenteral and Enteral Nutrition (ASPEN).
+(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved.
+
+No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, microfilming, and recording, or by any information storage and retrieval system, without written permission from the American Society of Health-System Pharmacists.
+
+--- page 1 ---
+
+# ONGOING MONITORING OF NUTRITION SUPPORT 
+
+David C. Evans, MD, FACS, FASPEN
+OhioHealth and Ohio University
+
+With acknowledgement to Pat Worthington, M.S.N., R.N., CNSC for her co-authorship of the prior edition of this session
+
+NUTRITION SUPPORT CERTIFICATE
+
+## RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE
+
+The following persons in control of this activity's content have relevant financial relationships:
+
+- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; CVS/OptionCare, consultant; Alcresta, consultant and speaker
+
+All other persons in control of content do not have any relevant financial relationships with an ineligible company.
+
+As defined by the Standards of Integrity and Independence definition of ineligible company. All relevant financial relationships have been mitigated prior to the CPE activity.
+
+--- page 2 ---
+
+# LEARNING OBJECTIVES 
+
+- Examine clinical conditions that affect tolerance of nutrition support.
+- Identify disease states that may increase the risk for complications related to nutrition support.
+- Design an appropriate monitoring plan for patients fed enterally and parenterally to minimize and prevent complications.
+- Determine appropriate nutrition support interventions based on results of laboratory testing.
+- Establish appropriate therapeutic goals for patients on nutrition support.
+- Propose adjustments to a nutrition support prescription based on progress toward therapeutic goals.
+
+
+## KEY ABBREVIATIONS
+
+- CHG: $\square$ chlorhexidine gluconate
+- CLABSI: $\square$ central line associated bloodstream infection
+- DVT: $\square$ deep vein thrombosis
+- EN: $\square$ enteral nutrition
+- PN: $\square$ parenteral nutrition
+- GI: $\square$ gastrointestinal
+- GRV: $\square$ gastric residual volume
+- I \& O: $\square$ input and output
+- ILE: $\square$ lipid injectable emulsion
+- NS: $\square$ nutrition support
+- VAP: ventilator associated pneumonia
+
+--- page 3 ---
+
+# SELF-ASSESSMENT \#1 
+
+The pharmacy receives a request to increase the PN formulation for a patient in ICU. The prescriber indicates that the reason for adjusting the PN formulation is based on the patient's albumin level of $2.9 \mathrm{mg} / \mathrm{dL}$. Which of the following best describes the use of albumin levels in this clinical situation?
+A. The albumin level represents moderate to severe malnutrition
+B. Low albumin levels indicate the need to increase protein intake
+C. Both protein and energy should be increased
+D. Albumin levels do not serve a valid markers of nutrition status
+
+## SELF-ASSESSMENT \#2
+
+A patient with a small bowel obstruction is to begin PN. Nutrition assessment has documented that the patient has had a 35-pound unintentional weight loss prior to this admission. His baseline laboratory tests show the following: serum potassium $2.9 \mathrm{mEq} / \mathrm{dL}$; serum magnesium $1.2 \mathrm{mEq} / \mathrm{dL}$; serum phosphate $1.8 \mathrm{mg} / \mathrm{dL}$. Which of the following represents the best course action in this situation?
+A. Restrict ILE administration
+B. Initiate PN promptly with standard electrolytes
+C. Delay PN to correct electrolyte abnormalities
+D. Increase calories provided by dextrose in the base PN formulation
+
+--- page 4 ---
+
+# OVERARCHING THEME 
+
+- The nutrition plan of care should be evaluated and revised based on results of ongoing monitoring
+![img-1.jpeg](images/507c3945c7cecce9.png)
+
+Image used with permission, Pat Worthington.
+
+## NUTRITION SUPPORT MONITORING
+
+Responsibilities
+
+- An interdisciplinary approach enhances the effectiveness of monitoring
+- Roles are based on scope of practice and organizational policies
+
+--- page 5 ---
+
+# NUTRITION SUPPORT MONITORING, CONT. 
+
+## Goals
+
+- Ensure safe nutrition support therapy
+- Reduce the risk of adverse events
+- Detect and treat complications of therapy promptly
+- Assess progress in attaining nutrition goals
+- Evaluate the need for adjustments in the therapeutic plan
+- Determine the continued appropriateness of therapy
+- Assess educational needs of patient and or caregiver
+- Determine adherence to guidelines, protocols, and practice recommendations
+
+
+## ALIGN THE MONITORING PLAN WITH THE THERAPEUTIC GOALS
+
+- Individualized energy and protein targets
+- An understanding of the weight goals (gain, lose, maintenance, growth)
+- Administration methods appropriate for the patient's clinical status \& access device
+- Care of the access device to prevent complications
+- Includes steps to ensure safety and reduce risk of complications
+- Interventions based on potential for drug interactions with the nutrition support regimen, clinical status and with the access device
+- Re-assessment of tolerance, appropriateness of current nutrition support therapy
+- Monitoring plan congruent with clinical status and healthcare site
+
+--- page 6 ---
+
+# MONITORING: SCOPE AND FREQUENCY 
+
+- Influencing Factors
+- Type of nutrition support
+- PN generally requires more intensive monitoring than EN
+- Setting in which nutrition support takes place
+- Critical care versus Home Care
+- Nature and acuity of underlying disease
+- Stability of previous monitoring results
+- Tolerance of nutrition support therapy
+- Duration of therapy
+- Less frequent monitoring is appropriate in stable home patients
+
+Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333.
+
+## RECOGNIZING RISKS FOR INTOLERANCE \& COMPLICATIONS
+
+| Medical Condition | Nutrition Support Consideration |
+| :--: | :--: |
+| Renal failure | Fluid and electrolyte intolerance |
+| Hepatic failure | Bleeding risk with enteral/parenteral access, altered protein metabolism, altered mental status |
+| Diabetes Mellitus | Glucose intolerance, delayed gastric emptying, heightened risk forfungemia, especially with central line and PN administration |
+| Pancreatic insufficiency | Malabsorption, especially fat, fat soluble vitamin deficiency, need for pancreatic enzyme replacement for EN |
+| Neoplastic disease | Anorexia, cachexia, immune compromise, altered Gl anatomy, adverse Gl treatment effects, radiation effects (esophagitis, enteritis) |
+| Intestinal insufficiency | Based on severity and underlying cause, may require PN (Malnutrition Module) |
+
+--- page 7 ---
+
+# RECOGNIZING RISKS FOR INTOLERANCE \& COMPLICATIONS 
+
+| Clinical Condition | Nutrition Support Consideration |
+| :--: | :--: |
+| Extremes in age | Immature Gl motility \& organ function $\rightarrow$ frailty, declining muscle mass and organ function, comorbidities |
+| Poor intake, w eight loss | High risk for refeeding syndrome and other complications (Malnutrition Module) |
+| Ventilator dependence | Risk for VAP, requires oral hygiene (CHG), consider orogastric tube for EN, maintain head rest elevation $>30^{\circ}$ |
+| Need for bed rest | Loss of muscle mass, weakness, elevated risk for pressure injury |
+| Altered mental status; prolonged sedation | Increased risk for aspiration; patient initiated removal of enteral and parenteral access device |
+| End of life | Nutrition support not obligatory in cases of futile care; must be consistent with goals of care with realistic goals and respect for patient autonomy |
+
+Boullata JI, et al. JPEN J Parenter Enteral Nutr. 2017; 41(1):15-103.
+McClave SA, et al. JPEN J Parenter Enteral Nutr. 2016; 40:159.
+Schwartz DB, etal. Nutr Clin Pract. 2021, 36(2):254-267.
+
+## CASE STUDY \#1
+
+- An 85 year old woman, sustained a fractured hip in a fall in her bathroom.
+- Her medical history includes a myocardial infarction, diabetes type 2, asthma, and cervical cancer for which she received radiation therapy.
+- Height: 5 ft 4 in; weight: 146 lbs; BMI: 25.1
+- She underwent total hip arthroplasty. Postoperatively, she is admitted to ICU where she is sedated and intubated for ventilator support. Her course has been complicated by acute kidney injury.
+- The plan is to begin EN for nutrition support.
+- You recognize several medical and clinical conditions that raise this patient's risk for intolerance or complications related to tube feeding.
+
+--- page 8 ---
+
+# CASE STUDY \#1, CONT. 
+
+- Identify four medical and/or clinical conditions that increase this patients risk for EN intolerance or complications:
+Asthma
+History of myocardial infarction
+$\square$ BMI 25.1
+$\square$ Ventilator dependence
+Acute kidney injury
+Diabetes Mellitus
+History of neoplastic disease
+$\square$ Orthopedic injury
+
+
+## CASE STUDY \#1, CONT.
+
+- Identify four medical and/or clinical conditions that increase this patients risk for EN intolerance or complications:
+Asthma
+History of myocardial infarction
+$\square$ BMI 25.1
+$\checkmark$ Ventilator dependence
+$\square$ Orthopedic injury
+$\checkmark$ Acute kidney injury
+$\checkmark$ Diabetes Mellitus
+$\checkmark$ History of neoplastic disease
+
+--- page 9 ---
+
+# CASE STUDY \#1, CONT. 
+
+Match each condition with the potential problem associated with EN:
+
+- Ventilator dependence
+- Acute kidney injury
+- Diabetes Mellitus
+- History of radiation therapy
+
+Intolerance and complications of EN:
+
+1. Fluid and electrolyte disturbance
+2. Diarrhea
+3. Delayed gastric emptying
+4. Paralytic ileus
+5. Pneumonia
+6. Sepsis
+
+## CASE STUDY \#1, CONT.
+
+Match each condition with the potential problem associated with EN:
+
+- Ventilator dependence
+- Acute kidney injury
+- Diabetes Mellitus
+- History of radiation therapy
+$\rightarrow$ E) Pneumonia
+$\rightarrow$ A) Fluid and electrolyte disturbance
+$\rightarrow$ C) Delayed gastric emptying
+$\rightarrow$ D) Diarrhea
+
+--- page 10 ---
+
+# WARNING SIGNS OF RISK FOR METABOLIC COMPLICATIONS 
+
+| Condition | Suggested Criteria |
+| :--: | :--: |
+| Hyperglycemia | Glucose greater than $180 \mathrm{mg} / \mathrm{dL}$ |
+| Azotemia | BUN greater than $100 \mathrm{mg} / \mathrm{dL}$ |
+| Hypertriglyceridemia | Serum triglycerides greater than $200 \mathrm{mg} / \mathrm{dL}$ |
+| Hyponatremia | Serum sodium less than $130 \mathrm{mEq} / \mathrm{dL}$ |
+| Hypernatremia | Serum sodium greater than $150 \mathrm{mEq} / \mathrm{dL}$ |
+| Hypokalemia | Serum potassiumless than $3 \mathrm{mEq} / \mathrm{dL}$ |
+| Hypomagnesemia | Serum magnesium less than $1.3 \mathrm{mEq} / \mathrm{dL}$ |
+| Hypocalcemia | Ionized calcium less than $4.5 \mathrm{mEq} / \mathrm{dL}$ |
+| Hypophosphatemia | Serum phosphate less than $2 \mathrm{mg} / \mathrm{dL}$ |
+
+Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77.
+Solomon DM et al. Nutr Clin Pract. 2017; 32(3):400-06.
+
+## BE ALERT FOR REFEEDING SYNDROME
+
+- As discussed in the Complications Module
+- Severe, potentially fatal, electrolyte and fluid disturbances with that occur with re-introduction of nutrition
+- Reported with oral, enteral or parenteral nutrition
+- Characterized by profound hypophosphatemia, hypokalemia, and hypomagnesemia
+- What to do...
+- Consider delaying nutrition support until electrolytes levels are corrected
+- Follow guidance recommendations provided in the Complications Module.
+
+--- page 11 ---
+
+# COMPONENTS OF NUTRITION SUPPORT MONITORING
+
+- Physical assessment
+- Laboratory monitoring
+- Recurring nutrition assessment
+- Condition of the enteral or parenteral access device
+- Functional status: stamina, performance
+- Psychosocial response to therapy
+- Observation of techniques used
+- Competency assessment
+- Patient education, reassessment for home nutrition support
+- Outcome parameters: length of stay, changes in nutritional status
+
+Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77.
+
+CLINICAL MONITORING IN HOSPITALIZED
+PATIENTS
+
+|  Monitoring Parameter | Approach | Frequency  |
+| --- | --- | --- |
+|  Physical exam | Nutrition focused exam
+- Muscle and fat stores
+- Fluid accumulation
+- Micronutrient abnormalities
+- Functional status | On initial exam  |
+|  Height, weight and growth | Weight scales used in consistent manner: same time of day, similar clothing | Daily until stable; then 2-3 times weekly  |
+|  Assess energy and macronutrient needs | Use of appropriate predictive equations, indirect calorimetry, or nitrogen balance | On initial exam and then when changes in medical condition or activity occur  |
+|  Intake and output records | Oral or enteral intake, IV PN, other fluids and medications, blood products. Observe for signs of fluid imbalance—overload/heart failure; dehydration Out: Urine, stool, would, fistula, or drain output | Daily until stable  |
+|  Vital signs | Blood pressure, respiratory rate, pulse, temperature | On initial exam and then daily until stable  |
+
+Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77.
+
+--- page 12 ---
+
+# CLINICAL MONITORING IN HOSPITALIZED PATIENTS, CONT.
+
+|  Parameter | Approach | Frequency  |
+| --- | --- | --- |
+|  Blood glucose monitoring | Capillary glucose levels, in addition to a correctional dose insulin program and appropriate orders for intervention for hypoglycemia | Every 1-24 hours as warranted by clinical status, discontinue once blood glucose levels normalize and nutrition reachestarget levels  |
+|  Evaluation of micronutrient status | Serum levels vitamins, minerals, and trace elements | When history, physical exam, or clinical evidence suggests abnormality  |
+|  Examination of the enteral or vascular access device | Inspection and palpation to assess for evidence of infection or compromised skin integrity. Verification of appropriate position | Daily physical assessment; radiographic confirmation of position on insertion and if concern for displacement exists  |
+|  Continued need for EN or PN | Review of oral and enteral intake, evaluation of changes in GI function and nutritional status | Ongoing throughout the course of therapy  |
+|  Response to therapy | Wound healing, stamina, functional status, progress toward weight/growth goals | Ongoing throughout the course of therapy  |
+
+Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77.
+
+NUTRITION: SUPPORT CERTIFICATE
+
+MONITORING TOLERANCE OF EN
+
+- Physical Examination
+- Abdominal distension, flatus, pain, tenderness. Bowel sounds?
+- Subjective complaints of GI symptoms
+- Nausea, bloating, etc.
+- Risk for aspiration
+- Delayed gastric emptying, emesis, high GRVs
+- Inability to maintain head elevated
+
+McClave SA et al. AmJ Gastroenterol. 2016; 111(3):315-34
+
+NUTRITION: SUPPORT CERTIFICATE
+
+--- page 13 ---
+
+# MONITORING TOLERANCE OF EN, CONT. 
+
+- Presence of diarrhea
+- Volume
+- Precipitating factors-malabsorption?
+- Infectious causes
+- Medication effects: type of medication and administration methods
+
+McClave SA et al. AmJ Gastroenterol. 2016; 111(3):315-34
+
+## MONITORING ADEQUACY OF EN
+
+- Accurate I \& O records (volume prescribed versus volume delivered)
+- Tube feeding infusing "at goal" in hospital
+- Taking less formula than prescribed at home
+- Record volumes from actual pump tally rather than "guestimate"
+- Frequency of interruptions
+- Diagnostic and therapeutic procedures
+- Routine care activities
+- Stopping feeding for GRV < 500 mL
+- Enteral access malfunction
+- Occluded tubes or patient initiated removal of device
+
+--- page 14 ---
+
+# MONITORING ADEQUACY AND TOLERANCE OF PN 
+
+- Factors impairing adequate energy delivery
+- Hyperglycemia
+- Hypertriglyceridemia
+- Factors impacting protein delivery
+- Renal and hepatic function
+- Metabolic response to PN
+- Electrolyte stability / refeeding syndrome
+- Fluid shifts / edema
+
+Worthington Pet al. J Parenter Enter Nutr. 2017;41:324-77.
+
+## MONITORING ADEQUACY AND TOLERANCE OF PN, CONT.
+
+- Shortages, allergies, nutrient intolerance
+- Nutrient shortages: vitamins, electrolytes, amino acids, lipids, etc.
+- Disorders of lipid metabolism
+- Allergy: often related to the excipient in multivitamin product
+- Problems related to infusion cycle
+- Hyperglycemia
+- Shortness of breath
+- Nocturia
+- Vascular access
+- Disruptions in care due to complications: CLABSI, DVT, occlusion
+
+--- page 15 ---
+
+# LABORATORY MONITORING
+
+Parenteral Nutrition Safety Consensus Recommendations: - Vascular access devices used for PN administration should not be used to obtain blood samples for laboratory tests unless no peripheral access is available.
+
+Rationale: - Manipulation of the line for blood withdrawal is associated with increased risk for microbial contamination - PN is an independent risk factor for CLABSI - Blood samples drawn incorrectly during PN infusion can lead to spurious laboratory values.
+
+Ayers P et al. JPEN J Parenter Enteral Nutr. 2014; 38(3):296-333
+
+SUBTITIOUS UP FOR CHEMICALS
+
+LABORATORY MONITORING DURING PN
+
+|   | Acute Care PN |  |  | Long-Term PN |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Parameter | Baseline | Days 1-7 | Ongoing, stable | Initial, post discharge | Weeks 1-4 (or until stable) | At 3 months | Ongoing, stable  |
+|  Glucose, BUN, creatinine, electrolytes, calcium, magnesium, phosphorous | √ | Daily x 3 or until stable | 1-2 x/week or as clinically indicated | √ | √ |  | Monthly  |
+|  CBC with differential | √ | Daily x 3 or until stable | 1-2 x/week | √ | √ |  | Monthly  |
+|  Total bilirubin, direct bilirubin, AP, AST, ALT, | √ |  | Weekly | √ |  |  | Monthly  |
+|  PTT, PT, INR | √ |  | Weekly |  |  |  | Monthly  |
+|  Triglyceride level | √ | Pediatric: daily until stable then weekly | Weekly | √ |  |  | Monthly  |
+
+Worthington P et al. J Parenter Enter Nutr. 2017; 41:324-77
+
+--- page 16 ---
+
+# LABORATORY MONITORING DURING PN, CONT 
+
+|  | Acute Care PN |  |  | Long-Term PN |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Parameter | Baseline | Days $1-7$ | Ongoing, stable | Initial, post discharge | $\begin{aligned} & \text { Weeks } \\ & 1-4 \\ & \text { (or until } \\ & \text { stable) } \end{aligned}$ | At 3 months | Ongoing, stable |
+| Serum proteins (To monitor inflammation) | $\checkmark$ |  | Weekly | $\checkmark$ |  |  | Monthly |
+| Iron indices |  |  | As clinically indicated |  |  | $\checkmark$ | Every 3-6 months |
+| Zinc, selenium, manganese, copper, chromium |  |  | As clinically indicated |  |  | $\checkmark$ | Every 3-6 months |
+| Vitamin A, OH- <br> 25 vitamin D, vitamin E |  |  | As clinically indicated |  |  | $\checkmark$ | Every 12 months |
+| Vitamin $B_{12}$ and folate |  |  | As clinically indicated |  |  | $\checkmark$ | Every 6-12 months |
+| TSH |  |  |  | As indicated |  |  | Every 12 months |
+| Carnitine |  |  | No guideline for adults |  |  | $\checkmark$ <br> Pediatric patients | Every 3-12 months |
+
+Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77
+
+## ALBUMIN, PREALBUMIN AND TRANSFERRIN LEVELS
+
+- Current guidelines recommend against using albumin, prealbumin (also called transthyretin) and transferrin to assess nutritional status or monitor response to therapy
+- A single measurement of albumin can provide prognostic information regarding surgical risk
+- These proteins act as negative acute-phase proteins: levels fall precipitously during inflammation
+- Today these proteins are recognized as surrogate markers of inflammation, rather than indicators of nutrition status
+
+--- page 17 ---
+
+# MONITORING NS AT HOME AND ALTERNATIVE SITES 
+
+| Assessment Parameter | Frequency of Monitoring |
+| :--: | :--: |
+| Signs and symptoms of intolerance to therapy | Weekly, or at each home visit \& patient encounter |
+| Home environment safety assessment | Before discharge \& regularly throughout therapy |
+| Vital signs | At each home visit \& patient encounter |
+| Weight changes and/or growth as appropriate | Weekly or at each home visit \& patient encounter |
+| Hydration status | Baseline and regularly throughout therapy |
+| Review of systems and/or physical exam | Weekly, or at each home visit \& patient encounter with healthcare provider |
+| Clinical signs of nutrient deficiency or excess | Baseline and regularly throughout therapy |
+| Comorbiditiesthat may affect the nutrition plan | Baseline and regularly throughout therapy |
+
+Worthington P et al. J Parenter Enter Nutr. 2017;41:324-77.
+
+## MONITORING NS AT HOME AND ALTERNATIVE SITES, CONT.
+
+| Assessment Parameter | Frequency of Monitoring |
+| :--: | :--: |
+| Assess readiness to begin or advance oral or enteral intake | At baseline and at each home visit and each patient encounter |
+| Functional status and performance | At each home visit and each patient encounter |
+| Enteral or vascular access device and insertion/exit site | At each home visit and each patient encounter |
+| Psychosocial status; quality of life | At each home visit and at each patient encounter |
+| Patient compliance with techniques, procedures, infusion schedule | At each home visit |
+| Dual energy x-ray absorptiometry scan (PN) | Baseline when expected duration of PN exceeds 6 months, then annually |
+| Liver and biliary ultrasonography (PN) | As clinically indicated |
+
+--- page 18 ---
+
+# CASE STUDY \#2 
+
+A 45 year old women with a history of a colectomy for ulcerative colitis, received PN in the hospital for 3 weeks. She is to be discharged from the hospital on PN due to persistently high output ileostomy of more than $1200 \mathrm{~mL} /$ day. The plan is to perform laboratory tests weekly for the first month of home PN.
+
+## CASE STUDY \#2
+
+Based on the patient case, which of the following monitoring parameter(s) should be performed weekly?
+$\square$ Serum protein levels
+$\square$ Glucose
+$\square$ CBC with differential
+$\square$ Iron
+$\square$ Liver function tests
+$\square$ Triglyceride level
+$\square$ Sodium, potassium, chloride, bicarbonate
+$\square$ Blood urea nitrogen
+
+--- page 19 ---
+
+# CASE STUDY \#2 
+
+Based on the patient case, which of the following monitoring parameter(s) should be performed weekly?
+$\square$ Serum protein levels
+$\checkmark$ Glucose
+$\checkmark$ CBC with differential
+$\square$ Iron
+$\square$ Liver function tests
+$\square$ Triglyceride level
+$\checkmark$ Sodium, potassium, chloride, bicarbonate
+$\checkmark$ Blood urea nitrogen
+
+## CASE STUDY \#3
+
+- A 45 year old woman with a history of a colectomy and high output ileostomy, has received home PN for 3 weeks.
+- Height: 5 ft 6 inches; current weight:124 lbs; discharge weight: 127.
+- She receives a PN formulation that provides 85 g amino acids and 1700 kcal in 1.5 liters over 12 hours each night.
+- PN contains a standard electrolyte product and trace minerals.
+
+--- page 20 ---
+
+# CASE STUDY \#3 
+
+Laboratory tests performed this week are as follows:
+
+| Parameter | Normal Range | Current Lab Result |
+| :-- | :-- | :-- |
+| Sodium | $135-145 \mathrm{mEq} / \mathrm{L}$ | $149 \mathrm{mEq} / \mathrm{L}$ |
+| Potassium | $3.5-5-5 \mathrm{mEq} / \mathrm{L}$ | $3.3 \mathrm{mEq} / \mathrm{L}$ |
+| Chloride | $100-110 \mathrm{mEq} / \mathrm{L}$ | $114 \mathrm{mEq} / \mathrm{L}$ |
+| Bicarbonate | $24-26 \mathrm{mEq} / \mathrm{L}$ | $21 \mathrm{mEq} / \mathrm{L}$ |
+| BUN | $15-20 \mathrm{mg} / \mathrm{dL}$ | $32 \mathrm{mg} / \mathrm{dL}$ |
+| Creatinine | $0.8-1.4 \mathrm{mg} / \mathrm{dL}$ | $1.0 \mathrm{mg} / \mathrm{dL}$ |
+
+Monitoring reveals:
+
+- weight loss, elevated sodium, low potassium and elevated BUN
+
+
+## CASE STUDY \#3
+
+Based on the data, select the appropriate change(s) to the nutrition support regimen:
+$\square$ Contact patient regarding test results
+$\square$ Increase calories
+$\square$ Increase volume
+$\square$ Reduce amino acids
+$\square$ Maintain current macronutrient content
+$\square$ Delete all sodium
+$\square$ Recommend oral potassium supplement
+$\square$ Increase potassium in PN formulation
+$\square$ Increase frequency of laboratory monitoring
+$\square$ Adjust infusion cycle
+
+--- page 21 ---
+
+# CASE STUDY \#3 
+
+Based on the data, select the appropriate change(s) to the nutrition support regimen:
+$\checkmark$ Contact patient regarding test results
+$\square$ Increase calories
+$\checkmark$ Increase volume
+$\square$ Reduce amino acids
+$\checkmark$ Maintain current macronutrient content
+$\square$ Delete all sodium
+$\square$ Recommend oral potassium supplement
+$\checkmark$ Increase potassium in PN formulation
+$\checkmark$ Increase frequency of laboratory monitoring
+$\square$ Adjust infusion cycle
+
+## CASE STUDY \#3 SUMMARY
+
+Conclusion: Monitoring data suggests that the patient is dehydrated.
+$\checkmark$ Contact patient:
+
+- Review clinical status
+- Confirm output trends
+- Verify compliance with daily schedule
+$\square$ Increase calories:
+- Current energy intake is appropriate at $\sim 29 \mathrm{kcal} / \mathrm{kg}$
+- Weight loss is most likely not related to inadequate energy intake
+
+--- page 22 ---
+
+# CASE STUDY \#3 SUMMARY, CONT. 
+
+$\checkmark$ Increase volume:
+
+- Fluid intake ( $\sim 25 \mathrm{~mL} / \mathrm{kg}$ ) is likely not sufficient due to ostomy losses
+- Target: $1750-2000 \mathrm{~mL}$
+- May need to consider supplemental IV fluid
+$\square$ Reduce amino acids:
+- Elevated BUN could be due to excess protein intake but ( $\sim 1.4 \mathrm{~g} / \mathrm{kg}$ ) is not excessive
+- Increase most likely reflects volume deficit (prerenal azotemia)
+$\checkmark$ Maintain current macronutrient content: Current intake is consistent with practice guidelines
+
+
+## CASE STUDY \#3 SUMMARY, CONT.
+
+$\square$ Delete all sodium:
+
+- Rehydration may correct hypernatremia
+- High ostomy output likely contributes to ongoing sodium loss
+- Some reduction may be appropriate, but not to completely delete
+$\square$ Recommend oral potassium supplement
+- Concern for poor absorption, increase in ostomy out put
+$\checkmark$ Increase potassium in PN formulation: Chloride versus acetate
+$\checkmark$ Increase frequency of laboratory monitoring
+$\square$ Adjust infusion cycle
+
+--- page 23 ---
+
+# MONITORING ABILITY TO WEAN OR TRANSITION NS 
+
+- Goal:
+- Prompt advancement as GI function and patient tolerance allows
+- Avoid unnecessary PN and EN
+- Removal of vascular access device is a priority
+- Remove nasally placed enteral feeding tubes as soon as possible
+- Less urgency regarding removal of abdominal enteral devices such as gastrostomy and jejunostomy tubes
+
+Worthington Pet al. J Parenter Enter Nutr. 2017;41:324-77.
+
+## MONITORING ABILITY TO WEAN OR TRANSITION NS, CONT.
+
+- Monitoring progress
+- Routinely asses for changes in GI function that impact tolerance
+- Evaluate contribution of all sources of nutrient intake: oral, enteral, parenteral
+- Consider weaning PN when oral/enteral intake reaches 50-75\% of requirements
+- Verify metabolic and clinical stability
+- Confirm objective evidence with subjective impression of the patient
+- Closely follow weight and hydration status
+- Consider increasing metabolic monitoring during transition periods
+
+--- page 24 ---
+
+# WEANING PN 
+
+- Establish clear goals with patient
+- Provide nutrition counseling and dietary guidance as indicated
+- Optimize pharmacologic management of GI symptoms
+- Eliminate 1 or 2 non-consecutive infusions per week; in children consider reducing PN by a small percentage every week
+- Increase frequency of weight and metabolic monitoring during the transition
+- Further reductions if nutrition and hydration status remains stable
+- Evaluate the need for oral or intravenous fluid, electrolytes, and/or vitamins
+- Make a nutrition monitoring plan after PN is stopped to ensure safe transition to full oral or enteral nutrition.
+
+Worthington Petal.J Parenter Enter Nutr. 2017; 41:324-77.
+
+## CASE STUDY \#4
+
+- A 58 year old man who has been receiving home PN for the past 8 months due short bowel syndrome that resulted from complications of a volvulus. Hospital records reveal that patient has 150 cm of small bowel remaining. He reports a gradual improvement in oral intake and less diarrhea.
+- Weight: 4 lb . increase in the past month
+- Laboratory tests: Within normal limits
+
+--- page 25 ---
+
+# CASE STUDY \#4 
+
+Select appropriate adjustments in the PN regimen to ensure successful weaning of PN:
+$\square$ Increase frequency of laboratory monitoring
+D Discontinue PN for 1-2 weeks and monitor weight
+D Continue PN until patient consistently achieves 100\% of oral intake
+D Reduce the PN formula by 50\%
+D Eliminate 1 or 2 infusions each week
+D Recommend nocturnal tube feeding to ensure adequate intake
+D Consider initiating an oral vitamin and mineral supplement
+
+## CASE STUDY \#4
+
+Select appropriate adjustments in the PN regimen to ensure successful weaning of PN:
+$\checkmark$ Increase frequency of laboratory monitoring
+D Discontinue PN for 1-2 weeks and monitor weight
+D Continue PN until patient consistently achieves 100\% of oral intake
+D Reduce the PN formula by 50\%
+$\checkmark$ Eliminate 1 or 2 non-consecutive infusions each week
+D Recommend nocturnal tube feeding
+$\checkmark$ Consider initiating an oral vitamin and mineral supplement
+
+--- page 26 ---
+
+# SELF-ASSESSMENT \#1 
+
+The pharmacy receives a request to increase the PN formulation for a patient in ICU. The prescriber indicates that the reason for adjusting the PN formulation is based on the patient's albumin level of $2.9 \mathrm{mg} / \mathrm{dL}$. Which of the following best describes the use of albumin levels in this clinical situation?
+A. The albumin level represents moderate to severe malnutrition
+B. Low albumin levels indicate the need to increase protein intake
+C. Both protein and energy should be increased
+D. Albumin levels do not serve a valid markers of nutrition status
+
+## SELF-ASSESSMENT \#1
+
+The pharmacy receives a request to increase the PN formulation for a patient in ICU. The prescriber indicates that the reason for adjusting the PN formulation is based on the patient's albumin level of $2.9 \mathrm{mg} / \mathrm{dL}$. Which of the following best describes the use of albumin levels in this clinical situation?
+A. The albumin level represents moderate to severe malnutrition
+B. Low albumin levels indicate the need to increase protein intake
+C. Both protein and energy should be increased
+D. Albumin levels do not serve a valid markers of nutrition status
+
+--- page 27 ---
+
+# SELF-ASSESSMENT \#2 
+
+A patient with a small bowel obstruction is to begin PN. Nutritional assessment has documented that the patient has had a 35-pound unintentional weight loss prior to this admission. His baseline laboratory tests show the following: serum potassium $2.9 \mathrm{mEq} / \mathrm{dL}$; serum magnesium $1.2 \mathrm{mEq} / \mathrm{dL}$; serum phosphate $1.8 \mathrm{mg} / \mathrm{dL}$. Which of the following represents the best course action in this situation?
+A. Restrict ILE administration
+B. Initiate PN promptly with standard electrolytes
+C. Delay PN to correct electrolyte abnormalities
+D. Increase calories provided by dextrose in the base PN formulation
+
+## SELF-ASSESSMENT \#2
+
+A patient with a small bowel obstruction is to begin PN. Nutritional assessment has documented that the patient has had a 35-pound unintentional weight loss prior to this admission. His baseline laboratory tests show the following: serum potassium $2.9 \mathrm{mEq} / \mathrm{dL}$; serum magnesium $1.2 \mathrm{mEq} / \mathrm{dL}$; serum phosphate $1.8 \mathrm{mg} / \mathrm{dL}$. Which of the following represents the best course action in this situation?
+A. Restrict ILE administration
+B. Initiate PN promptly with standard electrolytes
+C. Delay PN to correct electrolyte abnormalities
+D. Increase calories provided by dextrose in the base PN formulation
+
+--- page 28 ---
+
+# CONCLUSIONS 
+
+- The nutrition plan of care should be evaluated and revised based on results of ongoing monitoring.
+- The goal of monitoring aims to determine the appropriateness of the nutrition interventions, ensure attainment of nutrition goals and to reduce the risk of adverse events related to therapy.
+- The scope and frequency of monitoring is determined by the metabolic and clinical stability of the patient and the healthcare setting in which nutrition support is administered.
+
+
+## REFERENCES
+
+- Ayers P, Adams S, Boulatta J et al. ASPEN Parenteral nutrition safety consensus recommendations. JPENJ Parenter Enteral Nutr. 2014; 38(3):296-333.
+- Boullata JI, Carrera AL, Harvey L et al. ASPEN safe practices for enteral nutrition therapy. JPEN J Parenter Enteral Nutr. 2017; 41(1):15-103.
+- DaSilva JSV, Seres DS, Sabino K, et al. ASPEN consensus recommendations for refeeding syndrome. Nutr Clin Pract 2020; 35(2):178-195.
+- Durfee SM, Adams SC, Arthur E et al. ASPEN standards for nutrition support: Home and alternate site care. Nutr Clin Pract. 2014; 29(4):542-55.
+- Evans DC, Corkins MR, Malone A, Miller S. The use of visceral proteins as nutrition markers. An ASPEN position paper. Nutr Clin Pract 2021;36(1):22-28.
+
+--- page 29 ---
+
+# REFERENCES, CONT. 
+
+- McClave SA, DiBaise JK, Mullin GE et al. ACG Clinical Guideline: Nutrition Therapy in the Adult Hospitalized Patient. Am J Gastroenterol. 2016; 111(3):31534.
+- McClave SA, Taylor BE, Martindale RG et al. Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient. Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (ASPEN) JPEN J Parenter Enteral Nutr. 2016; 40(3):159-211.
+- National Collaborating Centre for Acute Care (UK). Nutrition Support for Adults: Oral Nutrition Support, Enteral Tube Feeding and Parenteral Nutrition. London, UK: National Collaborating Centre for Acute Care; 2006 Feb. NICE Clinical Guidelines, No. 32.
+
+
+## REFERENCES, CONT.
+
+- Schwartz DB, Barrocas A, Annetta MG, et al. Ethical aspects of artificially administered nutrition and hydration: an ASPEN position paper. Nutr Clin Pract 2021, 36(2):254-267.
+- Solomon DM, Hollands JM, Siemianowski LA et al. Do patients with a baseline clinical condition warranting the cautious use of parenteral nutrition develop subsequent metabolic complications? Nutr Clin Pract. 2017; 32(3):400-06.
+- Ukleja A, Gilbert K, Mogensen KM et al. ASPEN standards for nutrition support: Hospitalized adults. Nutr Clin Pract. 2018; 33(6):906-20.
+- Worthington P, Balint J, Bechtold M et al. When is parenteral nutrition appropriate? J Parenter Enteral Nutr. 2017; 41:324-77.
+
+--- page 30 ---
+
+NUTRITION SUPPORT CERTIFICATE
+
+--- page 31 ---
+
+![img-2.jpeg](images/88ad64d6eec31e06.png)
+
+David C. Evans, M.D., FACS, FASPEN<br>Trauma and Acute Care Surgeon<br>OhioHealth Trauma and Surgical Services<br>Columbus, Ohio
+
+David C. Evans served as Director of Nutrition Support Services, Trauma Medical Director, and Associate Professor of Surgery at The Ohio State University Wexner Medical Center in Columbus, OH. He has a busy clinical practice focusing on trauma, emergency general surgery, endoscopy, and critical care.
+
+His special interests include nutrition support in surgical and ICU patients and research in surgery and trauma care. He is an investigator in multiple clinical trials in critically ill patients focused in the areas of nutrition and infection and is author of over 90 peer-reviewed publications. Dr. Evans graduated from Medical School at Duke University, he completed training in Surgery and Surgical Critical Care at The Ohio State University and was a Nestle Fellow.
+
+--- page 32 ---
+
+# Relevant Financial Relationship Disclosure
+
+In accordance with our accreditor’s Standards of Integrity and Independence in Accredited Continuing Education, ASHP requires that all individuals in control of content disclose all financial relationships with ineligible companies. An individual has a relevant financial relationship if they have had a financial relationship with ineligible company in any dollar amount in the past 24 months and the educational content that the individual controls is related to the business lines or products of the ineligible company.
+
+An ineligible company is any entity producing, marketing, re-selling, or distributing health care goods or services consumed by, or used on, patients. The presence or absence of relevant financial relationships will be disclosed to the activity audience.
+
+The following persons in control of this activity’s content have relevant financial relationships:
+
+- Phil Ayers: Fresenius Kabi, consultant and speaker
+- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; CVS/OptionCare, consultant; Alcresta, consultant and speaker
+- Andrew Mays: Fresenius Kabi, speaker
+- Jay Mirtallo: Fresenius Kabi, consultant
+- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board
+
+All other persons in control of content do not have any relevant financial relationships with an ineligible company.
+
+As required by the Standards of Integrity and Independence in Accredited Continuing Education definition of ineligible company, all relevant financial relationships have been mitigated prior to the CPE activity.
+
+# Methods and CE Requirements
+
+This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians are eligible to receive a total of 20 hours of continuing education credit by completing all 12 modules within this certificate.
+
+Participants must participate in the entire activity, complete the evaluation and all required components to claim continuing pharmacy education credit online at ASHP Learning Center http://elearning.ashp.org. Follow the prompts to claim credit and view your statement of credit within 60 days after completing the activity.
+
+# Important Note – ACPE 60 Day Deadline:
+
+Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you have completed the required steps and to ensure your credits have been reported to CPE Monitor, check your NABP eProfile account to validate that your credits were transferred successfully before the ACPE 60-day deadline. After the 60 day deadline, ASHP will no longer be able to award credit for this activity.
+
+# System Technical Requirements
+
+Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should have a basic comfort level using a computer and navigating websites.
+
+View Frequently Asked Questions for more information.

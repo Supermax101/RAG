@@ -1,0 +1,1100 @@
+{
+  "doc_id": "nutritionsupportglossary__278eb7",
+  "original_filename": "NutritionSupportGlossary.pdf",
+  "md_path": "data/parsed/NutritionSupportGlossary/NutritionSupportGlossary.md",
+  "rmd_path": "data/parsed/NutritionSupportGlossary/NutritionSupportGlossary.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "45",
+      "line": 0
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Nutrition Support Certificate",
+      "line": 2
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Nutrition Support Glossary",
+      "line": 4
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "DEFINITIONS",
+      "line": 6
+    },
+    {
+      "type": "text",
+      "section": "DEFINITIONS",
+      "line": 8,
+      "preview": "- Short Bowel"
+    },
+    {
+      "type": "text",
+      "section": "DEFINITIONS",
+      "line": 10,
+      "preview": "Syndrome: Inadequate absorptive capacity for sustenance with normal diet"
+    },
+    {
+      "type": "text",
+      "section": "DEFINITIONS",
+      "line": 12,
+      "preview": "- Intestinal"
+    },
+    {
+      "type": "text",
+      "section": "DEFINITIONS",
+      "line": 14,
+      "preview": "Failure: Inadequate absorptive capacity for sustenance Suicide"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "ABBREVIATIONS",
+      "line": 16
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 18,
+      "preview": "- \\%IBW: percent ideal body weigh"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 19,
+      "preview": "- AA: amino acids"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 20,
+      "preview": "- ABG: arterial blood gas"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 21,
+      "preview": "- AdjBW/ABW: adjusted body weight"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 22,
+      "preview": "- ACD: automated compounding device"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 23,
+      "preview": "- ACEI: angiotensin converting enzyme inhibitor"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 24,
+      "preview": "- AG: anion gap"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 25,
+      "preview": "- AKI: acute kidney injury"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 26,
+      "preview": "- ALA: alpha-linolenic acid"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 27,
+      "preview": "- Alb: albumin"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 28,
+      "preview": "- ALP/"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 30,
+      "preview": "Alk Phosph: alkaline phosphatase"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 32,
+      "preview": "- ALT: alanine aminotransferase"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 33,
+      "preview": "- ARB: angiotensin receptor blocker"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 34,
+      "preview": "- ARF: acute renal failure"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 35,
+      "preview": "- ASHP: American Society of Health-System Pharmacists"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 36,
+      "preview": "- ASPEN: American Society for Parenteral and Enteral Nutrition"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 37,
+      "preview": "- AST: aspartate aminotransferase"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 38,
+      "preview": "- ATPase: adenosine triphosphatase"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 40,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 42,
+      "preview": "| - BG: | blood glucose |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 43,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 44,
+      "preview": "| - Bili, T: | total bilirubin |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 45,
+      "preview": "| - BMI: | body mass index |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 46,
+      "preview": "| - BP: | blood pressure |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 47,
+      "preview": "| - BPM: | beats per minute |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 48,
+      "preview": "| - BUN: | blood urea nitrogen |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 49,
+      "preview": "| - Ca: | calcium |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 50,
+      "preview": "| - CABG: | coronary artery bypass graft |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 51,
+      "preview": "| - CaGluc: | calcium gluconate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 52,
+      "preview": "| - Cal: | calories |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 53,
+      "preview": "| - CHF: | congestive heart failure |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 54,
+      "preview": "| - CHG: | chlorhexidine gluconate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 55,
+      "preview": "| - CHO: | carbohydrate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 56,
+      "preview": "| - Cl : | chloride |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 57,
+      "preview": "| - CKD: | chronic kidney disease |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 58,
+      "preview": "| - CLABSI: | central line associated bloodstream infection |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 59,
+      "preview": "| - CNS: | central nervous system |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 60,
+      "preview": "| - $\\mathrm{CO}_{2}$ : | carbon dioxide |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 61,
+      "preview": "| - Cr: | creatinine |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 62,
+      "preview": "| - CrCl : | creatinine clearance |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 63,
+      "preview": "| - COPD: | chronic obstructive pulmonary disease |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 64,
+      "preview": "| - CPOE: | computerized provider order entry |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 65,
+      "preview": "| - CRBSI: | catheter-related bloodstream infections |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 66,
+      "preview": "| - CRRT: | continuous renal replacement therapy |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 67,
+      "preview": "| - CVC: | central venous catheter |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 68,
+      "preview": "| - D/C: | discontinue |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 69,
+      "preview": "| - Dex/Dext: | dextrose |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 70,
+      "preview": "| - DHA: | docosahexaenoic acid |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 71,
+      "preview": "| - DOB: | date of birth |"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 73,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 75,
+      "preview": "| - DVT: | deep vein thrombosis |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 76,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 77,
+      "preview": "| - ECF: | extracellular fluid |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 78,
+      "preview": "| - ECG: | electrocardiogram |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 79,
+      "preview": "| - EHR: | electronic health record |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 80,
+      "preview": "| - EFA: | essential fatty acids |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 81,
+      "preview": "| - EFAD: | essential fatty acid deficiency |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 82,
+      "preview": "| - EGD: | esophagogastroduodenoscopy |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 83,
+      "preview": "| - EN: | enteral nutrition |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 84,
+      "preview": "| - EPA: | eicosapentaenoic acid |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 85,
+      "preview": "| - FDA: | U.S. Food and Drug Administration |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 86,
+      "preview": "| - FO: | fish oil |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 87,
+      "preview": "| - FODMAP's: | Fermentable, oligo-, di-, monosaccharides and polyols |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 88,
+      "preview": "| - GCS: | Glascow coma scale |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 89,
+      "preview": "| - GE: | gastric emptying |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 90,
+      "preview": "| - GERD: | gastroesophageal reflux disease |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 91,
+      "preview": "| - GI: | gastrointestinal |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 92,
+      "preview": "| - GIR: | glucose infusion rate ( $\\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$ ) |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 93,
+      "preview": "| - Gluc: | glucose |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 94,
+      "preview": "| - GRV: | gastric residual volume |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 95,
+      "preview": "| - G-tube: | gastrostomy tube |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 96,
+      "preview": "| - GUT or GI: | gastrointestinal tract |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 97,
+      "preview": "| - H2: | histamine-2 |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 98,
+      "preview": "| - $\\mathrm{H}^{+}$: | hydrogen ion |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 99,
+      "preview": "| - $\\mathrm{HCO}_{3}$ : | bicarbonate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 100,
+      "preview": "| - HOB: | head of bed |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 101,
+      "preview": "| - HPN: | home parenteral nutrition |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 102,
+      "preview": "| - HR: | heart rate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 103,
+      "preview": "| - Ht: | height |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 104,
+      "preview": "| - I \\& O: | input and output |"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 106,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 108,
+      "preview": "| - IBW: | ideal body weight |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 109,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 110,
+      "preview": "| - ICF: | intracellular fluid |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 111,
+      "preview": "| - ICU: | intensive care unit |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 112,
+      "preview": "| - ID: | identification |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 113,
+      "preview": "| - ILE: | lipid injectable emulsion |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 114,
+      "preview": "| - IPOC: | interdisciplinary plan of care |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 115,
+      "preview": "| - ISMP: | Institute for Safe Medication Practices |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 116,
+      "preview": "| - IV: | intravenous |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 117,
+      "preview": "| - K: | potassium |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 118,
+      "preview": "| - KCl : | potassium chloride |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 119,
+      "preview": "| - $\\mathrm{KPO}_{4}$ : | potassium phosphate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 120,
+      "preview": "| - L: | liter |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 121,
+      "preview": "| - LA: | linoleic acid |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 122,
+      "preview": "| - LBM: | lean body mass |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 123,
+      "preview": "| - Lbs: | pounds |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 124,
+      "preview": "| - LCT: | long chain triglyceride |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 125,
+      "preview": "| - MCB-PN: | multi-chamber bag parenteral nutrition |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 126,
+      "preview": "| - MCT: | medium chain triglycerides |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 127,
+      "preview": "| - MERP: | Medication Error Reporting Program of ISMP |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 128,
+      "preview": "| - Mg : | magnesium |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 129,
+      "preview": "| - $\\mathrm{MgSO}_{4}$ : | magnesium sulfate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 130,
+      "preview": "| - MICU: | medical intensive care unit |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 131,
+      "preview": "| - MCT: | medium chain triglycerides |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 132,
+      "preview": "| - MST: | malnutrition screening tool |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 133,
+      "preview": "| - MTE: | multiple trace element |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 134,
+      "preview": "| - Na : | sodium |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 135,
+      "preview": "| - NA: | not available or not assessed (as in laboratory or clinical symptom) |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 136,
+      "preview": "| - NaCl : | sodium chloride |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 137,
+      "preview": "| - NG: | nasogastric |"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 139,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 141,
+      "preview": "| - NGT: | nasogastric tube |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 142,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 143,
+      "preview": "| - NKDA: | no known drug allergies |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 144,
+      "preview": "| - NPO: | nil per os/nothing by mouth |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 145,
+      "preview": "| - NS: | normal saline |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 146,
+      "preview": "| - NS: | nutrition support |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 147,
+      "preview": "| - NSAID: | non-steroidal anti-inflammatory drug |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 148,
+      "preview": "| - NSS: | nutrition support service |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 149,
+      "preview": "| - OG: | orogastric |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 150,
+      "preview": "| - OR: | operating room |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 151,
+      "preview": "| - OTC: | over-the-counter |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 152,
+      "preview": "| - P: | phosphorus |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 153,
+      "preview": "| - $\\mathrm{pCO}_{2}$ : | partial pressure of carbon dioxide |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 154,
+      "preview": "| - PEG: | percutaneous endoscopic gastrostomy |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 155,
+      "preview": "| - PICC: | peripherally inserted central catheter |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 156,
+      "preview": "| - PN: | parenteral nutrition |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 157,
+      "preview": "| - PPN: | peripheral parenteral nutrition |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 158,
+      "preview": "| - $\\mathrm{pO}_{2}$ : | partial pressure of oxygen |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 159,
+      "preview": "| - $\\mathrm{PO}_{4}$ : | phosphate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 160,
+      "preview": "| - POD: | post operative day |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 161,
+      "preview": "| - PUFA: | polyunsaturated fatty acids |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 162,
+      "preview": "| - QOL: | quality of life |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 163,
+      "preview": "| - RCT: | randomized controlled trial |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 164,
+      "preview": "| - RD: | registered dietitian |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 165,
+      "preview": "| - RDI: | recommended dietary intake |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 166,
+      "preview": "| - RQ: | respiratory quotient |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 167,
+      "preview": "| - RR: | respiratory rate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 168,
+      "preview": "| - RRT: | renal replacement therapy |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 169,
+      "preview": "| - RTU: | ready to use |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 170,
+      "preview": "| - S/p: | status post |"
+    },
+    {
+      "type": "text",
+      "section": "ABBREVIATIONS",
+      "line": 172,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 174,
+      "preview": "| - SAP: | severe acute pancreatitis |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 175,
+      "preview": "| :--: | :--: |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 176,
+      "preview": "| - SBO: | small bowel obstruction |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 177,
+      "preview": "| - SBS: | short bowel syndrome |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 178,
+      "preview": "| - SCAPN: | standardized commercially-available parenteral nutrition |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 179,
+      "preview": "| - SCCM: | Society of Critical Care Medicine |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 180,
+      "preview": "| - SIAD: | syndrome of inappropriate antidiuresis |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 181,
+      "preview": "| - SICU: | surgical intensive care unit |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 182,
+      "preview": "| - SIRS: | systemic inflammatory response syndrome |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 183,
+      "preview": "| - sOsm: | serum osmolality |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 184,
+      "preview": "| - SVC: | superior vena cava |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 185,
+      "preview": "| - T. Bili: | total bilirubin |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 186,
+      "preview": "| - TBW: | total body water |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 187,
+      "preview": "| - TE: | trace element |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 188,
+      "preview": "| - Tg: | Triglycerides |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 189,
+      "preview": "| - TNA: | total nutrient admixture |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 190,
+      "preview": "| - TPP: | thiamine pyrophosphate |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 191,
+      "preview": "| - uCl: | urine chloride |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 192,
+      "preview": "| - uNa: | urine sodium |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 193,
+      "preview": "| - uOsm: | urine osmolality |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 194,
+      "preview": "| - UTI: | urinary tract infection |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 195,
+      "preview": "| - VAP: | ventilator-associated pneumonia |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 196,
+      "preview": "| - WBC: | white blood cell |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 197,
+      "preview": "| - WBC: | white blood count |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 198,
+      "preview": "| - WNL: | within normal limits |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 199,
+      "preview": "| - Wt: | weight |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 200,
+      "preview": "| - Yo: | year-old |"
+    },
+    {
+      "type": "table",
+      "section": "ABBREVIATIONS",
+      "line": 201,
+      "preview": "| - Zn: | zinc |"
+    }
+  ],
+  "images": [],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696477",
+    "ts": "2025-08-08T23:41:17.925321+00:00"
+  }
+}

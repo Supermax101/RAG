@@ -1,0 +1,21 @@
+# Runtime
+typer==0.12.3
+requests==2.32.3
+pypdf==5.0.1
+Pillow==10.4.0
+python-slugify==8.0.4
+mistralai>=1.0.0
+
+# Embeddings & Vector Storage
+chromadb==0.5.15
+numpy==1.26.4
+scikit-learn==1.5.1
+
+# Dev (optional)
+python-dotenv==1.0.1
+
+# GraphRAG Dependencies
+neo4j>=5.0.0
+spacy>=3.5.0
+docker>=6.0.0  # For automated Neo4j setup
+

@@ -1,0 +1,697 @@
+# NUTRITION SUPPORT CERTIFICATE 
+
+## Acid-Base Disorders
+
+![img-0.jpeg](images/a1843a3ab3082a6b.png)
+
+Planned by the American Society of Health-System Pharmacists (ASHP) in collaboration with the American Society for Parenteral and Enteral Nutrition (ASPEN).
+(c)2022 American Society of Health-System Pharmacists, Inc. All rights reserved.
+
+No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, microfilming, and recording, or by any information storage and retrieval system, without written permission from the American Society of Health-System Pharmacists.
+
+--- page 1 ---
+
+# NUTRITION SUPPORT COMPLICATIONS: ACID-BASE DISORDERS 
+
+Anne M. Tucker, Pharm.D., BCNSP
+University of Texas MD Anderson Cancer Center
+
+NUTRITION SUPPORT CERTIFICATE
+
+## RELEVANT FINANCIAL RELATIONSHIP DISCLOSURE
+
+The following persons in control of this activity's content have relevant financial relationships:
+
+- Jay Mirtallo: Fresenius Kabi, consultant
+
+All other persons in control of content do not have any relevant financial relationships with an ineligible company.
+
+As defined by the Standards of Integrity and Independence definition of ineligible company. All relevant financial relationships have been mitigated prior to the CPE activity.
+
+--- page 2 ---
+
+# LEARNING OBJECTIVES 
+
+- Analyze patient information to determine type acid-base disorder.
+- Describe common etiologies of acid-base disorders and their impact on the nutrition prescription.
+- Design recommendations for the prevention and management of acid-base disorders.
+
+
+## KEY ABBREVIATIONS
+
+- ABG:
+- AG:
+- BUN:
+- Ca:
+- $\mathrm{Cl}:$
+- $\mathrm{CO}_{2}$ :
+- COPD:
+- ECF:
+- $\mathrm{H}^{+}$:
+- $\mathrm{HCO}_{3}$ : arterial blood gas
+anion gap
+blood urea nitrogen
+calcium
+chloride
+carbon dioxide
+chronic obstructive pulmonary disease
+extracellular fluid
+hydrogen ion
+bicarbonate
+
+--- page 3 ---
+
+# KEY ABBREVIATIONS, CONT. 
+
+- ICF:
+- K:
+- Mg :
+- Na :
+- NG:
+- P:
+- $\mathrm{pCO}_{2}$ :
+- PN:
+- $\mathrm{pO}_{2}$ :
+- uCl :
+intracellular fluid
+potassium
+magnesium
+sodium
+nasogastric
+phosphorus
+partial pressure of carbon dioxide
+parenteral nutrition
+partial pressure of oxygen
+urine chloride
+
+
+## SELF-ASSESSMENT \#1
+
+- RK is a 55 year old male home PN patient who presents to the Emergency Department for hypovolemia secondary to multiple days of high volume emesis.
+- Laboratory values:
+
+| Na: $139 \mathrm{mEq} / \mathrm{L}$ | Glucose: $122 \mathrm{mg} / \mathrm{dL}$ |
+| :--: | :--: |
+| K: $3.7 \mathrm{mEq} / \mathrm{L}$ | ABG: |
+| Cl: $98 \mathrm{mEq} / \mathrm{L}$ | $\mathrm{pH}: 7.46$ |
+| $\mathrm{CO}_{2}: 34 \mathrm{mEq} / \mathrm{L}$ | $\mathrm{pCO}_{2}: 46 \mathrm{mmHg}$ |
+| BUN: $21 \mathrm{mg} / \mathrm{dL}$ | $\mathrm{PO}_{2}: 92 \mathrm{mmHg}$ |
+| Cr: $0.9 \mathrm{mg} / \mathrm{dL}$ | $\mathrm{HCO}_{3}{ }^{-}: 34 \mathrm{mmol} / \mathrm{L}$ |
+
+--- page 4 ---
+
+# SELF-ASSESSMENT \#1, CONT. 
+
+Upon admission to the hospital and continuation of PN, what change should be made based on RK's ABG?
+A. Initiate mechanical ventilation
+B. Increase chloride salts in the PN
+C. Increase acetate salts in the PN
+D. Decrease calorie content of PN
+
+## GENERAL PRINCIPLES - PH
+
+- The degree of acidity in the blood
+- Acidity of the blood is based on the hydrogen ion $(\mathrm{H}+)$ concentration
+- pH is maintained at $7.40(7.35$ to 7.45$)$
+- Associated disorders
+- Acidosis: lead to $\mathrm{pH}<7.35$
+- Alkalosis: lead to $\mathrm{pH}>7.45$
+
+--- page 5 ---
+
+# GENERAL PRINCIPLES - H+ 
+
+- Regulation via 3 mechanisms
+- Chemical buffering by extracellular and intracellular mechanisms
+- Control of $\mathrm{pCO}_{2}$ in the blood by the lungs via alterations in the rate and depth of ventilation
+- Control of the serum $\mathrm{HCO}_{3}{ }^{-}$concentration by alterations in renal $\mathrm{H}+$ excretion and $\mathrm{HCO}_{3}{ }^{-}$reabsorption
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue, HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+## GENERAL PRINCIPLES - BUFFERS
+
+- Most abundant ECF buffer
+- Carbonic acid/bicarbonate system
+
+$$
+\begin{aligned}
+& \mathrm{H}_{2} \mathrm{O}+\mathrm{CO}_{2} \longleftrightarrow \mathrm{H}_{2} \mathrm{CO}_{3} \longleftrightarrow \mathrm{H}^{+}+\mathrm{HCO}_{3}^{-} \\
+& \text {Carbonic acid Bicarbonate }
+\end{aligned}
+$$
+
+- $\sim 15,000 \mathrm{mmol} \mathrm{CO}_{2}$ produced daily from fat and carbohydrate metabolism
+- Lungs eliminate to prevent buildup of $\mathrm{CO}_{2}$
+- Other buffers: plasma proteins, hemoglobin, phosphates
+
+--- page 6 ---
+
+# ACID-BASE GENERAL PRINCIPLES 
+
+- Described by the Henderson-Hasselbalch equation
+- $\mathrm{pH}=6.1+\log \left(\left[\mathrm{HCO}_{3}^{-}\right] /\left(0.03 \times \mathrm{pCO}_{2}\right)\right)$
+- $\mathrm{HCO}_{3}^{-}$
+- Base component
+- Calculated from arterial pH and $\mathrm{pCO}_{2}$
+$-\mathrm{pCO}_{2}$
+- Acid component
+- Measured in serum
+
+Ayers P et al. JPEN J Parent Enteral Nutr. 2012; 36:18-23.
+
+## ARTERIAL BLOOD GAS (ABG)
+
+- Laboratory analysis that reflects the ability of the lungs to oxygenate blood
+- $\mathrm{pH} / \mathrm{pCO}_{2} / \mathrm{pO}_{2} / \mathrm{HCO}_{3}^{-}$
+
+|  | Normal ABG values |
+| :-- | :--: |
+| pH | $7.40(7.35-7.45)$ |
+| $\mathrm{pCO}_{2}(\mathrm{~mm} \mathrm{Hg})$ | $40(35-45)$ |
+| $\mathrm{pO}_{2}(\mathrm{~mm} \mathrm{Hg})$ | $80-100$ |
+| $\mathrm{HCO}_{3}{ }^{-}(\mathrm{mEq} / \mathrm{L})$ | $24(22-26)$ |
+
+--- page 7 ---
+
+# ACID-BASE DISORDERS 
+
+- Metabolic acidosis
+- Metabolic alkalosis
+- Respiratory acidosis
+- Respiratory alkalosis
+- Mixed disorders
+
+
+## METABOLIC DISORDERS
+
+- Result from disturbances in plasma $\mathrm{HCO}_{3}{ }^{-}$
+- Regulated by the kidneys
+- $\mathrm{HCO}_{3}{ }^{-}$is the basic component in the carbonic acid/bicarbonate buffer system
+- Normal value $24 \mathrm{mmol} / \mathrm{L}$ (range $22-26 \mathrm{mmol} / \mathrm{L}$ )
+- Metabolic acidosis $\mathrm{HCO}_{3}{ }^{-}$is $<24$
+- Metabolic alkalosis $\mathrm{HCO}_{3}{ }^{-}$is $>24$
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+--- page 8 ---
+
+# RESPIRATORY DISORDERS 
+
+- Alterations in alveolar ventilation leading to changes in $\mathrm{PCO}_{2}$
+- $\mathrm{pCO}_{2}$ is the acidic component in the carbonic acid/bicarbonate buffer system
+- Normal value 40 mmHg (range $35-45 \mathrm{mmHg}$ )
+- Respiratory acidosis $\mathrm{pCO}_{2}$ is $>40$
+- Respiratory alkalosis $\mathrm{pCO}_{2}$ is $<40$
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+## COMPENSATION
+
+- Metabolic disorders
+- Lungs regulate $\mathrm{pCO}_{2}$ by altering the rate and depth of ventilation
+- Excretion of $\mathrm{CO}_{2}$ generated by diet and cellular metabolism
+- Compensation starts within minutes
+- Respiratory disorders
+- Kidneys regulate $\mathrm{HCO}_{3}{ }^{-}$via alterations in renal $\mathrm{HCO}_{3}{ }^{-}$excretion
+- Compensation fully activated in 2 - 3 days
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+--- page 9 ---
+
+# PUTTING IT TOGETHER 
+
+| Acid-Base <br> Disorder | pH | Primary Disturbance | Compensatory <br> Response |
+| :--: | :--: | :--: | :--: |
+| Respiratory |  |  |  |
+| Acidosis | $\downarrow$ | $\uparrow \mathrm{PCO}_{2}$ | $\uparrow \mathrm{HCO}_{3}{ }^{-}$ |
+| Alkalosis | $\uparrow$ | $\downarrow \mathrm{PCO}_{2}$ | $\downarrow \mathrm{HCO}_{3}{ }^{-}$ |
+| Metabolic |  |  |  |
+| Acidosis | $\downarrow$ | $\downarrow \mathrm{HCO}_{3}{ }^{-}$ | $\downarrow \mathrm{PCO}_{2}$ |
+| Alkalosis | $\uparrow$ | $\uparrow \mathrm{HCO}_{3}{ }^{-}$ | $\uparrow \mathrm{PCO}_{2}$ |
+
+## COMPENSATION FORMULAS
+
+| Disorder | Compensation Formula |
+| :--: | :--: |
+| Metabolic acidosis | Expected $\mathrm{pCO}_{2}=40-\left[1.2 \times\left(24\right.\right.$ - measured $\left.\left.\mathrm{HCO}_{3}{ }^{-}\right)\right]$ |
+| Metabolic alkalosis | Expected $\mathrm{pCO}_{2}=40+\left[0.7 \times\left(\right.\right.$ measured $\left.\left.\mathrm{HCO}_{3}{ }^{-}-24\right)\right]$ |
+| Acute respiratory acidosis | Expected decrease in $\mathrm{pH}=0.08 \times\left(\right.$ measured $\mathrm{pCO}_{2}-40$ ) <br> 10 |
+| Chronic respiratory acidosis | Expected decrease in $\mathrm{pH}=0.03 \times\left(\right.$ measured $\mathrm{pCO}_{2}-40$ ) <br> 10 |
+| Acute respiratory alkalosis | Expected increase in $\mathrm{pH}=0.08 \times\left(40\right.$ - measured $\left.\mathrm{pCO}_{2}\right)$ <br> 10 |
+| Chronic respiratory alkalosis | Expected increase in $\mathrm{pH}=0.03 \times\left(40\right.$ - measured $\left.\mathrm{pCO}_{2}\right)$ <br> 10 |
+| *Expected values should be within 10\% of actual to determine simple disorders |  |
+
+DiPiro J et al., ed. New York: McGraw-Hill Education; 2014.
+
+--- page 10 ---
+
+# ADDITIONAL FORMULAS 
+
+| Disorder | Compensatory Response |
+| :-- | :-- |
+| Acute Respiratory Acidosis | $1 \mathrm{mEq} / \mathrm{L}$ increase in $\mathrm{HCO}_{3}{ }^{-}$for every 10 mm Hg rise in $\mathrm{PCO}_{2}$ |
+| Chronic Respiratory Acidosis | $3 \mathrm{mEq} / \mathrm{L}$ increase in $\mathrm{HCO}_{3}{ }^{-}$for every 10 mm Hg rise in $\mathrm{PCO}_{2}$ |
+| Acute Respiratory Alkalosis | $2 \mathrm{mEq} / \mathrm{L}$ decrease in $\mathrm{HCO}_{3}{ }^{-}$for every 10 mm Hg fall in $\mathrm{PCO}_{2}$ |
+| Chronic Respiratory Alkalosis | $4 \mathrm{mEq} / \mathrm{L}$ decrease in $\mathrm{HCO}_{3}{ }^{-}$for every 10 mm Hg fall in $\mathrm{PCO}_{2}$ |
+
+## MIXED DISORDER
+
+- When two or more primary acid-base disorders occur simultaneously
+- Suspect if blood gas values are inappropriate for compensation
+- Examples:
+- Patient with sepsis and diabetic ketoacidosis
+- Patient with COPD and volume depletion secondary to loop diuretics
+
+--- page 11 ---
+
+# SELF-ASSESSMENT \#2 
+
+A patient presents with a metabolic acidosis due to septic shock. Which ABG pattern fits this disorder?
+A. Decreased pH , decreased $\mathrm{HCO}_{3}^{-}$
+B. Decreased pH , increased $\mathrm{PCO}_{2}$
+C. Increased pH , increased $\mathrm{HCO}_{3}^{-}$
+D. Increased pH , decreased $\mathrm{PCO}_{2}$
+
+## METABOLIC ACIDOSIS
+
+- Decreased pH ( $<7.35$ ) due to decreased plasma $\mathrm{HCO}_{3}{ }^{-}(<24 \mathrm{mEq} / \mathrm{L})$
+- Loss of bicarbonate-rich fluids
+- Excessive administration of non-alkali based fluids
+- Consumption or accumulation of acids $\left(\mathrm{H}_{+}\right)$
+- Pulmonary compensation
+- Increase respiratory rate
+- Decrease $\mathrm{pCO}_{2}$
+- Classified as normal or elevated anion gap
+
+--- page 12 ---
+
+# ANION GAP (AG) 
+
+- Estimates the difference between measured and unmeasured major ECF cations and anions
+- $\mathrm{AG}=\mathrm{Na}+-\left(\mathrm{Cl}^{-}+\mathrm{HCO}_{3}^{-}\right)$
+- Normal AG $=3-11 \mathrm{mEq} / \mathrm{L}$
+- $\mathrm{AG}>17-20 \mathrm{mEq} / \mathrm{L}$ indicates accumulation of unmeasured anions
+- $\mathrm{AG}>20-25 \mathrm{mEq} / \mathrm{L}$ indicates significant organic acidosis
+- 1:1 ratio between anions in blood
+- Normal AG: Every $1 \mathrm{mEq} / \mathrm{L} \uparrow$ in $\mathrm{Cl}^{-}$should result in $1 \mathrm{mEq} / \mathrm{L} \downarrow$ in $\mathrm{HCO}_{3}^{-}$
+- Elevated AG: Every 1-point $\uparrow$ in AG should result in $1 \mathrm{mEq} / \mathrm{L} \downarrow$ in $\mathrm{HCO}_{3}^{-}$
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+
+Etiology: Normal-Anion Gap Metabolic Acidosis
+
+| $\mathbf{U}$ | Ureteroenterostomy (urinary diversion) |
+| :-- | :-- |
+| $\mathbf{S}$ | Small bowel (pancreatic/biliary) fistula |
+| $\mathbf{E}$ | Excessive chloride salts |
+| $\mathbf{D}$ | Diarrhea |
+| $\mathbf{C}$ | Carbonic anhydrase inhibitors (acetazolamide) |
+| $\mathbf{A}$ | Adrenal insufficiency/aldosterone deficiency |
+| $\mathbf{R}$ | Renal tubular acidosis |
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+--- page 13 ---
+
+# URINE EVALUATION 
+
+- Urine chemistries and urine pH are helpful in identifying specific types of renal tubular disorders
+- Urinary anion gap (UAG) $=\left(\mathrm{UNa}^{+}+\mathrm{UK}^{+}\right)-\mathrm{UCl}^{-}=0 \mathrm{mEq} / \mathrm{L}$
+
+| UAG | Serum K | Urine pH | Diagnosis |
+| :--: | :--: | :--: | :--: |
+| Negative | Normal | $<5.5$ | Normal |
+| Negative | Normal/Low | $>5.5$ | Gl bicarbonate loss |
+| Positive | Elevated | $<5.5$ | Selective Aldosterone Deficiency |
+| Positive | Normal/Low | $>5.5$ | Classic RTA |
+| Positive | Elevated | $>5.5$ | Hyperkalemic Distal RTA |
+
+Batlle, et al. N Engl J Med 1988;318:594-599.
+
+Etiology: Elevated-Anion Gap Metabolic Acidosis
+
+| $\mathbf{M}$ | Methanol ingestion |
+| :--: | :-- |
+| $\mathbf{U}$ | Uremia (renal failure) |
+| $\mathbf{D}$ | Diabetic ketoacidosis (alcohol and starvation ketoacidosis) |
+| $\mathbf{P}$ | Propylene glycol ingestion |
+| $\mathbf{I}$ | Isoniazid |
+| $\mathbf{L}$ | Lactic acidosis |
+| $\mathbf{E}$ | Ethylene glycol ingestion |
+| $\mathbf{S}$ | Salicylate overdose |
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+--- page 14 ---
+
+# METABOLIC ACIDOSIS TREATMENT 
+
+- Identify and treat/remove underlying cause(s)
+- Steroids (adrenal insufficiency)
+- Antidiarrhea, antisecretory agents (diarrhea/fistula)
+- Discontinue chloride-based fluids
+- Adjust PN to have higher acetate:chloride salt ratio
+- Fluid resuscitation, insulin (diabetic ketoacidosis)
+- Fluid resuscitation, antimicrobial agents (sepsis)
+- Bicarbonate replacement (oral or intravenous)
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+
+## SELF-ASSESSMENT \#3
+
+A patient presents with a metabolic acidosis due to high volume diarrhea. What is the appropriate compensatory response?
+A. Increase in respiratory rate
+B. Decrease in respiratory rate
+C. Increase bicarbonate reabsorption
+D. Decrease bicarbonate reabsorption
+
+--- page 15 ---
+
+# METABOLIC ALKALOSIS 
+
+- Increased $\mathrm{pH}(>7.45$ ) due to increased plasma $\mathrm{HCO}_{3}^{-}(>24 \mathrm{mEq} / \mathrm{L})$
+- Excessive loss of $\mathrm{H}^{+}$from the kidney or stomach
+- Ingestion/administration of bicarbonate-rich fluids
+- Loss of fluid containing chloride
+- Pulmonary compensation
+- Decrease respiratory rate
+- Increase $\mathrm{pCO}_{2}$
+- Classified as saline responsive ( $\mathrm{uCl}<10 \mathrm{mEq} / \mathrm{L}$ ) and saline resistant ( $\mathrm{uCl}>10$ $\mathrm{mEq} / \mathrm{L}$ )
+
+
+## ETIOLOGY
+
+## Saline-responsive
+
+- Diuretics (loops and thiazides)
+- Gastric losses (emesis, nasogastric suction, gastric tube losses)
+- Exogenous alkali administration (acetate salts in PN, bicarbonate infusions, Ringers lactate)
+- Alkalosis associated with mild hypokalemia
+- Villous adenoma of the colon
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+## Saline-resistant
+
+- Normotensive patients
+- Potassium depletion
+- Hypercalcemia
+- Hypertensive patients
+- Mineralocorticoid excess
+- Large licorice intake
+
+--- page 16 ---
+
+# METABOLIC ALKALOSIS TREATMENT 
+
+- Identify and treat/remove underlying cause(s)
+- Volume replacement
+- Discontinue bicarbonate (acetate)-based fluids
+- Adjust PN to have higher chloride:acetate salt ratio
+- Antiemetics, acid suppressive therapy (emesis, high NG output)
+- Potassium replacement
+- Carbonic anhydrase inhibitors (acetazolamide)
+- Spironolactone (mineralocorticoid excess)
+- Hydrochloric acid (severe cases)
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+
+## SELF-ASSESSMENT \#4
+
+Which of the following diuretics is NOT associated with metabolic alkalosis?
+A. Hydrochlorothiazide
+B. Bumetanide
+C. Acetazolamide
+D. Furosemide
+
+--- page 17 ---
+
+# RESPIRATORY ACIDOSIS 
+
+- Decreased pH ( $<7.35$ ) due to increased $\mathrm{pCO}_{2}$ ( $>40 \mathrm{mmHg}$ )
+- Respiratory failure
+- Inadequate excretion of $\mathrm{pCO}_{2}$
+- Renal compensation
+- Decreased bicarbonate excretion (increasing $\mathrm{HCO}_{3}{ }^{-}$)
+- Acute versus chronic
+
+
+## RESPIRATORY ACIDOSIS ETIOLOGY
+
+## Acute Respiratory Acidosis
+
+- Acute airway disorders (airway obstruction, asthma/COPD exacerbation)
+- Acute central nervous system depression (drug overdose, head trauma, stroke, infections)
+- Acute neuromuscular disorders (Guillain-Barre, spinal cord injury, neuromuscular blocking agents)
+- Acute respiratory disorder (pneumonia, pulmonary edema, pulmonary embolus, hemothorax, pneumothorax)
+
+--- page 18 ---
+
+# RESPIRATORY ACIDOSIS ETIOLOGY 
+
+## Chronic Respiratory Acidosis
+
+- Asthma
+- COPD, emphysema
+- Obstructive sleep apnea
+- Hypoventilation syndromes
+- Diaphragmatic paralysis
+- Myasthenia gravis
+- Amyotrophic lateral sclerosis
+- Spinal cord injury
+- Multiple sclerosis
+- Muscular dystrophy
+- Poliomyelitis
+- Kyphoscoliosis
+- Hypothyroidism
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue, HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+## RESPIRATORY ACIDOSIS TREATMENT
+
+- Identify and treat/remove underlying cause(s)
+- Ventilatory support
+- Respiratory treatments
+- Antimicrobial therapy (as appropriate)
+- Antidotes (overdose)
+- Alkali therapy in severe acidosis
+
+--- page 19 ---
+
+# RESPIRATORY ALKALOSIS 
+
+- Increased $\mathrm{pH}(>7.45)$ due to decreased $\mathrm{pCO}_{2}(<40 \mathrm{mmHg})$
+- Respiratory stimulation
+- Increase exhalation of $\mathrm{pCO}_{2}$
+- Renal compensation
+- Increased bicarbonate excretion (decreasing $\mathrm{HCO}_{3}{ }^{-}$)
+- Acute versus chronic
+
+
+## RESPIRATORY ALKALOSIS ETIOLOGY
+
+- Central nervous system disorders
+- Anxiety, pain, infections, head trauma, malignancy, cerebrovascular disease
+- Hypoxia, high altitude
+- Lung disorder
+- Pneumonia, pulmonary edema, pulmonary embolism, asthma, hyperventilation, interstitial fibrosis
+- Mechanical ventilation
+
+--- page 20 ---
+
+# RESPIRATORY ALKALOSIS ETIOLOGY, CONT. 
+
+- Medications
+- Xanthine derivatives, nicotine, catecholamines, salicylates
+- Pregnancy
+- Cirrhosis
+- Sepsis
+
+Ayers P et al. Nutr Clin Pract. 2014; 30:14-20.
+Adrogue, HJ et al. Kidney Int. 2009; 76:1239-47.
+Al-Jaghbeer M, Kellum JA. Nephrol Dial Transplant. 2015; 30:1104-11.
+
+## RESPIRATORY ALKALOSIS TREATMENT
+
+- Identify and treat/remove underlying cause(s)
+- Ventilator support
+- Respiratory depressants
+- Reassurance
+- Antimicrobial therapy (as appropriate)
+
+--- page 21 ---
+
+# SELF-ASSESSMENT \#1 
+
+- RK is a 55 year old male home PN patient who presents to the Emergency Department for hypovolemia secondary to multiple days of high volume emesis.
+- Laboratory values:
+
+| Na: $139 \mathrm{mEq} / \mathrm{L}$ | Glucose: $122 \mathrm{mg} / \mathrm{dL}$ |
+| :--: | :--: |
+| K: $3.7 \mathrm{mEq} / \mathrm{L}$ | ABG: |
+| Cl: $98 \mathrm{mEq} / \mathrm{L}$ | $\mathrm{pH}: 7.46$ |
+| $\mathrm{CO}_{2}: 34 \mathrm{mEq} / \mathrm{L}$ | $\mathrm{pCO}_{2}: 46 \mathrm{mmHg}$ |
+| BUN: $21 \mathrm{mg} / \mathrm{dL}$ | $\mathrm{PO}_{2}: 92 \mathrm{mmHg}$ |
+| Cr: $0.9 \mathrm{mg} / \mathrm{dL}$ | $\mathrm{HCO}_{3}{ }^{-}: 34 \mathrm{mmol} / \mathrm{L}$ |
+
+## SELF-ASSESSMENT \#1, CONT.
+
+Upon admission to the hospital and continuation of PN, what change should be made based on RK's ABG?
+A. Initiate mechanical ventilation
+B. Increase chloride salts in the PN
+C. Increase acetate salts in the PN
+D. Decrease calorie content of PN
+
+--- page 22 ---
+
+# SELF-ASSESSMENT \#1, CONT. 
+
+Upon admission to the hospital and continuation of PN, what change should be made based on RK's ABG?
+A. Initiate mechanical ventilation
+B. Increase chloride salts in the PN
+C. Increase acetate salts in the PN
+D. Decrease calorie content of PN
+
+## SELF-ASSESSMENT \#2
+
+A patient presents with a metabolic acidosis due to septic shock. Which ABG pattern fits this disorder?
+A. Decreased pH , decreased $\mathrm{HCO}_{3}{ }^{-}$
+B. Decreased pH , increased $\mathrm{PCO}_{2}$
+C. Increased pH , increased $\mathrm{HCO}_{3}{ }^{-}$
+D. Increased pH , decreased $\mathrm{PCO}_{2}$
+
+--- page 23 ---
+
+# SELF-ASSESSMENT \#2 
+
+A patient presents with a metabolic acidosis due to septic shock. Which ABG pattern fits this disorder?
+A. Decreased $\mathrm{pH}, \operatorname{decreased} \mathrm{HCO}_{3}{ }^{-}$
+B. Decreased pH , increased $\mathrm{PCO}_{2}$
+C. Increased pH , increased $\mathrm{HCO}_{3}{ }^{-}$
+D. Increased pH , decreased $\mathrm{PCO}_{2}$
+
+## SELF-ASSESSMENT \#3
+
+A patient presents with a metabolic acidosis due to high volume diarrhea. What is the appropriate compensatory response?
+A. Increase in respiratory rate
+B. Decrease in respiratory rate
+C. Increase bicarbonate reabsorption
+D. Decrease bicarbonate reabsorption
+
+--- page 24 ---
+
+# SELF-ASSESSMENT \#3 
+
+A patient presents with a metabolic acidosis due to high volume diarrhea. What is the appropriate compensatory response?
+A. Increase in respiratory rate
+B. Decrease in respiratory rate
+C. Increase bicarbonate reabsorption
+D. Decrease bicarbonate reabsorption
+
+## SELF-ASSESSMENT \#4
+
+Which of the following diuretics is NOT associated with metabolic alkalosis?
+A. Hydrochlorothiazide
+B. Bumetanide
+C. Acetazolamide
+D. Furosemide
+
+--- page 25 ---
+
+# SELF-ASSESSMENT \#4 
+
+Which of the following diuretics is NOT associated with metabolic alkalosis?
+A. Hydrochlorothiazide
+B. Bumetanide
+C. Acetazolamide
+D. Furosemide
+
+## CONCLUSIONS
+
+- A thorough history and physical, including medication review, is important for identification and diagnosis of acid-base disorders.
+- Knowledge of causes of acid-base disorders will help in determining appropriate prevention and treatment plan development.
+- Development of a nutrition care plan should be done using a systematic approach including comorbid states, medication therapy, and changes in clinical status.
+
+--- page 26 ---
+
+# REFERENCES 
+
+- Adrogue, HJ, Gennari FJ, Galla JH et al. Assessing acid-base disorders. Kidney Int. 2009; 76:1239-47.
+- Al-Jaghbeer M and Kellum JA. Acid-base disturbances in intensive unit patients: etiology, pathophysiology, and treatment. Nephrol Dial Transplant. 2015; 30:110411.
+- Ayers P and Dixon C. Simple acid-base tutorial. JPEN J Parent Enteral Nutr. 2012; 36:18-23.
+- Ayers P, Dixon C, Mays A. Acid-base disorders: learning the basics. Nutr Clin Pract. 2014; 30:14-20.
+
+
+## REFERENCES, CONT.
+
+- Battle DC, Hizon M, Cohen E, et al. The use of the urinary anion gap in the diagnosis of hyperchloremic metabolic acidosis. N Engl J Med. 1988; 318:594-99.
+- Canada TW and Lord LM. Chapter 7 Fluid, Electrolytes, and Acid-Base Disorders. In: Mueller CM, ed. The A.S.P.E.N. Adult Nutrition Support Core Curriculum. 3rd ed. Silver Spring, MD: A.S.P.E.N.; 2017:113-37.
+- DiPiro JT, Talbert RL, Yee G et al., eds. Pharmacotherapy: a pathophysiologic approach. 8th ed. New York: McGraw-Hill Education; 2014.
+- Mirtallo J, Canada T, Johnson D et al. Safe practices for parenteral nutrition. JPEN J Parent Enteral Nutr. 2004; 28:S39-S70.
+
+--- page 27 ---
+
+NUTRITION SUPPORT CERTIFICATE
+
+--- page 28 ---
+
+![img-1.jpeg](images/2f51ff233a710ba1.png)
+
+Anne M. Tucker, Pharm.D., BCNSP<br>Clinical pharmacy Specialist<br>University of Texas MD Anderson Cancer Center<br>Houston, Texas
+
+Anne M. Tucker is clinical pharmacy specialist at the MD Anderson Cancer Center, Houston, Texas. She received her BS in Chemistry from the University of Arkansas, Pharm.D. from the University of Arkansas for Medical Sciences (UAMS) where she also completed residency training. Dr. Tucker has over 20 years of experience in critical care and nutrition support practice and participates in didactic and experiential training of students and post-graduate trainees. Her areas of interest include fluid and electrolyte disorders, nutrition support in critically ill cancer patients, and the promotion of safe parenteral nutrition practices.
+
+Dr. Tucker is currently the Chair of the American Society for Parenteral and Enteral Nutrition (ASPEN) Abstract Review Committee and President of the Texas Gulf Coast ASPEN Chapter. She is also a member and abstract reviewer for American Society of Health-System Pharmacists and Society of Critical Care Medicine. Past leadership includes Chair and member for the Board of Pharmacy Specialties Nutrition Support Specialty Council, Chair and Secretary of the ASPEN Pharmacy Practice Section, Chair of the ASPEN Self-Assessment Committee, Chair for the ASPEN Task Force for Revision of Nutrition Support Pharmacist Standards, and member of the ASPEN Parenteral Nutrition Safety Committee. She is a regular presenter at Clinical Nutrition Week and was most recently involved as an editor and author of the ASPEN Fluid, Electrolytes and Acid-Base Disorders Handbook.
+
+--- page 29 ---
+
+# Relevant Financial Relationship Disclosure
+
+In accordance with our accreditor’s Standards of Integrity and Independence in Accredited Continuing Education, ASHP requires that all individuals in control of content disclose all financial relationships with ineligible companies. An individual has a relevant financial relationship if they have had a financial relationship with ineligible company in any dollar amount in the past 24 months and the educational content that the individual controls is related to the business lines or products of the ineligible company.
+
+An ineligible company is any entity producing, marketing, re-selling, or distributing health care goods or services consumed by, or used on, patients. The presence or absence of relevant financial relationships will be disclosed to the activity audience.
+
+The following persons in control of this activity’s content have relevant financial relationships:
+
+- Phil Ayers: Fresenius Kabi, consultant and speaker
+- David Evans: Fresenius Kabi, consultant and speaker; Abbott Laboratories, consultant and speaker; CVS/OptionCare, consultant; Alcresta, consultant and speaker
+- Andrew Mays: Fresenius Kabi, speaker
+- Jay Mirtallo: Fresenius Kabi, consultant
+- Kris Mogensen: Baxter, speaker; ThriveRx, advisory board; Pfizer, advisory board
+
+All other persons in control of content do not have any relevant financial relationships with an ineligible company.
+
+As required by the Standards of Integrity and Independence in Accredited Continuing Education definition of ineligible company, all relevant financial relationships have been mitigated prior to the CPE activity.
+
+# Methods and CE Requirements
+
+This online activity consists of a combined total of 12 learning modules. Pharmacists and physicians are eligible to receive a total of 20 hours of continuing education credit by completing all 12 modules within this certificate.
+
+Participants must participate in the entire activity, complete the evaluation and all required components to claim continuing pharmacy education credit online at ASHP Learning Center http://elearning.ashp.org. Follow the prompts to claim credit and view your statement of credit within 60 days after completing the activity.
+
+# Important Note – ACPE 60 Day Deadline:
+
+Per ACPE requirements, CPE credit must be claimed within 60 days of being earned. To verify that you have completed the required steps and to ensure your credits have been reported to CPE Monitor, check your NABP eProfile account to validate that your credits were transferred successfully before the ACPE 60-day deadline. After the 60 day deadline, ASHP will no longer be able to award credit for this activity.
+
+# System Technical Requirements
+
+Courses and learning activities are delivered via your Web browser and Acrobat PDF. Users should have a basic comfort level using a computer and navigating websites.
+
+View Frequently Asked Questions for more information.

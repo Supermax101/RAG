@@ -1,0 +1,2649 @@
+{
+  "doc_id": "9pn_transitions_in_pn__8e0a13",
+  "original_filename": "9PN Transitions in PN.pdf",
+  "md_path": "data/parsed/9PN Transitions in PN/9PN Transitions in PN.md",
+  "rmd_path": "data/parsed/9PN Transitions in PN/9PN Transitions in PN.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transitions in Parenteral Nutrition",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "Transitions in Parenteral Nutrition",
+      "line": 2,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Overview",
+      "line": 4
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 6,
+      "preview": "- Introduction"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 7,
+      "preview": "- Case"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 8,
+      "preview": "- Transitions in Parenteral Nutrition (PN)"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 9,
+      "preview": "- Hospital discharge and home PN"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 10,
+      "preview": "- Adult transition in long-term PN"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 11,
+      "preview": "- Weaning off PN"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 12,
+      "preview": "- Cases review"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 14,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Introduction",
+      "line": 16
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 18,
+      "preview": "- Children on long-term PN undergo many transitions, starting from the transition to their home from"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 19,
+      "preview": "- Patients on PN face unique challenges during these transitions"
+    },
+    {
+      "type": "text",
+      "section": "Introduction",
+      "line": 21,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#1",
+      "line": 23
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 25,
+      "preview": "A 3-month-old baby born with intestinal atresia, underwent bowel resection her first week of life. S"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 27,
+      "preview": "You meet with her parents to discuss her care. The parents ask when they will be able to take their "
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 28,
+      "preview": "A) PN should be cycled"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 29,
+      "preview": "B) The child should have a tunneled venous catheter placed"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 30,
+      "preview": "C) When the child is weaned off PN"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 31,
+      "preview": "D) When two caregivers are trained in central line care and able to administer PN at home"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 33,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#2",
+      "line": 35
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 37,
+      "preview": "The parent of a 5-year-old patient with a history intestinal failure due to short bowel syndrome rea"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 38,
+      "preview": "A. Immediately have the parent bring the child to the emergency room for evaluation"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 39,
+      "preview": "B. Inquire how many hours of PN the child typically receives"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 40,
+      "preview": "C. Ask the parent to reposition the patient and try to flush the line again"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 41,
+      "preview": "D. Instruct the parent to call back in the morning to troubleshoot the issue"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 43,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#3",
+      "line": 45
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 47,
+      "preview": "A 3-year-old boy has received PN since birth due to a history of volvulus. He currently eats orally "
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 49,
+      "preview": "All the following are true regarding the transition off PN except,"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 50,
+      "preview": "A. Oral rehydration solutions are beneficial in weaning off PN"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 51,
+      "preview": "B. Continuous tube feeding is necessary to stop PN"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 52,
+      "preview": "C. They should encourage small meals and frequent snacks throughout the day."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 53,
+      "preview": "D. He will likely need more enteral calories as compared to parenteral calories to maintain his grow"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 55,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 57
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 59,
+      "preview": "- Home PN is life-sustaining for patients with chronic intestinal failure"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 60,
+      "preview": "- Home PN is also considered in other clinical settings including palliative care, patients unable t"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 61,
+      "preview": "- Home PN may result in harm if not properly administered"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 62,
+      "preview": "- Families should understand and consent to this treatment"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 63,
+      "preview": "- A home PN program should provide an individualized, safe, and effective plan"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 64,
+      "preview": "- Home environments should be adequate to safely provide home PN"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 66,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 68
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 70,
+      "preview": "- Patient considerations discharge home on PN"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 71,
+      "preview": "- Patient stability"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 72,
+      "preview": "- Patient size"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 73,
+      "preview": "- Duration of therapy"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 74,
+      "preview": "- PN formulation stability"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 75,
+      "preview": "- Availability of home services"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 76,
+      "preview": "- Appropriate support system"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 77,
+      "preview": "- Patient safety is paramount. Points of transition in care are at risk for medical and medication e"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 78,
+      "preview": "- Discharge checklists that are initiated early in a hospital stay and incorporates all aspects of t"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Appropriateness for Home PN",
+      "line": 80,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 82
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 84,
+      "preview": "- Smallest diameter + least number of lumens + silicone + upper extremity"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 85,
+      "preview": "- Most children with intestinal failure require only a single-lumen catheter"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 86,
+      "preview": "- Larger diameter catheters can cause venous obstruction and thrombosis"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 87,
+      "preview": "- Multiple lumens are associated with infection, thrombosis and malfunction"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 88,
+      "preview": "- Silicone catheters permit the use of ethanol locks"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 89,
+      "preview": "- Subclavian or internal jugular vein access is typically preferred"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 90,
+      "preview": "- Femoral vein access has a higher risk of infection from stool output"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Central Venous Catheter Recommendations",
+      "line": 92,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 94
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 96,
+      "preview": "- Tunneled central venous catheter"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 97,
+      "preview": "- Provides stability, durability, longevity, accessibility, and possible decreased risk of infection"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 98,
+      "preview": "- Most tunneled catheters exit the skin on the chest. Subcutaneous tunneling to other exits sites su"
+    },
+    {
+      "type": "image",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 100,
+      "content": "![img-0.jpeg](images/e8aeb5747546872a.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 102,
+      "content": "![img-1.jpeg](images/a27cac98304beaec.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 104,
+      "preview": "LaRusso K, *et al. J Pediatr Surg.* 2019;54:999-1004."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 105,
+      "preview": "Shin HS, *et al. Pediatr Radiol.* 2017;47:1670-5."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 107,
+      "preview": "Christensen LD, *et al. Clin Nutr.* 2016;35:912-7."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 108,
+      "preview": "Allen AW, *et al. J Vasc Interv Radiol.* 2000;11:1309-14."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 110,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 112
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 114,
+      "preview": "- **Peripherally inserted central catheter (PICC)**"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 115,
+      "preview": "- Used for short-term access (<6 months)"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 116,
+      "preview": "- Increased risk of peripheral clots, venous stenosis, line breakage, site infection/phlebitis"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 117,
+      "preview": "- Cuffed vs. uncuffed"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 119,
+      "preview": "- **Implanted central access device (port)**"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 120,
+      "preview": "- Decreased infection risk, ability to be de-accessed, good for intermittent access needs"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 121,
+      "preview": "- Requires a needlestick to access"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 122,
+      "preview": "- Less stable when accessed, not useful if access needed daily"
+    },
+    {
+      "type": "image",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 124,
+      "content": "![img-2.jpeg](images/fdd9967275071bfc.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 126,
+      "content": "![img-3.jpeg](images/d01c7d967e6cc206.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 128,
+      "content": "![img-4.jpeg](images/640e85dd95167f2b.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 130,
+      "preview": "LaRusso K, *et al. J Pediatr Surg.* 2019;54:999-1004."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 131,
+      "preview": "Christensen LD, *et al. Clin Nutr.* 2016;35:912-7."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 132,
+      "preview": "Shin HS, *et al. Pediatr Radiol.* 2017;47:1670-5."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 133,
+      "preview": "Allen AW, *et al. J Vasc Interv Radiol.* 2000;11:1309-14."
+    },
+    {
+      "type": "text",
+      "section": "**Hospital Discharge and Home PN: Central Venous Catheters**",
+      "line": 135,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 137
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 139,
+      "preview": "- Cycling refers to the administration of PN for < 24 hours, e.g., 8 - 22 hours, commonly 10 - 12 ho"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 140,
+      "preview": "- Pre-requisites to cycling PN"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 141,
+      "preview": "- Stable PN regimen"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 142,
+      "preview": "- Ability to handle larger volume of fluid and nutrients over a shorter amount of time"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 143,
+      "preview": "- Smaller infants and patients with no enteral intake may be less tolerant of cycling PN due to meta"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 144,
+      "preview": "- Benefits of cycling PN"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 145,
+      "preview": "- Decrease intestinal failure associated liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 146,
+      "preview": "- Allows a more normal daytime routine"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 147,
+      "preview": "- Increase mobility of the patient when off PN"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN",
+      "line": 149,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 151
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 153,
+      "preview": "- Tapering up/down"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 154,
+      "preview": "- To avoid hypoglycemia associated with abruptly stopping PN wean rate for the first and last hours "
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 155,
+      "preview": "- Many home PN pumps can be programed to taper up/down automatically"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 156,
+      "preview": "- Blood sugar monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 157,
+      "preview": "- Check serum glucose 30 - 45 minutes after stopping PN with every change in the length of cycle"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 158,
+      "preview": "- Monitor for hyperglycemia and/or glucosuria when receiving PN"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Cycling PN - Cont'd",
+      "line": 160,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 162
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 164,
+      "preview": "- The caregiver's meticulous care of the Central Venous Catheter (CVC) directly impacts complication"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 165,
+      "preview": "- Recommend at least 2 caregivers are trained"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 166,
+      "preview": "- Training starts in the hospital and continues after discharge"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 167,
+      "preview": "- Ideally caregiver training includes hands on care, rooming in with the child while in the hospital"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 168,
+      "preview": "- Expectations must be clearly outlined for caregivers to optimize safety"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 170,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 172
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 174,
+      "preview": "- CVC care"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 175,
+      "preview": "- Proper hand hygiene with any manipulation of the site, tubing, catheter or connections"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 176,
+      "preview": "- Daily examination of the CVC dressing that it is in place, intact, and without signs of infection"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 177,
+      "preview": "- Sterile technique with sterile gloves for dressing changes"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 178,
+      "preview": "- CVC dressings should be changed every 7 days or if the dressing is not occlusive or compromised"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 179,
+      "preview": "- Skin preparation with antiseptic solution, often chlorhexidine-gluconate (CHG) solution or povidon"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 180,
+      "preview": "- CHG impregnated supplies (disk, sponge, or dressing) are recommended"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 182,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 184
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 186,
+      "preview": "- Accessing the CVC"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 187,
+      "preview": "- Maintain a sterile, closed infusion system (tubing and connectors)"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 188,
+      "preview": "- Antiseptic barrier caps should be placed when the catheter is not accessed"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 189,
+      "preview": "- When accessing the catheter, use a thorough cleansing technique with antiseptic solution (\"scrub t"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 190,
+      "preview": "- Tubing sets should be changed at least every 24 hours for patients receiving lipids or every 3-4 d"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 191,
+      "preview": "- Flushing the line before and following PN or medication administration prevents mixing of incompat"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 192,
+      "preview": "- To maintain patency, ports should be flushed daily and locked with heparin, or an antimicrobial lo"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 194,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 196
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 198,
+      "preview": "- Administering PN"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 199,
+      "preview": "- PN is stored in a refrigerator at a temperature of $35^{\\circ} \\mathrm{F}$ and should be removed 2"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 200,
+      "preview": "- Caregivers may need to add multivitamins or other medications including famotidine, insulin and th"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 201,
+      "preview": "- Steps to review in administering PN at home include;"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 202,
+      "preview": "- Connection the PN bag and tubing (needle-free connectors are best)"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 203,
+      "preview": "- Priming the tubing"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 204,
+      "preview": "- Programming, or running, the ambulatory pump"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 205,
+      "preview": "- Connecting the PN to the central line catheter"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 206,
+      "preview": "- Caregivers should also be educated as to when PN bags should not be administered such as when clou"
+    },
+    {
+      "type": "text",
+      "section": "Hospital Discharge and Home PN: Caregiver Training",
+      "line": 208,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Home PN: CVC Complications**",
+      "line": 210
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 212,
+      "preview": "- Mechanical issues (breaks and occlusions)"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 213,
+      "preview": "- Repair is highly successful with minimal infectious risk"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 214,
+      "preview": "- Precipitate, CVC malposition, thrombosis (intracatheter vs catheter associated)"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 215,
+      "preview": "- Work with pharmacist to evaluate potential sources of precipitate"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 216,
+      "preview": "- Tissue plasminogen activator (tPA) can successfully clear intracatheter thrombus"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 217,
+      "preview": "- Therapeutic anticoagulation may be required if catheter-related thrombus is identified"
+    },
+    {
+      "type": "image",
+      "section": "**Home PN: CVC Complications**",
+      "line": 219,
+      "content": "![img-5.jpeg](images/2a2042575f5f4fec.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 221,
+      "preview": "McNiven C, *et al. J Pediatr Surg.* 2016; 51:395-7."
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 222,
+      "preview": "Chan AP, *et al. J Pediatr Surg.* 2019;54:517-20."
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 223,
+      "preview": "Wendel D, *et al. J Pediatr Gastroenterol Nutr.* 2021;72:474-86."
+    },
+    {
+      "type": "text",
+      "section": "**Home PN: CVC Complications**",
+      "line": 225,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Home PN: CVC Complications",
+      "line": 227
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 229,
+      "preview": "- Central Line-associated blood stream infection (CLABSI)"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 230,
+      "preview": "- High risk in intestinal failure"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 231,
+      "preview": "- Immediate evaluation required for fever and initiate treatment with broadspectrum antibiotics"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 232,
+      "preview": "- Reduced with CVC care bundles and antimicrobial locks"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 233,
+      "preview": "- Antimicrobial locks"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 234,
+      "preview": "- Antibiotic"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 235,
+      "preview": "- Specific for spectrum of activity, contributes to resistance"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 236,
+      "preview": "- Other locks (e.g., ethanol, sodium bicarbonate, tetrasodium EDTA, Taurolidine, etc.)"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 237,
+      "preview": "- Broad spectrum, antiseptic"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 238,
+      "preview": "- May also have anticoagulant and/or anti-biofilm activity"
+    },
+    {
+      "type": "text",
+      "section": "Home PN: CVC Complications",
+      "line": 240,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 242
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 244,
+      "preview": "- CVC tip should be at the cavoatrial junction"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 245,
+      "preview": "- Consider monitoring with chest radiograph every 6 - 12 months"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 246,
+      "preview": "- Knowledge of central venous patency is important"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 247,
+      "preview": "- Ultrasonography is often used but may not be sensitive enough for diagnosis of vascular occlusion"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 248,
+      "preview": "- CT or MR venography provide more accurate information obstruction however radiation exposure and n"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 249,
+      "preview": "- Venography is the diagnostic standard however it is invasive, requires radiation, intravenous cont"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 250,
+      "preview": "- Echocardiogram can visualize thrombi at the tip of the catheter"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Surveillance of the CVC",
+      "line": 252,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Home PN Additional Considerations",
+      "line": 254
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 256,
+      "preview": "- Emergency / travel letter"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 257,
+      "preview": "- Details of medical and surgical history, current medications, PN prescription, and 24-hour contact"
+    },
+    {
+      "type": "table",
+      "section": "Home PN Additional Considerations",
+      "line": 259,
+      "preview": "|  Name: | XXX  |"
+    },
+    {
+      "type": "table",
+      "section": "Home PN Additional Considerations",
+      "line": 260,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Home PN Additional Considerations",
+      "line": 261,
+      "preview": "|  Date of Birth: | $x / x / x x x x$  |"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 263,
+      "preview": "To Whom It May Concern: $X X X$ is a $X$ year old who has been diagnosed with short bowel syndrome s"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 265,
+      "preview": "1. Obtain both peripheral and central line blood cultures immediately along with a comprehensive met"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 266,
+      "preview": "2. Begin $X X X$ (antibiotics of choice) as soon as the cultures are obtained"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 267,
+      "preview": "3. Arrange for inpatient admission. Please contact the managing hospital for transfer upon stabiliza"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 269,
+      "preview": "To call us, use the following numbers:"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 271,
+      "preview": "1. Monday through Friday, 8am to 4 pm, call $X X X-X X X-X X X X$ and speak to our nurse."
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 272,
+      "preview": "2. After 4 pm and on weekends, call $X X X-X X X-X X X X$ and ask the operator to connect you to the"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 274,
+      "preview": "There are many other issues that can arise with a patient on chronic TPN for gastrointestinal disord"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations",
+      "line": 276,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Home PN Additional Considerations: Sports Participation",
+      "line": 278
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Sports Participation",
+      "line": 280,
+      "preview": "- Participation in sports is an important physical and emotional component of childhood"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Sports Participation",
+      "line": 281,
+      "preview": "- If engaging in sports, patients should guard medical devices. A tight-fitting shirt or wrap can ke"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Sports Participation",
+      "line": 282,
+      "preview": "- Recommend avoiding contact sports"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Sports Participation",
+      "line": 283,
+      "preview": "- Caregivers should assess the dressing before and after sports as the occlusiveness may be affected"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Sports Participation",
+      "line": 284,
+      "preview": "- Consider fluid replacement if excessive fluid losses or heat"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Sports Participation",
+      "line": 286,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 288
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 290,
+      "preview": "- Swimming poses a risk to those with a CVC"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 291,
+      "preview": "- All bodies of water including chlorine treated pools, stagnant (lakes and ponds) and flowing (ocea"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 292,
+      "preview": "- Dry suits for patients with CVC are available but at a high cost and benefit has not been well stu"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 293,
+      "preview": "- A general paucity of data exists and recommendations from intestinal rehabilitation programs vary "
+    },
+    {
+      "type": "image",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 295,
+      "content": "![img-6.jpeg](images/75b9fa0db21a8d57.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 297,
+      "content": "![img-7.jpeg](images/43dc5ce31e61f1d7.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 299,
+      "content": "![img-8.jpeg](images/d41f0f0ac4faf52a.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Swimming**",
+      "line": 301,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Home PN Additional Considerations: Transition to School",
+      "line": 303
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Transition to School",
+      "line": 305,
+      "preview": "- The burden is often on caregivers to communicate their child's medical needs to the school"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Transition to School",
+      "line": 306,
+      "preview": "- Children should have an 'individual education plan' (IEP) upon entering school"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Transition to School",
+      "line": 307,
+      "preview": "- An IEP states a child's special education instruction and support services needed in school"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Transition to School",
+      "line": 308,
+      "preview": "- Providers should consider the impact of the medical and nutrition plan on school attendance and op"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Transition to School",
+      "line": 309,
+      "preview": "- Medical providers can assist in providing schools with guidance regarding the safe care of medical"
+    },
+    {
+      "type": "text",
+      "section": "Home PN Additional Considerations: Transition to School",
+      "line": 311,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 313
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 315,
+      "preview": "- Share resources about the needs of children with intestinal failure with educators, classroom care"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 316,
+      "preview": "- https://www.aboutkidshealth.ca/globalassets/assets/school-readiness-package_intestinal-failure.pdf"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 317,
+      "preview": "- Consider providing specific instructions and supplies in the case of emergency such as a clamp, ex"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 318,
+      "preview": "- Any CVC issues are generally directed to the parent or a nurse trained in CVC care with the supply"
+    },
+    {
+      "type": "image",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 320,
+      "content": "![img-9.jpeg](images/455a218ac4c38b72.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 322,
+      "content": "![img-10.jpeg](images/df595e3ad81cd237.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 324,
+      "content": "![img-11.jpeg](images/56cfd13d7ef3cbc6.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Home PN Additional Considerations: Transition to School**",
+      "line": 326,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds",
+      "line": 328
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 330,
+      "preview": "- Transition off, of PN to EN, should be done as soon as possible to shorten PN dependency and the r"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 331,
+      "preview": "- Enteral feeding enhances intestinal adaptation"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 332,
+      "preview": "- Enteral feeds should be started as soon as possible"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 333,
+      "preview": "- Feeds typically start with trophic amounts (< 20\\% of goal calories and volume)"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 334,
+      "preview": "- Feeds may be oral or by tube"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 335,
+      "preview": "- If stool/stoma output < 30 - $50 \\mathrm{ml} / \\mathrm{kg} /$ day, enteral feeds can be advanced"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 337,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds",
+      "line": 339
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 341,
+      "preview": "- PN volume can be weaned as enteral feeds are tolerated, depending on a patient's absorptive abilit"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 342,
+      "preview": "- The goal fluid volume for feeds may not meet the caloric intake goals."
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 343,
+      "preview": "- Concentrating feeds may help to achieve goal caloric intake however doing so may lead to higher st"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 344,
+      "preview": "- Enteral fluid and caloric needs are generally higher than caloric goals in PN depending on absorpt"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds",
+      "line": 346,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Example Initial Feeding Protocol for Infants with Short Bowel Syndrome",
+      "line": 348
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "When ready for feeds",
+      "line": 350
+    },
+    {
+      "type": "text",
+      "section": "When ready for feeds",
+      "line": 352,
+      "preview": "(low gastric output, minimal abdominal distention, stooling)"
+    },
+    {
+      "type": "text",
+      "section": "When ready for feeds",
+      "line": 354,
+      "preview": "- Start continuous feeds $1 \\mathrm{~mL} / \\mathrm{hr}$ or $10 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "When ready for feeds",
+      "line": 355,
+      "preview": "- Breast milk first choice"
+    },
+    {
+      "type": "text",
+      "section": "When ready for feeds",
+      "line": 356,
+      "preview": "- Donor breast milk if <32 weeks gestational age"
+    },
+    {
+      "type": "text",
+      "section": "When ready for feeds",
+      "line": 357,
+      "preview": "- Elemental formula for intolerance"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "Advance continuous feeds",
+      "line": 360
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 362,
+      "preview": "- $1 \\mathrm{~mL} / \\mathrm{hr} /$ day or $10 \\mathrm{~mL} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 363,
+      "preview": "- Based on fluid volume and weight gain"
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 364,
+      "preview": "- If feeds tolerated $1 \\mathrm{x} / \\mathrm{wk}$ and baby is ready, begin 1-2 oral feeds/day (hold "
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 365,
+      "preview": "- Stool output $<30-50 \\mathrm{~mL} / \\mathrm{kg} /$ day or $<6-10$ stools/day"
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 366,
+      "preview": "- Continue to increase feeds every 1-3 days"
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 367,
+      "preview": "- Stool output $>30-50 \\mathrm{~mL} / \\mathrm{kg} /$ day or $>6-10$ stools/day"
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 368,
+      "preview": "- Hold or reduce feeds"
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 369,
+      "preview": "- If stool volume remains high, consider changing the type of feed"
+    },
+    {
+      "type": "text",
+      "section": "Advance continuous feeds",
+      "line": 371,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds: Factors to Consider",
+      "line": 373
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider",
+      "line": 375,
+      "preview": "- Mode of feed; oral, nasogastric tube, gastric tube, or gastrojejunostomy tube"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider",
+      "line": 376,
+      "preview": "- Early oral feeding is recommended to avoid oral aversion"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider",
+      "line": 377,
+      "preview": "- Oral feeding is more physiologic and stimulates enteric hormones, salivary gland, gastric and panc"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider",
+      "line": 378,
+      "preview": "- Oral feeding may not be achievable as clinical condition, mechanical ventilation or intestinal dys"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider",
+      "line": 379,
+      "preview": "- Jejunal feeding usually is limited to patients with gastric dysmotility, severe gastroesophageal r"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider",
+      "line": 381,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 383
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 385,
+      "preview": "- Timing of feeds; bolus vs. continuous"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 386,
+      "preview": "- Continuous infusion of enteral nutrition increases mucosal contact and may improve absorption per "
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 387,
+      "preview": "- Continuous feeding eliminates fasting periods and affects motility of the intestine"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 388,
+      "preview": "- Bolus feeding mimics normal feeding patterns and stimulates the release of gastrointestinal hormon"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 389,
+      "preview": "- Continuous feeding may improve tolerance when bolus feeds are not tolerated"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 391,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 393
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 395,
+      "preview": "- Human milk is the recommended first line enteral regimen for infant"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 396,
+      "preview": "- Many options for enteral feeding are available including formula (polymeric, hydrolyzed, amino aci"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 397,
+      "preview": "- Both hydrolyzed or amino acid formulas are used successfully without evidence for one over the oth"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 398,
+      "preview": "- Increasingly, commercially prepared blenderized feeds are used in short bowel syndrome and may be "
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 399,
+      "preview": "- Families may have interest in homemade blenderized feeds however this is not recommended and would"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Factors to Consider - Cont'd",
+      "line": 401,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 403
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 405,
+      "preview": "- Feeding should transition to solid food when child is developmentally ready"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 406,
+      "preview": "- Aim for nutrient dense, calorie dense foods"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 407,
+      "preview": "- Balance the meal plan; encourage foods from each food group"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 408,
+      "preview": "- Tailor meal plans to the individual"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 409,
+      "preview": "- Encourage 5 - 6 small meals or snacks a day"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 410,
+      "preview": "- Smaller volumes of food at once may allow enhanced absorption by decreasing the nutrient load per "
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 411,
+      "preview": "- Encourage high protein sources, generous complex carbohydrate intake"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 413,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 415
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 417,
+      "preview": "- Chew foods well"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 418,
+      "preview": "- If the colon is in continuity"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 419,
+      "preview": "- Limit fat in the diet (<30\\%)"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 420,
+      "preview": "- Malabsorbed fat binds to calcium instead of oxalate in the gut lumen which may lead to kidney ston"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 421,
+      "preview": "- Encourage soluble fiber"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: General Diet Guidelines in Short Bowel Syndrome",
+      "line": 423,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 425
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 427,
+      "preview": "- Encourage drinking small amounts of fluid with meals and throughout the day"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 428,
+      "preview": "- Avoid excessive enteral fluid intake at once, especially in those with an ostomy, as this may lead"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 429,
+      "preview": "- Additional sodium is often needed, especially in patients without a colon"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 430,
+      "preview": "- Oral rehydration solution (ORS) helps to replace sodium losses"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 431,
+      "preview": "- Water absorption in the small intestine is dependent on sodiumglucose co-transport"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 432,
+      "preview": "- Commercial and homemade ORS may help hydration"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Hydration",
+      "line": 434,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 436
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 438,
+      "preview": "- Many patients with intestinal failure will require vitamin and mineral supplementation"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 439,
+      "preview": "- Influenced by the length of remaining bowel, absorptive ability, transit time and dietary intake"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 440,
+      "preview": "- Water soluble forms of fat-soluble vitamins (DEKAs) may be needed"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 441,
+      "preview": "- Micronutrient levels are to be monitored closely and supplemented as needed"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 442,
+      "preview": "- Fat soluble vitamins (A, D, E and K)"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 443,
+      "preview": "- Vitamin B12"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 444,
+      "preview": "- Calcium, magnesium"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 445,
+      "preview": "- Zinc, iron, copper and selenium"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 446,
+      "preview": "- Recommend monitoring every 3 - 6 months"
+    },
+    {
+      "type": "text",
+      "section": "Transition to Enteral Feeds: Vitamins and Minerals",
+      "line": 448,
+      "preview": "--- page 35 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Adult Transition in Long-Term PN",
+      "line": 450
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 452,
+      "preview": "- Increased survival in children with IF has resulted in a need for continued healthcare for childre"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 453,
+      "preview": "- Care of children on PN is complex and the risk of complications is high"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 454,
+      "preview": "- 'Healthcare transition' is an active process that addresses medical, psychosocial and education ne"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 455,
+      "preview": "- Patients must learn daily tasks including CVC care, administering PN and tube feedings, medication"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 457,
+      "preview": "--- page 36 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Adult Transition in Long-Term PN: Barriers",
+      "line": 459
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN: Barriers",
+      "line": 461,
+      "preview": "- Many barriers to successful transition exist in this setting of a complex chronic illness requirin"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN: Barriers",
+      "line": 462,
+      "preview": "- The most common barrier is difficulty leaving the pediatric team with which they have had a long-s"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN: Barriers",
+      "line": 463,
+      "preview": "- There is a lack of adult clinicians and multidisciplinary teams caring for intestinal failure"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN: Barriers",
+      "line": 464,
+      "preview": "- Patients may have delayed neurodevelopment, health literacy, medical complexity and limited knowle"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN: Barriers",
+      "line": 466,
+      "preview": "--- page 37 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Adult Transition in Long-Term PN",
+      "line": 468
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 470,
+      "preview": "- A structured program with a multidisciplinary approach is crucial for successful transition"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 471,
+      "preview": "- Education for adolescents about their medical care includes:"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 472,
+      "preview": "- Understanding their specific anatomy"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 473,
+      "preview": "- Medical device use and care (CVC, ostomy, feeding tubes)"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 474,
+      "preview": "- Nutrition and medications"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 475,
+      "preview": "- Accessing medical care"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 476,
+      "preview": "- Understanding complications and when to seek care"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 477,
+      "preview": "- This period of transition should focus on a therapeutic relationship and nurturing to becoming ind"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 479,
+      "preview": "--- page 38 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Adult Transition in Long-Term PN",
+      "line": 481
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 483,
+      "preview": "- The transition process should start in early adolescence with the patient participating actively i"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 484,
+      "preview": "- Adolescents progress to take on a manager role of healthcare tasks as parents supervise"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 485,
+      "preview": "- Patients should demonstrate the ability to independently manage all aspects of their health before"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 487,
+      "preview": "|  Pediatric-"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 488,
+      "preview": "focused"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 489,
+      "preview": "intestinal"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 490,
+      "preview": "rehabilitation | The healthcare transition process |  | Adult-"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 491,
+      "preview": "focused"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 492,
+      "preview": "intestinal"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 493,
+      "preview": "rehabilitation  |"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 494,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 495,
+      "preview": "|  Early transition"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 496,
+      "preview": "(10-12 years) | Middle transition"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 497,
+      "preview": "(13-15 years) |  | Late transition"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 498,
+      "preview": "( $\\geq 16$ years)  |"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 499,
+      "preview": "|  - Parent: Manager of"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 500,
+      "preview": "healthcare tasks"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 501,
+      "preview": "- Preadolescent: Begins to"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 502,
+      "preview": "participate | - Parent: Supervisor of"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 503,
+      "preview": "healthcare tasks"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 504,
+      "preview": "- Adolescent: Manager of"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 505,
+      "preview": "healthcare tasks |  | - Parent: Consultant for"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 506,
+      "preview": "healthcare tasks"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 507,
+      "preview": "- Adolescent: Manager of"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 508,
+      "preview": "healthcare tasks with"
+    },
+    {
+      "type": "table",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 509,
+      "preview": "minimal or no supervision  |"
+    },
+    {
+      "type": "text",
+      "section": "Adult Transition in Long-Term PN",
+      "line": 511,
+      "preview": "--- page 39 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#1",
+      "line": 513
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 515,
+      "preview": "A 3-month-old baby born with intestinal atresia, underwent bowel resection her first week of life. S"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 517,
+      "preview": "You meet with her parents to discuss her care. The parents ask when they will be able to take their "
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 518,
+      "preview": "A) Parenteral nutrition should be cycled"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 519,
+      "preview": "B) The child should have a tunneled venous catheter placed"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 520,
+      "preview": "C) When the child is weaned off parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 521,
+      "preview": "D) When two caregivers are trained in central line care and able to administer PN at home"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1",
+      "line": 523,
+      "preview": "--- page 40 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#1 Review",
+      "line": 525
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1 Review",
+      "line": 527,
+      "preview": "A 3-month-old baby born with intestinal atresia, underwent bowel resection her first week of life. S"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1 Review",
+      "line": 528,
+      "preview": "B) The child should have a tunneled venous catheter placed"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1 Review",
+      "line": 529,
+      "preview": "C) When the child is weaned off parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1 Review",
+      "line": 530,
+      "preview": "D) When two caregivers are trained in central line care and able to administer PN at home"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#1 Review",
+      "line": 532,
+      "preview": "--- page 41 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#2",
+      "line": 534
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 536,
+      "preview": "The parent of a 5-year-old patient with a history intestinal failure due to short bowel syndrome rea"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 537,
+      "preview": "A. Immediately have the parent bring the child to the emergency room for evaluation"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 538,
+      "preview": "B. Inquire how many hours of PN the child typically receives"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 539,
+      "preview": "C. Ask the parent to reposition the patient and try to flush the line again"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 540,
+      "preview": "D. Instruct the parent to call back in the morning to troubleshoot the issue"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2",
+      "line": 542,
+      "preview": "--- page 42 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#2 Review",
+      "line": 544
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2 Review",
+      "line": 546,
+      "preview": "The parent of a 5-year-old patient with a history intestinal failure due to short"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2 Review",
+      "line": 547,
+      "preview": "The first step in evaluation of an obstructed line is to evaluate for a mechanical obstruction by ev"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2 Review",
+      "line": 548,
+      "preview": "a. Unmeasured were the parent using the time to the emergency room for evaluation"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2 Review",
+      "line": 549,
+      "preview": "B. Inquire how many hours of PN the child typically receives"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2 Review",
+      "line": 550,
+      "preview": "C. Ask the parent to reposition the patient and try to flush the line again"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2 Review",
+      "line": 551,
+      "preview": "D. Instruct the parent to call back in the morning to troubleshoot the issue"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#2 Review",
+      "line": 553,
+      "preview": "--- page 43 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#3",
+      "line": 555
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 557,
+      "preview": "A 3-year-old boy has received parenteral nutrition since birth due to a history of volvulus. He curr"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 559,
+      "preview": "All of the following are true regarding the transition off parenteral nutrition except,"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 560,
+      "preview": "A. Oral rehydration solutions are beneficial in weaning off parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 561,
+      "preview": "B. Continuous tube feeding is necessary to stop parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 562,
+      "preview": "C. They should encourage small meals and frequent snacks throughout the day."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 563,
+      "preview": "D. He will likely need more enteral calories as compared to parenteral calories to maintain his grow"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3",
+      "line": 565,
+      "preview": "--- page 44 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case \\#3 Review",
+      "line": 567
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3 Review",
+      "line": 569,
+      "preview": "A 3-year-old boy has received parenteral nutrition since birth due to a history of volvulus. He curr"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3 Review",
+      "line": 570,
+      "preview": "A. Oral rehydration solutions are beneficial in weaning off parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3 Review",
+      "line": 571,
+      "preview": "B. Continuous tube feeding is necessary to stop parenteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3 Review",
+      "line": 572,
+      "preview": "C. They should encourage small meals and frequent snacks throughout the day."
+    },
+    {
+      "type": "text",
+      "section": "Case \\#3 Review",
+      "line": 573,
+      "preview": "D. He will likely need more enteral calories as compared to parenteral calories to maintain his grow"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "e8aeb5747546872a.png",
+      "original_ref": "img-0.jpeg",
+      "page": 9,
+      "relative_path": "images/e8aeb5747546872a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/e8aeb5747546872a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e8aeb5747546872a"
+    },
+    {
+      "sha_name": "a27cac98304beaec.png",
+      "original_ref": "img-1.jpeg",
+      "page": 9,
+      "relative_path": "images/a27cac98304beaec.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/a27cac98304beaec.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a27cac98304beaec"
+    },
+    {
+      "sha_name": "fdd9967275071bfc.png",
+      "original_ref": "img-2.jpeg",
+      "page": 10,
+      "relative_path": "images/fdd9967275071bfc.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/fdd9967275071bfc.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "fdd9967275071bfc"
+    },
+    {
+      "sha_name": "d01c7d967e6cc206.png",
+      "original_ref": "img-3.jpeg",
+      "page": 10,
+      "relative_path": "images/d01c7d967e6cc206.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/d01c7d967e6cc206.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d01c7d967e6cc206"
+    },
+    {
+      "sha_name": "640e85dd95167f2b.png",
+      "original_ref": "img-4.jpeg",
+      "page": 10,
+      "relative_path": "images/640e85dd95167f2b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/640e85dd95167f2b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "640e85dd95167f2b"
+    },
+    {
+      "sha_name": "2a2042575f5f4fec.png",
+      "original_ref": "img-5.jpeg",
+      "page": 17,
+      "relative_path": "images/2a2042575f5f4fec.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/2a2042575f5f4fec.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "2a2042575f5f4fec"
+    },
+    {
+      "sha_name": "75b9fa0db21a8d57.png",
+      "original_ref": "img-6.jpeg",
+      "page": 22,
+      "relative_path": "images/75b9fa0db21a8d57.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/75b9fa0db21a8d57.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "75b9fa0db21a8d57"
+    },
+    {
+      "sha_name": "43dc5ce31e61f1d7.png",
+      "original_ref": "img-7.jpeg",
+      "page": 22,
+      "relative_path": "images/43dc5ce31e61f1d7.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/43dc5ce31e61f1d7.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "43dc5ce31e61f1d7"
+    },
+    {
+      "sha_name": "d41f0f0ac4faf52a.png",
+      "original_ref": "img-8.jpeg",
+      "page": 22,
+      "relative_path": "images/d41f0f0ac4faf52a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/d41f0f0ac4faf52a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d41f0f0ac4faf52a"
+    },
+    {
+      "sha_name": "455a218ac4c38b72.png",
+      "original_ref": "img-9.jpeg",
+      "page": 24,
+      "relative_path": "images/455a218ac4c38b72.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/455a218ac4c38b72.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "455a218ac4c38b72"
+    },
+    {
+      "sha_name": "df595e3ad81cd237.png",
+      "original_ref": "img-10.jpeg",
+      "page": 24,
+      "relative_path": "images/df595e3ad81cd237.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/df595e3ad81cd237.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "df595e3ad81cd237"
+    },
+    {
+      "sha_name": "56cfd13d7ef3cbc6.png",
+      "original_ref": "img-11.jpeg",
+      "page": 24,
+      "relative_path": "images/56cfd13d7ef3cbc6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/9PN Transitions in PN/images/56cfd13d7ef3cbc6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "56cfd13d7ef3cbc6"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696250",
+    "ts": "2025-08-08T23:37:30.866205+00:00"
+  }
+}

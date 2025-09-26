@@ -1,0 +1,3708 @@
+{
+  "doc_id": "7pn_neonatal_pn__a097b2",
+  "original_filename": "7PN Neonatal PN.pdf",
+  "md_path": "data/parsed/7PN Neonatal PN/7PN Neonatal PN.md",
+  "rmd_path": "data/parsed/7PN Neonatal PN/7PN Neonatal PN.rmd",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal Parenteral Nutrition (PN)",
+      "line": 0
+    },
+    {
+      "type": "text",
+      "section": "Neonatal Parenteral Nutrition (PN)",
+      "line": 2,
+      "preview": "--- page 1 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Overview",
+      "line": 4
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 6,
+      "preview": "- Case study"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 7,
+      "preview": "- Indications and Rationale"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 8,
+      "preview": "- Energy requirements"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 9,
+      "preview": "- Fluid requirements"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 10,
+      "preview": "- Dextrose"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 11,
+      "preview": "- Amino Acids"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 12,
+      "preview": "- Lipids"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 13,
+      "preview": "- Deficiencies"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 14,
+      "preview": "- Monitoring"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 15,
+      "preview": "- Review of case"
+    },
+    {
+      "type": "text",
+      "section": "Overview",
+      "line": 17,
+      "preview": "--- page 2 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case",
+      "line": 19
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 21,
+      "preview": "3-week-old boy born at 23-week gestation developed septic shock, renal failure, necrotizing enteroco"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 22,
+      "preview": "A) Hold ILE"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 23,
+      "preview": "B) $100 \\%$ soybean oil ILE $0.5 \\mathrm{~g} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 24,
+      "preview": "C) Mixed oil ILE $3 \\mathrm{~g} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 25,
+      "preview": "D) $100 \\%$ fish oil ILE $1 \\mathrm{~g} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 27,
+      "preview": "--- page 3 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Indications and Rationale: Common Indications - Term and Preterm Infants",
+      "line": 29
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Common Indications - Term and Preterm Infants",
+      "line": 31,
+      "preview": "- Inability to feed due to GI condition or illness"
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Common Indications - Term and Preterm Infants",
+      "line": 32,
+      "preview": "- Failure to meet energy requirements by enteral nutrition"
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Common Indications - Term and Preterm Infants",
+      "line": 33,
+      "preview": "- Anticipated NPO > 3-5 days"
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Common Indications - Term and Preterm Infants",
+      "line": 34,
+      "preview": "- Increased metabolic demands during critical illness"
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Common Indications - Term and Preterm Infants",
+      "line": 36,
+      "preview": "--- page 4 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Indications and Rationale: Specific Indications - Preterm Infants",
+      "line": 38
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Specific Indications - Preterm Infants",
+      "line": 40,
+      "preview": "- Higher nutritional requirements for growth and development"
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Specific Indications - Preterm Infants",
+      "line": 41,
+      "preview": "- PN should be started after birth as soon as vascular access is obtained"
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Specific Indications - Preterm Infants",
+      "line": 42,
+      "preview": "- Gastrointestinal immaturity preventing full enteral feeding"
+    },
+    {
+      "type": "text",
+      "section": "Indications and Rationale: Specific Indications - Preterm Infants",
+      "line": 44,
+      "preview": "--- page 5 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Starter PN",
+      "line": 46
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 48,
+      "preview": "- A stock PN for immediate delivery of basic nutrition until a custom PN is ordered"
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 49,
+      "preview": "- Amino acids, dextrose, and calcium"
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 50,
+      "preview": "- No other electrolytes"
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 51,
+      "preview": "- Additional intravenous fluids with electrolytes may be ordered as needed"
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 52,
+      "preview": "- Early initiation of PN is critical for premature infants"
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 53,
+      "preview": "- Supports growth and development"
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 54,
+      "preview": "- Prevents catabolism"
+    },
+    {
+      "type": "text",
+      "section": "Starter PN",
+      "line": 56,
+      "preview": "--- page 6 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 58
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 60,
+      "preview": "|  Preterm Infant (kcal/kg/day) | $110-120$  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 61,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 62,
+      "preview": "|  Term Infant (kcal/kg/day) | $90-100$  |"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 64,
+      "preview": "- Establish daily energy requirements"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 65,
+      "preview": "- Consider additional kcal based on clinical condition and postnatal growth"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 66,
+      "preview": "- Calculate energy needs using current dry weight or birth weight if not yet regained"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Energy Requirements",
+      "line": 68,
+      "preview": "--- page 7 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 70
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 72,
+      "preview": "|   | Day of Life (birth) | Day of Life 1 | Day of Life 2+  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 73,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 74,
+      "preview": "|  Preterm Infant (mL/kg/day) | $80-100$ | 120 | 140  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 75,
+      "preview": "|  Term Infant (mL/kg/day) | $60-80$ | 100 | $100-120$  |"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 77,
+      "preview": "- Establish total fluid limit or allowance"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 78,
+      "preview": "- Determine PN volume PN = Total Fluid Requirement - (Medications + Flushes + Enteral Nutrition + IV"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements",
+      "line": 80,
+      "preview": "--- page 8 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 82
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 84,
+      "preview": "- Adjust fluid requirements for specific clinical situations"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 85,
+      "preview": "- Increase fluids: consider increasing fluid intake in cases of elevated insensible losses or excess"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 86,
+      "preview": "- Diarrhea"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 87,
+      "preview": "- High ostomy outputs"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 88,
+      "preview": "- Polyuria"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 89,
+      "preview": "- Phototherapy for jaundice"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 90,
+      "preview": "- Extensive skin injuries"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 91,
+      "preview": "- Sepsis"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 93,
+      "preview": "--- page 9 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 95
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 97,
+      "preview": "- Adjust fluid requirements for specific clinical situations"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 98,
+      "preview": "- Reduce fluids: consider reducing fluid intake in scenarios where insensible losses are decreased o"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 99,
+      "preview": "- Double walled isolators for premature or critically ill infants"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 100,
+      "preview": "- Ascites due to liver or renal failure"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 101,
+      "preview": "- Pulmonary edema"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 102,
+      "preview": "- Congestive heart failure"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Fluid Requirements - Cont'd",
+      "line": 104,
+      "preview": "--- page 10 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Dextrose",
+      "line": 106
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Dextrose",
+      "line": 108,
+      "preview": "|   | Initiation | Advance By | Goals  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Dextrose",
+      "line": 109,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Dextrose",
+      "line": 110,
+      "preview": "|  Preterm Infant (mg/kg/min) | $5-7$ | $1-2$ (or 1-2.5\\% dextrose) | $10-14$ (max $14-18$ )  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Dextrose",
+      "line": 111,
+      "preview": "|  Term Infant (mg/kg/min) | $6-9$ | $1-2$ (or $2.5-5 \\%$ dextrose) | $10-14$ (max $14-18$ )  |"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Dextrose",
+      "line": 113,
+      "preview": "- Advance until energy goals met"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Dextrose",
+      "line": 114,
+      "preview": "- Monitor blood glucoses with target blood glucose 70-150 mg/dL"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Dextrose",
+      "line": 115,
+      "preview": "- Premature infants < 28 weeks are at increased risk of hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Dextrose",
+      "line": 116,
+      "preview": "- Insulin should not be used given risk of hypoglycemia"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Dextrose",
+      "line": 117,
+      "preview": "- Maintain minimum Glucose Infusion Rate (GIR) $6 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$ for brai"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Dextrose",
+      "line": 118,
+      "preview": "- Note that GIR > $12.5 \\mathrm{mg} / \\mathrm{kg} / \\mathrm{min}$ may stimulate lipogenesis from exc"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Dextrose",
+      "line": 120,
+      "preview": "--- page 11 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Amino Acids",
+      "line": 122
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 124,
+      "preview": "|   | Initiate at Goal  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 125,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 126,
+      "preview": "|  Preterm Infant (g/kg/day) | 3 (max 3.5)  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 127,
+      "preview": "|  Term Infant (g/kg/day) | 2.5 \u2013 3  |"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 129,
+      "preview": "- Start protein at goal"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 130,
+      "preview": "- Gradual advancement delays reaching target needs, leading to net negative nitrogen balance"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 131,
+      "preview": "- Limited benefit with protein dose > 3.5 g/kg/day"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 132,
+      "preview": "- Initiating protein > 3 g/kg/day has been linked to sepsis in premature infants"
+    },
+    {
+      "type": "image",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 134,
+      "content": "![img-0.jpeg](images/dc8f65ac7b20c8ae.png)"
+    },
+    {
+      "type": "image",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 136,
+      "content": "![img-1.jpeg](images/8063f7a6dfe1072b.png)"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Amino Acids",
+      "line": 138,
+      "preview": "--- page 12 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Lipids",
+      "line": 140
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Lipids",
+      "line": 142,
+      "preview": "|   | Initiation | Advance By | Goals  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Lipids",
+      "line": 143,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Lipids",
+      "line": 144,
+      "preview": "|  Preterm Infant (g/kg/day) | 1 | $0.5-1$ | 3  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Lipids",
+      "line": 145,
+      "preview": "|  Term Infant (g/kg/day) | 1 | $0.5-1$ | 3  |"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Lipids",
+      "line": 147,
+      "preview": "- Advance gradually to minimize risk of hypertriglyceridemia"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Lipids",
+      "line": 148,
+      "preview": "- Infuse over 12 - 24 hours depending on formulation and clinical condition"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Lipids",
+      "line": 149,
+      "preview": "- Insufficient lipids can cause essential fatty acid deficiency (EFAD)"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Lipids",
+      "line": 150,
+      "preview": "- Excess lipids can cause hypertriglyceridemia"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Lipids",
+      "line": 152,
+      "preview": "--- page 13 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 154
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 156,
+      "preview": "|   | 100% Soy oil-based ILE | Olive, soy oil-based ILE | Soy, MCT, olive, fish oil-based ILE | Fish"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 157,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 158,
+      "preview": "|   | 100% SO-ILE | OO, SO-ILE | SO, MCT, OO, FO-ILE | FO-ILE  |"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 159,
+      "preview": "|  Indication | ILE < 2 weeks"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 160,
+      "preview": "EFAD | ILE > 2 weeks | ILE > 2 weeks | IFALD"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 161,
+      "preview": "EFAD  |"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 162,
+      "preview": "|  Advantages | \u2191\u2191\u2191 EFA | Sufficient EFA"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 163,
+      "preview": "\u2193 Phytosterols | Sufficient EFA"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 164,
+      "preview": "\u2193 Phytosterols | Sufficient EFA"
+    },
+    {
+      "type": "text",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 165,
+      "preview": "\u2193 Triglycerides"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 166,
+      "preview": "\u2193\u2193 Phytosterols  |"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 167,
+      "preview": "|  Disadvantages | \u2191 Triglycerides"
+    },
+    {
+      "type": "table",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 168,
+      "preview": "\u2191 Phytosterols | EFAD * | EFAD * | \u2193 Energy density  |"
+    },
+    {
+      "type": "image",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 170,
+      "content": "![img-2.jpeg](images/d4854073f6c0c2be.png)"
+    },
+    {
+      "type": "text",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 172,
+      "preview": "Mirtallo J, *et al.* *Nutr Clin Pract.* 2020;35:769-82. Calkins KL, *et al.* *Neoreviews* 2020;21(2)"
+    },
+    {
+      "type": "image",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 174,
+      "content": "![img-3.jpeg](images/53a08c72389892fc.png)"
+    },
+    {
+      "type": "text",
+      "section": "Types of Intravenous Lipid Emulsions (ILEs)",
+      "line": 176,
+      "preview": "--- page 14 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 178
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 180,
+      "preview": "|  Oil Source | SO-ILE | OO, SO-ILE | SO, MCT, OO,"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 181,
+      "preview": "FO-ILE | FO-ILE  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 182,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 183,
+      "preview": "|  SO (\\%) | 100 | 20 | 30 | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 184,
+      "preview": "|  MCT (\\%) | 0 | 0 | 30 | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 185,
+      "preview": "|  OO (\\%) | 0 | 80 | 25 | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 186,
+      "preview": "|  FO (\\%) | 0 | 0 | 15 | 100  |"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 188,
+      "preview": "--- page 15 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 190
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 192,
+      "preview": "|  Fatty Acid | SO-ILE | OO, SO-ILE | SO, MCT, OO, FO-ILE | FO-ILE  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 193,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 194,
+      "preview": "|  Caprylic | 0 | 0 | $17 \\% \\pm 0.2 \\%$ | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 195,
+      "preview": "|  Capric | 0 | 0 | $12 \\% \\pm 0.2 \\%$ | 0  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 196,
+      "preview": "|  Linoleic, $\\omega-6$ | $44 \\%-62 \\%$ | $18 \\%$ | $14 \\%-25 \\%$ | $1.5 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 197,
+      "preview": "|  $\\alpha$-Linolenic, $\\omega-3$ | $4 \\%-11 \\%$ | $1.7 \\%$ | $1.5 \\%-3.5 \\%$ | $1.1 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 198,
+      "preview": "|  ARA, $\\omega-6$ | 0 | $0.16 \\%$ | $0.5 \\%$ | $0.2 \\%-2 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 199,
+      "preview": "|  DHA, $\\omega-3$ | 0 | 0 | $1 \\%-3.5 \\%$ | $14 \\%-27 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 200,
+      "preview": "|  EPA, $\\omega-3$ | 0 | 0 | $1 \\%-3.5 \\%$ | $13 \\%-26 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 201,
+      "preview": "|  Oleic acid, $\\omega-9$ | $19 \\%-30 \\%$ | $60 \\%$ | $23 \\%-35 \\%$ | $4 \\%-11 \\%$  |"
+    },
+    {
+      "type": "table",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 202,
+      "preview": "|  $\\omega-6: \\omega-3$ | $7: 1$ | $9: 1$ | $2.5: 1$ | $1: 8$  |"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Types of ILEs",
+      "line": 204,
+      "preview": "--- page 16 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 206
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 208,
+      "preview": "- Definition"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 209,
+      "preview": "- Insufficient supply of essential $\\omega-6$ linoleic acid and $\\omega-3 \\alpha$-linolenic acid (LA"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 210,
+      "preview": "- Triene:Tetraene (T:T) or Mead acid:Arachidonic ratio > 0.2"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 211,
+      "preview": "- Risk Factors"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 212,
+      "preview": "- Prematurity, as maternal transfer of EFAs occurs mainly in the 3rd trimester"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 213,
+      "preview": "- Low birth weight"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 214,
+      "preview": "- Prolonged withdrawal, restriction or inappropriate dosage of IV lipids"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 216,
+      "preview": "--- page 17 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Metabolism of Polyunsaturated Fatty Acids",
+      "line": 218
+    },
+    {
+      "type": "image",
+      "section": "Metabolism of Polyunsaturated Fatty Acids",
+      "line": 220,
+      "content": "![img-4.jpeg](images/6664e31ea7cdf41f.png)"
+    },
+    {
+      "type": "text",
+      "section": "Metabolism of Polyunsaturated Fatty Acids",
+      "line": 222,
+      "preview": "\u2193 LA leads to, by default, elongation of OO(18:1\u03c9-9), resulting in \u2191 Mead Acid (20:3\u03c9-9) and a \u2191 T:T"
+    },
+    {
+      "type": "image",
+      "section": "Metabolism of Polyunsaturated Fatty Acids",
+      "line": 224,
+      "content": "![img-5.jpeg](images/994180665f652364.png)"
+    },
+    {
+      "type": "text",
+      "section": "Metabolism of Polyunsaturated Fatty Acids",
+      "line": 226,
+      "preview": "Chan AP, et al. Clin Perinatol. 2023;50(3):575-89."
+    },
+    {
+      "type": "text",
+      "section": "Metabolism of Polyunsaturated Fatty Acids",
+      "line": 228,
+      "preview": "--- page 18 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 230
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 232,
+      "preview": "- **Biochemical Indicators (T:T > 0.2)**"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 233,
+      "preview": "- \u2191 LFTs"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 234,
+      "preview": "- \u2191 Triglyceride"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 235,
+      "preview": "- \u2193 Platelet"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 237,
+      "preview": "- **Physical Signs (T:T > 0.4)**"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 238,
+      "preview": "- Dry, scaly rash"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 239,
+      "preview": "- Poor wound healing"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 240,
+      "preview": "- Growth restriction"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 241,
+      "preview": "- Increased infection risks"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 242,
+      "preview": "- Bleeding"
+    },
+    {
+      "type": "image",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 244,
+      "content": "![img-6.jpeg](images/aafa886e1e38af41.png)"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 246,
+      "preview": "Child with essential fatty acid deficiency (left) after successful treatment (right)"
+    },
+    {
+      "type": "image",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 248,
+      "content": "![img-7.jpeg](images/a27cac98304beaec.png)"
+    },
+    {
+      "type": "image",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 250,
+      "content": "![img-8.jpeg](images/dfd340de3ea25187.png)"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 252,
+      "preview": "--- page 19 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 254
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 256,
+      "preview": "- Prevention"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 257,
+      "preview": "- Provide IV lipids at appropriate dosage"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 258,
+      "preview": "- Fish oil provides \"conditionally essential\" fatty acids, arachidonic acid and docosahexaenoic acid"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 259,
+      "preview": "- Treatment"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 260,
+      "preview": "- Administer either 100\\% soybean oil or 100\\% fish oil IV lipid"
+    },
+    {
+      "type": "table",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 262,
+      "preview": "|   | SO-ILE | SO, MCT, OO,"
+    },
+    {
+      "type": "table",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 263,
+      "preview": "FO-ILE | FO-ILE  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 264,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 265,
+      "preview": "|  Minimum Dosage ( $\\mathrm{g} / \\mathrm{kg}$ ) | $0.5-1.0$ | $2.2-3.0$ | $1.0-1.5$  |"
+    },
+    {
+      "type": "text",
+      "section": "Essential Fatty Acid Deficiency",
+      "line": 267,
+      "preview": "--- page 20 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hypertriglyceridemia",
+      "line": 269
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 271,
+      "preview": "- Definition"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 272,
+      "preview": "- Triglyceride level > 250-300 mg/dL"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 273,
+      "preview": "- Risk Factors"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 274,
+      "preview": "- Prematurity (< 28 weeks' gestation)"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 275,
+      "preview": "- Low birth weight (< 1000 g)"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 276,
+      "preview": "- IV lipid (based on dose ,concentration, oil source)"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 277,
+      "preview": "- Sepsis"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 278,
+      "preview": "- Renal failure"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 279,
+      "preview": "- Corticosteroids"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 280,
+      "preview": "- Dextrose overfeeding"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 281,
+      "preview": "- Essential fatty acid deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 282,
+      "preview": "- Inborn errors of metabolism"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 283,
+      "preview": "- Carnitine deficiency"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 285,
+      "preview": "--- page 21 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Hypertriglyceridemia",
+      "line": 287
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 289,
+      "preview": "|  Management of HTG | Comments  |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 290,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 291,
+      "preview": "|  Ensure lab specimen is not contaminated |   |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 292,
+      "preview": "|  Avoid excessive dextrose infusions | May limit nonprotein calories  |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 293,
+      "preview": "|  Administer ILE over longer period |   |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 294,
+      "preview": "|  Treat sepsis and renal failure |   |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 295,
+      "preview": "|  Normalize serum calcium to optimize LPL activity |   |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 296,
+      "preview": "|  Minimize use of medications associated with HTG (corticosteroids, chlorothiazide) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 297,
+      "preview": "|  Reduce ILE dose or pause ILE | Ensure infant's risk for EFAD is low and ILE dose will not cause a"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 298,
+      "preview": "|  Change ILE type to include fish oil | $\\omega-3$ fatty acids in fish oil enhance lipid utilizatio"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 299,
+      "preview": "|  Heparin | Induces triglyceride clearance, but increased bleeding risk should be considered  |"
+    },
+    {
+      "type": "table",
+      "section": "Hypertriglyceridemia",
+      "line": 300,
+      "preview": "|  Carnitine | Enhances fatty acid oxidation, but evidence on clinical effectiveness is limited  |"
+    },
+    {
+      "type": "text",
+      "section": "Hypertriglyceridemia",
+      "line": 302,
+      "preview": "--- page 22 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Growth Monitoring Charts",
+      "line": 304
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 306,
+      "preview": "- Growth curves used to track weight, length, and head circumference for age"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 307,
+      "preview": "- Selection of growth chart depends on patient age, gender, institutional preference, and specific u"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 308,
+      "preview": "- Olsen: up to 36 weeks gestational age"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 309,
+      "preview": "- Intrauterine growth curves based on data from US"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 310,
+      "preview": "- Fenton: most used, best between 36-50 weeks corrected age"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 311,
+      "preview": "- Combination of intrauterine and postnatal curves based on data from Canada, Australia, Italy, Scot"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 312,
+      "preview": "- World Health Organization: after 4-8 weeks post-term until 2 years old"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 313,
+      "preview": "- International postnatal growth standards based on breastfed children"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Charts",
+      "line": 315,
+      "preview": "--- page 23 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Growth Monitoring Target Goals",
+      "line": 317
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Target Goals",
+      "line": 319,
+      "preview": "- Once birth weight is achieved, the following growth goals should be targeted"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Target Goals",
+      "line": 320,
+      "preview": "- Accurate growth monitoring may be difficult if edema is present"
+    },
+    {
+      "type": "table",
+      "section": "Growth Monitoring Target Goals",
+      "line": 322,
+      "preview": "|   | Weight | Length | Head Circumference  |"
+    },
+    {
+      "type": "table",
+      "section": "Growth Monitoring Target Goals",
+      "line": 323,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Growth Monitoring Target Goals",
+      "line": 324,
+      "preview": "|  Preterm Infant | $15-20 \\mathrm{~g} / \\mathrm{kg} /$ day | $1 \\mathrm{~cm} /$ week | $0.7 \\mathrm"
+    },
+    {
+      "type": "table",
+      "section": "Growth Monitoring Target Goals",
+      "line": 325,
+      "preview": "|  Term Infant ( $0-3$ months) | $30 \\mathrm{~g} /$ day | $0.75 \\mathrm{~cm} /$ week | $0.5 \\mathrm{"
+    },
+    {
+      "type": "text",
+      "section": "Growth Monitoring Target Goals",
+      "line": 327,
+      "preview": "--- page 24 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Heparin",
+      "line": 329
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 331,
+      "preview": "- Prophylactic to prevent thrombosis"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 332,
+      "preview": "- Reduces the formation of a fibrin sheath around the catheter"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 333,
+      "preview": "- May reduce phlebitis with peripheral intravenous access"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 334,
+      "preview": "- May facilitate lipid clearance; increased lipolysis and release of free fatty acids"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 335,
+      "preview": "- Reduces the incidence of culture-positive catheter-related sepsis"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 336,
+      "preview": "- Heparin dosing"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 337,
+      "preview": "- 1 unit/mL full-term infants-adults"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 338,
+      "preview": "- 0.5 units/mL preterm and VLBW infants (<1500g)"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 339,
+      "preview": "- Cons: $\\uparrow$ risk for heparin-induced thrombocytopenia and heparin medication interactions"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Heparin",
+      "line": 341,
+      "preview": "--- page 25 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Essential Micronutrients: Organic",
+      "line": 343
+    },
+    {
+      "type": "image",
+      "section": "Essential Micronutrients: Organic",
+      "line": 345,
+      "content": "![img-9.jpeg](images/1c2d24b7331cf167.png)"
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Organic",
+      "line": 347,
+      "preview": "Birch P, et al. Arch Dis Child Fetal Neonatal Ed. 2010;95(4):F252-7."
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Organic",
+      "line": 348,
+      "preview": "Uslu S, et al. J Perinatol. 2010;30(12):794-9. Randolph AG, et al. Chest 1998;113(1):165-71."
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Organic",
+      "line": 349,
+      "preview": "Kerner JA. \"Parenteral Nutrition\" in Nutrition in Pediatrics 3rd Editon, 2003:969."
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Organic",
+      "line": 351,
+      "preview": "--- page 26 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 353
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 355,
+      "preview": "- Micronutrients must always be administered"
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 356,
+      "preview": "- The major risk factor for deficiency is omission from PN"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 358,
+      "preview": "|  Electrolytes | Minerals  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 359,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 360,
+      "preview": "|  Sodium | Iron  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 361,
+      "preview": "|  Potassium | Iodide *  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 362,
+      "preview": "|  Mangesium | Zinc  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 363,
+      "preview": "|  Phosporus | Copper  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 364,
+      "preview": "|  Calcium | Chromium  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 365,
+      "preview": "|   | Manganese  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 366,
+      "preview": "|   | Selenium  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 367,
+      "preview": "|   | Cobalt  |"
+    },
+    {
+      "type": "table",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 368,
+      "preview": "|   | Molybdenum  |"
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 370,
+      "preview": "- PN Iodine not available in the USA"
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 372,
+      "preview": "Birch P, et al. Arch Dis Child Fetal Neonatal Ed. 2010;95(4):F252-7. Uslu S, et al. J Perinatol. 201"
+    },
+    {
+      "type": "text",
+      "section": "Essential Micronutrients: Inorganic",
+      "line": 374,
+      "preview": "--- page 27 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 376
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 378,
+      "preview": "|   | Infant (0 - 5 kg ) | Infant / Child (5 - 20 kg )  |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 379,
+      "preview": "| --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 380,
+      "preview": "|  Sodium | $2-5 \\mathrm{mEq} / \\mathrm{kg}$ | $2-6 \\mathrm{mEq} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 381,
+      "preview": "|  Potassium | $2-4 \\mathrm{mEq} / \\mathrm{kg}$ | $2-3 \\mathrm{mEq} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 382,
+      "preview": "|  Chloride | $2-5 \\mathrm{mEq} / \\mathrm{kg}$ | $2-5 \\mathrm{mEq} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 383,
+      "preview": "|  Acetate | Balance | Balance  |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 384,
+      "preview": "|  Calcium | $1-4 \\mathrm{mEq} / \\mathrm{kg}$ | $0.5-1 \\mathrm{mEq} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 385,
+      "preview": "|  Phosphorus | $2-4 \\mathrm{mEq} / \\mathrm{kg}$ | $1-2 \\mathrm{mEq} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 386,
+      "preview": "|  Magnesium | $0.3-0.5 \\mathrm{mEq} / \\mathrm{kg}$ | $0.3-0.5 \\mathrm{mEq} / \\mathrm{kg}$  |"
+    },
+    {
+      "type": "text",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 388,
+      "preview": "*Assumes normal age-related organ function and normal losses"
+    },
+    {
+      "type": "text",
+      "section": "Comparison of Infant and Child Dosing of Electrolyte and Minerals",
+      "line": 390,
+      "preview": "--- page 28 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 392
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 394,
+      "preview": "- Chloride: provided as Na chloride, K chloride, and as part of cysteine hydrochloride"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 395,
+      "preview": "- Avoid prolonged use of chloride free-PN without close monitoring as it may increase the risk of me"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 396,
+      "preview": "- Bicarbonate can't be added to PN due to compatibility issues"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 397,
+      "preview": "- Acetate: provided as Na or K acetate"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 398,
+      "preview": "- K acetate has significantly lower aluminum content ( $200 \\mathrm{mcg} / \\mathrm{L}$ ) compared to"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 399,
+      "preview": "- Metabolized to bicarbonate and added to counter metabolic acidosis"
+    },
+    {
+      "type": "text",
+      "section": "Electrolytes: Acid / Base Balance",
+      "line": 401,
+      "preview": "--- page 29 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 403
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 405,
+      "preview": "- Due to rapid bone accretion, infants require much higher Ca and Phos content per PN volume and per"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 406,
+      "preview": "- Risk of precipitation is much greater in infants and should be considered with every PN order"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 407,
+      "preview": "- Metabolic bone disease is common in preterm infants and those receiving long-term PN"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 408,
+      "preview": "- Monitor serum levels closely"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 409,
+      "preview": "- Adjust Ca and Phos daily in PN if needed"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 410,
+      "preview": "- Ca and Phos should be dosed in a ratio that optimizes their deposition into bone"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges",
+      "line": 412,
+      "preview": "--- page 30 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 414
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 416,
+      "preview": "- Ideal Ca:Phos ratio"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 417,
+      "preview": "$=1.3-1.7: 1$ by weight ratio (mg: mg)"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 418,
+      "preview": "$=1.1-1.3: 1$ molar ratio (mmol:mmol or mEq:mEq)"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 419,
+      "preview": "$=0.8-1.0^{* *}$ molar ratio during first 5-7 days in newborn preterm infants at risk for postnatal "
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 420,
+      "preview": "- Ca and Phos in PN are based on both recommended intakes and ratios of these nutrients and the comp"
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 421,
+      "preview": "**In early PN when calcium and phosphorous intakes are low, and protein and energy are optimized it "
+    },
+    {
+      "type": "text",
+      "section": "Calcium and Phosphorus Challenges - Cont'd",
+      "line": 423,
+      "preview": "--- page 31 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 425
+    },
+    {
+      "type": "text",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 427,
+      "preview": "- Cysteine is considered an essential amino acid for preterm infants"
+    },
+    {
+      "type": "text",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 428,
+      "preview": "- Can be added to the PN solution"
+    },
+    {
+      "type": "text",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 429,
+      "preview": "- Lowers pH of the solution allowing increased solubility of Ca and Phos"
+    },
+    {
+      "type": "text",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 430,
+      "preview": "- Cysteine improves nitrogen balance in extremely low birth weight infants"
+    },
+    {
+      "type": "text",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 431,
+      "preview": "- Dosing recommendation is 40 mg cysteine/g of pediatric amino acid solution"
+    },
+    {
+      "type": "text",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 432,
+      "preview": "- Addition of cysteine may necessitate supplementation with acetate in preterm infants and possibly "
+    },
+    {
+      "type": "image",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 434,
+      "content": "![img-10.jpeg](images/af0597754243a215.png)"
+    },
+    {
+      "type": "image",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 436,
+      "content": "![img-11.jpeg](images/56b2be7fff188c3a.png)"
+    },
+    {
+      "type": "text",
+      "section": "Calcium/Phosphorus Solubility & Cysteine",
+      "line": 438,
+      "preview": "--- page 32 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Carnitine",
+      "line": 440
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 442,
+      "preview": "- May aid triglyceride clearance"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 443,
+      "preview": "- Facilitates transport of fatty acids across the mitochondrial membrane"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 444,
+      "preview": "- Conditionally essential in the preterm infant"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 445,
+      "preview": "- Serum levels decrease when carnitine is not added to PN"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 446,
+      "preview": "- Consider supplementation"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 447,
+      "preview": "- Extremely low birth weight premature infants"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 448,
+      "preview": "- Children on long-term PN (> 2 weeks)"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 449,
+      "preview": "- Hypertriglyceridemia"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 450,
+      "preview": "- Significant liver disease"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine",
+      "line": 452,
+      "preview": "--- page 33 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Carnitine - Cont'd",
+      "line": 454
+    },
+    {
+      "type": "text",
+      "section": "Carnitine - Cont'd",
+      "line": 456,
+      "preview": "- Recommended initial dose is Carnitine $2-5 \\mathrm{mg} / \\mathrm{kg} /$ day. This may be increased"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine - Cont'd",
+      "line": 457,
+      "preview": "- The treatment dose for deficiency is Carnitine $20 \\mathrm{mg} / \\mathrm{kg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine - Cont'd",
+      "line": 458,
+      "preview": "- Patients with inborn errors of metabolism require very high doses of carnitine (i.e., $50-100 \\mat"
+    },
+    {
+      "type": "text",
+      "section": "Carnitine - Cont'd",
+      "line": 460,
+      "preview": "--- page 34 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 462
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 464,
+      "preview": "|  INFLUVITE ${ }^{\\circledR} 2$ vial system ( 4 mL of vial 1, 1 mL of vial 2) |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 465,
+      "preview": "| --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 466,
+      "preview": "|  Vitamin A: 2300 IU | Vitamin D: 400 IU  |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 467,
+      "preview": "|  Vitamin E: 7 IU | Vitamin K: 200 mcg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 468,
+      "preview": "|  Vitamin C: 80 mg | Thiamin 1.2 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 469,
+      "preview": "|  Riboflavin 1.4 mg | Niacin 17 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 470,
+      "preview": "|  Dexpanthenol 5 mg | VitaminB6: 1 mg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 471,
+      "preview": "|  VitaminB12: 1 mcg | Biotin 20 mcg  |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 472,
+      "preview": "|  Folic acid 140 mcg |   |"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 473,
+      "preview": "|  Infants $\\geq 3 \\mathrm{~kg}$ : $100 \\%$ of Vial $1(4 \\mathrm{~mL})$ \\& Vial $2(1 \\mathrm{~mL})$"
+    },
+    {
+      "type": "text",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 474,
+      "preview": "Infants 1-3 kg: $65 \\%$ of Vial $1(2.6 \\mathrm{~mL})$ \\& Vial $2(0.65 \\mathrm{~mL})$"
+    },
+    {
+      "type": "table",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 475,
+      "preview": "Infants $<1 \\mathrm{~kg}$ : $30 \\%$ of Vial $1(1.2 \\mathrm{~mL})$ \\& Vial $2(0.3 \\mathrm{~mL})$ |   "
+    },
+    {
+      "type": "text",
+      "section": "Multivitamin Products and Their Dosages",
+      "line": 477,
+      "preview": "--- page 35 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 479
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 481,
+      "preview": "|  Vitamin | Term Infants and Children Dose/day (identical to currently available formulations) | Pr"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 482,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 483,
+      "preview": "|   |  | Current suggestions ( $40 \\%$ of currently available formulations) | Best Estimate * for Ne"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 484,
+      "preview": "|  A (mcg) | 700 | 280 | 500  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 485,
+      "preview": "|  E (mg) | 7 | 2.8 | 2.8  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 486,
+      "preview": "|  K (mcg) | 200 | 80 | 80  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 487,
+      "preview": "|  D (IU) | 400 | 160 | 160  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 488,
+      "preview": "|  Ascorbic acid (mg) | 80 | 32 | 25  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 489,
+      "preview": "|  Thiamin (mg) | 1.2 | 0.48 | 0.35  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 490,
+      "preview": "|  Riboflavin (mg) | 1.4 | 0.56 | 0.15  |"
+    },
+    {
+      "type": "text",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 492,
+      "preview": "*Because of elevated levels of water-soluble vitamins, the current proposal is to reduce the intake "
+    },
+    {
+      "type": "text",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children",
+      "line": 494,
+      "preview": "--- page 36 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 496
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 498,
+      "preview": "|  Vitamin | Term Infants and Children Dose/day (identical to currently available formulations) | Pr"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 499,
+      "preview": "| --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 500,
+      "preview": "|   |  | Current suggestions ( $40 \\%$ of currently available formulations) | Best Estimate * for Ne"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 501,
+      "preview": "|  Pyridoxine (mg) | 1 | 0.4 | 0.18  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 502,
+      "preview": "|  Niacin (mg) | 17 | 6.8 | 6.8  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 503,
+      "preview": "|  Pantothenate (mg) | 5 | 2 | 2  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 504,
+      "preview": "|  Biotin (mcg) | 20 | 8 | 6  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 505,
+      "preview": "|  Folate (mcg) | 140 | 56 | 56  |"
+    },
+    {
+      "type": "table",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 506,
+      "preview": "|  Vitamin B12 (mcg) | 1 | 0.4 | 0.3  |"
+    },
+    {
+      "type": "text",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 508,
+      "preview": "*Because of elevated levels of water-soluble vitamins, the current proposal is to reduce the intake "
+    },
+    {
+      "type": "text",
+      "section": "Suggested Intakes of Parenteral Vitamins in Infants and Children - Cont'd",
+      "line": 510,
+      "preview": "--- page 37 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Multivitamins (MVI)",
+      "line": 512
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 514,
+      "preview": "- Must always be administered"
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 515,
+      "preview": "- Omission from PN is associated with an increased risk for onset of severe metabolic derangements"
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 516,
+      "preview": "- Intolerance of MVIs may occur due to an anaphylactoid reaction to polysorbate \u2013 the solubilizing v"
+    },
+    {
+      "type": "image",
+      "section": "Multivitamins (MVI)",
+      "line": 518,
+      "content": "![img-12.jpeg](images/323a408156ba21ee.png)"
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 520,
+      "preview": "Nonimmunologic anaphylactoid rash due to polysorbate \u2013 a solubilizing vehicle for MVIs*"
+    },
+    {
+      "type": "image",
+      "section": "Multivitamins (MVI)",
+      "line": 522,
+      "content": "![img-13.jpeg](images/b1a1fe4875e81122.png)"
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 524,
+      "preview": "Greene HL *et al. Am J Clin Nutr.* 1988;48(5):1324-42. CDC. MMWR Weekly 1997;40(23):523-28."
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 526,
+      "preview": "Darlington WS, *et al. Pediatric Blood Cancer* 2015;62:2232"
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 528,
+      "preview": "Coors EA, *et al. Ann Allergy Asthma Immunol.* 2005;95:693-99."
+    },
+    {
+      "type": "text",
+      "section": "Multivitamins (MVI)",
+      "line": 530,
+      "preview": "--- page 38 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "MVI Shortage Considerations",
+      "line": 532
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 534,
+      "preview": "- Risk factor for deficiency"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 535,
+      "preview": "- Omission from PN"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 536,
+      "preview": "- National shortages"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 537,
+      "preview": "- History of anaphylactoid reaction to polysorbate 80 (vehicle for MVI)"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 538,
+      "preview": "- Vitamin A is susceptible to photodegradation and oxidization"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 539,
+      "preview": "- If no pediatric MVI is available, use adult products at reduced doses"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 540,
+      "preview": "- Infants $<2.5 \\mathrm{~kg}$ or $<36$ gestation age, can receive an Adult MVI dose of 1 $\\mathrm{mL"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 541,
+      "preview": "- Vitamin K: daily dose is $200 \\mathrm{mcg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 542,
+      "preview": "- Thiamine: 0.35 to $0.5 \\mathrm{mg} / \\mathrm{kg} /$ day, max $1.2 \\mathrm{mg} /$ day"
+    },
+    {
+      "type": "text",
+      "section": "MVI Shortage Considerations",
+      "line": 544,
+      "preview": "--- page 39 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Neonatal PN: Photodegredation and Oxidation",
+      "line": 546
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Photodegredation and Oxidation",
+      "line": 548,
+      "preview": "- Light exposure generates peroxide/free radical formation in PN solutions"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Photodegredation and Oxidation",
+      "line": 549,
+      "preview": "- Both dextrose and AA solutions containing vitamins and intravenous lipid emulsions are prone to pe"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Photodegredation and Oxidation",
+      "line": 550,
+      "preview": "- Premature infants are most susceptible to consequences of peroxide formation in PN admixtures beca"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Photodegredation and Oxidation",
+      "line": 551,
+      "preview": "- Covering PN bags and IV tubing with light protective covers or use of tinted bags and tubing reduc"
+    },
+    {
+      "type": "text",
+      "section": "Neonatal PN: Photodegredation and Oxidation",
+      "line": 553,
+      "preview": "--- page 40 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Thiamine Deficiency",
+      "line": 555
+    },
+    {
+      "type": "text",
+      "section": "Thiamine Deficiency",
+      "line": 557,
+      "preview": "- Thiamine is a coenzyme in biochemical reactions for energy formation, including carbohydrate metab"
+    },
+    {
+      "type": "text",
+      "section": "Thiamine Deficiency",
+      "line": 558,
+      "preview": "- Source: 5 mL Pediatric MVI contains thiamine 1.2 mg"
+    },
+    {
+      "type": "text",
+      "section": "Thiamine Deficiency",
+      "line": 559,
+      "preview": "- Risk: omission of PN multivitamins for $\\geq 10+$ days"
+    },
+    {
+      "type": "text",
+      "section": "Thiamine Deficiency",
+      "line": 560,
+      "preview": "- Thiamine can be given separately when MVIs are not available"
+    },
+    {
+      "type": "text",
+      "section": "Thiamine Deficiency",
+      "line": 561,
+      "preview": "- Treatment: IV thiamine $25-50 \\mathrm{mg}$"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "section": "SYMPTOMS/SIGNS",
+      "line": 564
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 566,
+      "preview": "- Severe lactic acidosis"
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 567,
+      "preview": "- Increased anion gap"
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 568,
+      "preview": "- Metabolic acidosis refractory to sodium bicarbonate"
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 569,
+      "preview": "- Tachycardia"
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 570,
+      "preview": "- Hypotension"
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 571,
+      "preview": "- Lethargy"
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 572,
+      "preview": "- Beriberi"
+    },
+    {
+      "type": "text",
+      "section": "SYMPTOMS/SIGNS",
+      "line": 574,
+      "preview": "--- page 41 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Biotin Deficiency**",
+      "line": 576
+    },
+    {
+      "type": "text",
+      "section": "**Biotin Deficiency**",
+      "line": 578,
+      "preview": "- Cofactor for four distinct carboxylases that catalyze essential functions in human intermediary me"
+    },
+    {
+      "type": "text",
+      "section": "**Biotin Deficiency**",
+      "line": 579,
+      "preview": "- **Source:** 5 mL Pediatric MVI contains Biotin 20 \u00b5g"
+    },
+    {
+      "type": "text",
+      "section": "**Biotin Deficiency**",
+      "line": 580,
+      "preview": "- **Risk:** omission of PN multivitamins"
+    },
+    {
+      "type": "text",
+      "section": "**Biotin Deficiency**",
+      "line": 581,
+      "preview": "- **Symptoms:** alopecia totalis, hypotonia, scaly skin rash, and characteristic well-demarcated per"
+    },
+    {
+      "type": "text",
+      "section": "**Biotin Deficiency**",
+      "line": 582,
+      "preview": "- **Diagnosis:** \u2193 urinary biotin, \u2191 urinary organic acids: methylcrotonyl-coenzyme A carboxylase, &"
+    },
+    {
+      "type": "image",
+      "section": "**Biotin Deficiency**",
+      "line": 584,
+      "content": "![img-14.jpeg](images/073b0c94435336b9.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Biotin Deficiency**",
+      "line": 586,
+      "content": "![img-15.jpeg](images/ca3cec6c26c14e4a.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Biotin Deficiency**",
+      "line": 588,
+      "content": "![img-16.jpeg](images/a6e0f21199bff0c4.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Biotin Deficiency**",
+      "line": 590,
+      "preview": "--- page 42 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 592
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 594,
+      "preview": "|  Trace Element | Preterm Neonates | Term Neonates"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 595,
+      "preview": "$3-10 \\mathrm{~kg}$ | Children"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 596,
+      "preview": "$10-40 \\mathrm{~kg}$ | Adolescents"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 597,
+      "preview": "$>40 \\mathrm{~kg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 598,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 599,
+      "preview": "|  Zinc | $400 \\mathrm{mcg} / \\mathrm{kg}$ | $250 \\mathrm{mcg} / \\mathrm{kg}$ | $50 \\mathrm{mcg} / \\"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 600,
+      "preview": "(max $5000 \\mathrm{mcg} / \\mathrm{d})$ | $2-5 \\mathrm{mg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 601,
+      "preview": "|  Copper | $20 \\mathrm{mcg} / \\mathrm{kg}$ | $20 \\mathrm{mcg} / \\mathrm{kg}$ | $20 \\mathrm{mcg} / \\"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 602,
+      "preview": "(max $500 \\mathrm{mcg} / \\mathrm{d})$ | $200-500 \\mathrm{mcg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 603,
+      "preview": "|  Manganese | $1 \\mathrm{mcg} / \\mathrm{kg}$ | $1 \\mathrm{mcg} / \\mathrm{kg}$ | $1 \\mathrm{mcg} / \\"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 604,
+      "preview": "(max $5000 \\mathrm{mcg} / \\mathrm{d})$ | $40-100 \\mathrm{mcg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 605,
+      "preview": "|  Chromium | $0.05-0.3 \\mathrm{mcg} / \\mathrm{kg}$ | $0.2 \\mathrm{mcg} / \\mathrm{kg}$ | $0.2 \\mathr"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 606,
+      "preview": "(max $5 \\mathrm{mcg} / \\mathrm{d})$ | $5-15 \\mathrm{mcg}$  |"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 607,
+      "preview": "|  Selenium | $2 \\mathrm{mcg} / \\mathrm{kg}$ | $2 \\mathrm{mcg} / \\mathrm{kg}$ | $2 \\mathrm{mcg} / \\m"
+    },
+    {
+      "type": "table",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 608,
+      "preview": "(max $100 \\mathrm{mcg} / \\mathrm{d})$ | $40-60 \\mathrm{mcg}$  |"
+    },
+    {
+      "type": "text",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 610,
+      "preview": "*Note: These requirements are different than the multi-trace element products currently available in"
+    },
+    {
+      "type": "text",
+      "section": "Recommended Dosing of Trace Minerals",
+      "line": 612,
+      "preview": "--- page 43 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Iron (Fe)",
+      "line": 614
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 616,
+      "preview": "- Parenteral formulation: Fe Dextran"
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 617,
+      "preview": "- Controversial; not recommended as a routine additive"
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 618,
+      "preview": "- Iron dextran requires a test dose and carries an FDA black box warning"
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 619,
+      "preview": "- Not a component of current multiple trace element preparations (limited stability in PN)"
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 620,
+      "preview": "- Risks: potential for increased sepsis; oxidant; risk for anaphylaxis"
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 621,
+      "preview": "- Avoid: in infants < 2 months age; chronic blood transfusions; Fe-overload conditions"
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 622,
+      "preview": "- Dose: $0.1-0.2 \\mathrm{mg} / \\mathrm{kg} /$ day for infants $>2$ months of age or those with Fe de"
+    },
+    {
+      "type": "text",
+      "section": "Iron (Fe)",
+      "line": 624,
+      "preview": "--- page 44 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Copper Deficiency**",
+      "line": 626
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 628,
+      "preview": "- Required for co-factor in cuproenzymes"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 629,
+      "preview": "- **Source:** present in Multrys\u00ae or individually dosed"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 630,
+      "preview": "- **Risk:** omission from PN"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 631,
+      "preview": "- **Deficiency effects:** anemia, neutropenia, and metabolic bone disease"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 633,
+      "preview": "Irregular metaphysis & osteopenia"
+    },
+    {
+      "type": "image",
+      "section": "**Copper Deficiency**",
+      "line": 635,
+      "content": "![img-17.jpeg](images/e4024db8777a5075.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 637,
+      "preview": "Vacuolated marrow precursors"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 639,
+      "preview": "- **Diagnosis:** \u2193serum/plasma Copper & Ceruloplasmin"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 640,
+      "preview": "- **Prevention:** always include copper and monitor q1-3 months"
+    },
+    {
+      "type": "image",
+      "section": "**Copper Deficiency**",
+      "line": 642,
+      "content": "![img-18.jpeg](images/347045a15b957db6.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Copper Deficiency**",
+      "line": 644,
+      "content": "![img-19.jpeg](images/cfee7d95f7c66e3f.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Copper Deficiency**",
+      "line": 646,
+      "preview": "--- page 45 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Zinc Deficiency",
+      "line": 648
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 650,
+      "preview": "- Required co-factor for enzymes involved in maintenance of structural integrity of proteins, regula"
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 651,
+      "preview": "- **Source:** multitrace and/or individually dosed"
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 652,
+      "preview": "- **Risk:** omission from PN"
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 653,
+      "preview": "- **Deficiency effects:** alopecia, acral skin rash, impaired wound healing, growth retardation, dia"
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 654,
+      "preview": "- **Diagnosis:** \u2193serum/plasma Zinc"
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 655,
+      "preview": "- **Prevention:** always include Zinc and monitor every 1-3 months"
+    },
+    {
+      "type": "image",
+      "section": "Zinc Deficiency",
+      "line": 657,
+      "content": "![img-20.jpeg](images/707c4da778b064dc.png)"
+    },
+    {
+      "type": "image",
+      "section": "Zinc Deficiency",
+      "line": 659,
+      "content": "![img-21.jpeg](images/a57a8f8e2a449d05.png)"
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 661,
+      "preview": "Ruktanonchai D, et al. *MIMWR.* 2013;62(7):134-7."
+    },
+    {
+      "type": "text",
+      "section": "Zinc Deficiency",
+      "line": 663,
+      "preview": "--- page 46 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Selenium (Se)",
+      "line": 665
+    },
+    {
+      "type": "text",
+      "section": "Selenium (Se)",
+      "line": 667,
+      "preview": "- Should be provided to all patients at initiation of PN"
+    },
+    {
+      "type": "text",
+      "section": "Selenium (Se)",
+      "line": 668,
+      "preview": "- Omit in patients with renal disease"
+    },
+    {
+      "type": "text",
+      "section": "Selenium (Se)",
+      "line": 669,
+      "preview": "- Increased requirement with oxidative stress, critical illness, and losses (e.g., fistula output, b"
+    },
+    {
+      "type": "text",
+      "section": "Selenium (Se)",
+      "line": 670,
+      "preview": "- Se status: monitor plasma Se together with a measure of systemic inflammation ( $\\uparrow$ C-react"
+    },
+    {
+      "type": "text",
+      "section": "Selenium (Se)",
+      "line": 672,
+      "preview": "--- page 47 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Chromium (Cr)",
+      "line": 674
+    },
+    {
+      "type": "text",
+      "section": "Chromium (Cr)",
+      "line": 676,
+      "preview": "- Recent data suggests the need to lower the recommended amount of Cr in PN"
+    },
+    {
+      "type": "text",
+      "section": "Chromium (Cr)",
+      "line": 677,
+      "preview": "- Cr improves glucose tolerance in VLWB and ELBW at risk for perinatal hyperglycemia"
+    },
+    {
+      "type": "text",
+      "section": "Chromium (Cr)",
+      "line": 678,
+      "preview": "- Current PN components are contaminated with Cr"
+    },
+    {
+      "type": "text",
+      "section": "Chromium (Cr)",
+      "line": 679,
+      "preview": "- Omit Cr in patients with renal disease or on long-term therapy with PN"
+    },
+    {
+      "type": "text",
+      "section": "Chromium (Cr)",
+      "line": 681,
+      "preview": "--- page 48 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "**Manganese**",
+      "line": 683
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 685,
+      "preview": "- Required for mucopolysaccharide metabolism"
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 686,
+      "preview": "- Normally regulated through restricted enteric absorption"
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 687,
+      "preview": "- **Source:** Multrys\u00ae"
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 688,
+      "preview": "- **Toxicity:** manganese deposition in basal ganglia => dopamine depletion => Parkinsonian symptoms"
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 689,
+      "preview": "- **Diagnosis:** \u2191 plasma concentrations"
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 690,
+      "preview": "- **Prevention:** discontinue Multrys\u00ae in chronic PN and give trace minerals individually"
+    },
+    {
+      "type": "image",
+      "section": "**Manganese**",
+      "line": 692,
+      "content": "![img-22.jpeg](images/8cd4056fe567ec9c.png)"
+    },
+    {
+      "type": "image",
+      "section": "**Manganese**",
+      "line": 694,
+      "content": "![img-23.jpeg](images/cdd0157f3036bb79.png)"
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 696,
+      "preview": "Quaghhebeur G, *et al. Neuroradiology* 1996;38(7):680-83. Howard L, *et al. J Parenter Enteral Nutr."
+    },
+    {
+      "type": "text",
+      "section": "**Manganese**",
+      "line": 698,
+      "preview": "--- page 49 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Chromium",
+      "line": 700
+    },
+    {
+      "type": "text",
+      "section": "Chromium",
+      "line": 702,
+      "preview": "- Required for glucose regulation, \u2191 insulin sensitivity"
+    },
+    {
+      "type": "text",
+      "section": "Chromium",
+      "line": 703,
+      "preview": "- **Source:** Multrys\u00ae & natural contaminant in PN solutions"
+    },
+    {
+      "type": "text",
+      "section": "Chromium",
+      "line": 704,
+      "preview": "- **Risk:** chronic deposition in tissues: Kidneys => \u2191 long-term risk for nephropathy"
+    },
+    {
+      "type": "text",
+      "section": "Chromium",
+      "line": 705,
+      "preview": "- **Diagnosis:** \u2191 serum/plasma concentrations"
+    },
+    {
+      "type": "text",
+      "section": "Chromium",
+      "line": 706,
+      "preview": "- **Prevention:** discontinue multi-trace in chronic PN and give other trace minerals individually"
+    },
+    {
+      "type": "image",
+      "section": "Chromium",
+      "line": 708,
+      "content": "![img-24.jpeg](images/44b471fe13bb3f0e.png)"
+    },
+    {
+      "type": "image",
+      "section": "Chromium",
+      "line": 710,
+      "content": "![img-25.jpeg](images/7745bd621554b3c5.png)"
+    },
+    {
+      "type": "image",
+      "section": "Chromium",
+      "line": 712,
+      "content": "![img-26.jpeg](images/9adf286a59751d12.png)"
+    },
+    {
+      "type": "text",
+      "section": "Chromium",
+      "line": 714,
+      "preview": "--- page 50 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN Monitoring",
+      "line": 716
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 718,
+      "preview": "|  Trace Element | Initial | With Every Change in PN Order | Weekly Until Stable | Monthly / as Indi"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 719,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 720,
+      "preview": "|  Electrolytes | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 721,
+      "preview": "|  Glucose | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 722,
+      "preview": "|  Calcium | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 723,
+      "preview": "|  BUN | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 724,
+      "preview": "|  Creatinine | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 725,
+      "preview": "|  Magnesium | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 726,
+      "preview": "|  Phosphorus | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 727,
+      "preview": "|  ALT | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 728,
+      "preview": "|  AST | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring",
+      "line": 729,
+      "preview": "|  Alkaline phosphatase | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "text",
+      "section": "PN Monitoring",
+      "line": 731,
+      "preview": "--- page 51 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "PN Monitoring - Cont'd",
+      "line": 733
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 735,
+      "preview": "|  Trace Element | Initial | With Every Change in PN Order | Weekly Until Stable | Monthly / as Indi"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 736,
+      "preview": "| --- | --- | --- | --- | --- |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 737,
+      "preview": "|  Total protein | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 738,
+      "preview": "|  Albumin | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 739,
+      "preview": "|  GGT | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 740,
+      "preview": "|  Prealbumin | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 741,
+      "preview": "|  Triglycerides | $\\checkmark$ | $\\checkmark$ | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 742,
+      "preview": "|  Conjugated bilirubin | $\\checkmark$ |  | $\\checkmark$ |   |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 743,
+      "preview": "|  CBC | $\\checkmark$ |  | $\\checkmark$ | $\\checkmark$  |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 744,
+      "preview": "|  Iron studies |  |  |  | $\\checkmark$  |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 745,
+      "preview": "|  Trace elements |  |  |  | $\\checkmark$  |"
+    },
+    {
+      "type": "table",
+      "section": "PN Monitoring - Cont'd",
+      "line": 746,
+      "preview": "|  Vitamins |  |  |  | $\\checkmark$  |"
+    },
+    {
+      "type": "text",
+      "section": "PN Monitoring - Cont'd",
+      "line": 748,
+      "preview": "--- page 52 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case",
+      "line": 750
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 752,
+      "preview": "3-week-old boy born at 23-week gestation developed septic shock, renal failure, necrotizing enteroco"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 753,
+      "preview": "A) Hold ILE"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 754,
+      "preview": "B) $100 \\%$ soybean oil ILE $0.5 \\mathrm{~g} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 755,
+      "preview": "C) Mixed oil ILE $3 \\mathrm{~g} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 756,
+      "preview": "D) $100 \\%$ fish oil ILE $1 \\mathrm{~g} / \\mathrm{kg}$"
+    },
+    {
+      "type": "text",
+      "section": "Case",
+      "line": 758,
+      "preview": "--- page 53 ---"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "section": "Case: Review",
+      "line": 760
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 762,
+      "preview": "3-week-old boy born at 23-week gestation developed septic shock, renal failure, necrotizing EFAD can"
+    },
+    {
+      "type": "text",
+      "section": "Case: Review",
+      "line": 763,
+      "preview": "D) $100 \\%$ fish oil ILE $1 \\mathrm{~g} / \\mathrm{kg}$"
+    }
+  ],
+  "images": [
+    {
+      "sha_name": "dc8f65ac7b20c8ae.png",
+      "original_ref": "img-0.jpeg",
+      "page": 11,
+      "relative_path": "images/dc8f65ac7b20c8ae.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/dc8f65ac7b20c8ae.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "dc8f65ac7b20c8ae"
+    },
+    {
+      "sha_name": "8063f7a6dfe1072b.png",
+      "original_ref": "img-1.jpeg",
+      "page": 11,
+      "relative_path": "images/8063f7a6dfe1072b.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/8063f7a6dfe1072b.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8063f7a6dfe1072b"
+    },
+    {
+      "sha_name": "d4854073f6c0c2be.png",
+      "original_ref": "img-2.jpeg",
+      "page": 13,
+      "relative_path": "images/d4854073f6c0c2be.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/d4854073f6c0c2be.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "d4854073f6c0c2be"
+    },
+    {
+      "sha_name": "53a08c72389892fc.png",
+      "original_ref": "img-3.jpeg",
+      "page": 13,
+      "relative_path": "images/53a08c72389892fc.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/53a08c72389892fc.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "53a08c72389892fc"
+    },
+    {
+      "sha_name": "6664e31ea7cdf41f.png",
+      "original_ref": "img-4.jpeg",
+      "page": 17,
+      "relative_path": "images/6664e31ea7cdf41f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/6664e31ea7cdf41f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "6664e31ea7cdf41f"
+    },
+    {
+      "sha_name": "994180665f652364.png",
+      "original_ref": "img-5.jpeg",
+      "page": 17,
+      "relative_path": "images/994180665f652364.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/994180665f652364.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "994180665f652364"
+    },
+    {
+      "sha_name": "aafa886e1e38af41.png",
+      "original_ref": "img-6.jpeg",
+      "page": 18,
+      "relative_path": "images/aafa886e1e38af41.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/aafa886e1e38af41.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "aafa886e1e38af41"
+    },
+    {
+      "sha_name": "a27cac98304beaec.png",
+      "original_ref": "img-7.jpeg",
+      "page": 18,
+      "relative_path": "images/a27cac98304beaec.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/a27cac98304beaec.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a27cac98304beaec"
+    },
+    {
+      "sha_name": "dfd340de3ea25187.png",
+      "original_ref": "img-8.jpeg",
+      "page": 18,
+      "relative_path": "images/dfd340de3ea25187.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/dfd340de3ea25187.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "dfd340de3ea25187"
+    },
+    {
+      "sha_name": "1c2d24b7331cf167.png",
+      "original_ref": "img-9.jpeg",
+      "page": 25,
+      "relative_path": "images/1c2d24b7331cf167.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/1c2d24b7331cf167.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "1c2d24b7331cf167"
+    },
+    {
+      "sha_name": "af0597754243a215.png",
+      "original_ref": "img-10.jpeg",
+      "page": 31,
+      "relative_path": "images/af0597754243a215.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/af0597754243a215.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "af0597754243a215"
+    },
+    {
+      "sha_name": "56b2be7fff188c3a.png",
+      "original_ref": "img-11.jpeg",
+      "page": 31,
+      "relative_path": "images/56b2be7fff188c3a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/56b2be7fff188c3a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "56b2be7fff188c3a"
+    },
+    {
+      "sha_name": "323a408156ba21ee.png",
+      "original_ref": "img-12.jpeg",
+      "page": 37,
+      "relative_path": "images/323a408156ba21ee.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/323a408156ba21ee.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "323a408156ba21ee"
+    },
+    {
+      "sha_name": "b1a1fe4875e81122.png",
+      "original_ref": "img-13.jpeg",
+      "page": 37,
+      "relative_path": "images/b1a1fe4875e81122.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/b1a1fe4875e81122.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "b1a1fe4875e81122"
+    },
+    {
+      "sha_name": "073b0c94435336b9.png",
+      "original_ref": "img-14.jpeg",
+      "page": 41,
+      "relative_path": "images/073b0c94435336b9.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/073b0c94435336b9.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "073b0c94435336b9"
+    },
+    {
+      "sha_name": "ca3cec6c26c14e4a.png",
+      "original_ref": "img-15.jpeg",
+      "page": 41,
+      "relative_path": "images/ca3cec6c26c14e4a.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/ca3cec6c26c14e4a.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "ca3cec6c26c14e4a"
+    },
+    {
+      "sha_name": "a6e0f21199bff0c4.png",
+      "original_ref": "img-16.jpeg",
+      "page": 41,
+      "relative_path": "images/a6e0f21199bff0c4.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/a6e0f21199bff0c4.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a6e0f21199bff0c4"
+    },
+    {
+      "sha_name": "e4024db8777a5075.png",
+      "original_ref": "img-17.jpeg",
+      "page": 44,
+      "relative_path": "images/e4024db8777a5075.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/e4024db8777a5075.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "e4024db8777a5075"
+    },
+    {
+      "sha_name": "347045a15b957db6.png",
+      "original_ref": "img-18.jpeg",
+      "page": 44,
+      "relative_path": "images/347045a15b957db6.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/347045a15b957db6.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "347045a15b957db6"
+    },
+    {
+      "sha_name": "cfee7d95f7c66e3f.png",
+      "original_ref": "img-19.jpeg",
+      "page": 44,
+      "relative_path": "images/cfee7d95f7c66e3f.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/cfee7d95f7c66e3f.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "cfee7d95f7c66e3f"
+    },
+    {
+      "sha_name": "707c4da778b064dc.png",
+      "original_ref": "img-20.jpeg",
+      "page": 45,
+      "relative_path": "images/707c4da778b064dc.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/707c4da778b064dc.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "707c4da778b064dc"
+    },
+    {
+      "sha_name": "a57a8f8e2a449d05.png",
+      "original_ref": "img-21.jpeg",
+      "page": 45,
+      "relative_path": "images/a57a8f8e2a449d05.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/a57a8f8e2a449d05.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "a57a8f8e2a449d05"
+    },
+    {
+      "sha_name": "8cd4056fe567ec9c.png",
+      "original_ref": "img-22.jpeg",
+      "page": 48,
+      "relative_path": "images/8cd4056fe567ec9c.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/8cd4056fe567ec9c.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "8cd4056fe567ec9c"
+    },
+    {
+      "sha_name": "cdd0157f3036bb79.png",
+      "original_ref": "img-23.jpeg",
+      "page": 48,
+      "relative_path": "images/cdd0157f3036bb79.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/cdd0157f3036bb79.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "cdd0157f3036bb79"
+    },
+    {
+      "sha_name": "44b471fe13bb3f0e.png",
+      "original_ref": "img-24.jpeg",
+      "page": 49,
+      "relative_path": "images/44b471fe13bb3f0e.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/44b471fe13bb3f0e.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "44b471fe13bb3f0e"
+    },
+    {
+      "sha_name": "7745bd621554b3c5.png",
+      "original_ref": "img-25.jpeg",
+      "page": 49,
+      "relative_path": "images/7745bd621554b3c5.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/7745bd621554b3c5.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "7745bd621554b3c5"
+    },
+    {
+      "sha_name": "9adf286a59751d12.png",
+      "original_ref": "img-26.jpeg",
+      "page": 49,
+      "relative_path": "images/9adf286a59751d12.png",
+      "absolute_path": "/Users/cv/Desktop/MistralOCR RAG/data/parsed/7PN Neonatal PN/images/9adf286a59751d12.png",
+      "bbox": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.0,
+        "h": 0.0
+      },
+      "caption": "",
+      "hash": "9adf286a59751d12"
+    }
+  ],
+  "extraction": {
+    "ocr_model": "mistral-ocr-latest",
+    "request_id": "local-1754696152",
+    "ts": "2025-08-08T23:35:52.248803+00:00"
+  }
+}
