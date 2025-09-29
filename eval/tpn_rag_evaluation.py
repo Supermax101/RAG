@@ -151,10 +151,11 @@ Answer:"""
             full_question = f"{case_context}\n\n{question}".strip() if case_context else question
             mcq_prompt = self.create_mcq_prompt(question, options, case_context)
             
-            # Use RAG service ask() method - it handles search + generation
+            # Use RAG service ask() method
+            # Search with full_question to get best TPN knowledge
             rag_query = RAGQuery(
-                question=full_question,  # Use question + case context for search
-                search_limit=5,
+                question=full_question,  # Question + case context (not MCQ prompt format)
+                search_limit=15,  # Retrieve top 15 most relevant TPN knowledge chunks
                 temperature=0.0
             )
             rag_response = await self.rag_service.ask(rag_query)
