@@ -17,7 +17,7 @@ class Settings(BaseSettings):
     
     # Ollama Configuration
     ollama_base_url: str = Field(default="http://localhost:11434", alias="OLLAMA_BASE_URL")
-    ollama_embed_model: str = Field(default="nomic-embed-text", alias="OLLAMA_EMBED_MODEL")
+    ollama_embed_model: str = Field(default="embeddinggemma:latest", alias="OLLAMA_EMBED_MODEL")
     ollama_llm_model: str = Field(default="mistral:7b", alias="OLLAMA_LLM_MODEL")
     
     # ChromaDB Configuration
