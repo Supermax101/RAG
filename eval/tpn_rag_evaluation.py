@@ -23,7 +23,7 @@ from src.rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingP
 from src.rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
 from src.rag.core.services.rag_service import RAGService
-from src.rag.core.models.documents import RAGQuery
+from src.rag.core.models.documents import RAGQuery, SearchQuery
 
 # RAGAS imports (simplified for MCQ evaluation)
 try:
@@ -124,7 +124,7 @@ ANSWER (single letter only):"""
         
         try:
             # Search for relevant TPN information
-            search_query = RAGQuery(question=full_question, search_limit=4)
+            search_query = SearchQuery(query=full_question, limit=4)
             search_response = await self.rag_service.search(search_query)
             
             # Extract context from search results
@@ -361,6 +361,58 @@ ANSWER (single letter only):"""
         print("=" * 60)
 
 
+async def get_available_ollama_models():
+    """Get list of available Ollama models."""
+    try:
+        import httpx
+        async with httpx.AsyncClient() as client:
+            response = await client.get("http://localhost:11434/api/tags")
+            if response.status_code == 200:
+                data = response.json()
+                return [model["name"] for model in data.get("models", [])]
+            else:
+                return []
+    except Exception:
+        return []
+
+def select_ollama_model(available_models):
+    """Let user select from available Ollama models."""
+    if not available_models:
+        print("❌ No Ollama models found. Please pull some models first:")
+        print("   ollama pull mistral:7b")
+        print("   ollama pull llama3:8b")
+        print("   ollama pull codellama:7b")
+        return None
+    
+    print(f"\n🤖 Available Ollama Models ({len(available_models)} found):")
+    for i, model in enumerate(available_models, 1):
+        model_size = ""
+        if "7b" in model.lower():
+            model_size = " (7B parameters)"
+        elif "8b" in model.lower():
+            model_size = " (8B parameters)"
+        elif "13b" in model.lower():
+            model_size = " (13B parameters)"
+        elif "70b" in model.lower():
+            model_size = " (70B parameters)"
+            
+        print(f"  {i}. {model}{model_size}")
+    
+    while True:
+        try:
+            choice = input(f"\n🔢 Select model (1-{len(available_models)}) or press Enter for default: ").strip()
+            
+            if not choice:  # Default to first model
+                return available_models[0]
+            
+            choice_num = int(choice)
+            if 1 <= choice_num <= len(available_models):
+                return available_models[choice_num - 1]
+            else:
+                print(f"❌ Please enter a number between 1 and {len(available_models)}")
+        except ValueError:
+            print("❌ Please enter a valid number")
+
 async def main():
     """Main evaluation function."""
     
@@ -370,17 +422,28 @@ async def main():
     
     # Configuration
     csv_path = "eval/tpn_eval_questions.csv"
-    selected_model = "mistral:7b"  # Default model
+    
+    # Model selection
+    print("🔍 Checking available Ollama models...")
+    available_models = await get_available_ollama_models()
+    
+    if not available_models:
+        print("❌ No Ollama models available. Please pull some models first:")
+        print("   ollama pull mistral:7b")
+        print("   ollama pull llama3:8b")
+        return
+    
+    # Let user select model
+    selected_model = select_ollama_model(available_models)
+    if not selected_model:
+        return
+    
+    print(f"✅ Selected model: {selected_model}")
+    
     max_questions = 10  # Limit for testing - we have 48 MCQ questions total
     
-    # Ask user for model selection
-    print(f"🤖 Default model: {selected_model}")
-    user_model = input("Enter different model name (or press Enter for default): ").strip()
-    if user_model:
-        selected_model = user_model
-    
     # Ask for question limit
-    user_limit = input(f"Limit questions for testing? (default: {max_questions}, 'all' for no limit): ").strip()
+    user_limit = input(f"\nLimit questions for testing? (default: {max_questions}, 'all' for no limit): ").strip()
     if user_limit.lower() == 'all':
         max_questions = None
     elif user_limit.isdigit():
