@@ -99,24 +99,18 @@ class TPNRAGEvaluator:
         return mcq_df
     
     def create_mcq_prompt(self, question: str, options: str, case_context: str = "") -> str:
-        """Create a specialized prompt that forces single-letter MCQ responses."""
+        """Create a concise prompt for MCQ responses to avoid context overflow."""
         
-        context_section = f"\nCase Context:\n{case_context}\n" if case_context else ""
+        context_section = f"\nContext: {case_context}\n" if case_context else ""
         
-        prompt = f"""You are a TPN Clinical Specialist evaluating a multiple-choice question.
-
-CRITICAL INSTRUCTIONS:
-- You MUST respond with ONLY a single letter (A, B, C, D, E, or F)
-- DO NOT include any explanation, reasoning, or additional text
-- DO NOT say "The answer is..." or "Option X is correct"
-- Respond with JUST the single letter
+        prompt = f"""Answer this TPN clinical question with ONLY a single letter (A-F). No explanation.
 {context_section}
-Clinical Question: {question}
+Question: {question}
 
 Options:
 {options}
 
-Your Answer (single letter only):"""
+Answer:"""
 
         return prompt
     
@@ -157,9 +151,42 @@ Your Answer (single letter only):"""
             full_question = f"{case_context}\n\n{question}".strip() if case_context else question
             mcq_prompt = self.create_mcq_prompt(question, options, case_context)
             
-            # Get RAG response
-            rag_query = RAGQuery(question=mcq_prompt, search_limit=5)
-            rag_response = await self.rag_service.ask(rag_query)
+            # Step 1: Enhanced search using question + context (for ER extraction)
+            # This gets best context from knowledge base using entity extraction
+            search_query = SearchQuery(
+                query=full_question,  # Question + case context for entity extraction
+                limit=5
+            )
+            search_response = await self.rag_service.search(search_query)
+            
+            # Step 2: Build context from retrieved sources
+            context_parts = []
+            for i, result in enumerate(search_response.results, 1):
+                context_parts.append(f"[Source {i}] {result.content}")
+            retrieved_context = "\n\n".join(context_parts)
+            
+            # Step 3: Generate answer with MCQ prompt + retrieved context
+            final_prompt = f"""{mcq_prompt}
+
+RETRIEVED TPN KNOWLEDGE BASE:
+{retrieved_context}
+
+Based on the TPN knowledge above, your answer (single letter only):"""
+            
+            # Direct LLM call for answer generation
+            answer = await self.rag_service.llm_provider.generate(
+                prompt=final_prompt,
+                temperature=0.0,
+                max_tokens=100
+            )
+            
+            # Create response object
+            class EvalResponse:
+                def __init__(self, answer, sources):
+                    self.answer = answer
+                    self.sources = sources
+            
+            rag_response = EvalResponse(answer, search_response.results)
             
             # Extract and normalize model answer
             model_answer_raw = rag_response.answer.strip().upper()
@@ -254,12 +281,17 @@ Your Answer (single letter only):"""
         # Evaluate each question
         results = []
         for idx, row in mcq_df.iterrows():
+            # Handle NaN values properly
+            case_context = row.get('Case Context if available', '')
+            if pd.isna(case_context):
+                case_context = ''
+            
             result = await self.evaluate_single_question(
                 question_id=row['ID'],
                 question=row['Question'],
                 options=row['Options'],
                 correct_option=row['Corrrect Option (s)'],
-                case_context=row.get('Case Context if available', '')
+                case_context=case_context
             )
             results.append(result)
             
