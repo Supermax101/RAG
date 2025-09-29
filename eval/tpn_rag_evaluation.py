@@ -474,13 +474,35 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                         llm=self.ragas_llm,  # Custom Ollama LLM
                         embeddings=self.ragas_embeddings  # Custom Ollama Embeddings
                     )
-                    evaluation_summary["ragas_metrics"] = ragas_results.to_dict()
+                    
+                    # RAGAS 0.3.x: Result is a DataFrame, convert to dict
+                    # Try multiple ways to extract metrics
+                    if hasattr(ragas_results, 'to_pandas'):
+                        ragas_df = ragas_results.to_pandas()
+                        # Get mean of each metric column (excluding non-metric columns)
+                        ragas_metrics_dict = {}
+                        for col in ragas_df.columns:
+                            if col not in ['question', 'answer', 'contexts', 'reference']:
+                                ragas_metrics_dict[col] = float(ragas_df[col].mean())
+                        evaluation_summary["ragas_metrics"] = ragas_metrics_dict
+                    elif hasattr(ragas_results, '__dict__'):
+                        # Fallback: try to get attributes directly
+                        evaluation_summary["ragas_metrics"] = {
+                            k: v for k, v in ragas_results.__dict__.items() 
+                            if not k.startswith('_')
+                        }
+                    else:
+                        # Last resort: try to convert to dict directly
+                        evaluation_summary["ragas_metrics"] = dict(ragas_results)
+                    
                     print("\nRAGAS Metrics:")
                     for metric_name, score in evaluation_summary["ragas_metrics"].items():
                         print(f"  - {metric_name}: {score:.4f}")
                     print(f"{'='*60}")
                 except Exception as e:
                     print(f"WARNING: RAGAS evaluation failed - {e}")
+                    import traceback
+                    print(f"Traceback: {traceback.format_exc()}")
         
         # Save results
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
