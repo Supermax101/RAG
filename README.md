@@ -1,160 +1,122 @@
-# MistralOCR RAG 
+# Document RAG System v2.0
 
-Transform PDFs into a searchable knowledge base using Mistral OCR and embeddings.
+A modern, clean RAG (Retrieval-Augmented Generation) system with FastAPI, ChromaDB, and Ollama integration.
 
-## Quick start
+## 🏗️ Architecture
 
-1) Python 3.10+
+```
+📦 Modern RAG System
+├── 🏗️  src/rag/
+│   ├── core/              # Business Logic
+│   │   ├── models/        # Data models (Pydantic)
+│   │   ├── services/      # RAG & Document services
+│   │   └── interfaces/    # Abstract interfaces
+│   ├── infrastructure/    # External Integrations
+│   │   ├── embeddings/    # Ollama embeddings
+│   │   ├── vector_stores/ # ChromaDB adapter
+│   │   └── llm_providers/ # Ollama LLM client
+│   ├── api/              # FastAPI Application
+│   │   ├── routes/       # API endpoints
+│   │   └── schemas/      # Request/Response models
+│   └── config/           # Configuration
+├── 📄 ocr_pipeline/       # Mistral OCR (preserved)
+└── 📊 data/              # Documents & embeddings
+```
 
-2) Install deps:
+## 🚀 Quick Start
+
+### 1. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+# Install UV package manager
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Install dependencies
+uv sync
 ```
 
-3) Configure environment
+### 2. Setup Environment
 
-- Create `.env` file and set your values:
-
-```
-MISTRAL_API_KEY=your_api_key_here
-OCR_MODEL=mistral-ocr-latest
-EMBED_MODEL=mistral-embed
-OCR_BASE_URL=https://api.mistral.ai
-EMBED_BASE_URL=https://api.mistral.ai
-```
-
-The app loads `.env` automatically.
-
-4) Prepare folders (auto-created on first run):
-- `data/raw_pdfs/` (drop your PDF files here)
-- `data/parsed/`
-- `data/embeddings/`
-- `logs/`
-
-## Workflow
-
-### Phase 1: OCR Processing
+Create `.env` file:
 
 ```bash
-# Process PDFs in batches (default: 10 at a time)
-python -m app.main test-ingest
+# Ollama Configuration
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_EMBED_MODEL=nomic-embed-text
 
-# Process specific batch size
-python -m app.main test-ingest --batch-size 5
-
-# Force reprocessing
-python -m app.main test-ingest --force
+# Optional: Mistral API (for OCR pipeline)
+MISTRAL_API_KEY=your_key_here
 ```
 
-### Phase 2: Create Embeddings
+### 3. Start Ollama
 
 ```bash
-# Test embedding creation for one document (like test-ingest)
-python -m app.main test-embedding
+# Install and start Ollama
+ollama serve
 
-# Create embeddings for processed documents (batch of 10)
-python -m app.main create-embeddings
-
-# Process batch of 5 documents
-python -m app.main create-embeddings --batch-size 5
-
-# Force recreation
-python -m app.main create-embeddings --force
+# Pull required models
+ollama pull nomic-embed-text
+ollama pull mistral:7b
 ```
 
-### Phase 3: Search Setup
+### 4. Initialize System
 
 ```bash
-# Load embeddings into ChromaDB for fast search
-python -m app.main load-chromadb
+# Initialize and load documents
+python main.py init
 
-# Force reload
-python -m app.main load-chromadb --force
+# Run interactive demo
+python main.py demo
+
+# Start API server
+python main.py serve
 ```
 
-### Phase 4: Search
+## 📡 API Endpoints
+
+- **Health Check**: `GET /health`
+- **Search Documents**: `POST /api/v1/search`
+- **Ask Question**: `POST /api/v1/ask`
+- **Get Stats**: `GET /api/v1/stats`
+
+Full API documentation: `http://localhost:8000/docs`
+
+## 📄 OCR Pipeline (Preserved)
+
+For processing new PDFs:
 
 ```bash
-# Search your documents
-python -m app.main search "nutrition requirements"
+# Add PDFs to data/raw_pdfs/
+python -m ocr_pipeline.main test-ingest
 
-# More results
-python -m app.main search "parenteral nutrition" --limit 10
+# Create embeddings
+python -m ocr_pipeline.main create-embeddings
 
-# Without content preview
-python -m app.main search "electrolyte disorders" --no-content
+# Reload into vector store
+python main.py init
 ```
 
-## What gets created
+## 🔧 Development
 
-### OCR Output Structure
+```bash
+# Format code
+uv run black src/
 
-For a PDF named `myfile.pdf` with derived `doc_id` like `myfile__a9f3c2`:
+# Type checking
+uv run mypy src/
 
-```
-data/
-├── parsed/
-│   └── myfile/                              # Individual folder per PDF
-│       ├── myfile.md                        # Pure Markdown
-│       ├── myfile.rmd                       # R Markdown with YAML header
-│       ├── myfile__a9f3c2.index.json        # Block metadata for embeddings
-│       └── images/
-│           ├── a1b2c3d4.png                 # SHA-named image files
-│           └── e5f6g7h8.png
-│
-├── embeddings/
-│   ├── chromadb/                            # ChromaDB vector database
-│   │   ├── chroma.sqlite3
-│   │   └── collection_data/
-│   ├── vectors/                             # File-based embedding backup
-│   │   ├── myfile__a9f3c2.embeddings.json  # Embedding vectors + metadata
-│   │   └── ...
-│   └── metadata/                            # Global indexes (future)
-│       └── global_index.json
-│
-└── raw_pdfs/                                # Original PDF files
-    ├── myfile.pdf
-    └── ...
+# Run tests
+uv run pytest
 ```
 
-### File Details
+## 📊 Features
 
-- **myfile.md**: Clean markdown (Mistral's raw output)
-- **myfile.rmd**: R Markdown with YAML header for R/RStudio
-- **myfile__a9f3c2.index.json**: Block-level metadata with line numbers, sections, image references
-- **images/**: SHA-named image files for global uniqueness
-- **embeddings.json**: Complete embedding vectors with chunk metadata for backup/portability
-- **chromadb/**: Fast vector similarity search database
-
-## Architecture Features
-
-✅ **Hybrid Storage**: ChromaDB for speed + files for backup  
-✅ **Batch Processing**: Automatic batching with smart skip logic  
-✅ **Image Preservation**: SHA-based naming prevents duplicates  
-✅ **Multimodal Ready**: Image-text relationships preserved  
-✅ **LLM Friendly**: Clean markdown output, no base64 mess  
-✅ **Portable**: File-based embeddings work without databases  
-
-## API Limits & Costs
-
-- **OCR**: ~50 MB, 1,000 pages per PDF ([Mistral docs](https://docs.mistral.ai/capabilities/vision/))
-- **Embeddings**: ~$0.0001-0.0003 per 1K tokens (estimated)
-- **Dimensions**: 1024 per embedding vector (manageable size)
-
-## Commands Reference
-
-| Command | Purpose |
-|---------|---------|
-| `test-ingest` | Process PDFs with OCR (batch) |
-| `test-embedding` | Test embedding for one document |
-| `create-embeddings` | Generate vector embeddings (batch) |
-| `load-chromadb` | Load embeddings into vector DB |
-| `search` | Semantic search through documents |
-
-## Next Steps
-
-This system is ready for RAG integration with any LLM:
-- **Text-only models**: Use the clean markdown + embedding search
-- **Vision models**: Access images via the preserved image paths
-- **Local or API**: Works with both ChromaDB and file-based storage
+- ✅ Clean, modern architecture
+- ✅ FastAPI with automatic docs
+- ✅ ChromaDB vector storage
+- ✅ Ollama LLM & embeddings
+- ✅ Async/await throughout
+- ✅ Type safety with Pydantic
+- ✅ Connection pooling & caching
+- ✅ Preserved OCR pipeline
+- ✅ UV package management
