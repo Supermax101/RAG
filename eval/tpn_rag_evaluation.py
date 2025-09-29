@@ -33,8 +33,9 @@ try:
         context_precision,
         context_recall,
     )
+    from ragas.llms import LangchainLLMWrapper  # RAGAS 0.3.x wrapper for LangChain LLMs
     from datasets import Dataset
-    # RAGAS 0.3.x uses LangChain LLMs directly, no LangchainLLM wrapper needed
+    # LangChain LLM base for custom Ollama wrapper
     from langchain_core.language_models.llms import LLM
     RAGAS_AVAILABLE = True
 except ImportError as e:
@@ -101,10 +102,16 @@ class TPNRAGEvaluator:
         ]
         
         if RAGAS_AVAILABLE:
-            self.ollama_ragas_llm = CustomOllamaRagasLLM(
+            # Create custom Ollama LLM (LangChain-compatible)
+            ollama_llm = CustomOllamaRagasLLM(
                 model=self.selected_model,
                 ollama_provider=OllamaLLMProvider(default_model=self.selected_model)
             )
+            
+            # Wrap LangChain LLM for RAGAS 0.3.x using LangchainLLMWrapper
+            self.ragas_llm = LangchainLLMWrapper(ollama_llm)
+            
+            # RAGAS 0.3.x metrics (no need to configure LLM per-metric, pass to evaluate())
             self.ragas_metrics = [
                 answer_correctness,
                 faithfulness,
@@ -112,10 +119,9 @@ class TPNRAGEvaluator:
                 context_precision,
                 context_recall,
             ]
-            for metric in self.ragas_metrics:
-                metric.llm = self.ollama_ragas_llm
         else:
             self.ragas_metrics = []
+            self.ragas_llm = None
     
     async def initialize_rag_system(self):
         """Initialize the TPN RAG system with selected model."""
@@ -426,7 +432,12 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                 print(f"{'='*60}")
                 try:
                     ragas_dataset = Dataset.from_dict(ragas_data)
-                    ragas_results = evaluate(ragas_dataset, metrics=self.ragas_metrics)
+                    # RAGAS 0.3.x: Pass wrapped Ollama LLM to evaluate()
+                    ragas_results = evaluate(
+                        ragas_dataset, 
+                        metrics=self.ragas_metrics,
+                        llm=self.ragas_llm  # Use LangchainLLMWrapper for custom LLM
+                    )
                     evaluation_summary["ragas_metrics"] = ragas_results.to_dict()
                     print("\nRAGAS Metrics:")
                     for metric_name, score in evaluation_summary["ragas_metrics"].items():
