@@ -534,6 +534,144 @@ def select_ollama_model(available_models):
             print("Please enter a valid number")
 
 
+async def benchmark_all_models(max_questions: Optional[int] = None):
+    """Benchmark all available models and generate comparison report."""
+    
+    print("\n" + "="*80)
+    print("TPN RAG MULTI-MODEL BENCHMARK")
+    print("="*80)
+    
+    csv_path = "eval/tpn_eval_questions.csv"
+    
+    # Get all available models
+    available_models = await get_available_ollama_models()
+    if not available_models:
+        print("ERROR: No Ollama models found!")
+        return
+    
+    print(f"\nFound {len(available_models)} models to benchmark:")
+    for i, model in enumerate(available_models, 1):
+        print(f"  {i}. {model}")
+    
+    print(f"\nBenchmark settings:")
+    print(f"  - Questions: {max_questions if max_questions else 'All 48 MCQ'}")
+    print(f"  - Metrics: Accuracy + RAGAS (if available)")
+    print(f"  - System: 4x RTX 4090, 500GB disk")
+    
+    confirm = input(f"\nProceed with benchmark? (yes/no): ").strip().lower()
+    if confirm not in ['yes', 'y']:
+        print("Benchmark cancelled.")
+        return
+    
+    # Run evaluation for each model
+    all_results = []
+    start_time = datetime.now()
+    
+    for i, model in enumerate(available_models, 1):
+        print(f"\n{'='*80}")
+        print(f"BENCHMARKING MODEL {i}/{len(available_models)}: {model}")
+        print(f"{'='*80}")
+        
+        try:
+            evaluator = TPNRAGEvaluator(csv_path, model)
+            result = await evaluator.run_evaluation(max_questions)
+            
+            # Store key metrics
+            all_results.append({
+                "model": model,
+                "accuracy": result.get("accuracy", 0),
+                "correct": result.get("correct_answers", 0),
+                "wrong": result.get("wrong_answers", 0),
+                "errors": result.get("system_errors", 0),
+                "avg_time_ms": result.get("average_response_time_ms", 0),
+                "ragas_metrics": result.get("ragas_metrics", {})
+            })
+            
+            print(f"\n✅ {model} completed: {result.get('accuracy', 0):.2f}% accuracy")
+            
+        except Exception as e:
+            print(f"\n❌ {model} failed: {e}")
+            all_results.append({
+                "model": model,
+                "accuracy": 0,
+                "correct": 0,
+                "wrong": 0,
+                "errors": "BENCHMARK_FAILED",
+                "avg_time_ms": 0,
+                "ragas_metrics": {}
+            })
+    
+    # Generate comparison report
+    total_time = (datetime.now() - start_time).total_seconds()
+    
+    print(f"\n{'='*80}")
+    print("BENCHMARK COMPLETE - COMPARISON REPORT")
+    print(f"{'='*80}")
+    print(f"Total benchmark time: {total_time/60:.1f} minutes")
+    print(f"\nRANKING BY ACCURACY:")
+    print(f"{'='*80}")
+    
+    # Sort by accuracy
+    sorted_results = sorted(all_results, key=lambda x: x["accuracy"], reverse=True)
+    
+    print(f"\n{'Rank':<6} {'Model':<35} {'Accuracy':<12} {'Correct':<10} {'Avg Time':<12}")
+    print("-" * 80)
+    
+    for rank, result in enumerate(sorted_results, 1):
+        model = result["model"][:33]
+        accuracy = f"{result['accuracy']:.2f}%"
+        correct = f"{result['correct']}/48"
+        avg_time = f"{result['avg_time_ms']:.0f}ms"
+        
+        # Highlight top 3
+        prefix = "🥇" if rank == 1 else "🥈" if rank == 2 else "🥉" if rank == 3 else "  "
+        
+        print(f"{prefix} {rank:<4} {model:<35} {accuracy:<12} {correct:<10} {avg_time:<12}")
+    
+    # RAGAS metrics comparison (if available)
+    if any(r.get("ragas_metrics") for r in all_results):
+        print(f"\n{'='*80}")
+        print("RAGAS METRICS COMPARISON:")
+        print(f"{'='*80}")
+        print(f"\n{'Model':<35} {'Faithful':<12} {'Relevancy':<12} {'Correctness':<12}")
+        print("-" * 80)
+        
+        for result in sorted_results:
+            if result.get("ragas_metrics"):
+                model = result["model"][:33]
+                ragas = result["ragas_metrics"]
+                faithful = f"{ragas.get('faithfulness', 0):.3f}"
+                relevancy = f"{ragas.get('answer_relevancy', 0):.3f}"
+                correctness = f"{ragas.get('answer_correctness', 0):.3f}"
+                
+                print(f"{model:<35} {faithful:<12} {relevancy:<12} {correctness:<12}")
+    
+    # Save benchmark report
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_dir = Path("eval")
+    
+    benchmark_file = output_dir / f"benchmark_all_models_{timestamp}.json"
+    with open(benchmark_file, 'w', encoding='utf-8') as f:
+        json.dump({
+            "benchmark_date": timestamp,
+            "total_time_seconds": total_time,
+            "models_tested": len(available_models),
+            "question_limit": max_questions or 48,
+            "results": sorted_results
+        }, f, indent=4)
+    
+    print(f"\n{'='*80}")
+    print(f"Benchmark report saved: {benchmark_file}")
+    print(f"{'='*80}")
+    
+    # Print recommendation
+    if sorted_results:
+        best_model = sorted_results[0]
+        print(f"\n🏆 RECOMMENDATION: Use '{best_model['model']}' for TPN clinical questions")
+        print(f"   - Accuracy: {best_model['accuracy']:.2f}%")
+        print(f"   - Speed: {best_model['avg_time_ms']:.0f}ms avg response time")
+
+
 async def main():
     """Main evaluation function."""
     
@@ -546,6 +684,24 @@ async def main():
     if not available_models:
         return
     
+    # Ask if user wants to benchmark all models
+    print(f"\nEvaluation Mode:")
+    print(f"  1. Single model evaluation")
+    print(f"  2. Benchmark ALL models ({len(available_models)} available)")
+    
+    mode = input(f"\nSelect mode (1 or 2): ").strip()
+    
+    if mode == "2":
+        # Benchmark all models
+        max_questions_input = input(f"\nLimit questions for testing? (default: all, or enter number): ").strip()
+        max_questions = None
+        if max_questions_input and max_questions_input.lower() != 'all' and max_questions_input.isdigit():
+            max_questions = int(max_questions_input)
+        
+        await benchmark_all_models(max_questions)
+        return
+    
+    # Single model evaluation (original flow)
     selected_model = select_ollama_model(available_models)
     if not selected_model:
         return
