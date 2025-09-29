@@ -58,7 +58,13 @@ if RAGAS_AVAILABLE:
     class CustomOllamaRagasLLM(LLM):
         """A custom LLM wrapper for Ragas to use Ollama."""
         model: str
-        ollama_provider: OllamaLLMProvider
+        ollama_provider: Any  # Use Any to avoid Pydantic validation issues
+        
+        def __init__(self, model: str, ollama_provider: OllamaLLMProvider):
+            """Initialize with model and provider."""
+            super().__init__()
+            object.__setattr__(self, 'model', model)
+            object.__setattr__(self, 'ollama_provider', ollama_provider)
         
         @property
         def _llm_type(self) -> str:
@@ -76,10 +82,18 @@ if RAGAS_AVAILABLE:
         @property
         def _identifying_params(self) -> Dict[str, Any]:
             return {"model": self.model}
+        
+        class Config:
+            arbitrary_types_allowed = True
     
     class CustomOllamaRagasEmbeddings(Embeddings):
         """A custom Embeddings wrapper for Ragas to use Ollama."""
-        embedding_provider: OllamaEmbeddingProvider
+        embedding_provider: Any  # Use Any to avoid Pydantic validation issues
+        
+        def __init__(self, embedding_provider: OllamaEmbeddingProvider):
+            """Initialize with embedding provider."""
+            super().__init__()
+            object.__setattr__(self, 'embedding_provider', embedding_provider)
         
         def embed_documents(self, texts: List[str]) -> List[List[float]]:
             """Embed a list of documents."""
@@ -88,6 +102,9 @@ if RAGAS_AVAILABLE:
         def embed_query(self, text: str) -> List[float]:
             """Embed a single query."""
             return asyncio.run(self.embedding_provider.embed_query(text))
+        
+        class Config:
+            arbitrary_types_allowed = True
 
 
 class TPNRAGEvaluator:
