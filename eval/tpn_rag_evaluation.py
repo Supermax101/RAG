@@ -2,8 +2,7 @@
 """
 TPN RAG System Evaluation using RAGAS
 
-This script evaluates the TPN RAG system against MCQ questions using RAGAS metrics.
-It forces the model to choose only option letters (A, B, C, D) without explanations.
+This script evaluates the TPN RAG system against MCQ questions using proper RAGAS metrics.
 """
 
 import asyncio
@@ -13,6 +12,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 import json
 from datetime import datetime
+import re
 
 # Add project root to Python path
 project_root = Path(__file__).parent.parent
@@ -25,14 +25,24 @@ from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvid
 from src.rag.core.services.rag_service import RAGService
 from src.rag.core.models.documents import RAGQuery, SearchQuery
 
-# RAGAS imports (simplified for MCQ evaluation)
+# RAGAS imports
 try:
-    from ragas import SingleTurnSample
-    from ragas.metrics import AspectCritic
+    from ragas import evaluate, SingleTurnSample
+    from ragas.metrics import (
+        answer_correctness,
+        faithfulness,
+        answer_relevancy,
+        context_precision,
+        context_recall
+    )
+    from datasets import Dataset
     RAGAS_AVAILABLE = True
-except ImportError:
-    print("⚠️ RAGAS not fully available, using basic evaluation metrics")
+except ImportError as e:
+    print(f"WARNING: RAGAS not available - {e}")
+    print("Install RAGAS: pip install ragas")
     RAGAS_AVAILABLE = False
+    sys.exit(1)
+
 
 class TPNRAGEvaluator:
     """Evaluates TPN RAG system using RAGAS metrics for MCQ questions."""
@@ -45,7 +55,7 @@ class TPNRAGEvaluator:
         
     async def initialize_rag_system(self):
         """Initialize the TPN RAG system with selected model."""
-        print(f"🔧 Initializing TPN RAG system with model: {self.selected_model}")
+        print(f"Initializing TPN RAG system with model: {self.selected_model}")
         
         # Initialize providers
         embedding_provider = OllamaEmbeddingProvider()
@@ -54,7 +64,7 @@ class TPNRAGEvaluator:
         
         # Check Ollama health
         if not await llm_provider.check_health():
-            raise RuntimeError("❌ Ollama is not running. Please start Ollama service.")
+            raise RuntimeError("ERROR: Ollama is not running. Please start Ollama service.")
         
         # Create RAG service
         self.rag_service = RAGService(embedding_provider, vector_store, llm_provider)
@@ -62,303 +72,280 @@ class TPNRAGEvaluator:
         # Verify we have TPN documents loaded
         stats = await self.rag_service.get_collection_stats()
         if stats["total_chunks"] == 0:
-            raise RuntimeError("❌ No TPN documents found. Please run 'uv run python main.py init' first.")
+            raise RuntimeError("ERROR: No TPN documents found. Run 'uv run python main.py init' first.")
         
-        print(f"✅ RAG system ready: {stats['total_chunks']} chunks from {stats['total_documents']} documents")
+        print(f"RAG system ready: {stats['total_chunks']} chunks from {stats['total_documents']} documents")
     
     def load_mcq_questions(self) -> pd.DataFrame:
-        """Load MCQ questions from CSV file."""
-        print(f"📄 Loading evaluation questions from {self.csv_path}")
+        """Load and filter MCQ questions from CSV file."""
+        print(f"Loading evaluation questions from {self.csv_path}")
         
         df = pd.read_csv(self.csv_path)
         
         # Filter for MCQ questions only
         mcq_df = df[df['Answer Type'] == 'mcq_single'].copy()
         
-        print(f"✅ Loaded {len(mcq_df)} MCQ questions (out of {len(df)} total questions)")
+        if mcq_df.empty:
+            raise ValueError("ERROR: No MCQ questions found in CSV file")
         
-        # Show breakdown of question types
+        print(f"Loaded {len(mcq_df)} MCQ questions (filtered from {len(df)} total questions)")
+        
+        # Show breakdown
         question_types = df['Answer Type'].value_counts()
-        print("📊 Question breakdown:")
+        print("\nQuestion type breakdown:")
         for qtype, count in question_types.items():
-            print(f"   • {qtype}: {count} questions")
+            print(f"  - {qtype}: {count} questions")
+        
         return mcq_df
     
-    def create_mcq_prompt(self, question: str, context: str, options: str) -> str:
-        """Create a specialized prompt that forces MCQ-only responses."""
+    def create_mcq_prompt(self, question: str, options: str, case_context: str = "") -> str:
+        """Create a specialized prompt that forces single-letter MCQ responses."""
         
-        mcq_prompt = f"""You are a TPN Clinical Specialist. Answer the following multiple-choice question based ONLY on the provided ASPEN TPN guidelines.
+        context_section = f"\nCase Context:\n{case_context}\n" if case_context else ""
+        
+        prompt = f"""You are a TPN Clinical Specialist evaluating a multiple-choice question.
 
 CRITICAL INSTRUCTIONS:
-- You MUST respond with ONLY the option letter (A, B, C, D, E, or F)
-- DO NOT provide any explanation, reasoning, or additional text
+- You MUST respond with ONLY a single letter (A, B, C, D, E, or F)
+- DO NOT include any explanation, reasoning, or additional text
 - DO NOT say "The answer is..." or "Option X is correct"
 - Respond with JUST the single letter
+{context_section}
+Clinical Question: {question}
 
-TPN CLINICAL QUESTION: {question}
-
-MULTIPLE CHOICE OPTIONS:
+Options:
 {options}
 
-ASPEN TPN KNOWLEDGE BASE:
-{context}
+Your Answer (single letter only):"""
 
-CONSTRAINT: Base your answer EXCLUSIVELY on the provided ASPEN documents above.
-
-ANSWER (single letter only):"""
-        
-        return mcq_prompt
+        return prompt
     
-    async def evaluate_single_question(self, row: pd.Series) -> Dict[str, Any]:
-        """Evaluate a single MCQ question."""
-        question_id = row['ID']
-        question = row['Question']
-        options = row['Options']
-        correct_answer = row['Corrrect Option (s)']
-        case_context = row.get('Case Context if available', '')
+    def normalize_answer(self, answer: str) -> str:
+        """Normalize answer to handle edge cases."""
+        answer = answer.strip().upper()
         
-        # Add case context to question if available
-        full_question = f"{case_context}\n\n{question}".strip() if case_context else question
+        # Handle text answers
+        if "ALL OF THE ABOVE" in answer:
+            return "ALL"
+        if answer in ["NONE", "NONE OF THE ABOVE"]:
+            return "NONE"
         
-        print(f"🔍 Evaluating Question {question_id}: {question[:60]}...")
+        # Extract letters from multi-answer format (e.g., "B and D", "A,B,C,D", "A, D")
+        letters = re.findall(r'\b([A-F])\b', answer)
+        if letters:
+            return ",".join(sorted(letters))  # Normalize as comma-separated sorted list
+        
+        return answer
+    
+    async def evaluate_single_question(
+        self,
+        question_id: str,
+        question: str,
+        options: str,
+        correct_option: str,
+        case_context: str = ""
+    ) -> Dict[str, Any]:
+        """Evaluate a single MCQ question and return results."""
+        
+        print(f"\nEvaluating Question {question_id}: {question[:70]}...")
         
         try:
-            # Search for relevant TPN information
-            search_query = SearchQuery(query=full_question, limit=4)
-            search_response = await self.rag_service.search(search_query)
-            
-            # Extract context from search results
-            context_chunks = []
-            for result in search_response.results:
-                context_chunks.append(f"Source: {result.document_name}\nContent: {result.content}")
-            
-            context = "\n\n".join(context_chunks)
+            # Normalize correct option
+            correct_normalized = self.normalize_answer(correct_option)
             
             # Create MCQ-specific prompt
-            mcq_prompt = self.create_mcq_prompt(full_question, context, options)
+            full_question = f"{case_context}\n\n{question}".strip() if case_context else question
+            mcq_prompt = self.create_mcq_prompt(question, options, case_context)
             
-            # Get RAG response with MCQ prompt
-            rag_query = RAGQuery(question=mcq_prompt, search_limit=4)
+            # Get RAG response
+            rag_query = RAGQuery(question=mcq_prompt, search_limit=5)
             rag_response = await self.rag_service.ask(rag_query)
             
-            # Extract just the letter from response (clean up)
-            model_answer = rag_response.answer.strip().upper()
+            # Extract and normalize model answer
+            model_answer_raw = rag_response.answer.strip().upper()
             
-            # Clean up response to get just the letter
-            if len(model_answer) > 1:
-                # Look for single letters at the start
-                for char in model_answer:
-                    if char in 'ABCDEFG':
-                        model_answer = char
-                        break
+            # Try to extract answer from response
+            if len(model_answer_raw) > 1:
+                # Look for single letter answer
+                match = re.search(r'\b([A-F])\b', model_answer_raw)
+                if match:
+                    model_answer_raw = match.group(1)
+                else:
+                    # Check for text answers
+                    if "ALL OF THE ABOVE" in model_answer_raw:
+                        model_answer_raw = "ALL"
+                    elif "NONE" in model_answer_raw:
+                        model_answer_raw = "NONE"
+                    else:
+                        # Take first character if it's a letter
+                        model_answer_raw = model_answer_raw[0] if model_answer_raw and model_answer_raw[0].isalpha() else "PARSE_ERROR"
             
-            # Check if answer is correct
-            is_correct = model_answer == correct_answer.upper()
+            model_normalized = self.normalize_answer(model_answer_raw)
+            
+            # Check if correct
+            is_correct = model_normalized == correct_normalized
+            
+            # Prepare context strings for RAGAS
+            contexts = [source.content for source in rag_response.sources]
             
             result = {
                 "question_id": question_id,
-                "question": question,
+                "question": full_question,
                 "options": options,
-                "correct_answer": correct_answer,
-                "model_answer": model_answer,
+                "user_input": full_question,  # For RAGAS
+                "response": rag_response.answer,  # For RAGAS (full answer)
+                "reference": correct_option,  # For RAGAS (ground truth)
+                "retrieved_contexts": contexts,  # For RAGAS
+                "correct_option": correct_option,
+                "correct_normalized": correct_normalized,
+                "model_answer": model_answer_raw,
+                "model_normalized": model_normalized,
                 "is_correct": is_correct,
-                "context_used": len(search_response.results),
+                "full_rag_answer": rag_response.answer,
+                "num_sources": len(rag_response.sources),
                 "response_time_ms": rag_response.total_time_ms,
-                "full_response": rag_response.answer,
-                "sources": [r.document_name for r in search_response.results]
+                "model_used": self.selected_model,
+                "error": None
             }
             
-            status = "✅" if is_correct else "❌"
-            print(f"   {status} Expected: {correct_answer}, Got: {model_answer}")
+            status = "CORRECT" if is_correct else "WRONG"
+            print(f"  Expected: {correct_normalized}, Got: {model_normalized} - {status}")
             
             return result
             
         except Exception as e:
-            print(f"   ❌ Error: {str(e)}")
+            print(f"  ERROR: {str(e)}")
             return {
                 "question_id": question_id,
                 "question": question,
-                "correct_answer": correct_answer,
+                "options": options,
+                "user_input": question,
+                "response": "ERROR",
+                "reference": correct_option,
+                "retrieved_contexts": [],
+                "correct_option": correct_option,
                 "model_answer": "ERROR",
                 "is_correct": False,
+                "full_rag_answer": f"Error: {str(e)}",
+                "num_sources": 0,
+                "response_time_ms": 0,
+                "model_used": self.selected_model,
                 "error": str(e)
             }
     
     async def run_evaluation(self, max_questions: Optional[int] = None) -> Dict[str, Any]:
-        """Run the complete evaluation."""
-        print("🏥 Starting TPN RAG Evaluation with RAGAS")
-        print("=" * 60)
+        """Run complete evaluation on MCQ questions."""
         
-        # Initialize RAG system
+        # Initialize
         await self.initialize_rag_system()
-        
-        # Load questions
         mcq_df = self.load_mcq_questions()
         
-        # Limit questions if specified
-        if max_questions:
+        # Limit questions if requested
+        if max_questions and max_questions < len(mcq_df):
             mcq_df = mcq_df.head(max_questions)
-            print(f"📊 Limiting evaluation to first {max_questions} questions")
+            print(f"\nLimiting evaluation to first {max_questions} questions")
         
-        print(f"🧪 Starting evaluation of {len(mcq_df)} MCQ questions...")
-        print("-" * 60)
+        total_questions = len(mcq_df)
+        print(f"\n{'='*60}")
+        print(f"Starting evaluation of {total_questions} MCQ questions")
+        print(f"Model: {self.selected_model}")
+        print(f"{'='*60}\n")
         
         # Evaluate each question
         results = []
-        correct_count = 0
-        
         for idx, row in mcq_df.iterrows():
-            result = await self.evaluate_single_question(row)
+            result = await self.evaluate_single_question(
+                question_id=row['ID'],
+                question=row['Question'],
+                options=row['Options'],
+                correct_option=row['Corrrect Option (s)'],
+                case_context=row.get('Case Context if available', '')
+            )
             results.append(result)
             
-            if result.get("is_correct", False):
-                correct_count += 1
-            
-            # Progress update
-            if (idx + 1) % 5 == 0:
-                accuracy = (correct_count / (idx + 1)) * 100
-                print(f"📊 Progress: {idx + 1}/{len(mcq_df)} questions, Accuracy: {accuracy:.1f}%")
+            # Progress update every 10 questions
+            if (len(results) % 10 == 0):
+                correct_so_far = sum(1 for r in results if r['is_correct'])
+                accuracy_so_far = (correct_so_far / len(results)) * 100
+                print(f"\nProgress: {len(results)}/{total_questions} questions, Accuracy so far: {accuracy_so_far:.1f}%")
         
-        # Calculate overall metrics
-        total_questions = len(results)
-        correct_answers = sum(1 for r in results if r.get("is_correct", False))
-        accuracy = (correct_answers / total_questions) * 100 if total_questions > 0 else 0
-        
-        # Calculate response time statistics
-        response_times = [r.get("response_time_ms", 0) for r in results if "response_time_ms" in r]
-        avg_response_time = sum(response_times) / len(response_times) if response_times else 0
-        
-        # Categorize errors
-        error_analysis = self.analyze_errors(results)
-        
-        evaluation_summary = {
-            "evaluation_timestamp": datetime.now().isoformat(),
-            "model_used": self.selected_model,
-            "total_questions": total_questions,
-            "correct_answers": correct_answers,
-            "accuracy_percentage": accuracy,
-            "average_response_time_ms": avg_response_time,
-            "error_analysis": error_analysis,
-            "individual_results": results
-        }
-        
-        return evaluation_summary
+        self.evaluation_results = results
+        return self._generate_summary(results)
     
-    def analyze_errors(self, results: List[Dict[str, Any]]) -> Dict[str, Any]:
-        """Analyze patterns in incorrect answers."""
-        incorrect_results = [r for r in results if not r.get("is_correct", False)]
+    def _generate_summary(self, results: List[Dict[str, Any]]) -> Dict[str, Any]:
+        """Generate evaluation summary with basic statistics."""
         
-        error_types = {
-            "system_errors": len([r for r in incorrect_results if "error" in r]),
-            "wrong_choices": len([r for r in incorrect_results if "error" not in r]),
-            "total_errors": len(incorrect_results)
-        }
-        
-        # Answer distribution
-        all_answers = [r.get("model_answer", "") for r in results if "model_answer" in r]
-        answer_distribution = {}
-        for answer in all_answers:
-            answer_distribution[answer] = answer_distribution.get(answer, 0) + 1
+        total = len(results)
+        correct = sum(1 for r in results if r['is_correct'])
+        errors = sum(1 for r in results if r.get('error'))
+        wrong = total - correct - errors
+        accuracy = (correct / total * 100) if total > 0 else 0
+        avg_time = sum(r['response_time_ms'] for r in results) / total if total > 0 else 0
         
         return {
-            "error_types": error_types,
-            "answer_distribution": answer_distribution,
-            "error_rate_percentage": (len(incorrect_results) / len(results)) * 100 if results else 0
+            "total_questions": total,
+            "correct_answers": correct,
+            "wrong_answers": wrong,
+            "system_errors": errors,
+            "accuracy_percent": accuracy,
+            "average_response_time_ms": avg_time,
+            "model_used": self.selected_model,
+            "individual_results": results
         }
     
-    def generate_ragas_evaluation(self, results: List[Dict[str, Any]]) -> Dict[str, Any]:
-        """Generate evaluation metrics (RAGAS if available, otherwise basic metrics)."""
-        print("\n🎯 Generating Evaluation Metrics...")
+    def prepare_ragas_dataset(self) -> Dataset:
+        """Prepare dataset in RAGAS format."""
         
-        try:
-            # Calculate core MCQ metrics
-            correct_results = [r for r in results if r.get("is_correct", False)]
-            total_results = len(results)
-            
-            # Basic metrics that always work
-            basic_metrics = {
-                "exact_match_accuracy": (len(correct_results) / total_results * 100) if total_results > 0 else 0,
-                "response_consistency": "Single-letter MCQ responses",
-                "average_sources_used": sum(r.get("context_used", 0) for r in results) / total_results if total_results > 0 else 0,
-                "average_response_time_ms": sum(r.get("response_time_ms", 0) for r in results) / total_results if total_results > 0 else 0
-            }
-            
-            if RAGAS_AVAILABLE:
-                # Additional RAGAS metrics if available
-                ragas_samples = []
-                for result in results:
-                    if "error" not in result:
-                        try:
-                            sample = SingleTurnSample(
-                                user_input=result["question"],
-                                response=result.get("full_response", result["model_answer"]),
-                            )
-                            ragas_samples.append(sample)
-                        except Exception:
-                            continue
-                
-                return {
-                    "samples_processed": len(ragas_samples),
-                    "ragas_available": True,
-                    "mcq_metrics": basic_metrics,
-                    "note": "RAGAS integration successful. MCQ accuracy is primary metric for clinical evaluation."
-                }
-            else:
-                return {
-                    "ragas_available": False,
-                    "mcq_metrics": basic_metrics,
-                    "note": "Using basic evaluation metrics. MCQ accuracy is primary metric for clinical evaluation."
-                }
-            
-        except Exception as e:
-            return {
-                "error": f"Evaluation failed: {str(e)}",
-                "fallback_metrics": {
-                    "accuracy": sum(1 for r in results if r.get("is_correct", False)) / len(results) * 100 if results else 0
-                }
-            }
+        if not self.evaluation_results:
+            raise ValueError("No evaluation results available. Run evaluation first.")
+        
+        # Filter out error cases for RAGAS evaluation
+        valid_results = [r for r in self.evaluation_results if not r.get('error')]
+        
+        if not valid_results:
+            raise ValueError("No valid results to evaluate with RAGAS")
+        
+        # Prepare data for RAGAS
+        ragas_data = {
+            "user_input": [r["user_input"] for r in valid_results],
+            "response": [r["full_rag_answer"] for r in valid_results],
+            "reference": [r["correct_option"] for r in valid_results],
+            "retrieved_contexts": [r["retrieved_contexts"] for r in valid_results]
+        }
+        
+        return Dataset.from_dict(ragas_data)
     
-    def save_results(self, evaluation_summary: Dict[str, Any], output_file: str = "eval/tpn_rag_evaluation_results.json"):
-        """Save evaluation results to JSON file."""
-        print(f"💾 Saving results to {output_file}")
+    def save_results(self, summary: Dict[str, Any], ragas_scores: Optional[Dict] = None, output_dir: str = "eval"):
+        """Save evaluation results to JSON and CSV files."""
         
-        # Create output directory if it doesn't exist
-        output_path = Path(output_file)
-        output_path.parent.mkdir(exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        model_safe_name = self.selected_model.replace(':', '_').replace('/', '_')
         
-        with open(output_file, 'w') as f:
-            json.dump(evaluation_summary, f, indent=2, default=str)
+        # Save detailed results
+        json_file = Path(output_dir) / f"tpn_evaluation_{model_safe_name}_{timestamp}.json"
+        json_file.parent.mkdir(parents=True, exist_ok=True)
         
-        print(f"✅ Results saved to {output_file}")
-    
-    def print_summary(self, evaluation_summary: Dict[str, Any]):
-        """Print evaluation summary."""
-        print("\n" + "🎊 EVALUATION COMPLETE!" + "🎊")
-        print("=" * 60)
-        print(f"📊 **TPN RAG System Evaluation Results**")
-        print(f"🤖 Model Used: {evaluation_summary['model_used']}")
-        print(f"📝 Total Questions: {evaluation_summary['total_questions']}")
-        print(f"✅ Correct Answers: {evaluation_summary['correct_answers']}")
-        print(f"🎯 **Accuracy: {evaluation_summary['accuracy_percentage']:.2f}%**")
-        print(f"⏱️  Average Response Time: {evaluation_summary['average_response_time_ms']:.1f}ms")
+        output_data = {
+            "evaluation_summary": summary,
+            "ragas_scores": ragas_scores if ragas_scores else {},
+            "timestamp": timestamp,
+            "model": self.selected_model
+        }
         
-        error_analysis = evaluation_summary['error_analysis']
-        print(f"\n📈 **Error Analysis:**")
-        print(f"   • System Errors: {error_analysis['error_types']['system_errors']}")
-        print(f"   • Wrong Choices: {error_analysis['error_types']['wrong_choices']}")
-        print(f"   • Error Rate: {error_analysis['error_rate_percentage']:.2f}%")
+        with open(json_file, 'w') as f:
+            json.dump(output_data, f, indent=2)
         
-        print(f"\n📊 **Answer Distribution:**")
-        for answer, count in error_analysis['answer_distribution'].items():
-            percentage = (count / evaluation_summary['total_questions']) * 100
-            print(f"   • {answer}: {count} ({percentage:.1f}%)")
+        print(f"\nDetailed results saved to: {json_file}")
         
-        print("\n🏥 **Clinical Evaluation Notes:**")
-        print("   • High accuracy (>80%) indicates strong TPN clinical knowledge")
-        print("   • Low accuracy suggests need for prompt engineering or model tuning")
-        print("   • System errors indicate technical issues that need resolution")
+        # Save summary CSV
+        csv_file = Path(output_dir) / f"tpn_summary_{model_safe_name}_{timestamp}.csv"
         
-        print("=" * 60)
+        results_df = pd.DataFrame(summary['individual_results'])
+        results_df.to_csv(csv_file, index=False)
+        
+        print(f"CSV results saved to: {csv_file}")
+        
+        return json_file, csv_file
 
 
 async def get_available_ollama_models():
@@ -370,114 +357,150 @@ async def get_available_ollama_models():
             if response.status_code == 200:
                 data = response.json()
                 return [model["name"] for model in data.get("models", [])]
-            else:
-                return []
     except Exception:
-        return []
+        pass
+    return []
+
 
 def select_ollama_model(available_models):
-    """Let user select from available Ollama models."""
+    """Interactive model selection from available Ollama models."""
     if not available_models:
-        print("❌ No Ollama models found. Please pull some models first:")
-        print("   ollama pull mistral:7b")
-        print("   ollama pull llama3:8b")
-        print("   ollama pull codellama:7b")
+        print("\nERROR: No Ollama models found.")
+        print("Please pull models first:")
+        print("  ollama pull mistral:7b")
+        print("  ollama pull llama3:8b")
         return None
     
-    print(f"\n🤖 Available Ollama Models ({len(available_models)} found):")
+    print(f"\nAvailable Ollama Models ({len(available_models)} found):")
     for i, model in enumerate(available_models, 1):
-        model_size = ""
-        if "7b" in model.lower():
-            model_size = " (7B parameters)"
-        elif "8b" in model.lower():
-            model_size = " (8B parameters)"
-        elif "13b" in model.lower():
-            model_size = " (13B parameters)"
-        elif "70b" in model.lower():
-            model_size = " (70B parameters)"
-            
-        print(f"  {i}. {model}{model_size}")
+        size = ""
+        for param_size in ["7b", "8b", "13b", "70b"]:
+            if param_size in model.lower():
+                size = f" ({param_size.upper()} parameters)"
+                break
+        print(f"  {i}. {model}{size}")
     
     while True:
         try:
-            choice = input(f"\n🔢 Select model (1-{len(available_models)}) or press Enter for default: ").strip()
+            choice = input(f"\nSelect model (1-{len(available_models)}) or press Enter for default: ").strip()
             
-            if not choice:  # Default to first model
+            if not choice:
                 return available_models[0]
             
             choice_num = int(choice)
             if 1 <= choice_num <= len(available_models):
                 return available_models[choice_num - 1]
             else:
-                print(f"❌ Please enter a number between 1 and {len(available_models)}")
+                print(f"ERROR: Please enter a number between 1 and {len(available_models)}")
         except ValueError:
-            print("❌ Please enter a valid number")
+            print("ERROR: Please enter a valid number")
+
 
 async def main():
     """Main evaluation function."""
     
-    print("🏥 TPN RAG System Clinical Evaluation")
-    print("📚 MCQ-based clinical accuracy testing (RAGAS integration optional)")
-    print("=" * 60)
+    print("="*60)
+    print("TPN RAG System - RAGAS-Based Clinical Evaluation")
+    print("="*60)
     
-    # Configuration
     csv_path = "eval/tpn_eval_questions.csv"
     
+    if not Path(csv_path).exists():
+        print(f"\nERROR: CSV file not found: {csv_path}")
+        return
+    
     # Model selection
-    print("🔍 Checking available Ollama models...")
+    print("\nChecking available Ollama models...")
     available_models = await get_available_ollama_models()
     
     if not available_models:
-        print("❌ No Ollama models available. Please pull some models first:")
-        print("   ollama pull mistral:7b")
-        print("   ollama pull llama3:8b")
+        print("\nERROR: No Ollama models available.")
+        print("Please start Ollama and pull some models:")
+        print("  ollama pull mistral:7b")
+        print("  ollama pull llama3:8b")
         return
     
-    # Let user select model
     selected_model = select_ollama_model(available_models)
     if not selected_model:
         return
     
-    print(f"✅ Selected model: {selected_model}")
+    print(f"\nSelected model: {selected_model}")
     
-    max_questions = 10  # Limit for testing - we have 48 MCQ questions total
-    
-    # Ask for question limit
-    user_limit = input(f"\nLimit questions for testing? (default: {max_questions}, 'all' for no limit): ").strip()
-    if user_limit.lower() == 'all':
-        max_questions = None
-    elif user_limit.isdigit():
-        max_questions = int(user_limit)
+    # Question limit
+    max_questions = None
+    user_limit = input("\nLimit questions for testing? (default: all, or enter number): ").strip()
+    if user_limit and user_limit.lower() != 'all':
+        try:
+            max_questions = int(user_limit)
+        except ValueError:
+            print("Invalid number, using all questions")
     
     try:
         # Initialize evaluator
         evaluator = TPNRAGEvaluator(csv_path, selected_model)
         
         # Run evaluation
-        evaluation_summary = await evaluator.run_evaluation(max_questions)
+        print("\n" + "="*60)
+        summary = await evaluator.run_evaluation(max_questions)
         
-        # Generate evaluation metrics (RAGAS if available)
-        evaluation_metrics = evaluator.generate_ragas_evaluation(evaluation_summary['individual_results'])
-        evaluation_summary['evaluation_metrics'] = evaluation_metrics
+        # Compute RAGAS metrics
+        print("\n" + "="*60)
+        print("Computing RAGAS metrics...")
+        print("="*60)
+        
+        try:
+            ragas_dataset = evaluator.prepare_ragas_dataset()
+            
+            # Run RAGAS evaluation
+            ragas_result = evaluate(
+                ragas_dataset,
+                metrics=[
+                    answer_correctness,
+                    faithfulness,
+                    answer_relevancy,
+                    context_precision,
+                    context_recall
+                ]
+            )
+            
+            ragas_scores = ragas_result.to_pandas().to_dict('records')[0] if len(ragas_result) > 0 else {}
+            
+        except Exception as e:
+            print(f"\nWARNING: RAGAS evaluation failed - {e}")
+            print("Continuing with basic metrics only")
+            ragas_scores = None
         
         # Save results
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_file = f"eval/tpn_evaluation_results_{selected_model.replace(':', '_')}_{timestamp}.json"
-        evaluator.save_results(evaluation_summary, output_file)
+        evaluator.save_results(summary, ragas_scores)
         
         # Print summary
-        evaluator.print_summary(evaluation_summary)
+        print("\n" + "="*60)
+        print("EVALUATION COMPLETE")
+        print("="*60)
+        print(f"Model: {summary['model_used']}")
+        print(f"Total Questions: {summary['total_questions']}")
+        print(f"Correct Answers: {summary['correct_answers']}")
+        print(f"Wrong Answers: {summary['wrong_answers']}")
+        print(f"System Errors: {summary['system_errors']}")
+        print(f"Accuracy: {summary['accuracy_percent']:.2f}%")
+        print(f"Average Response Time: {summary['average_response_time_ms']:.1f}ms")
         
-        # Generate CSV summary for easy analysis
-        csv_output = f"eval/tpn_evaluation_summary_{timestamp}.csv"
-        results_df = pd.DataFrame(evaluation_summary['individual_results'])
-        results_df.to_csv(csv_output, index=False)
-        print(f"📊 Detailed results CSV: {csv_output}")
+        if ragas_scores:
+            print("\nRAGAS Metrics:")
+            print("="*60)
+            for metric, score in ragas_scores.items():
+                if isinstance(score, (int, float)):
+                    print(f"  {metric}: {score:.4f}")
+            print("\nNote: RAGAS scores range from 0.0 to 1.0 (higher is better)")
+            print("Target for production: >0.90 for all metrics")
+        
+        print("="*60)
         
     except Exception as e:
-        print(f"❌ Evaluation failed: {str(e)}")
+        print(f"\nERROR: Evaluation failed - {e}")
         import traceback
         traceback.print_exc()
+        sys.exit(1)
 
 
 if __name__ == "__main__":
