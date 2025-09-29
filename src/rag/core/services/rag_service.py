@@ -460,6 +460,10 @@ TPN Entity Analysis:"""
             # Convert to SearchResult objects and tag with strategy
             search_results = []
             for result in raw_results:
+                # Include search strategy in metadata at creation time (since DocumentChunk is frozen)
+                metadata = result.get("metadata", {}).copy()
+                metadata["search_strategy"] = strategy
+                
                 chunk = DocumentChunk(
                     chunk_id=result["chunk_id"],
                     doc_id=result["doc_id"],
@@ -467,12 +471,8 @@ TPN Entity Analysis:"""
                     chunk_type=result.get("chunk_type", "text"),
                     page_num=result.get("page_num"),
                     section=result.get("section"),
-                    metadata=result.get("metadata", {})
+                    metadata=metadata
                 )
-                
-                # Tag with search strategy
-                chunk.metadata = chunk.metadata or {}
-                chunk.metadata["search_strategy"] = strategy
                 
                 search_result = SearchResult(
                     chunk=chunk,
