@@ -86,11 +86,13 @@ if RAGAS_AVAILABLE:
     
     class CustomOllamaRagasEmbeddings(Embeddings):
         """A custom Embeddings wrapper for Ragas to use Ollama."""
-        embedding_provider: Any  # Use Any to avoid Pydantic validation issues
         
         def __init__(self, embedding_provider: OllamaEmbeddingProvider):
             """Initialize with embedding provider."""
-            super().__init__(embedding_provider=embedding_provider)
+            # Embeddings base class doesn't accept kwargs, so call super without args
+            super().__init__()
+            # Set our custom field as an instance variable
+            self.embedding_provider = embedding_provider
         
         def embed_documents(self, texts: List[str]) -> List[List[float]]:
             """Embed a list of documents."""
@@ -99,9 +101,6 @@ if RAGAS_AVAILABLE:
         def embed_query(self, text: str) -> List[float]:
             """Embed a single query."""
             return asyncio.run(self.embedding_provider.embed_query(text))
-        
-        class Config:
-            arbitrary_types_allowed = True
 
 
 class TPNRAGEvaluator:
