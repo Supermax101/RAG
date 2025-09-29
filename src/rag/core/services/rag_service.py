@@ -1,11 +1,14 @@
 """
 Unified TPN RAG service with enhanced search and ER extraction.
+Modern LangChain/LangGraph integration for maximum accuracy.
 """
 import time
 import asyncio
 import json
 from typing import List, Optional, Dict, Any, Tuple
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, FewShotChatMessagePromptTemplate
+from langchain_core.output_parsers import StrOutputParser, JsonOutputParser
+from langchain_core.pydantic_v1 import BaseModel as LangChainBaseModel, Field as LangChainField
 from langgraph.graph import StateGraph, END
 
 from ..models.documents import (
@@ -15,8 +18,15 @@ from ..models.documents import (
 from ..interfaces.embeddings import EmbeddingProvider, VectorStore, LLMProvider
 
 
+class TPNAnswer(LangChainBaseModel):
+    """Structured output for TPN clinical answers."""
+    answer: str = LangChainField(description="Clinical answer based on TPN guidelines")
+    confidence: str = LangChainField(default="medium", description="Confidence level: low, medium, high")
+    sources_used: List[int] = LangChainField(default_factory=list, description="List of source indices used")
+
+
 class RAGService:
-    """Enhanced TPN RAG service with ER extraction and multi-strategy search."""
+    """Modern TPN RAG service with LangChain LCEL chains and LangGraph workflows."""
     
     def __init__(
         self,
@@ -31,6 +41,11 @@ class RAGService:
         # Initialize enhanced search capabilities
         self.er_graph = self._build_er_extraction_graph()
         self.neo4j_fallback = None  # Initialize on demand
+        
+        # Initialize LangChain components
+        self.prompt_template = self._build_tpn_prompt_template()
+        self.few_shot_examples = self._get_few_shot_examples()
+        self.output_parser = StrOutputParser()
     
     async def search(self, query: SearchQuery) -> SearchResponse:
         """Perform enhanced TPN-focused search with ER extraction."""
@@ -133,10 +148,13 @@ class RAGService:
         )
     
     async def ask(self, rag_query: RAGQuery) -> RAGResponse:
-        """Answer a question using RAG (Retrieve + Generate)."""
+        """Answer a question using modern LangChain RAG pipeline.
+        
+        Pipeline: Search → Context Building → Few-Shot Prompting → Generation
+        """
         start_time = time.time()
         
-        # Step 1: Search for relevant documents
+        # Step 1: Enhanced search for relevant TPN documents
         search_query = SearchQuery(
             query=rag_query.question,
             limit=rag_query.search_limit
@@ -150,7 +168,7 @@ class RAGService:
             total_time_ms = (time.time() - start_time) * 1000
             return RAGResponse(
                 question=rag_query.question,
-                answer="I couldn't find relevant information to answer your question.",
+                answer="I couldn't find relevant TPN clinical guidelines to answer your question. Please rephrase or ask about specific TPN topics (dosing, monitoring, complications, etc.).",
                 sources=[],
                 search_time_ms=search_time_ms,
                 generation_time_ms=0,
@@ -158,22 +176,27 @@ class RAGService:
                 model_used="no-model"
             )
         
-        # Step 2: Build context from search results
-        context_parts = []
-        for i, result in enumerate(search_response.results, 1):
-            context_parts.append(f"[Source {i}] {result.content}")
+        # Step 2: Build enriched context with source metadata
+        context = self._build_context_with_metadata(search_response.results)
         
-        context = "\n\n".join(context_parts)
+        # Step 3: Format prompt using LangChain ChatPromptTemplate
+        # This includes: system message + few-shot examples + current question
+        formatted_messages = self.prompt_template.format_messages(
+            context=context,
+            question=rag_query.question
+        )
         
-        # Step 3: Generate answer using LLM
-        rag_prompt = self._build_rag_prompt(rag_query.question, context)
+        # Convert LangChain messages to string for Ollama
+        # (Ollama doesn't support chat format directly via our wrapper)
+        prompt_str = self._format_messages_for_ollama(formatted_messages)
         
+        # Step 4: Generate answer with LLM
         generation_start = time.time()
         answer = await self.llm_provider.generate(
-            prompt=rag_prompt,
+            prompt=prompt_str,
             model=rag_query.model,
             temperature=rag_query.temperature,
-            max_tokens=500
+            max_tokens=600  # Increased for detailed clinical answers
         )
         generation_time_ms = (time.time() - generation_start) * 1000
         
@@ -181,7 +204,7 @@ class RAGService:
         
         return RAGResponse(
             question=rag_query.question,
-            answer=answer,
+            answer=answer.strip(),
             sources=search_response.results,
             search_time_ms=search_time_ms,
             generation_time_ms=generation_time_ms,
@@ -189,8 +212,99 @@ class RAGService:
             model_used=rag_query.model or "default"
         )
     
+    def _format_messages_for_ollama(self, messages: List[Any]) -> str:
+        """Convert LangChain messages to string format for Ollama."""
+        formatted_parts = []
+        
+        for msg in messages:
+            role = msg.__class__.__name__.replace("Message", "").upper()
+            if role == "SYSTEM":
+                formatted_parts.append(f"SYSTEM INSTRUCTIONS:\n{msg.content}\n")
+            elif role == "HUMAN":
+                formatted_parts.append(f"USER:\n{msg.content}\n")
+            elif role == "AI":
+                formatted_parts.append(f"ASSISTANT:\n{msg.content}\n")
+            else:
+                formatted_parts.append(f"{msg.content}\n")
+        
+        formatted_parts.append("\nASSISTANT:")
+        return "\n".join(formatted_parts)
+    
+    def _get_few_shot_examples(self) -> List[Dict[str, str]]:
+        """Get few-shot examples for TPN clinical Q&A."""
+        return [
+            {
+                "context": "[Source 1] Neonatal TPN should start with dextrose 10% at 4-6 mg/kg/min GIR.",
+                "question": "What is the recommended starting dextrose concentration for neonatal TPN?",
+                "answer": "Based on the ASPEN guidelines, neonatal TPN should start with dextrose 10% at a glucose infusion rate (GIR) of 4-6 mg/kg/min."
+            },
+            {
+                "context": "[Source 1] Potassium levels should be monitored daily in TPN patients, especially during initiation.",
+                "question": "How often should potassium be monitored in TPN patients?",
+                "answer": "According to the guidelines, potassium levels should be monitored daily in TPN patients, particularly during the initiation phase."
+            }
+        ]
+    
+    def _build_tpn_prompt_template(self) -> ChatPromptTemplate:
+        """Build modern LangChain prompt template with few-shot examples."""
+        
+        # Example prompt for few-shot learning
+        example_prompt = ChatPromptTemplate.from_messages([
+            ("human", "Context from TPN guidelines:\n{context}\n\nQuestion: {question}"),
+            ("ai", "{answer}")
+        ])
+        
+        # Few-shot prompt
+        few_shot_prompt = FewShotChatMessagePromptTemplate(
+            example_prompt=example_prompt,
+            examples=self._get_few_shot_examples(),
+        )
+        
+        # Final prompt template with system message, few-shot examples, and current question
+        final_prompt = ChatPromptTemplate.from_messages([
+            ("system", """You are a TPN (Total Parenteral Nutrition) Clinical Specialist with expertise in ASPEN guidelines.
+
+Your role:
+- Answer questions based ONLY on the provided TPN clinical guidelines
+- Cite specific sources when making recommendations
+- If information is insufficient, clearly state what's missing
+- Use clinical terminology appropriately
+- Provide precise dosing, monitoring, and safety information
+
+Remember: Patient safety depends on accurate information from authoritative sources."""),
+            few_shot_prompt,
+            ("human", """Based on the following TPN clinical guidelines, answer the question.
+
+{context}
+
+QUESTION: {question}
+
+Provide a clear, evidence-based answer using the guidelines above.""")
+        ])
+        
+        return final_prompt
+    
+    def _build_context_with_metadata(self, results: List[SearchResult]) -> str:
+        """Build enriched context with source metadata for better attribution."""
+        context_parts = []
+        
+        for i, result in enumerate(results, 1):
+            # Extract metadata
+            doc_name = result.document_name[:60]
+            section = result.chunk.section or "General"
+            page = f", Page {result.chunk.page_num}" if result.chunk.page_num else ""
+            
+            # Format with metadata
+            context_parts.append(
+                f"[Source {i}: {doc_name}{page}]\n"
+                f"Section: {section}\n"
+                f"{result.content}"
+            )
+        
+        return "\n\n".join(context_parts)
+    
     def _build_rag_prompt(self, question: str, context: str) -> str:
-        """Build RAG prompt for answer generation."""
+        """Build RAG prompt for answer generation (legacy fallback)."""
         return f"""Answer the following question using only the provided context. Be precise and helpful.
 
 CONTEXT:
