@@ -533,7 +533,8 @@ TPN Entity Analysis:"""
                 seen_content.add(content_hash)
                 unique_results.append(result)
         
-        # Enhanced scoring based on multiple factors
+        # Enhanced scoring based on multiple factors - create new SearchResults with updated scores
+        enhanced_results = []
         for result in unique_results:
             strategy = result.chunk.metadata.get("search_strategy", "unknown")
             base_score = result.score
@@ -569,9 +570,16 @@ TPN Entity Analysis:"""
             tpn_score = sum(1 for keyword in tpn_keywords if keyword in content_lower)
             tpn_bonus = min(0.1, tpn_score * 0.02)
             
-            # Calculate final score
-            result.score = min(1.0, base_score + strategy_bonus + content_bonus + doc_bonus + tpn_bonus)
+            # Calculate final score and create new SearchResult (since SearchResult is frozen)
+            final_score = min(1.0, base_score + strategy_bonus + content_bonus + doc_bonus + tpn_bonus)
+            
+            enhanced_result = SearchResult(
+                chunk=result.chunk,
+                score=final_score,
+                document_name=result.document_name
+            )
+            enhanced_results.append(enhanced_result)
         
         # Sort by enhanced score and return top results
-        sorted_results = sorted(unique_results, key=lambda x: x.score, reverse=True)
+        sorted_results = sorted(enhanced_results, key=lambda x: x.score, reverse=True)
         return sorted_results[:limit]
