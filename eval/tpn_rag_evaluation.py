@@ -151,42 +151,13 @@ Answer:"""
             full_question = f"{case_context}\n\n{question}".strip() if case_context else question
             mcq_prompt = self.create_mcq_prompt(question, options, case_context)
             
-            # Step 1: Enhanced search using question + context (for ER extraction)
-            # This gets best context from knowledge base using entity extraction
-            search_query = SearchQuery(
-                query=full_question,  # Question + case context for entity extraction
-                limit=5
+            # Use RAG service ask() method - it handles search + generation
+            rag_query = RAGQuery(
+                question=full_question,  # Use question + case context for search
+                search_limit=5,
+                temperature=0.0
             )
-            search_response = await self.rag_service.search(search_query)
-            
-            # Step 2: Build context from retrieved sources
-            context_parts = []
-            for i, result in enumerate(search_response.results, 1):
-                context_parts.append(f"[Source {i}] {result.content}")
-            retrieved_context = "\n\n".join(context_parts)
-            
-            # Step 3: Generate answer with MCQ prompt + retrieved context
-            final_prompt = f"""{mcq_prompt}
-
-RETRIEVED TPN KNOWLEDGE BASE:
-{retrieved_context}
-
-Based on the TPN knowledge above, your answer (single letter only):"""
-            
-            # Direct LLM call for answer generation
-            answer = await self.rag_service.llm_provider.generate(
-                prompt=final_prompt,
-                temperature=0.0,
-                max_tokens=100
-            )
-            
-            # Create response object
-            class EvalResponse:
-                def __init__(self, answer, sources):
-                    self.answer = answer
-                    self.sources = sources
-            
-            rag_response = EvalResponse(answer, search_response.results)
+            rag_response = await self.rag_service.ask(rag_query)
             
             # Extract and normalize model answer
             model_answer_raw = rag_response.answer.strip().upper()

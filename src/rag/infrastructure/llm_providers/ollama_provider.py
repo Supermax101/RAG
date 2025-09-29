@@ -46,6 +46,14 @@ class OllamaLLMProvider(LLMProvider):
                 
                 generated_text = result.get("response", "").strip()
                 if not generated_text:
+                    # Log details for debugging empty responses
+                    print(f"\n[DEBUG] Empty response from Ollama")
+                    print(f"[DEBUG] Model: {model_name}")
+                    print(f"[DEBUG] Prompt length: {len(prompt)} chars")
+                    print(f"[DEBUG] Prompt (first 200 chars): {prompt[:200]}")
+                    print(f"[DEBUG] Result keys: {result.keys()}")
+                    print(f"[DEBUG] Done reason: {result.get('done_reason', 'N/A')}")
+                    print(f"[DEBUG] Eval count: {result.get('eval_count', 'N/A')}")
                     raise RuntimeError("Empty response from Ollama")
                 
                 return generated_text
