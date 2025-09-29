@@ -549,12 +549,15 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
         print("ERROR: No Ollama models found!")
         return
     
+    # Determine actual question count
+    actual_question_count = max_questions if max_questions else 48
+    
     print(f"\nFound {len(available_models)} models to benchmark:")
     for i, model in enumerate(available_models, 1):
         print(f"  {i}. {model}")
     
     print(f"\nBenchmark settings:")
-    print(f"  - Questions: {max_questions if max_questions else 'All 48 MCQ'}")
+    print(f"  - Questions: {actual_question_count} MCQ")
     print(f"  - Metrics: Accuracy + RAGAS (if available)")
     print(f"  - System: 4x RTX 4090, 500GB disk")
     
@@ -620,7 +623,7 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
     for rank, result in enumerate(sorted_results, 1):
         model = result["model"][:33]
         accuracy = f"{result['accuracy']:.2f}%"
-        correct = f"{result['correct']}/48"
+        correct = f"{result['correct']}/{actual_question_count}"  # Use actual question count
         avg_time = f"{result['avg_time_ms']:.0f}ms"
         
         # Highlight top 3
@@ -656,7 +659,7 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
             "benchmark_date": timestamp,
             "total_time_seconds": total_time,
             "models_tested": len(available_models),
-            "question_limit": max_questions or 48,
+            "total_questions": actual_question_count,  # Actual count, not limit
             "results": sorted_results
         }, f, indent=4)
     
