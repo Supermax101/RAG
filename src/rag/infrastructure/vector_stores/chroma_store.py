@@ -29,7 +29,7 @@ class ChromaVectorStore(VectorStore):
             
             self.client = chromadb.PersistentClient(
                 path=str(settings.chromadb_dir),
-                settings=ChromaSettings(
+                settings=Settings(
                     anonymized_telemetry=False,
                     allow_reset=True
                 )
