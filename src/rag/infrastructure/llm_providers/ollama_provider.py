@@ -37,8 +37,7 @@ class OllamaLLMProvider(LLMProvider):
                             "num_predict": max_tokens,
                             "temperature": temperature,
                             "top_p": 0.9,
-                            "repeat_penalty": 1.1,
-                            "stop": ["QUESTION:", "USER:", "CONTEXT:"]
+                            "repeat_penalty": 1.1
                         }
                     }
                 )
