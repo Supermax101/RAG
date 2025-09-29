@@ -118,7 +118,7 @@ class ChromaVectorStore(VectorStore):
                     result = {
                         "chunk_id": results["ids"][0][i],
                         "content": results["documents"][0][i],
-                        "score": 1.0 - results["distances"][0][i],  # Convert distance to similarity
+                        "score": max(0.0, min(1.0, 1.0 / (1.0 + results["distances"][0][i]))),  # Normalize distance to 0-1 similarity
                         "doc_id": results["metadatas"][0][i].get("doc_id", ""),
                         "document_name": results["metadatas"][0][i].get("document_name", "Unknown"),
                         "chunk_type": results["metadatas"][0][i].get("chunk_type", "text"),

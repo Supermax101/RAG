@@ -67,14 +67,91 @@ async def initialize_tpn_system():
     return True
 
 
+async def get_available_ollama_models():
+    """Get list of available Ollama models."""
+    try:
+        import httpx
+        async with httpx.AsyncClient() as client:
+            response = await client.get("http://localhost:11434/api/tags")
+            if response.status_code == 200:
+                data = response.json()
+                return [model["name"] for model in data.get("models", [])]
+            else:
+                return []
+    except Exception:
+        return []
+
+def select_ollama_model(available_models):
+    """Let user select from available Ollama models."""
+    if not available_models:
+        print("❌ No Ollama models found. Please pull some models first:")
+        print("   ollama pull mistral:7b")
+        print("   ollama pull llama3:8b")
+        print("   ollama pull codellama:7b")
+        return None
+    
+    print(f"\n🤖 Available Ollama Models ({len(available_models)} found):")
+    for i, model in enumerate(available_models, 1):
+        model_size = ""
+        if "7b" in model.lower():
+            model_size = " (7B parameters)"
+        elif "8b" in model.lower():
+            model_size = " (8B parameters)"
+        elif "13b" in model.lower():
+            model_size = " (13B parameters)"
+        elif "70b" in model.lower():
+            model_size = " (70B parameters)"
+            
+        print(f"  {i}. {model}{model_size}")
+    
+    while True:
+        try:
+            choice = input(f"\n🔢 Select model (1-{len(available_models)}) or press Enter for default: ").strip()
+            
+            if not choice:  # Default to first model
+                return available_models[0]
+            
+            choice_num = int(choice)
+            if 1 <= choice_num <= len(available_models):
+                return available_models[choice_num - 1]
+            else:
+                print(f"❌ Please enter a number between 1 and {len(available_models)}")
+        except ValueError:
+            print("❌ Please enter a valid number")
+
 async def run_tpn_specialist_demo():
-    """Run TPN Clinical Specialist interactive demo."""
-    from rag.api.dependencies import get_rag_service
+    """Run TPN Clinical Specialist interactive demo with model selection."""
     from rag.core.models.documents import RAGQuery
+    from rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingProvider
+    from rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
+    from rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
+    from rag.core.services.rag_service import RAGService
     
-    rag_service = get_rag_service()
+    print("🔍 Checking available Ollama models...")
+    available_models = await get_available_ollama_models()
     
-    print("\n🏥 TPN Clinical Specialist - Interactive Demo")
+    if not available_models:
+        print("❌ No Ollama models available. Please pull some models first:")
+        print("   ollama pull mistral:7b")
+        print("   ollama pull llama3:8b")
+        return False
+    
+    # Let user select model
+    selected_model = select_ollama_model(available_models)
+    if not selected_model:
+        return False
+    
+    print(f"✅ Selected model: {selected_model}")
+    
+    # Initialize providers with selected model
+    embedding_provider = OllamaEmbeddingProvider()
+    vector_store = ChromaVectorStore()
+    llm_provider = OllamaLLMProvider(default_model=selected_model)
+    
+    # Create RAG service with selected model
+    rag_service = RAGService(embedding_provider, vector_store, llm_provider)
+    
+    print(f"\n🏥 TPN Clinical Specialist - Interactive Demo (Using {selected_model})")
     print("=" * 60)
     print("💊 Ask TPN/parenteral nutrition questions based on your 52 ASPEN documents")
     print("🔬 Example questions:")
