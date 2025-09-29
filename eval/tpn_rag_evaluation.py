@@ -479,11 +479,27 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                     # Try multiple ways to extract metrics
                     if hasattr(ragas_results, 'to_pandas'):
                         ragas_df = ragas_results.to_pandas()
-                        # Get mean of each metric column (excluding non-metric columns)
+                        # Get mean of ONLY numeric metric columns (skip input columns)
                         ragas_metrics_dict = {}
+                        # Input columns to exclude (not metrics)
+                        input_columns = {'question', 'answer', 'contexts', 'reference', 'user_input', 'retrieved_contexts'}
+                        
                         for col in ragas_df.columns:
-                            if col not in ['question', 'answer', 'contexts', 'reference']:
-                                ragas_metrics_dict[col] = float(ragas_df[col].mean())
+                            if col not in input_columns:
+                                # Only compute mean for numeric columns (actual metrics)
+                                try:
+                                    mean_value = ragas_df[col].mean()
+                                    # Check if it's a valid numeric value
+                                    if pd.notna(mean_value):
+                                        ragas_metrics_dict[col] = float(mean_value)
+                                    else:
+                                        # Metric failed for all rows (all NaN)
+                                        ragas_metrics_dict[col] = 0.0
+                                        print(f"  Warning: Metric '{col}' had no valid values (all NaN)")
+                                except (TypeError, ValueError) as e:
+                                    # Skip non-numeric columns silently
+                                    pass
+                        
                         evaluation_summary["ragas_metrics"] = ragas_metrics_dict
                     elif hasattr(ragas_results, '__dict__'):
                         # Fallback: try to get attributes directly
