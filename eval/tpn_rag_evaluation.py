@@ -62,9 +62,7 @@ if RAGAS_AVAILABLE:
         
         def __init__(self, model: str, ollama_provider: OllamaLLMProvider):
             """Initialize with model and provider."""
-            super().__init__()
-            object.__setattr__(self, 'model', model)
-            object.__setattr__(self, 'ollama_provider', ollama_provider)
+            super().__init__(model=model, ollama_provider=ollama_provider)
         
         @property
         def _llm_type(self) -> str:
@@ -92,8 +90,7 @@ if RAGAS_AVAILABLE:
         
         def __init__(self, embedding_provider: OllamaEmbeddingProvider):
             """Initialize with embedding provider."""
-            super().__init__()
-            object.__setattr__(self, 'embedding_provider', embedding_provider)
+            super().__init__(embedding_provider=embedding_provider)
         
         def embed_documents(self, texts: List[str]) -> List[List[float]]:
             """Embed a list of documents."""
