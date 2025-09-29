@@ -19,12 +19,11 @@ from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvid
 from src.rag.core.services.rag_service import RAGService
 from src.rag.core.models.documents import SearchQuery
 
-# LangChain imports for structured output
+# LangChain imports for structured output (Pydantic v2)
 from langchain_core.prompts import ChatPromptTemplate, FewShotChatMessagePromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
-from langchain_core.pydantic_v1 import BaseModel as LangChainBaseModel, Field as LangChainField
 
-# RAGAS imports
+# RAGAS imports (optional for advanced metrics)
 try:
     from ragas import evaluate
     from ragas.metrics import (
@@ -41,35 +40,38 @@ try:
 except ImportError:
     print("WARNING: RAGAS not fully available, continuing with basic metrics only")
     RAGAS_AVAILABLE = False
+    LLM = None  # Define as None so class definition doesn't fail
 
 
-class MCQAnswer(LangChainBaseModel):
-    """Structured output for MCQ answers using LangChain Pydantic."""
-    answer: str = LangChainField(description="Single letter answer (A, B, C, D, E, or F)")
-    confidence: Optional[str] = LangChainField(default="medium", description="Confidence level: low, medium, high")
+class MCQAnswer(BaseModel):
+    """Structured output for MCQ answers using Pydantic v2."""
+    answer: str = Field(description="Single letter answer (A, B, C, D, E, or F)")
+    confidence: Optional[str] = Field(default="medium", description="Confidence level: low, medium, high")
 
 
-class CustomOllamaRagasLLM(LLM):
-    """A custom LLM wrapper for Ragas to use Ollama."""
-    model: str
-    ollama_provider: OllamaLLMProvider
-    
-    @property
-    def _llm_type(self) -> str:
-        return "ollama-ragas-custom"
-    
-    def _call(
-        self,
-        prompt: str,
-        stop: Optional[List[str]] = None,
-        run_manager: Optional[Any] = None,
-        **kwargs: Any,
-    ) -> str:
-        return asyncio.run(self.ollama_provider.generate(prompt=prompt, model=self.model, **kwargs))
-    
-    @property
-    def _identifying_params(self) -> Dict[str, Any]:
-        return {"model": self.model}
+# Only define CustomOllamaRagasLLM if RAGAS is available
+if RAGAS_AVAILABLE:
+    class CustomOllamaRagasLLM(LLM):
+        """A custom LLM wrapper for Ragas to use Ollama."""
+        model: str
+        ollama_provider: OllamaLLMProvider
+        
+        @property
+        def _llm_type(self) -> str:
+            return "ollama-ragas-custom"
+        
+        def _call(
+            self,
+            prompt: str,
+            stop: Optional[List[str]] = None,
+            run_manager: Optional[Any] = None,
+            **kwargs: Any,
+        ) -> str:
+            return asyncio.run(self.ollama_provider.generate(prompt=prompt, model=self.model, **kwargs))
+        
+        @property
+        def _identifying_params(self) -> Dict[str, Any]:
+            return {"model": self.model}
 
 
 class TPNRAGEvaluator:

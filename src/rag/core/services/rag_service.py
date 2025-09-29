@@ -8,7 +8,7 @@ import json
 from typing import List, Optional, Dict, Any, Tuple
 from langchain_core.prompts import ChatPromptTemplate, FewShotChatMessagePromptTemplate
 from langchain_core.output_parsers import StrOutputParser, JsonOutputParser
-from langchain_core.pydantic_v1 import BaseModel as LangChainBaseModel, Field as LangChainField
+from pydantic import BaseModel as LangChainBaseModel, Field as LangChainField
 from langgraph.graph import StateGraph, END
 
 from ..models.documents import (
