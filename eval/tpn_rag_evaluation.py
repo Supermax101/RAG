@@ -34,14 +34,17 @@ try:
         context_recall,
     )
     from ragas.llms import LangchainLLMWrapper  # RAGAS 0.3.x wrapper for LangChain LLMs
+    from ragas.embeddings import LangchainEmbeddingsWrapper  # RAGAS 0.3.x wrapper for embeddings
     from datasets import Dataset
-    # LangChain LLM base for custom Ollama wrapper
+    # LangChain LLM and Embeddings bases
     from langchain_core.language_models.llms import LLM
+    from langchain_core.embeddings import Embeddings
     RAGAS_AVAILABLE = True
 except ImportError as e:
     print(f"WARNING: RAGAS not fully available ({e}), continuing with basic metrics only")
     RAGAS_AVAILABLE = False
     LLM = None  # Define as None so class definition doesn't fail
+    Embeddings = None
 
 
 class MCQAnswer(BaseModel):
@@ -50,7 +53,7 @@ class MCQAnswer(BaseModel):
     confidence: Optional[str] = Field(default="medium", description="Confidence level: low, medium, high")
 
 
-# Only define CustomOllamaRagasLLM if RAGAS is available
+# Only define custom wrappers if RAGAS is available
 if RAGAS_AVAILABLE:
     class CustomOllamaRagasLLM(LLM):
         """A custom LLM wrapper for Ragas to use Ollama."""
@@ -73,6 +76,18 @@ if RAGAS_AVAILABLE:
         @property
         def _identifying_params(self) -> Dict[str, Any]:
             return {"model": self.model}
+    
+    class CustomOllamaRagasEmbeddings(Embeddings):
+        """A custom Embeddings wrapper for Ragas to use Ollama."""
+        embedding_provider: OllamaEmbeddingProvider
+        
+        def embed_documents(self, texts: List[str]) -> List[List[float]]:
+            """Embed a list of documents."""
+            return asyncio.run(self.embedding_provider.embed_texts(texts))
+        
+        def embed_query(self, text: str) -> List[float]:
+            """Embed a single query."""
+            return asyncio.run(self.embedding_provider.embed_query(text))
 
 
 class TPNRAGEvaluator:
@@ -108,10 +123,16 @@ class TPNRAGEvaluator:
                 ollama_provider=OllamaLLMProvider(default_model=self.selected_model)
             )
             
-            # Wrap LangChain LLM for RAGAS 0.3.x using LangchainLLMWrapper
-            self.ragas_llm = LangchainLLMWrapper(ollama_llm)
+            # Create custom Ollama Embeddings (LangChain-compatible)
+            ollama_embeddings = CustomOllamaRagasEmbeddings(
+                embedding_provider=OllamaEmbeddingProvider()
+            )
             
-            # RAGAS 0.3.x metrics (no need to configure LLM per-metric, pass to evaluate())
+            # Wrap for RAGAS 0.3.x using official wrappers
+            self.ragas_llm = LangchainLLMWrapper(ollama_llm)
+            self.ragas_embeddings = LangchainEmbeddingsWrapper(ollama_embeddings)
+            
+            # RAGAS 0.3.x metrics (pass LLM and embeddings to evaluate())
             self.ragas_metrics = [
                 answer_correctness,
                 faithfulness,
@@ -122,6 +143,7 @@ class TPNRAGEvaluator:
         else:
             self.ragas_metrics = []
             self.ragas_llm = None
+            self.ragas_embeddings = None
     
     async def initialize_rag_system(self):
         """Initialize the TPN RAG system with selected model."""
@@ -432,11 +454,12 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                 print(f"{'='*60}")
                 try:
                     ragas_dataset = Dataset.from_dict(ragas_data)
-                    # RAGAS 0.3.x: Pass wrapped Ollama LLM to evaluate()
+                    # RAGAS 0.3.x: Pass wrapped Ollama LLM and Embeddings to evaluate()
                     ragas_results = evaluate(
                         ragas_dataset, 
                         metrics=self.ragas_metrics,
-                        llm=self.ragas_llm  # Use LangchainLLMWrapper for custom LLM
+                        llm=self.ragas_llm,  # Custom Ollama LLM
+                        embeddings=self.ragas_embeddings  # Custom Ollama Embeddings
                     )
                     evaluation_summary["ragas_metrics"] = ragas_results.to_dict()
                     print("\nRAGAS Metrics:")
