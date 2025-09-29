@@ -18,14 +18,14 @@ class OllamaEmbeddingProvider(EmbeddingProvider):
         
     async def embed_texts(self, texts: List[str]) -> List[List[float]]:
         """Generate embeddings for multiple texts."""
-        async with httpx.AsyncClient(timeout=30.0) as client:
+        async with httpx.AsyncClient(timeout=120.0) as client:  # Increased for larger models like embeddinggemma
             tasks = [self._embed_single(client, text) for text in texts]
             embeddings = await asyncio.gather(*tasks)
             return embeddings
     
     async def embed_query(self, query: str) -> List[float]:
         """Generate embedding for a single query."""
-        async with httpx.AsyncClient(timeout=30.0) as client:
+        async with httpx.AsyncClient(timeout=120.0) as client:  # Increased for larger models like embeddinggemma
             return await self._embed_single(client, query)
     
     async def _embed_single(self, client: httpx.AsyncClient, text: str) -> List[float]:
