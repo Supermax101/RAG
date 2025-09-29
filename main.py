@@ -68,41 +68,71 @@ async def initialize_tpn_system():
 
 
 async def get_available_ollama_models():
-    """Get list of available Ollama models."""
+    """Get list of available Ollama LLM models (excludes embedding models)."""
     try:
         import httpx
         async with httpx.AsyncClient() as client:
             response = await client.get("http://localhost:11434/api/tags")
             if response.status_code == 200:
                 data = response.json()
-                return [model["name"] for model in data.get("models", [])]
+                all_models = [model["name"] for model in data.get("models", [])]
+                
+                # Filter out embedding-only models
+                embedding_keywords = ["embed", "embedding", "nomic-embed"]
+                llm_models = [
+                    model for model in all_models 
+                    if not any(keyword in model.lower() for keyword in embedding_keywords)
+                ]
+                
+                return llm_models
             else:
                 return []
     except Exception:
         return []
 
 def select_ollama_model(available_models):
-    """Let user select from available Ollama models."""
+    """Let user select from available Ollama LLM models."""
     if not available_models:
-        print("❌ No Ollama models found. Please pull some models first:")
+        print("❌ No Ollama LLM models found. Please pull some models first:")
+        print("   ollama pull phi4:latest")
         print("   ollama pull mistral:7b")
         print("   ollama pull llama3:8b")
-        print("   ollama pull codellama:7b")
         return None
     
-    print(f"\n🤖 Available Ollama Models ({len(available_models)} found):")
+    print(f"\n🤖 Available Ollama LLM Models ({len(available_models)} found):")
     for i, model in enumerate(available_models, 1):
-        model_size = ""
-        if "7b" in model.lower():
-            model_size = " (7B parameters)"
-        elif "8b" in model.lower():
-            model_size = " (8B parameters)"
-        elif "13b" in model.lower():
-            model_size = " (13B parameters)"
-        elif "70b" in model.lower():
-            model_size = " (70B parameters)"
+        # Detect model info
+        model_info = ""
+        
+        # Check for parameter sizes
+        size_patterns = {
+            "120b": "120B parameters",
+            "70b": "70B parameters",
+            "27b": "27B parameters",
+            "14b": "14B parameters",
+            "13b": "13B parameters",
+            "8b": "8B parameters",
+            "7b": "7B parameters",
+            "3b": "3B parameters"
+        }
+        
+        for size, desc in size_patterns.items():
+            if size in model.lower():
+                model_info = f" ({desc})"
+                break
+        
+        # Special handling for phi4 models
+        if "phi4" in model.lower():
+            if "mini" in model.lower():
+                model_info = " (Phi-4 Mini, 14B parameters)"
+            else:
+                model_info = " (Phi-4, 14B parameters)"
+        
+        # Special handling for gpt-oss
+        if "gpt-oss" in model.lower():
+            model_info = " (GPT-OSS, 120B parameters)"
             
-        print(f"  {i}. {model}{model_size}")
+        print(f"  {i}. {model}{model_info}")
     
     while True:
         try:
