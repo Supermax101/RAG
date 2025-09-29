@@ -4,7 +4,8 @@ ChromaDB vector store implementation.
 import uuid
 from typing import List, Dict, Any, Optional
 import chromadb
-from chromadb.config import Settings as ChromaSettings
+from chromadb.config import Settings
+from chromadb.errors import NotFoundError
 from ...core.interfaces.embeddings import VectorStore
 from ...core.models.documents import DocumentChunk
 from ...config.settings import settings
@@ -37,7 +38,7 @@ class ChromaVectorStore(VectorStore):
             # Get or create collection
             try:
                 self.collection = self.client.get_collection(name=self.collection_name)
-            except ValueError:
+            except (NotFoundError, ValueError):  # Catch ChromaDB NotFoundError and ValueError
                 self.collection = self.client.create_collection(
                     name=self.collection_name,
                     metadata={"description": "Document chunks for RAG"}
