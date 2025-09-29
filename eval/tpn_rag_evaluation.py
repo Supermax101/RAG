@@ -558,7 +558,8 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
     
     print(f"\nBenchmark settings:")
     print(f"  - Questions: {actual_question_count} MCQ")
-    print(f"  - Metrics: Accuracy + RAGAS (if available)")
+    print(f"  - RAGAS Status: {'✅ Available' if RAGAS_AVAILABLE else '❌ Not Available (basic metrics only)'}")
+    print(f"  - Metrics: Accuracy, Response Time" + (", RAGAS (faithfulness, relevancy, correctness)" if RAGAS_AVAILABLE else ""))
     print(f"  - System: 4x RTX 4090, 500GB disk")
     
     confirm = input(f"\nProceed with benchmark? (yes/no): ").strip().lower()
@@ -632,7 +633,9 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
         print(f"{prefix} {rank:<4} {model:<35} {accuracy:<12} {correct:<10} {avg_time:<12}")
     
     # RAGAS metrics comparison (if available)
-    if any(r.get("ragas_metrics") for r in all_results):
+    has_ragas_metrics = any(r.get("ragas_metrics") for r in all_results)
+    
+    if has_ragas_metrics:
         print(f"\n{'='*80}")
         print("RAGAS METRICS COMPARISON:")
         print(f"{'='*80}")
@@ -648,6 +651,15 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
                 correctness = f"{ragas.get('answer_correctness', 0):.3f}"
                 
                 print(f"{model:<35} {faithful:<12} {relevancy:<12} {correctness:<12}")
+    else:
+        print(f"\n{'='*80}")
+        print("RAGAS METRICS: Not Available")
+        print(f"{'='*80}")
+        print("RAGAS metrics were not computed for this benchmark.")
+        print("To enable RAGAS:")
+        print("  1. Install: uv pip install ragas datasets langchain-community")
+        print("  2. Ensure Ollama models support RAGAS LLM wrapper")
+        print("  3. Check eval logs for 'WARNING: RAGAS evaluation failed'")
     
     # Save benchmark report
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
