@@ -417,7 +417,7 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                 "question": [r["user_input"] for r in results if r["error"] is None],
                 "answer": [r["response"] for r in results if r["error"] is None],
                 "contexts": [r["retrieved_contexts"] for r in results if r["error"] is None],
-                "ground_truths": [[r["reference"]] for r in results if r["error"] is None]
+                "reference": [r["reference"] for r in results if r["error"] is None]  # RAGAS 0.3.x uses 'reference' not 'ground_truths'
             }
             
             if ragas_data["question"]:
