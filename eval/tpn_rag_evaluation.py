@@ -73,6 +73,12 @@ class TPNRAGEvaluator:
         mcq_df = df[df['Answer Type'] == 'mcq_single'].copy()
         
         print(f"✅ Loaded {len(mcq_df)} MCQ questions (out of {len(df)} total questions)")
+        
+        # Show breakdown of question types
+        question_types = df['Answer Type'].value_counts()
+        print("📊 Question breakdown:")
+        for qtype, count in question_types.items():
+            print(f"   • {qtype}: {count} questions")
         return mcq_df
     
     def create_mcq_prompt(self, question: str, context: str, options: str) -> str:
@@ -352,7 +358,7 @@ async def main():
     # Configuration
     csv_path = "eval/tpn_eval_questions.csv"
     selected_model = "mistral:7b"  # Default model
-    max_questions = 20  # Limit for testing - remove or increase for full evaluation
+    max_questions = 10  # Limit for testing - we have 48 MCQ questions total
     
     # Ask user for model selection
     print(f"🤖 Default model: {selected_model}")

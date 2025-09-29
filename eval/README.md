@@ -12,7 +12,7 @@ This directory contains evaluation tools for the TPN (Total Parenteral Nutrition
 
 The evaluation system:
 
-1. **Loads MCQ Questions**: Filters questions with `Answer Type = "mcq_single"`
+1. **Loads MCQ Questions**: Filters 48 MCQ questions from 101 total questions (`Answer Type = "mcq_single"`)
 2. **Forces Option-Only Responses**: Uses specialized prompts to get only A, B, C, D answers
 3. **Tests TPN Clinical Knowledge**: Evaluates against ASPEN TPN guidelines in the RAG system
 4. **Measures Accuracy**: Compares model answers against correct options
@@ -30,14 +30,14 @@ cd /path/to/your/project
 # Install additional dependencies
 uv pip install ragas pandas
 
-# Run evaluation (limited to 20 questions for testing)
+# Run evaluation (limited to 10 questions for testing)
 uv run python eval/tpn_rag_evaluation.py
 ```
 
 ### Full Evaluation
 
 ```bash
-# Run full evaluation on all MCQ questions
+# Run full evaluation on all 48 MCQ questions
 uv run python eval/tpn_rag_evaluation.py
 # When prompted, enter 'all' for no question limit
 ```
@@ -123,7 +123,10 @@ Limit questions for testing? (default: 20, 'all' for no limit): 10
 🔧 Initializing TPN RAG system with model: mistral:7b
 ✅ RAG system ready: 16998 chunks from 81 documents
 📄 Loading evaluation questions from eval/tpn_eval_questions.csv
-✅ Loaded 285 MCQ questions (out of 381 total questions)
+✅ Loaded 48 MCQ questions (out of 101 total questions)
+📊 Question breakdown:
+   • mcq_single: 48 questions
+   • q_and_a: 53 questions
 📊 Limiting evaluation to first 10 questions
 🧪 Starting evaluation of 10 MCQ questions...
 ------------------------------------------------------------
