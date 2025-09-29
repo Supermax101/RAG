@@ -19,7 +19,7 @@ class DatabaseManager:
     def __init__(self, rag_service: RAGService):
         self.rag_service = rag_service
         self.document_loader = DocumentLoader(rag_service)
-        # self.medical_workflow = TPNReasoningWorkflow(rag_service)  # Temporarily disabled for chunking focus
+        self.medical_workflow = TPNReasoningWorkflow(rag_service)  # Re-enabled with modern LangChain integration
     
     async def reset_and_reload_enhanced(self, confirm: bool = False) -> Dict[str, Any]:
         """Reset ChromaDB and reload with enhanced chunking strategies."""
