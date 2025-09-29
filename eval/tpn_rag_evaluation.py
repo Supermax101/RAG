@@ -33,12 +33,12 @@ try:
         context_precision,
         context_recall,
     )
-    from ragas.llms import LangchainLLM
-    from langchain_core.language_models.llms import LLM
     from datasets import Dataset
+    # RAGAS 0.3.x uses LangChain LLMs directly, no LangchainLLM wrapper needed
+    from langchain_core.language_models.llms import LLM
     RAGAS_AVAILABLE = True
-except ImportError:
-    print("WARNING: RAGAS not fully available, continuing with basic metrics only")
+except ImportError as e:
+    print(f"WARNING: RAGAS not fully available ({e}), continuing with basic metrics only")
     RAGAS_AVAILABLE = False
     LLM = None  # Define as None so class definition doesn't fail
 
