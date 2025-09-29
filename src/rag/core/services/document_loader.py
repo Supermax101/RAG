@@ -59,23 +59,29 @@ class DocumentLoader:
         failed_count = 0
         total_chunks = 0
         
-        for doc_dir in doc_dirs:
+        for i, doc_dir in enumerate(doc_dirs, 1):
             try:
+                print(f"📄 Processing document {i}/{len(doc_dirs)}: {doc_dir.name}")
+                
                 # Load document chunks
                 chunks = await self._load_document_chunks(doc_dir)
                 
                 if chunks:
                     doc_name = doc_dir.name
+                    print(f"🔄 Adding {len(chunks)} chunks to ChromaDB...")
                     await self.rag_service.add_document_chunks(chunks, doc_name)
                     loaded_count += 1
                     total_chunks += len(chunks)
                     print(f"✅ Loaded {len(chunks)} chunks from {doc_name}")
+                    print(f"📊 Progress: {i}/{len(doc_dirs)} docs, {total_chunks} total chunks")
                 else:
                     print(f"⚠️  No chunks found in {doc_dir.name}")
                     
             except Exception as e:
                 failed_count += 1
                 print(f"❌ Failed to load {doc_dir.name}: {e}")
+                import traceback
+                print(f"Error details: {traceback.format_exc()}")
         
         result = {
             "loaded": loaded_count,

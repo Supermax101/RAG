@@ -215,13 +215,27 @@ ANSWER:"""
         chunks: List[DocumentChunk],
         doc_name: str
     ) -> None:
-        """Add new document chunks to the vector store."""
-        # Generate embeddings for all chunks
-        texts = [chunk.content for chunk in chunks]
-        embeddings = await self.embedding_provider.embed_texts(texts)
+        """Add new document chunks to the vector store with batch processing."""
+        if not chunks:
+            return
         
-        # Add to vector store
-        await self.vector_store.add_chunks(chunks, embeddings, doc_name)
+        # Process in batches to avoid memory issues
+        batch_size = 50  # Process 50 chunks at a time
+        
+        print(f"🔄 Processing {len(chunks)} chunks in batches of {batch_size}...")
+        
+        for i in range(0, len(chunks), batch_size):
+            batch_chunks = chunks[i:i + batch_size]
+            batch_texts = [chunk.content for chunk in batch_chunks]
+            
+            # Generate embeddings for batch
+            print(f"  📊 Generating embeddings for batch {i//batch_size + 1}/{(len(chunks)-1)//batch_size + 1}")
+            batch_embeddings = await self.embedding_provider.embed_texts(batch_texts)
+            
+            # Add batch to vector store
+            await self.vector_store.add_chunks(batch_chunks, batch_embeddings, doc_name)
+            
+        print(f"✅ Successfully processed all {len(chunks)} chunks")
     
     async def remove_document(self, doc_id: str) -> None:
         """Remove a document from the vector store."""
