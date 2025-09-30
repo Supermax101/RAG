@@ -25,6 +25,11 @@ class OllamaLLMProvider(LLMProvider):
         """Generate text response using Ollama."""
         model_name = model or self.default_model
         
+        # Increase max_tokens for thinking models (GPT-OSS, DeepSeek, etc.)
+        # These models need more tokens for reasoning + answer
+        if "gpt-oss" in model_name.lower() or "deepseek" in model_name.lower():
+            max_tokens = max(max_tokens, 1000)  # At least 1000 tokens for thinking models
+        
         async with httpx.AsyncClient(timeout=60.0) as client:
             try:
                 response = await client.post(
@@ -37,7 +42,8 @@ class OllamaLLMProvider(LLMProvider):
                             "num_predict": max_tokens,
                             "temperature": temperature,
                             "top_p": 0.9,
-                            "repeat_penalty": 1.1
+                            "repeat_penalty": 1.1,
+                            "num_ctx": 8192  # Increased context window for thinking models
                         }
                     }
                 )
@@ -45,16 +51,36 @@ class OllamaLLMProvider(LLMProvider):
                 result = response.json()
                 
                 generated_text = result.get("response", "").strip()
+                
+                # Handle thinking models (GPT-OSS, DeepSeek, etc.)
+                # These models put reasoning in 'thinking' field and answer in 'response'
+                # When they hit token limits, answer might be in 'thinking' only
                 if not generated_text:
-                    # Log details for debugging empty responses
-                    print(f"\n[DEBUG] Empty response from Ollama")
-                    print(f"[DEBUG] Model: {model_name}")
-                    print(f"[DEBUG] Prompt length: {len(prompt)} chars")
-                    print(f"[DEBUG] Prompt (first 200 chars): {prompt[:200]}")
-                    print(f"[DEBUG] Result keys: {result.keys()}")
-                    print(f"[DEBUG] Done reason: {result.get('done_reason', 'N/A')}")
-                    print(f"[DEBUG] Eval count: {result.get('eval_count', 'N/A')}")
-                    raise RuntimeError("Empty response from Ollama")
+                    thinking_text = result.get("thinking", "").strip()
+                    
+                    if thinking_text:
+                        # Thinking model hit token limit - try to extract answer from thinking
+                        print(f"[INFO] Thinking model response in 'thinking' field (done_reason: {result.get('done_reason')})")
+                        
+                        # Try to extract JSON or final answer from thinking
+                        # Look for JSON patterns first
+                        import re
+                        json_match = re.search(r'\{[^}]*"answer"\s*:\s*"([^"]+)"[^}]*\}', thinking_text)
+                        if json_match:
+                            generated_text = thinking_text  # Use full thinking as response
+                        else:
+                            # Use the thinking text as the response
+                            generated_text = thinking_text
+                    else:
+                        # Truly empty response - debug and raise error
+                        print(f"\n[DEBUG] Empty response from Ollama")
+                        print(f"[DEBUG] Model: {model_name}")
+                        print(f"[DEBUG] Prompt length: {len(prompt)} chars")
+                        print(f"[DEBUG] Prompt (first 200 chars): {prompt[:200]}")
+                        print(f"[DEBUG] Result keys: {result.keys()}")
+                        print(f"[DEBUG] Done reason: {result.get('done_reason', 'N/A')}")
+                        print(f"[DEBUG] Eval count: {result.get('eval_count', 'N/A')}")
+                        raise RuntimeError("Empty response from Ollama")
                 
                 return generated_text
                 
