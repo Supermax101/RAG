@@ -18,7 +18,7 @@ class HybridRAGService(RAGService):
         llm_provider,
         neo4j_uri="bolt://localhost:7687",
         neo4j_user="neo4j",
-        neo4j_password="yourpassword"
+        neo4j_password="medicalpass123"
     ):
         super().__init__(embedding_provider, vector_store, llm_provider)
         

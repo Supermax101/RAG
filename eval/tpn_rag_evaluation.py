@@ -16,7 +16,7 @@ sys.path.insert(0, str(project_root))
 from src.rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingProvider
 from src.rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
-from src.rag.core.services.rag_service import RAGService
+from src.rag.core.services.hybrid_rag_service import HybridRAGService
 from src.rag.core.models.documents import SearchQuery
 
 # LangChain imports for structured output (Pydantic v2)
@@ -177,13 +177,27 @@ class TPNRAGEvaluator:
         if not await llm_provider.check_health():
             raise RuntimeError("Ollama is not running. Please start Ollama service.")
         
-        self.rag_service = RAGService(embedding_provider, vector_store, llm_provider)
+        # Use HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
+        self.rag_service = HybridRAGService(
+            embedding_provider=embedding_provider, 
+            vector_store=vector_store, 
+            llm_provider=llm_provider,
+            neo4j_uri="bolt://localhost:7687",
+            neo4j_user="neo4j", 
+            neo4j_password="medicalpass123"
+        )
         
         stats = await self.rag_service.get_collection_stats()
         if stats["total_chunks"] == 0:
             raise RuntimeError("No TPN documents found. Please run 'uv run python main.py init' first.")
         
         print(f"RAG system ready: {stats['total_chunks']} chunks from {stats['total_documents']} documents")
+    
+    def cleanup(self):
+        """Clean up resources including Neo4j connections."""
+        if self.rag_service and hasattr(self.rag_service, 'close'):
+            self.rag_service.close()
+            print("🔌 Neo4j connection closed")
     
     def load_mcq_questions(self) -> pd.DataFrame:
         """Load MCQ questions from CSV file."""
@@ -821,6 +835,7 @@ async def main():
     if max_questions_input and max_questions_input.lower() != 'all' and max_questions_input.isdigit():
         max_questions = int(max_questions_input)
     
+    evaluator = None
     try:
         evaluator = TPNRAGEvaluator(csv_path, selected_model)
         await evaluator.run_evaluation(max_questions)
@@ -830,6 +845,10 @@ async def main():
         print(f"\nAn unexpected error occurred: {e}")
         import traceback
         traceback.print_exc()
+    finally:
+        # Clean up Neo4j connections
+        if evaluator:
+            evaluator.cleanup()
 
 
 if __name__ == "__main__":

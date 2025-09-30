@@ -11,6 +11,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
 from rag.core.services.rag_service import RAGService
+from rag.core.services.hybrid_rag_service import HybridRAGService
 from rag.core.services.document_loader import DocumentLoader
 from rag.core.services.database_manager import DatabaseManager
 from rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingProvider
@@ -42,8 +43,15 @@ async def initialize_tpn_system():
         print("   ollama pull mistral:7b")
         return False
     
-    # Create TPN-specialized RAG service
-    rag_service = RAGService(embedding_provider, vector_store, llm_provider)
+    # Create TPN-specialized HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
+    rag_service = HybridRAGService(
+        embedding_provider=embedding_provider, 
+        vector_store=vector_store, 
+        llm_provider=llm_provider,
+        neo4j_uri="bolt://localhost:7687",
+        neo4j_user="neo4j", 
+        neo4j_password="medicalpass123"
+    )
     
     # Check if we need to load TPN documents with enhanced processing
     stats = await rag_service.get_collection_stats()
@@ -155,7 +163,7 @@ async def run_tpn_specialist_demo():
     from rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingProvider
     from rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
     from rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
-    from rag.core.services.rag_service import RAGService
+    from rag.core.services.hybrid_rag_service import HybridRAGService
     
     print("🔍 Checking available Ollama models...")
     available_models = await get_available_ollama_models()
@@ -178,8 +186,15 @@ async def run_tpn_specialist_demo():
     vector_store = ChromaVectorStore()
     llm_provider = OllamaLLMProvider(default_model=selected_model)
     
-    # Create RAG service with selected model
-    rag_service = RAGService(embedding_provider, vector_store, llm_provider)
+    # Create HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)  
+    rag_service = HybridRAGService(
+        embedding_provider=embedding_provider, 
+        vector_store=vector_store, 
+        llm_provider=llm_provider,
+        neo4j_uri="bolt://localhost:7687",
+        neo4j_user="neo4j", 
+        neo4j_password="medicalpass123"
+    )
     
     print(f"\n🏥 TPN Clinical Specialist - Interactive Demo (Using {selected_model})")
     print("=" * 60)
@@ -231,6 +246,11 @@ async def run_tpn_specialist_demo():
         except Exception as e:
             print(f"❌ TPN System Error: {e}")
             print("Please try rephrasing your TPN question.")
+    
+    # Close Neo4j connection
+    if hasattr(rag_service, 'close'):
+        rag_service.close()
+        print("🔌 Neo4j connection closed")
 
 
 async def start_api_server():
