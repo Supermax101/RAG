@@ -86,16 +86,19 @@ class BaselineModelEvaluator:
         return mcq_df
     
     def create_baseline_prompt(self, question: str, options: str, case_context: str = "") -> str:
-        """Create a direct prompt without any RAG context - pure model knowledge test."""
+        """Create a direct prompt without any RAG context - simple and clear."""
         
-        prompt = f"""You are a medical expert specializing in Total Parenteral Nutrition (TPN) and clinical nutrition support. Answer the following multiple choice question based on your medical knowledge.
+        prompt = """You are a medical expert in Total Parenteral Nutrition (TPN) answering MCQ (Multiple Choice Questions).
 
-You must respond in valid JSON format:
-{{"answer": "X", "confidence": "medium"}}
+Answer the MCQ question. Respond in JSON format:
+{"answer": "A", "confidence": "high"}
 
-Where:
-- "answer" is a single letter (A, B, C, D, E, or F)
-- "confidence" is one of: "low", "medium", "high"
+Where answer can be:
+- A single letter (A-F) for single answers
+- Comma-separated letters (A,B,C) for multiple correct answers
+- Special text like "All of the above" or "None" when appropriate
+
+Confidence is low/medium/high.
 
 """
         
@@ -108,7 +111,7 @@ Where:
 OPTIONS:
 {options}
 
-Based on your medical knowledge of TPN and clinical nutrition, provide your answer in JSON format:"""
+Select the correct answer(s). Most questions have one answer, but some may have multiple."""
         
         return prompt
     
@@ -174,16 +177,35 @@ Based on your medical knowledge of TPN and clinical nutrition, provide your answ
                     model_answer = response_json.get("answer", "UNKNOWN")
                     confidence = response_json.get("confidence", "low")
                 else:
-                    # Fallback: extract letter from raw text
+                    # Fallback: extract letter from raw text with frequency analysis
                     letters = re.findall(r'\b([A-F])\b', cleaned_response.upper())
                     if letters:
-                        model_answer = letters[0]
+                        from collections import Counter
+                        letter_counts = Counter(letters)
+                        
+                        # If only one unique letter, use it
+                        if len(letter_counts) == 1:
+                            model_answer = letters[0]
+                        # If multiple different letters (malformed output), use most frequent
+                        elif len(letter_counts) > 1:
+                            most_common = letter_counts.most_common(1)[0][0]
+                            print(f"  Warning: Multiple letters found {dict(letter_counts)}, using most frequent: {most_common}")
+                            model_answer = most_common
+                        else:
+                            model_answer = letters[0]
             except (json.JSONDecodeError, KeyError):
                 # Last resort: simple regex on cleaned response
                 cleaned_response = re.sub(r'<think>.*?</think>', '', raw_response, flags=re.DOTALL | re.IGNORECASE)
                 letters = re.findall(r'\b([A-F])\b', cleaned_response.upper())
                 if letters:
-                    model_answer = letters[0]
+                    from collections import Counter
+                    letter_counts = Counter(letters)
+                    if len(letter_counts) == 1:
+                        model_answer = letters[0]
+                    elif len(letter_counts) > 1:
+                        model_answer = letter_counts.most_common(1)[0][0]
+                    else:
+                        model_answer = letters[0]
             
             # Normalize answers for comparison
             correct_normalized = self.normalize_answer(correct_option)

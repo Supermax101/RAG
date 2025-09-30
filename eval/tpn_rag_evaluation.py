@@ -253,19 +253,18 @@ class TPNRAGEvaluator:
             examples=self.few_shot_examples,
         )
         
-        # Final prompt template
+        # Final prompt template - simple and clear
         final_prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are a TPN (Total Parenteral Nutrition) clinical specialist. 
-Answer multiple choice questions based ONLY on the provided clinical guidelines.
+            ("system", """You are a TPN (Total Parenteral Nutrition) clinical specialist answering MCQ (Multiple Choice Questions).
 
-Your response MUST be in JSON format:
+Answer based on the provided clinical guidelines.
+
+Output format:
 {format_instructions}
 
-Always provide a single letter answer (A-F) with your confidence level."""),
+Select the correct answer(s) from the given options. Most questions have ONE correct answer, but some may have multiple correct answers or special answers like "All of the above" or "None"."""),
             few_shot_prompt,
-            ("human", """Based on the following TPN clinical guidelines, answer the question.
-
-CLINICAL GUIDELINES:
+            ("human", """CLINICAL GUIDELINES:
 {context}
 
 {case_context}
@@ -275,7 +274,7 @@ QUESTION: {question}
 OPTIONS:
 {options}
 
-Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confidence' fields.""")
+Provide your answer in JSON format. Use a single letter for single answers (e.g., "A"), comma-separated letters for multiple answers (e.g., "A,B,C"), or special text like "All of the above" or "None" when appropriate.""")
         ])
         
         return final_prompt
@@ -379,10 +378,23 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                     elif "NONE OF THE ABOVE" in model_answer_raw or model_answer_raw.strip() == "NONE":
                         model_answer_raw = "NONE"
                     else:
-                        # Try to extract multiple letters (e.g., "A and D" or "A, D")
+                        # Try to extract letters from malformed output
                         letter_matches = re.findall(r'\b([A-F])\b', model_answer_raw)
                         if letter_matches:
-                            model_answer_raw = ",".join(letter_matches)
+                            # If we got multiple letters (e.g., "A,A,A,B,B,B"), use frequency analysis
+                            from collections import Counter
+                            letter_counts = Counter(letter_matches)
+                            
+                            # If only one unique letter, use it
+                            if len(letter_counts) == 1:
+                                model_answer_raw = letter_matches[0]
+                            # If multiple different letters, take the most frequent one
+                            elif len(letter_counts) > 1:
+                                most_common = letter_counts.most_common(1)[0][0]
+                                print(f"  Warning: Multiple letters found {dict(letter_counts)}, using most frequent: {most_common}")
+                                model_answer_raw = most_common
+                            else:
+                                model_answer_raw = letter_matches[0]  # Fallback to first
                         else:
                             model_answer_raw = "PARSE_ERROR"
             
