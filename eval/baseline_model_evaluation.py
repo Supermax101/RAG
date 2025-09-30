@@ -99,7 +99,8 @@ Where:
 
 """
         
-        if case_context.strip():
+        # Handle case context (could be NaN/float from pandas)
+        if case_context and isinstance(case_context, str) and case_context.strip():
             prompt += f"CLINICAL CASE:\n{case_context}\n\n"
         
         prompt += f"""QUESTION: {question}
@@ -222,14 +223,15 @@ Based on your medical knowledge of TPN and clinical nutrition, provide your answ
         print(f"   Questions: {max_questions or len(self.questions_df)}")
         print("=" * 60)
         
-        # Check if Ollama model is available
-        try:
-            available_models = await get_available_ollama_models()
-            if self.selected_model not in available_models:
-                print(f"WARNING: Model '{self.selected_model}' not found in available models")
-                print(f"Available models: {available_models}")
-        except Exception as e:
-            print(f"WARNING: Could not check available models: {e}")
+        # Check if model is available (only for Ollama)
+        if self.provider == "ollama":
+            try:
+                available_models = await get_available_ollama_models()
+                if self.selected_model not in available_models:
+                    print(f"WARNING: Model '{self.selected_model}' not found in available Ollama models")
+                    print(f"Available models: {available_models}")
+            except Exception as e:
+                print(f"WARNING: Could not check available models: {e}")
         
         start_time = time.time()
         
@@ -237,12 +239,17 @@ Based on your medical knowledge of TPN and clinical nutrition, provide your answ
         questions_to_process = self.questions_df.head(max_questions) if max_questions else self.questions_df
         
         for idx, row in questions_to_process.iterrows():
+            # Handle case context - pandas can return NaN as float
+            case_context = row.get('Case Context if available', '')
+            if not isinstance(case_context, str):
+                case_context = ''
+            
             result = await self.evaluate_single_question(
                 question_id=str(row['ID']),
                 question=row['Question'],
                 options=row['Options'],
                 correct_option=row['Corrrect Option (s)'],
-                case_context=row.get('Case Context if available', '') or ''
+                case_context=case_context
             )
             self.results.append(result)
             
