@@ -65,12 +65,10 @@ class OpenAILLMProvider(LLMProvider):
             # Get models from OpenAI API
             models_response = await self.client.models.list()
             
-            # Filter for chat completion models (gpt-* only, exclude embeddings/vision/etc)
+            # Filter for ONLY GPT-4o (most capable and accessible model)
             chat_models = [
                 model.id for model in models_response.data
-                if "gpt" in model.id.lower() and not any(
-                    x in model.id.lower() for x in ["vision", "realtime", "embedding", "whisper", "tts", "dall-e"]
-                )
+                if model.id == "gpt-4o"
             ]
             
             self._available_models = sorted(chat_models)

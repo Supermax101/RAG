@@ -415,7 +415,8 @@ async def get_available_openai_models():
         provider = OpenAILLMProvider()
         models = await provider.available_models
         return models
-    except Exception:
+    except Exception as e:
+        print(f"Warning: Could not fetch OpenAI models: {e}")
         return []
 
 
