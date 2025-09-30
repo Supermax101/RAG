@@ -24,22 +24,30 @@ from langchain_core.prompts import ChatPromptTemplate, FewShotChatMessagePromptT
 from langchain_core.output_parsers import JsonOutputParser
 
 # RAGAS imports (optional for advanced metrics)
+# TEMPORARILY DISABLED: RAGAS requires instruction-following models (OpenAI, Claude, Gemini)
+# Local LLMs (Ollama) produce unreliable metrics due to poor JSON output formatting
+# To re-enable: Change RAGAS_AVAILABLE = True and ensure OpenAI API key is set
+RAGAS_AVAILABLE = False  # Explicitly disabled for Ollama-based evaluation
+
 try:
-    from ragas import evaluate
-    from ragas.metrics import (
-        answer_correctness,
-        faithfulness,
-        answer_relevancy,
-        context_precision,
-        context_recall,
-    )
-    from ragas.llms import LangchainLLMWrapper  # RAGAS 0.3.x wrapper for LangChain LLMs
-    from ragas.embeddings import LangchainEmbeddingsWrapper  # RAGAS 0.3.x wrapper for embeddings
-    from datasets import Dataset
-    # LangChain LLM and Embeddings bases
-    from langchain_core.language_models.llms import LLM
-    from langchain_core.embeddings import Embeddings
-    RAGAS_AVAILABLE = True
+    if RAGAS_AVAILABLE:  # Only import if enabled
+        from ragas import evaluate
+        from ragas.metrics import (
+            answer_correctness,
+            faithfulness,
+            answer_relevancy,
+            context_precision,
+            context_recall,
+        )
+        from ragas.llms import LangchainLLMWrapper  # RAGAS 0.3.x wrapper for LangChain LLMs
+        from ragas.embeddings import LangchainEmbeddingsWrapper  # RAGAS 0.3.x wrapper for embeddings
+        from datasets import Dataset
+        # LangChain LLM and Embeddings bases
+        from langchain_core.language_models.llms import LLM
+        from langchain_core.embeddings import Embeddings
+    else:
+        LLM = None
+        Embeddings = None
 except ImportError as e:
     print(f"WARNING: RAGAS not fully available ({e}), continuing with basic metrics only")
     RAGAS_AVAILABLE = False
