@@ -345,7 +345,8 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
             model_response = await self.rag_service.llm_provider.generate(
                 prompt=prompt_str,
                 temperature=0.0,
-                max_tokens=2000
+                max_tokens=2000,
+                seed=42  # Fixed seed for reproducibility
             )
             
             # STEP 5: Parse structured output

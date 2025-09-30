@@ -20,7 +20,8 @@ class OllamaLLMProvider(LLMProvider):
         prompt: str,
         model: Optional[str] = None,
         temperature: float = 0.1,
-        max_tokens: int = 500
+        max_tokens: int = 500,
+        seed: Optional[int] = None
     ) -> str:
         """Generate text response using Ollama."""
         model_name = model or self.default_model
@@ -32,19 +33,25 @@ class OllamaLLMProvider(LLMProvider):
         
         async with httpx.AsyncClient(timeout=60.0) as client:
             try:
+                options = {
+                    "num_predict": max_tokens,
+                    "temperature": temperature,
+                    "top_p": 0.9,
+                    "repeat_penalty": 1.1,
+                    "num_ctx": 8192  # Increased context window for thinking models
+                }
+                
+                # Add seed for reproducibility if provided
+                if seed is not None:
+                    options["seed"] = seed
+                
                 response = await client.post(
                     f"{self.base_url}/api/generate",
                     json={
                         "model": model_name,
                         "prompt": prompt,
                         "stream": False,
-                        "options": {
-                            "num_predict": max_tokens,
-                            "temperature": temperature,
-                            "top_p": 0.9,
-                            "repeat_penalty": 1.1,
-                            "num_ctx": 8192  # Increased context window for thinking models
-                        }
+                        "options": options
                     }
                 )
                 response.raise_for_status()

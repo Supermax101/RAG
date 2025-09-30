@@ -38,21 +38,26 @@ class XAILLMProvider(LLMProvider):
         prompt: str,
         model: Optional[str] = None,
         temperature: float = 0.1,
-        max_tokens: int = 500
+        max_tokens: int = 500,
+        seed: Optional[int] = None
     ) -> str:
         """Generate text response using xAI."""
         model_name = model or self.default_model
         
         try:
-            response = await self.client.chat.completions.create(
-                model=model_name,
-                messages=[
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=temperature,
-                max_tokens=max_tokens,
-                timeout=60.0
-            )
+            kwargs = {
+                "model": model_name,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": temperature,
+                "max_tokens": max_tokens,
+                "timeout": 60.0
+            }
+            
+            # Add seed for reproducibility if provided
+            if seed is not None:
+                kwargs["seed"] = seed
+            
+            response = await self.client.chat.completions.create(**kwargs)
             
             return response.choices[0].message.content.strip()
             

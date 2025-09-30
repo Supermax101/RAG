@@ -151,8 +151,9 @@ Based on your medical knowledge of TPN and clinical nutrition, provide your answ
             raw_response = await self.llm_provider.generate(
                 prompt=prompt,
                 model=self.selected_model,
-                temperature=0.1,  # Low temperature for consistent medical answers
-                max_tokens=2000   # Extra space to ensure reasoning completes before answer
+                temperature=0.0,  # Zero temperature for deterministic answers
+                max_tokens=2000,  # Extra space to ensure reasoning completes before answer
+                seed=42  # Fixed seed for reproducibility
             )
             
             response_time_ms = (time.time() - start_time) * 1000
