@@ -341,10 +341,11 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
             prompt_str = "\n\n".join([msg.content for msg in formatted_prompt])
             
             # STEP 4: Generate with structured output
+            # Increased max_tokens for reasoning models (Grok, DeepSeek) that need space for <think> tags
             model_response = await self.rag_service.llm_provider.generate(
                 prompt=prompt_str,
                 temperature=0.0,
-                max_tokens=100
+                max_tokens=2000
             )
             
             # STEP 5: Parse structured output
@@ -358,10 +359,18 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                 model_answer_raw = model_response.strip().upper()
                 confidence = "unknown"
                 
-                # Try to find JSON in response
-                json_match = re.search(r'\{[^}]*"answer"\s*:\s*"([A-F])"[^}]*\}', model_response, re.IGNORECASE)
+                # Remove reasoning tags first (for reasoning models like Grok, DeepSeek)
+                cleaned_response = re.sub(r'<think>.*?</think>', '', model_response, flags=re.DOTALL | re.IGNORECASE)
+                cleaned_response = re.sub(r'<thinking>.*?</thinking>', '', cleaned_response, flags=re.DOTALL | re.IGNORECASE)
+                
+                # Try to find JSON in cleaned response
+                json_match = re.search(r'\{[^}]*"answer"\s*:\s*"([A-F])"[^}]*\}', cleaned_response, re.IGNORECASE)
                 if json_match:
                     model_answer_raw = json_match.group(1).upper()
+                    # Try to extract confidence too
+                    conf_match = re.search(r'"confidence"\s*:\s*"(\w+)"', cleaned_response, re.IGNORECASE)
+                    if conf_match:
+                        confidence = conf_match.group(1).lower()
                 else:
                     # Check for "All of the above" or "None" text responses
                     if "ALL OF THE ABOVE" in model_answer_raw:

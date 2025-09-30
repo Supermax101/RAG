@@ -147,11 +147,12 @@ Based on your medical knowledge of TPN and clinical nutrition, provide your answ
             prompt = self.create_baseline_prompt(question, options, case_context)
             
             # Get direct model response
+            # Increased max_tokens for reasoning models (Grok, DeepSeek) that use <think> tags
             raw_response = await self.llm_provider.generate(
                 prompt=prompt,
                 model=self.selected_model,
                 temperature=0.1,  # Low temperature for consistent medical answers
-                max_tokens=200    # Short response needed
+                max_tokens=2000   # Extra space to ensure reasoning completes before answer
             )
             
             response_time_ms = (time.time() - start_time) * 1000
@@ -161,20 +162,25 @@ Based on your medical knowledge of TPN and clinical nutrition, provide your answ
             confidence = "low"
             
             try:
-                # Try to extract JSON
-                json_match = re.search(r'\{[^}]*\}', raw_response)
+                # Remove reasoning tags first (for reasoning models like Grok, DeepSeek)
+                cleaned_response = re.sub(r'<think>.*?</think>', '', raw_response, flags=re.DOTALL | re.IGNORECASE)
+                cleaned_response = re.sub(r'<thinking>.*?</thinking>', '', cleaned_response, flags=re.DOTALL | re.IGNORECASE)
+                
+                # Try to extract JSON from cleaned response
+                json_match = re.search(r'\{[^}]*\}', cleaned_response)
                 if json_match:
                     response_json = json.loads(json_match.group())
                     model_answer = response_json.get("answer", "UNKNOWN")
                     confidence = response_json.get("confidence", "low")
                 else:
                     # Fallback: extract letter from raw text
-                    letters = re.findall(r'\b([A-F])\b', raw_response.upper())
+                    letters = re.findall(r'\b([A-F])\b', cleaned_response.upper())
                     if letters:
                         model_answer = letters[0]
             except (json.JSONDecodeError, KeyError):
-                # Last resort: simple regex
-                letters = re.findall(r'\b([A-F])\b', raw_response.upper())
+                # Last resort: simple regex on cleaned response
+                cleaned_response = re.sub(r'<think>.*?</think>', '', raw_response, flags=re.DOTALL | re.IGNORECASE)
+                letters = re.findall(r'\b([A-F])\b', cleaned_response.upper())
                 if letters:
                     model_answer = letters[0]
             
