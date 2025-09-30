@@ -105,9 +105,10 @@ class AutoNeo4jKGBuilder:
             constraints = [
                 "CREATE CONSTRAINT clinical_section_id IF NOT EXISTS FOR (cs:ClinicalSection) REQUIRE cs.id IS UNIQUE",
                 "CREATE CONSTRAINT clinical_table_id IF NOT EXISTS FOR (ct:ClinicalTable) REQUIRE ct.id IS UNIQUE",
-                "CREATE INDEX section_content_index IF NOT EXISTS FOR (cs:ClinicalSection) ON (cs.content)",
+                # Removed content index - causes issues with large medical text sections
                 "CREATE INDEX section_type_index IF NOT EXISTS FOR (cs:ClinicalSection) ON (cs.section_type)",
-                "CREATE INDEX section_name_index IF NOT EXISTS FOR (cs:ClinicalSection) ON (cs.name)"
+                "CREATE INDEX section_name_index IF NOT EXISTS FOR (cs:ClinicalSection) ON (cs.name)",
+                "CREATE INDEX section_doc_name_index IF NOT EXISTS FOR (cs:ClinicalSection) ON (cs.doc_name)"
             ]
             
             for constraint in constraints:
@@ -244,7 +245,7 @@ class AutoNeo4jKGBuilder:
                 if len(section_content) > 100:  # Only substantial sections
                     sections.append({
                         'name': section_name or f"{doc_name} Section {i}",
-                        'content': section_content[:8000],  # Limit for Neo4j
+                        'content': section_content[:5000],  # Safe limit for Neo4j (reduced from 8000)
                         'section_type': 'clinical',
                         'doc_name': doc_name
                     })
@@ -253,7 +254,7 @@ class AutoNeo4jKGBuilder:
         if not sections:
             sections.append({
                 'name': doc_name,
-                'content': content[:8000],
+                'content': content[:5000],  # Safe limit for Neo4j (reduced from 8000)
                 'section_type': 'document',
                 'doc_name': doc_name
             })
