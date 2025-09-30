@@ -16,10 +16,9 @@ from neo4j import GraphDatabase
 class AutoNeo4jKGBuilder:
     """Advanced Neo4j builder using automatic relationship detection"""
     
-    def __init__(self, uri="bolt://localhost:7687", user="neo4j", password="password"):
+    def __init__(self, uri="bolt://localhost:7687", user="neo4j", password="medicalpass123"):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
-        self.doc_path = Path("data/parsed/1. ASPEN Fluids and electrolytes/1. ASPEN Fluids and electrolytes.md")
-        self.index_path = Path("data/parsed/1. ASPEN Fluids and electrolytes/1_aspen_fluids_and_electrolytes__5dab52.index.json")
+        self.parsed_dir = Path("data/parsed")  # Process ALL documents
         
     def setup_neo4j_extensions(self):
         """Install and configure Neo4j extensions for auto capabilities"""
@@ -119,43 +118,69 @@ class AutoNeo4jKGBuilder:
                         print(f"⚠️ Constraint/Index warning: {e}")
     
     def load_clinical_data(self):
-        """Load clinical sections from the ASPEN document"""
-        print("📖 Loading ASPEN clinical data...")
+        """Load clinical sections from ALL 52 medical documents"""
+        print("📖 Loading ALL medical documents...")
         
-        # Read the markdown content
-        with open(self.doc_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+        doc_dirs = [d for d in self.parsed_dir.iterdir() if d.is_dir()]
+        print(f"📁 Found {len(doc_dirs)} documents to process")
         
-        # Read the index for section structure
-        with open(self.index_path, 'r', encoding='utf-8') as f:
-            index_data = json.load(f)
+        total_sections = 0
+        processed_docs = 0
         
-        sections = self.extract_clinical_sections(content, index_data)
+        for doc_dir in doc_dirs:
+            doc_name = doc_dir.name
+            print(f"📄 Processing: {doc_name}")
+            
+            # Find markdown file in the directory
+            md_files = list(doc_dir.glob("*.md"))
+            if not md_files:
+                print(f"   ⚠️  No .md file found in {doc_name}")
+                continue
+            
+            md_file = md_files[0]
+            
+            try:
+                # Read markdown content
+                with open(md_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                # Extract sections from this document (using simplified method)
+                sections = self.extract_clinical_sections_simple(content, doc_name)
+                
+                # Add sections to Neo4j
+                with self.driver.session() as session:
+                    for i, section in enumerate(sections):
+                        session.run("""
+                            CREATE (cs:ClinicalSection {
+                                id: $id,
+                                name: $name,
+                                section_type: $section_type,
+                                content: $content,
+                                content_length: $content_length,
+                                doc_source: $doc_source,
+                                doc_name: $doc_name,
+                                order_index: $order_index
+                            })
+                        """, 
+                        id=f"{doc_name.replace(' ', '_')}_section_{i}",
+                        name=section['name'],
+                        section_type=section.get('section_type', 'clinical'),
+                        content=section['content'],
+                        content_length=len(section['content']),
+                        doc_source=doc_name,
+                        doc_name=doc_name,
+                        order_index=i
+                        )
+                
+                processed_docs += 1
+                total_sections += len(sections)
+                print(f"   ✅ {len(sections)} sections added")
+                
+            except Exception as e:
+                print(f"   ❌ Error processing {doc_name}: {e}")
         
-        with self.driver.session() as session:
-            for i, section in enumerate(sections):
-                session.run("""
-                    CREATE (cs:ClinicalSection {
-                        id: $id,
-                        name: $name,
-                        section_type: $section_type,
-                        content: $content,
-                        content_length: $content_length,
-                        doc_source: $doc_source,
-                        order_index: $order_index
-                    })
-                """, 
-                id=f"section_{i}",
-                name=section['name'],
-                section_type=section['section_type'],
-                content=section['content'],
-                content_length=len(section['content']),
-                doc_source='aspen_fluids_electrolytes',
-                order_index=i
-                )
-        
-        print(f"✅ Loaded {len(sections)} clinical sections")
-        return len(sections)
+        print(f"✅ Loaded {total_sections} clinical sections from {processed_docs} documents")
+        return total_sections
     
     def extract_clinical_sections(self, content: str, index_data: dict) -> List[Dict]:
         """Extract all clinical sections with smart classification"""
@@ -194,6 +219,44 @@ class AutoNeo4jKGBuilder:
                     'content': section_content,
                     'section_type': self.classify_section_smart(current_section, section_content)
                 })
+        
+        return sections
+    
+    def extract_clinical_sections_simple(self, content: str, doc_name: str) -> List[Dict]:
+        """Simple section extraction for all documents (fallback method)"""
+        sections = []
+        
+        # Split by headers
+        import re
+        header_parts = re.split(r'\n#{1,4}\s+', content)
+        
+        for i, part in enumerate(header_parts):
+            if part.strip() and len(part.strip()) > 100:  # Only meaningful content
+                lines = part.strip().split('\n')
+                
+                # Clean section name
+                section_name = lines[0].strip()[:200] if lines else f"Section {i}"
+                section_name = re.sub(r'[^\w\s\-\.]', '', section_name)
+                
+                # Get full content
+                section_content = '\n'.join(lines).strip()
+                
+                if len(section_content) > 100:  # Only substantial sections
+                    sections.append({
+                        'name': section_name or f"{doc_name} Section {i}",
+                        'content': section_content[:8000],  # Limit for Neo4j
+                        'section_type': 'clinical',
+                        'doc_name': doc_name
+                    })
+        
+        # If no sections found, create one for whole document
+        if not sections:
+            sections.append({
+                'name': doc_name,
+                'content': content[:8000],
+                'section_type': 'document',
+                'doc_name': doc_name
+            })
         
         return sections
     
