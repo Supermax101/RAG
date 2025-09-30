@@ -17,6 +17,7 @@ from src.rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingP
 from src.rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
 from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
+from src.rag.infrastructure.llm_providers.xai_provider import XAILLMProvider
 from src.rag.core.services.hybrid_rag_service import HybridRAGService
 from src.rag.core.models.documents import SearchQuery
 
@@ -182,6 +183,15 @@ class TPNRAGEvaluator:
                 raise RuntimeError(
                     "OpenAI API is not accessible. Please check:\n"
                     "  1. OPENAI_API_KEY is set correctly\n"
+                    "  2. API key has sufficient credits\n"
+                    "  3. Network connectivity"
+                )
+        elif self.provider == "xai":
+            llm_provider = XAILLMProvider(default_model=self.selected_model)
+            if not await llm_provider.check_health():
+                raise RuntimeError(
+                    "xAI API is not accessible. Please check:\n"
+                    "  1. XAI_API_KEY is set correctly\n"
                     "  2. API key has sufficient credits\n"
                     "  3. Network connectivity"
                 )
@@ -619,10 +629,27 @@ async def get_available_openai_models():
         return []
 
 
+async def get_available_xai_models():
+    """Get list of available xAI models (if API key is set)."""
+    try:
+        from src.rag.config.settings import settings
+        
+        if not settings.xai_api_key:
+            return []
+        
+        provider = XAILLMProvider()
+        models = await provider.available_models
+        return models
+    except Exception as e:
+        print(f"Warning: Could not fetch xAI models: {e}")
+        return []
+
+
 async def get_all_available_models():
-    """Get all available models from both Ollama and OpenAI."""
+    """Get all available models from Ollama, OpenAI, and xAI."""
     ollama_models = await get_available_ollama_models()
     openai_models = await get_available_openai_models()
+    xai_models = await get_available_xai_models()
     
     # Combine models with provider prefix for clarity
     all_models = []
@@ -632,6 +659,9 @@ async def get_all_available_models():
     
     if openai_models:
         all_models.extend([("openai", model) for model in openai_models])
+    
+    if xai_models:
+        all_models.extend([("xai", model) for model in xai_models])
     
     return all_models
 

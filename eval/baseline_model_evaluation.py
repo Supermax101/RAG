@@ -25,6 +25,7 @@ sys.path.insert(0, str(project_root))
 # Import LLM providers for direct model access
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
 from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
+from src.rag.infrastructure.llm_providers.xai_provider import XAILLMProvider
 
 
 @dataclass
@@ -57,6 +58,8 @@ class BaselineModelEvaluator:
         # Initialize the appropriate LLM provider
         if provider == "openai":
             self.llm_provider = OpenAILLMProvider(default_model=selected_model)
+        elif provider == "xai":
+            self.llm_provider = XAILLMProvider(default_model=selected_model)
         else:  # ollama
             self.llm_provider = OllamaLLMProvider(default_model=selected_model)
         
@@ -420,10 +423,27 @@ async def get_available_openai_models():
         return []
 
 
+async def get_available_xai_models():
+    """Get list of available xAI models (if API key is set)."""
+    try:
+        from src.rag.config.settings import settings
+        
+        if not settings.xai_api_key:
+            return []
+        
+        provider = XAILLMProvider()
+        models = await provider.available_models
+        return models
+    except Exception as e:
+        print(f"Warning: Could not fetch xAI models: {e}")
+        return []
+
+
 async def get_all_available_models():
-    """Get all available models from both Ollama and OpenAI."""
+    """Get all available models from Ollama, OpenAI, and xAI."""
     ollama_models = await get_available_ollama_models()
     openai_models = await get_available_openai_models()
+    xai_models = await get_available_xai_models()
     
     # Combine models with provider prefix for clarity
     all_models = []
@@ -433,6 +453,9 @@ async def get_all_available_models():
     
     if openai_models:
         all_models.extend([("openai", model) for model in openai_models])
+    
+    if xai_models:
+        all_models.extend([("xai", model) for model in xai_models])
     
     return all_models
 
