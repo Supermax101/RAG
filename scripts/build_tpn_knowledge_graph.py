@@ -80,14 +80,14 @@ Respond in JSON:
         with self.driver.session() as session:
             for rel in relationships:
                 session.run("""
-                    MATCH (a:Entity {name: $from})
-                    MATCH (b:Entity {name: $to})
-                    MERGE (a)-[r:RELATES {type: $type}]->(b)
+                    MATCH (a:Entity {name: $from_name})
+                    MATCH (b:Entity {name: $to_name})
+                    MERGE (a)-[r:RELATES {type: $rel_type}]->(b)
                     SET r.condition = $condition
                 """, 
-                from_=rel['from'], 
-                to=rel['to'], 
-                type=rel['type'],
+                from_name=rel['from'], 
+                to_name=rel['to'], 
+                rel_type=rel['type'],
                 condition=rel.get('condition', ''))
     
     async def build_graph_from_documents(self):
