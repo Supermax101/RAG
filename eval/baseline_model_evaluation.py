@@ -22,8 +22,9 @@ from pydantic import BaseModel, Field
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-# Import LLM provider for direct model access
+# Import LLM providers for direct model access
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
+from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
 
 
 @dataclass
@@ -48,10 +49,17 @@ class MCQAnswer(BaseModel):
 class BaselineModelEvaluator:
     """Evaluates raw model performance on TPN questions WITHOUT any RAG enhancement."""
     
-    def __init__(self, csv_path: str, selected_model: str = "mistral:7b"):
+    def __init__(self, csv_path: str, selected_model: str = "mistral:7b", provider: str = "ollama"):
         self.csv_path = csv_path
         self.selected_model = selected_model
-        self.llm_provider = OllamaLLMProvider(default_model=selected_model)
+        self.provider = provider
+        
+        # Initialize the appropriate LLM provider
+        if provider == "openai":
+            self.llm_provider = OpenAILLMProvider(default_model=selected_model)
+        else:  # ollama
+            self.llm_provider = OllamaLLMProvider(default_model=selected_model)
+        
         self.results: List[BaselineResult] = []
         
         # Load questions
@@ -396,27 +404,77 @@ async def get_available_ollama_models() -> List[str]:
     return ["mistral:7b", "llama3:8b"]  # Fallback defaults
 
 
-def select_ollama_model(available_models: List[str]) -> Optional[str]:
-    """Interactive model selection from available Ollama LLM models."""
-    if not available_models:
-        print("ERROR: No Ollama models available!")
-        return None
+async def get_available_openai_models():
+    """Get list of available OpenAI models (if API key is set)."""
+    try:
+        from src.rag.config.settings import settings
+        
+        if not settings.openai_api_key:
+            return []
+        
+        provider = OpenAILLMProvider()
+        models = await provider.available_models
+        return models
+    except Exception:
+        return []
+
+
+async def get_all_available_models():
+    """Get all available models from both Ollama and OpenAI."""
+    ollama_models = await get_available_ollama_models()
+    openai_models = await get_available_openai_models()
     
-    print(f"\nAvailable Ollama Models:")
-    for i, model in enumerate(available_models, 1):
-        print(f"  {i}. {model}")
+    # Combine models with provider prefix for clarity
+    all_models = []
+    
+    if ollama_models:
+        all_models.extend([("ollama", model) for model in ollama_models])
+    
+    if openai_models:
+        all_models.extend([("openai", model) for model in openai_models])
+    
+    return all_models
+
+
+def select_model(available_models):
+    """Interactive model selection from available models (Ollama + OpenAI)."""
+    if not available_models:
+        print("\nERROR: No LLM models found.")
+        print("Available options:")
+        print("  1. Install Ollama models: ollama pull mistral:7b")
+        print("  2. Set OpenAI API key: export OPENAI_API_KEY=your_key")
+        return None, None
+    
+    print(f"\nAvailable LLM Models ({len(available_models)} found):")
+    
+    for i, (provider, model) in enumerate(available_models, 1):
+        provider_badge = f"[{provider.upper()}]"
+        model_info = ""
+        
+        if provider == "openai":
+            if "gpt" in model.lower():
+                model_info = " (OpenAI)"
+        
+        print(f"  {i}. {provider_badge:<10} {model:<30} {model_info}")
     
     while True:
         try:
-            choice = input(f"\nSelect model (1-{len(available_models)}): ").strip()
-            if choice.isdigit():
-                index = int(choice) - 1
-                if 0 <= index < len(available_models):
-                    return available_models[index]
-            print(f"Please enter a number between 1 and {len(available_models)}")
-        except (ValueError, KeyboardInterrupt):
+            choice = input(f"\nSelect model (1-{len(available_models)}) or press Enter for default: ").strip()
+            
+            if not choice:
+                return available_models[0]
+            
+            choice_num = int(choice)
+            if 1 <= choice_num <= len(available_models):
+                provider, model = available_models[choice_num - 1]
+                return provider, model
+            else:
+                print(f"Please enter a number between 1 and {len(available_models)}")
+        except ValueError:
+            print("Please enter a valid number")
+        except KeyboardInterrupt:
             print("\nSelection cancelled.")
-            return None
+            return None, None
 
 
 async def benchmark_all_baseline_models(max_questions: Optional[int] = None):
@@ -428,17 +486,17 @@ async def benchmark_all_baseline_models(max_questions: Optional[int] = None):
     
     csv_path = "eval/tpn_eval_questions.csv"
     
-    # Get all available models
-    available_models = await get_available_ollama_models()
+    # Get all available models (Ollama + OpenAI)
+    available_models = await get_all_available_models()
     if not available_models:
-        print("ERROR: No Ollama models found!")
+        print("ERROR: No models found!")
         return
     
     actual_question_count = max_questions if max_questions else 48
     
     print(f"\nFound {len(available_models)} models to benchmark in baseline mode:")
-    for i, model in enumerate(available_models, 1):
-        print(f"  {i}. {model}")
+    for i, (provider, model) in enumerate(available_models, 1):
+        print(f"  {i}. [{provider.upper()}] {model}")
     
     print(f"\nBaseline Benchmark Settings:")
     print(f"  - Questions: {actual_question_count} MCQ")
@@ -455,18 +513,18 @@ async def benchmark_all_baseline_models(max_questions: Optional[int] = None):
     all_results = []
     start_time = datetime.now()
     
-    for i, model in enumerate(available_models, 1):
+    for i, (provider, model) in enumerate(available_models, 1):
         print(f"\n{'='*60}")
-        print(f"Baseline Testing Model {i}/{len(available_models)}: {model}")
+        print(f"Baseline Testing Model {i}/{len(available_models)}: [{provider.upper()}] {model}")
         print(f"{'='*60}")
         
         try:
-            evaluator = BaselineModelEvaluator(csv_path, model)
+            evaluator = BaselineModelEvaluator(csv_path, model, provider)
             result = await evaluator.run_baseline_evaluation(actual_question_count)
             all_results.append(result)
             
         except Exception as e:
-            print(f"ERROR testing {model}: {e}")
+            print(f"ERROR testing [{provider.upper()}] {model}: {e}")
             continue
     
     # Generate comparison report
@@ -519,9 +577,9 @@ async def main():
     
     csv_path = "eval/tpn_eval_questions.csv"
     
-    available_models = await get_available_ollama_models()
+    available_models = await get_all_available_models()
     if not available_models:
-        print("ERROR: No Ollama models found!")
+        print("ERROR: No models found!")
         return
     
     # Ask evaluation mode
@@ -542,11 +600,11 @@ async def main():
         return
     
     # Single model baseline evaluation
-    selected_model = select_ollama_model(available_models)
-    if not selected_model:
+    selected_provider, selected_model = select_model(available_models)
+    if not selected_provider or not selected_model:
         return
     
-    print(f"Selected model: {selected_model}")
+    print(f"Selected model: [{selected_provider.upper()}] {selected_model}")
     
     max_questions_input = input(f"\nLimit questions for testing? (default: all, or enter number): ").strip()
     max_questions = None
@@ -554,7 +612,7 @@ async def main():
         max_questions = int(max_questions_input)
     
     try:
-        evaluator = BaselineModelEvaluator(csv_path, selected_model)
+        evaluator = BaselineModelEvaluator(csv_path, selected_model, selected_provider)
         await evaluator.run_baseline_evaluation(max_questions)
     except Exception as e:
         print(f"\nERROR: {e}")

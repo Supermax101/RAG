@@ -16,6 +16,7 @@ sys.path.insert(0, str(project_root))
 from src.rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingProvider
 from src.rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
+from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
 from src.rag.core.services.hybrid_rag_service import HybridRAGService
 from src.rag.core.models.documents import SearchQuery
 
@@ -114,9 +115,10 @@ if RAGAS_AVAILABLE:
 class TPNRAGEvaluator:
     """Evaluates TPN RAG system using modern LangChain approach with structured output."""
     
-    def __init__(self, csv_path: str, selected_model: str = "mistral:7b"):
+    def __init__(self, csv_path: str, selected_model: str = "mistral:7b", provider: str = "ollama"):
         self.csv_path = csv_path
         self.selected_model = selected_model
+        self.provider = provider
         self.rag_service = None
         self.evaluation_results = []
         
@@ -168,14 +170,25 @@ class TPNRAGEvaluator:
     
     async def initialize_rag_system(self):
         """Initialize the TPN RAG system with selected model."""
-        print(f"Initializing TPN RAG system with model: {self.selected_model}")
+        print(f"Initializing TPN RAG system with {self.provider.upper()} model: {self.selected_model}")
         
         embedding_provider = OllamaEmbeddingProvider()
         vector_store = ChromaVectorStore()
-        llm_provider = OllamaLLMProvider(default_model=self.selected_model)
         
-        if not await llm_provider.check_health():
-            raise RuntimeError("Ollama is not running. Please start Ollama service.")
+        # Select the appropriate LLM provider based on provider type
+        if self.provider == "openai":
+            llm_provider = OpenAILLMProvider(default_model=self.selected_model)
+            if not await llm_provider.check_health():
+                raise RuntimeError(
+                    "OpenAI API is not accessible. Please check:\n"
+                    "  1. OPENAI_API_KEY is set correctly\n"
+                    "  2. API key has sufficient credits\n"
+                    "  3. Network connectivity"
+                )
+        else:  # ollama
+            llm_provider = OllamaLLMProvider(default_model=self.selected_model)
+            if not await llm_provider.check_health():
+                raise RuntimeError("Ollama is not running. Please start Ollama service.")
         
         # Use HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
         self.rag_service = HybridRAGService(
@@ -340,12 +353,18 @@ Remember: Respond ONLY with JSON containing 'answer' (single letter) and 'confid
                 if json_match:
                     model_answer_raw = json_match.group(1).upper()
                 else:
-                    # Try simple letter extraction
-                    letter_match = re.search(r'(?:^|\s)([A-F])(?:\s|$|\.|\,)', model_answer_raw)
-                    if letter_match:
-                        model_answer_raw = letter_match.group(1)
+                    # Check for "All of the above" or "None" text responses
+                    if "ALL OF THE ABOVE" in model_answer_raw:
+                        model_answer_raw = "ALL OF THE ABOVE"
+                    elif "NONE OF THE ABOVE" in model_answer_raw or model_answer_raw.strip() == "NONE":
+                        model_answer_raw = "NONE"
                     else:
-                        model_answer_raw = "PARSE_ERROR"
+                        # Try to extract multiple letters (e.g., "A and D" or "A, D")
+                        letter_matches = re.findall(r'\b([A-F])\b', model_answer_raw)
+                        if letter_matches:
+                            model_answer_raw = ",".join(letter_matches)
+                        else:
+                            model_answer_raw = "PARSE_ERROR"
             
             model_normalized = self.normalize_answer(model_answer_raw)
             is_correct = model_normalized == correct_normalized
@@ -584,46 +603,92 @@ async def get_available_ollama_models():
     return []
 
 
-def select_ollama_model(available_models):
-    """Interactive model selection from available Ollama LLM models."""
-    if not available_models:
-        print("\nERROR: No Ollama LLM models found.")
-        print("Please pull models first:")
-        print("  ollama pull phi4:latest")
-        print("  ollama pull mistral:7b")
-        print("  ollama pull llama3:8b")
-        return None
+async def get_available_openai_models():
+    """Get list of available OpenAI models (if API key is set)."""
+    try:
+        from src.rag.config.settings import settings
+        
+        if not settings.openai_api_key:
+            return []
+        
+        provider = OpenAILLMProvider()
+        models = await provider.available_models
+        return models
+    except Exception:
+        return []
+
+
+async def get_all_available_models():
+    """Get all available models from both Ollama and OpenAI."""
+    ollama_models = await get_available_ollama_models()
+    openai_models = await get_available_openai_models()
     
-    print(f"\nAvailable Ollama LLM Models ({len(available_models)} found):")
-    for i, model in enumerate(available_models, 1):
+    # Combine models with provider prefix for clarity
+    all_models = []
+    
+    if ollama_models:
+        all_models.extend([("ollama", model) for model in ollama_models])
+    
+    if openai_models:
+        all_models.extend([("openai", model) for model in openai_models])
+    
+    return all_models
+
+
+def is_openai_model(model_name: str) -> bool:
+    """Check if a model is from OpenAI."""
+    openai_indicators = ["gpt-", "gpt4", "gpt5", "o1-", "o3-"]
+    return any(indicator in model_name.lower() for indicator in openai_indicators)
+
+
+def select_model(available_models):
+    """Interactive model selection from available models (Ollama + OpenAI)."""
+    if not available_models:
+        print("\nERROR: No LLM models found.")
+        print("Available options:")
+        print("  1. Install Ollama models:")
+        print("     ollama pull phi4:latest")
+        print("     ollama pull mistral:7b")
+        print("  2. Set OpenAI API key:")
+        print("     export OPENAI_API_KEY=your_api_key")
+        return None, None
+    
+    print(f"\nAvailable LLM Models ({len(available_models)} found):")
+    
+    for i, (provider, model) in enumerate(available_models, 1):
         model_info = ""
         
-        size_patterns = {
-            "120b": "120B parameters",
-            "70b": "70B parameters",
-            "27b": "27B parameters",
-            "14b": "14B parameters",
-            "13b": "13B parameters",
-            "8b": "8B parameters",
-            "7b": "7B parameters",
-            "3b": "3B parameters"
-        }
+        # Provider badge
+        provider_badge = f"[{provider.upper()}]"
         
-        for size, desc in size_patterns.items():
-            if size in model.lower():
-                model_info = f" ({desc})"
-                break
-        
-        if "phi4" in model.lower():
-            if "mini" in model.lower():
-                model_info = " (Phi-4 Mini, 14B parameters)"
-            else:
-                model_info = " (Phi-4, 14B parameters)"
-        
-        if "gpt-oss" in model.lower():
-            model_info = " (GPT-OSS, 120B parameters)"
+        # Model-specific info
+        if provider == "ollama":
+            size_patterns = {
+                "120b": "120B parameters",
+                "70b": "70B parameters",
+                "27b": "27B parameters",
+                "14b": "14B parameters",
+                "13b": "13B parameters",
+                "8b": "8B parameters",
+                "7b": "7B parameters",
+                "3b": "3B parameters"
+            }
             
-        print(f"  {i}. {model}{model_info}")
+            for size, desc in size_patterns.items():
+                if size in model.lower():
+                    model_info = f" ({desc})"
+                    break
+            
+            if "phi4" in model.lower():
+                model_info = " (Phi-4, 14B params)"
+            if "gpt-oss" in model.lower():
+                model_info = " (GPT-OSS, 120B params)"
+        
+        elif provider == "openai":
+            if "gpt" in model.lower():
+                model_info = " (OpenAI)"
+            
+        print(f"  {i}. {provider_badge:<10} {model:<30} {model_info}")
     
     while True:
         try:
@@ -634,7 +699,8 @@ def select_ollama_model(available_models):
             
             choice_num = int(choice)
             if 1 <= choice_num <= len(available_models):
-                return available_models[choice_num - 1]
+                provider, model = available_models[choice_num - 1]
+                return provider, model
             else:
                 print(f"Please enter a number between 1 and {len(available_models)}")
         except ValueError:
@@ -650,18 +716,18 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
     
     csv_path = "eval/tpn_eval_questions.csv"
     
-    # Get all available models
-    available_models = await get_available_ollama_models()
+    # Get all available models (Ollama + OpenAI)
+    available_models = await get_all_available_models()
     if not available_models:
-        print("ERROR: No Ollama models found!")
+        print("ERROR: No models found!")
         return
     
     # Determine actual question count
     actual_question_count = max_questions if max_questions else 48
     
     print(f"\nFound {len(available_models)} models to benchmark:")
-    for i, model in enumerate(available_models, 1):
-        print(f"  {i}. {model}")
+    for i, (provider, model) in enumerate(available_models, 1):
+        print(f"  {i}. [{provider.upper()}] {model}")
     
     print(f"\nBenchmark settings:")
     print(f"  - Questions: {actual_question_count} MCQ")
@@ -678,18 +744,20 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
     all_results = []
     start_time = datetime.now()
     
-    for i, model in enumerate(available_models, 1):
+    for i, (provider, model) in enumerate(available_models, 1):
         print(f"\n{'='*80}")
-        print(f"BENCHMARKING MODEL {i}/{len(available_models)}: {model}")
+        print(f"BENCHMARKING MODEL {i}/{len(available_models)}: [{provider.upper()}] {model}")
         print(f"{'='*80}")
         
         try:
-            evaluator = TPNRAGEvaluator(csv_path, model)
+            evaluator = TPNRAGEvaluator(csv_path, model, provider)
             result = await evaluator.run_evaluation(max_questions)
             
             # Store key metrics
+            model_label = f"[{provider.upper()}] {model}"
             all_results.append({
-                "model": model,
+                "model": model_label,
+                "provider": provider,
                 "accuracy": result.get("accuracy", 0),
                 "correct": result.get("correct_answers", 0),
                 "wrong": result.get("wrong_answers", 0),
@@ -698,12 +766,13 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
                 "ragas_metrics": result.get("ragas_metrics", {})
             })
             
-            print(f"\n✅ {model} completed: {result.get('accuracy', 0):.2f}% accuracy")
+            print(f"\n✅ {model_label} completed: {result.get('accuracy', 0):.2f}% accuracy")
             
         except Exception as e:
-            print(f"\n❌ {model} failed: {e}")
+            print(f"\n❌ [{provider.upper()}] {model} failed: {e}")
             all_results.append({
-                "model": model,
+                "model": f"[{provider.upper()}] {model}",
+                "provider": provider,
                 "accuracy": 0,
                 "correct": 0,
                 "wrong": 0,
@@ -802,7 +871,7 @@ async def main():
     
     csv_path = "eval/tpn_eval_questions.csv"
     
-    available_models = await get_available_ollama_models()
+    available_models = await get_all_available_models()
     if not available_models:
         return
     
@@ -824,11 +893,11 @@ async def main():
         return
     
     # Single model evaluation (original flow)
-    selected_model = select_ollama_model(available_models)
-    if not selected_model:
+    selected_provider, selected_model = select_model(available_models)
+    if not selected_provider or not selected_model:
         return
     
-    print(f"Selected model: {selected_model}")
+    print(f"Selected model: [{selected_provider.upper()}] {selected_model}")
     
     max_questions_input = input(f"\nLimit questions for testing? (default: all, or enter number): ").strip()
     max_questions = None
@@ -837,7 +906,7 @@ async def main():
     
     evaluator = None
     try:
-        evaluator = TPNRAGEvaluator(csv_path, selected_model)
+        evaluator = TPNRAGEvaluator(csv_path, selected_model, selected_provider)
         await evaluator.run_evaluation(max_questions)
     except RuntimeError as e:
         print(f"\nERROR: {e}")

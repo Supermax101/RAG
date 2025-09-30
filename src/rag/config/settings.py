@@ -15,6 +15,10 @@ class Settings(BaseSettings):
     mistral_base_url: str = Field(default="https://api.mistral.ai", alias="MISTRAL_BASE_URL")
     embed_model: str = Field(default="mistral-embed", alias="EMBED_MODEL")
     
+    # OpenAI Configuration
+    openai_api_key: Optional[str] = Field(default=None, alias="OPENAI_API_KEY")
+    openai_base_url: str = Field(default="https://api.openai.com/v1", alias="OPENAI_BASE_URL")
+    
     # Ollama Configuration
     ollama_base_url: str = Field(default="http://localhost:11434", alias="OLLAMA_BASE_URL")
     ollama_embed_model: str = Field(default="nomic-embed-text", alias="OLLAMA_EMBED_MODEL")

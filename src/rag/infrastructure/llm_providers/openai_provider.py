@@ -1,0 +1,91 @@
+"""
+OpenAI LLM provider implementation.
+"""
+from typing import List, Optional
+from openai import AsyncOpenAI
+from ...core.interfaces.embeddings import LLMProvider
+from ...config.settings import settings
+
+
+class OpenAILLMProvider(LLMProvider):
+    """OpenAI-based LLM provider (GPT-4, GPT-3.5, etc.)."""
+    
+    def __init__(self, api_key: Optional[str] = None, default_model: str = "gpt-4o"):
+        """Initialize OpenAI provider.
+        
+        Args:
+            api_key: OpenAI API key (falls back to settings/env)
+            default_model: Default model to use
+        """
+        self.api_key = api_key or settings.openai_api_key
+        self.default_model = default_model
+        
+        if not self.api_key:
+            raise ValueError(
+                "OpenAI API key not found. Set OPENAI_API_KEY environment variable "
+                "or pass api_key parameter."
+            )
+        
+        self.client = AsyncOpenAI(api_key=self.api_key)
+        self._available_models = None
+    
+    async def generate(
+        self,
+        prompt: str,
+        model: Optional[str] = None,
+        temperature: float = 0.1,
+        max_tokens: int = 500
+    ) -> str:
+        """Generate text response using OpenAI."""
+        model_name = model or self.default_model
+        
+        try:
+            response = await self.client.chat.completions.create(
+                model=model_name,
+                messages=[
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=temperature,
+                max_tokens=max_tokens,
+                timeout=60.0
+            )
+            
+            return response.choices[0].message.content.strip()
+            
+        except Exception as e:
+            raise RuntimeError(f"Failed to generate text with OpenAI: {e}")
+    
+    @property
+    async def available_models(self) -> List[str]:
+        """Return list of available OpenAI models from API."""
+        if self._available_models is not None:
+            return self._available_models
+        
+        try:
+            # Get models from OpenAI API
+            models_response = await self.client.models.list()
+            
+            # Filter for chat completion models (gpt-* only, exclude embeddings/vision/etc)
+            chat_models = [
+                model.id for model in models_response.data
+                if "gpt" in model.id.lower() and not any(
+                    x in model.id.lower() for x in ["vision", "realtime", "embedding", "whisper", "tts", "dall-e"]
+                )
+            ]
+            
+            self._available_models = sorted(chat_models)
+            return self._available_models
+            
+        except Exception as e:
+            # If API call fails, return empty list
+            print(f"Warning: Could not fetch OpenAI models: {e}")
+            return []
+    
+    async def check_health(self) -> bool:
+        """Check if OpenAI API is accessible."""
+        try:
+            # Try to list models as a health check
+            await self.client.models.list()
+            return True
+        except Exception:
+            return False
