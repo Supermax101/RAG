@@ -1,0 +1,566 @@
+#!/usr/bin/env python3
+"""
+Baseline Model Evaluation - Direct Model Testing WITHOUT RAG
+Tests the same models and questions as the RAG evaluation, but without any knowledge base access.
+This provides baseline performance comparison to show RAG system value.
+"""
+
+import asyncio
+import pandas as pd
+import sys
+import json
+import time
+import re
+from pathlib import Path
+from typing import List, Dict, Any, Optional
+from datetime import datetime
+from dataclasses import dataclass
+import httpx
+from pydantic import BaseModel, Field
+
+# Add project root to Python path
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
+
+# Import LLM provider for direct model access
+from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
+
+
+@dataclass
+class BaselineResult:
+    """Results for a single baseline question evaluation."""
+    question_id: str
+    question: str
+    correct_answer: str
+    model_answer: str
+    is_correct: bool
+    response_time_ms: float
+    model_confidence: str
+    raw_response: str
+
+
+class MCQAnswer(BaseModel):
+    """Structured output for MCQ answers using Pydantic v2."""
+    answer: str = Field(description="Single letter answer (A, B, C, D, E, or F)")
+    confidence: Optional[str] = Field(default="medium", description="Confidence level: low, medium, high")
+
+
+class BaselineModelEvaluator:
+    """Evaluates raw model performance on TPN questions WITHOUT any RAG enhancement."""
+    
+    def __init__(self, csv_path: str, selected_model: str = "mistral:7b"):
+        self.csv_path = csv_path
+        self.selected_model = selected_model
+        self.llm_provider = OllamaLLMProvider(default_model=selected_model)
+        self.results: List[BaselineResult] = []
+        
+        # Load questions
+        print(f"📋 Loading TPN questions from: {csv_path}")
+        self.questions_df = self.load_mcq_questions()
+        print(f"✅ Loaded {len(self.questions_df)} MCQ questions for baseline testing")
+    
+    def load_mcq_questions(self) -> pd.DataFrame:
+        """Load and filter MCQ questions from CSV."""
+        df = pd.read_csv(self.csv_path)
+        
+        # Filter MCQ questions only
+        mcq_df = df[df['Answer Type'] == 'mcq_single'].copy()
+        mcq_df = mcq_df.dropna(subset=['Question', 'Options', 'Corrrect Option (s)'])
+        
+        print(f"\n📊 Question Distribution:")
+        question_types = mcq_df.groupby('Doc Reference').size().sort_values(ascending=False)
+        for doc, count in question_types.head(5).items():
+            print(f"  - {doc}: {count} questions")
+        
+        return mcq_df
+    
+    def create_baseline_prompt(self, question: str, options: str, case_context: str = "") -> str:
+        """Create a direct prompt without any RAG context - pure model knowledge test."""
+        
+        prompt = f"""You are a medical expert specializing in Total Parenteral Nutrition (TPN) and clinical nutrition support. Answer the following multiple choice question based on your medical knowledge.
+
+You must respond in valid JSON format:
+{{"answer": "X", "confidence": "medium"}}
+
+Where:
+- "answer" is a single letter (A, B, C, D, E, or F)
+- "confidence" is one of: "low", "medium", "high"
+
+"""
+        
+        if case_context.strip():
+            prompt += f"CLINICAL CASE:\n{case_context}\n\n"
+        
+        prompt += f"""QUESTION: {question}
+
+OPTIONS:
+{options}
+
+Based on your medical knowledge of TPN and clinical nutrition, provide your answer in JSON format:"""
+        
+        return prompt
+    
+    def normalize_answer(self, answer: str) -> str:
+        """Normalize answer to handle edge cases."""
+        answer = answer.strip().upper()
+        
+        if "ALL OF THE ABOVE" in answer:
+            return "F"  # Assuming F is typically "all of the above"
+        if answer in ["NONE", "NONE OF THE ABOVE"]:
+            return "NONE"
+        
+        # Extract single letter
+        letters = re.findall(r'\b([A-F])\b', answer)
+        if letters:
+            return letters[0]  # Take first valid letter
+        
+        return answer
+    
+    async def evaluate_single_question(
+        self,
+        question_id: str,
+        question: str,
+        options: str,
+        correct_option: str,
+        case_context: str = ""
+    ) -> BaselineResult:
+        """Evaluate a single question using direct model inference (no RAG)."""
+        
+        print(f"\n🔍 Question {question_id}: {question[:70]}...")
+        
+        start_time = time.time()
+        
+        try:
+            # Create baseline prompt (no context from documents)
+            prompt = self.create_baseline_prompt(question, options, case_context)
+            
+            # Get direct model response
+            raw_response = await self.llm_provider.generate(
+                prompt=prompt,
+                model=self.selected_model,
+                temperature=0.1,  # Low temperature for consistent medical answers
+                max_tokens=200    # Short response needed
+            )
+            
+            response_time_ms = (time.time() - start_time) * 1000
+            
+            # Parse JSON response
+            model_answer = "UNKNOWN"
+            confidence = "low"
+            
+            try:
+                # Try to extract JSON
+                json_match = re.search(r'\{[^}]*\}', raw_response)
+                if json_match:
+                    response_json = json.loads(json_match.group())
+                    model_answer = response_json.get("answer", "UNKNOWN")
+                    confidence = response_json.get("confidence", "low")
+                else:
+                    # Fallback: extract letter from raw text
+                    letters = re.findall(r'\b([A-F])\b', raw_response.upper())
+                    if letters:
+                        model_answer = letters[0]
+            except (json.JSONDecodeError, KeyError):
+                # Last resort: simple regex
+                letters = re.findall(r'\b([A-F])\b', raw_response.upper())
+                if letters:
+                    model_answer = letters[0]
+            
+            # Normalize answers for comparison
+            correct_normalized = self.normalize_answer(correct_option)
+            model_normalized = self.normalize_answer(model_answer)
+            
+            is_correct = (model_normalized == correct_normalized)
+            
+            result = BaselineResult(
+                question_id=question_id,
+                question=question,
+                correct_answer=correct_normalized,
+                model_answer=model_normalized,
+                is_correct=is_correct,
+                response_time_ms=response_time_ms,
+                model_confidence=confidence,
+                raw_response=raw_response[:500]  # Truncate for storage
+            )
+            
+            status = "✅ CORRECT" if is_correct else "❌ WRONG"
+            print(f"   {status}: Expected '{correct_normalized}' → Got '{model_normalized}' ({response_time_ms:.0f}ms)")
+            
+            return result
+            
+        except Exception as e:
+            print(f"   ⚠️  Error: {e}")
+            response_time_ms = (time.time() - start_time) * 1000
+            
+            return BaselineResult(
+                question_id=question_id,
+                question=question,
+                correct_answer=self.normalize_answer(correct_option),
+                model_answer="ERROR",
+                is_correct=False,
+                response_time_ms=response_time_ms,
+                model_confidence="low",
+                raw_response=f"Error: {str(e)}"
+            )
+    
+    async def run_baseline_evaluation(self, max_questions: Optional[int] = None) -> Dict[str, Any]:
+        """Run complete baseline evaluation without RAG system."""
+        
+        print(f"\n🚀 Starting BASELINE evaluation for model: {self.selected_model}")
+        print(f"   📚 Testing raw medical knowledge WITHOUT any document access")
+        print(f"   🎯 Questions: {max_questions or len(self.questions_df)}")
+        print("=" * 60)
+        
+        # Check if Ollama model is available
+        try:
+            available_models = await get_available_ollama_models()
+            if self.selected_model not in available_models:
+                print(f"⚠️  Warning: Model '{self.selected_model}' not found in available models")
+                print(f"Available models: {available_models}")
+        except Exception as e:
+            print(f"⚠️  Could not check available models: {e}")
+        
+        start_time = time.time()
+        
+        # Process questions
+        questions_to_process = self.questions_df.head(max_questions) if max_questions else self.questions_df
+        
+        for idx, row in questions_to_process.iterrows():
+            result = await self.evaluate_single_question(
+                question_id=str(row['ID']),
+                question=row['Question'],
+                options=row['Options'],
+                correct_option=row['Corrrect Option (s)'],
+                case_context=row.get('Case Context if available', '') or ''
+            )
+            self.results.append(result)
+            
+            # Progress update
+            if len(self.results) % 5 == 0:
+                current_accuracy = sum(r.is_correct for r in self.results) / len(self.results) * 100
+                print(f"\n📊 Progress: {len(self.results)}/{len(questions_to_process)} | Accuracy: {current_accuracy:.1f}%")
+        
+        total_time = time.time() - start_time
+        
+        # Calculate comprehensive metrics
+        evaluation_summary = self.calculate_metrics(total_time)
+        
+        # Save results
+        self.save_results(evaluation_summary)
+        
+        return evaluation_summary
+    
+    def calculate_metrics(self, total_time: float) -> Dict[str, Any]:
+        """Calculate comprehensive baseline evaluation metrics."""
+        
+        total_questions = len(self.results)
+        correct_answers = sum(1 for r in self.results if r.is_correct)
+        
+        accuracy = (correct_answers / total_questions * 100) if total_questions > 0 else 0
+        avg_response_time = sum(r.response_time_ms for r in self.results) / total_questions
+        
+        # Confidence distribution
+        confidence_dist = {}
+        for result in self.results:
+            conf = result.model_confidence
+            confidence_dist[conf] = confidence_dist.get(conf, 0) + 1
+        
+        # Performance by confidence level
+        confidence_accuracy = {}
+        for conf in ['low', 'medium', 'high']:
+            conf_results = [r for r in self.results if r.model_confidence == conf]
+            if conf_results:
+                conf_accuracy = sum(r.is_correct for r in conf_results) / len(conf_results) * 100
+                confidence_accuracy[conf] = {
+                    'accuracy': conf_accuracy,
+                    'count': len(conf_results)
+                }
+        
+        summary = {
+            'model_name': self.selected_model,
+            'evaluation_type': 'BASELINE_NO_RAG',
+            'timestamp': datetime.now().isoformat(),
+            'total_questions': total_questions,
+            'correct_answers': correct_answers,
+            'accuracy_percentage': round(accuracy, 2),
+            'avg_response_time_ms': round(avg_response_time, 1),
+            'total_evaluation_time_seconds': round(total_time, 1),
+            'confidence_distribution': confidence_dist,
+            'confidence_accuracy': confidence_accuracy,
+            'sample_errors': [
+                {
+                    'question_id': r.question_id,
+                    'question': r.question[:100] + '...',
+                    'expected': r.correct_answer,
+                    'got': r.model_answer,
+                    'confidence': r.model_confidence
+                }
+                for r in self.results if not r.is_correct
+            ][:5]  # First 5 errors
+        }
+        
+        # Print summary
+        print("\n" + "="*60)
+        print("🎯 BASELINE EVALUATION RESULTS (NO RAG)")
+        print("="*60)
+        print(f"📊 Model: {self.selected_model}")
+        print(f"📈 Accuracy: {accuracy:.1f}% ({correct_answers}/{total_questions})")
+        print(f"⏱️  Avg Response Time: {avg_response_time:.0f}ms")
+        print(f"🕒 Total Time: {total_time:.1f}s")
+        
+        print(f"\n📋 Confidence Distribution:")
+        for conf, count in confidence_dist.items():
+            acc_info = confidence_accuracy.get(conf, {})
+            acc_pct = acc_info.get('accuracy', 0)
+            print(f"  - {conf.title()}: {count} questions ({acc_pct:.1f}% accuracy)")
+        
+        if summary['sample_errors']:
+            print(f"\n❌ Sample Errors:")
+            for error in summary['sample_errors'][:3]:
+                print(f"  - Q{error['question_id']}: Expected '{error['expected']}' → Got '{error['got']}'")
+        
+        return summary
+    
+    def save_results(self, summary: Dict[str, Any]):
+        """Save evaluation results to files."""
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        model_clean = self.selected_model.replace(":", "_")
+        
+        # JSON file with complete results
+        json_file = f"baseline_evaluation_results_{model_clean}_{timestamp}.json"
+        json_path = Path("eval") / json_file
+        
+        json_data = {
+            'summary': summary,
+            'detailed_results': [
+                {
+                    'question_id': r.question_id,
+                    'question': r.question,
+                    'correct_answer': r.correct_answer,
+                    'model_answer': r.model_answer,
+                    'is_correct': r.is_correct,
+                    'response_time_ms': r.response_time_ms,
+                    'confidence': r.model_confidence,
+                    'raw_response': r.raw_response
+                }
+                for r in self.results
+            ]
+        }
+        
+        with open(json_path, 'w') as f:
+            json.dump(json_data, f, indent=2)
+        
+        # CSV file for easy analysis
+        csv_file = f"baseline_evaluation_summary_{timestamp}.csv"
+        csv_path = Path("eval") / csv_file
+        
+        df_results = pd.DataFrame([
+            {
+                'Question_ID': r.question_id,
+                'Question': r.question,
+                'Correct_Answer': r.correct_answer,
+                'Model_Answer': r.model_answer,
+                'Is_Correct': r.is_correct,
+                'Response_Time_ms': r.response_time_ms,
+                'Confidence': r.model_confidence,
+                'Model': self.selected_model
+            }
+            for r in self.results
+        ])
+        df_results.to_csv(csv_path, index=False)
+        
+        print(f"\n📁 Results saved:")
+        print(f"   📄 JSON: {json_file}")
+        print(f"   📊 CSV: {csv_file}")
+
+
+async def get_available_ollama_models() -> List[str]:
+    """Get list of available Ollama LLM models (excludes embedding models)."""
+    try:
+        async with httpx.AsyncClient() as client:
+            response = await client.get("http://localhost:11434/api/tags")
+            if response.status_code == 200:
+                data = response.json()
+                all_models = [model["name"] for model in data.get("models", [])]
+                
+                # Filter out embedding-only models
+                embedding_keywords = ["embed", "embedding", "nomic-embed"]
+                llm_models = [
+                    model for model in all_models 
+                    if not any(keyword in model.lower() for keyword in embedding_keywords)
+                ]
+                
+                return llm_models
+    except Exception:
+        pass
+    return ["mistral:7b", "llama3:8b"]  # Fallback defaults
+
+
+def select_ollama_model(available_models: List[str]) -> Optional[str]:
+    """Interactive model selection from available Ollama LLM models."""
+    if not available_models:
+        print("❌ No Ollama models available!")
+        return None
+    
+    print(f"\n🤖 Available Ollama Models:")
+    for i, model in enumerate(available_models, 1):
+        print(f"  {i}. {model}")
+    
+    while True:
+        try:
+            choice = input(f"\nSelect model (1-{len(available_models)}): ").strip()
+            if choice.isdigit():
+                index = int(choice) - 1
+                if 0 <= index < len(available_models):
+                    return available_models[index]
+            print(f"Please enter a number between 1 and {len(available_models)}")
+        except (ValueError, KeyboardInterrupt):
+            print("\nSelection cancelled.")
+            return None
+
+
+async def benchmark_all_baseline_models(max_questions: Optional[int] = None):
+    """Benchmark all available models in baseline mode (no RAG)."""
+    
+    print("\n" + "="*80)
+    print("BASELINE MODEL BENCHMARK (NO RAG KNOWLEDGE)")
+    print("="*80)
+    
+    csv_path = "eval/tpn_eval_questions.csv"
+    
+    # Get all available models
+    available_models = await get_available_ollama_models()
+    if not available_models:
+        print("ERROR: No Ollama models found!")
+        return
+    
+    actual_question_count = max_questions if max_questions else 48
+    
+    print(f"\nFound {len(available_models)} models to benchmark in baseline mode:")
+    for i, model in enumerate(available_models, 1):
+        print(f"  {i}. {model}")
+    
+    print(f"\nBaseline Benchmark Settings:")
+    print(f"  - Questions: {actual_question_count} MCQ")
+    print(f"  - Mode: DIRECT MODEL TESTING (No RAG/Document Access)")
+    print(f"  - Metrics: Raw Accuracy, Response Time, Confidence Analysis")
+    print(f"  - Purpose: Establish baseline performance for RAG comparison")
+    
+    confirm = input(f"\nProceed with baseline benchmark? (yes/no): ").strip().lower()
+    if confirm not in ['yes', 'y']:
+        print("Benchmark cancelled.")
+        return
+    
+    # Run baseline evaluation for each model
+    all_results = []
+    start_time = datetime.now()
+    
+    for i, model in enumerate(available_models, 1):
+        print(f"\n{'='*60}")
+        print(f"📊 Baseline Testing Model {i}/{len(available_models)}: {model}")
+        print(f"{'='*60}")
+        
+        try:
+            evaluator = BaselineModelEvaluator(csv_path, model)
+            result = await evaluator.run_baseline_evaluation(actual_question_count)
+            all_results.append(result)
+            
+        except Exception as e:
+            print(f"❌ Error testing {model}: {e}")
+            continue
+    
+    # Generate comparison report
+    if all_results:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        comparison_file = f"baseline_model_comparison_{timestamp}.json"
+        
+        comparison_data = {
+            'benchmark_type': 'BASELINE_NO_RAG',
+            'timestamp': datetime.now().isoformat(),
+            'total_models_tested': len(all_results),
+            'questions_per_model': actual_question_count,
+            'model_results': all_results
+        }
+        
+        with open(Path("eval") / comparison_file, 'w') as f:
+            json.dump(comparison_data, f, indent=2)
+        
+        # Print comparison summary
+        print(f"\n{'='*80}")
+        print("🏆 BASELINE MODEL COMPARISON SUMMARY")
+        print(f"{'='*80}")
+        
+        # Sort by accuracy
+        sorted_results = sorted(all_results, key=lambda x: x['accuracy_percentage'], reverse=True)
+        
+        print(f"📊 Model Ranking (by raw accuracy without RAG):")
+        for i, result in enumerate(sorted_results, 1):
+            accuracy = result['accuracy_percentage']
+            time_ms = result['avg_response_time_ms']
+            print(f"  {i}. {result['model_name']:<20} {accuracy:>5.1f}% accuracy ({time_ms:>4.0f}ms avg)")
+        
+        best_model = sorted_results[0]
+        print(f"\n🥇 Best Baseline Performance:")
+        print(f"   - Model: {best_model['model_name']}")
+        print(f"   - Raw Accuracy: {best_model['accuracy_percentage']:.1f}% (without any document knowledge)")
+        print(f"   - Speed: {best_model['avg_response_time_ms']:.0f}ms avg response time")
+        
+        print(f"\n📁 Comparison report saved: {comparison_file}")
+
+
+async def main():
+    """Main baseline evaluation function."""
+    
+    print("TPN Baseline Model Evaluation - Raw Model Performance Test")
+    print("=" * 65)
+    print("🎯 Purpose: Test models WITHOUT RAG system to establish baseline")
+    print("📚 No document access - pure model medical knowledge only")
+    print("=" * 65)
+    
+    csv_path = "eval/tpn_eval_questions.csv"
+    
+    available_models = await get_available_ollama_models()
+    if not available_models:
+        print("❌ No Ollama models found!")
+        return
+    
+    # Ask evaluation mode
+    print(f"\n🔍 Baseline Evaluation Mode:")
+    print(f"  1. Single model baseline test")
+    print(f"  2. Benchmark ALL models baseline ({len(available_models)} available)")
+    
+    mode = input(f"\nSelect mode (1 or 2): ").strip()
+    
+    if mode == "2":
+        # Benchmark all models in baseline mode
+        max_questions_input = input(f"\nLimit questions for testing? (default: all, or enter number): ").strip()
+        max_questions = None
+        if max_questions_input and max_questions_input.lower() != 'all' and max_questions_input.isdigit():
+            max_questions = int(max_questions_input)
+        
+        await benchmark_all_baseline_models(max_questions)
+        return
+    
+    # Single model baseline evaluation
+    selected_model = select_ollama_model(available_models)
+    if not selected_model:
+        return
+    
+    print(f"Selected model: {selected_model}")
+    
+    max_questions_input = input(f"\nLimit questions for testing? (default: all, or enter number): ").strip()
+    max_questions = None
+    if max_questions_input and max_questions_input.lower() != 'all' and max_questions_input.isdigit():
+        max_questions = int(max_questions_input)
+    
+    try:
+        evaluator = BaselineModelEvaluator(csv_path, selected_model)
+        await evaluator.run_baseline_evaluation(max_questions)
+    except Exception as e:
+        print(f"\n❌ ERROR: {e}")
+        import traceback
+        traceback.print_exc()
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
