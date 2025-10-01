@@ -71,19 +71,19 @@ class BaselineModelEvaluator:
         print(f"Loaded {len(self.questions_df)} MCQ questions for baseline testing")
     
     def load_mcq_questions(self) -> pd.DataFrame:
-        """Load and filter MCQ questions from CSV."""
+        """Load MCQ questions from CSV."""
         df = pd.read_csv(self.csv_path)
         
-        # Filter MCQ questions only
-        mcq_df = df[df['Answer Type'] == 'mcq_single'].copy()
-        mcq_df = mcq_df.dropna(subset=['Question', 'Options', 'Corrrect Option (s)'])
+        # Clean data - remove rows with missing critical fields
+        df = df.dropna(subset=['Question', 'Options', 'Corrrect Option (s)'])
         
-        print(f"\nQuestion Distribution:")
-        question_types = mcq_df.groupby('Doc Reference').size().sort_values(ascending=False)
+        print(f"\nLoaded {len(df)} MCQ questions from {self.csv_path}")
+        print(f"\nQuestion Distribution by Source:")
+        question_types = df.groupby('Doc Reference').size().sort_values(ascending=False)
         for doc, count in question_types.head(5).items():
             print(f"  - {doc}: {count} questions")
         
-        return mcq_df
+        return df
     
     def create_baseline_prompt(self, question: str, options: str, case_context: str = "") -> str:
         """Create a direct prompt without any RAG context - simple and clear."""
@@ -120,16 +120,43 @@ Select the correct answer(s). Most questions have one answer, but some may have 
         answer = answer.strip().upper()
         
         if "ALL OF THE ABOVE" in answer:
-            return "F"  # Assuming F is typically "all of the above"
+            return "ALL"
         if answer in ["NONE", "NONE OF THE ABOVE"]:
             return "NONE"
         
-        # Extract single letter
+        # Extract letters
         letters = re.findall(r'\b([A-F])\b', answer)
         if letters:
-            return letters[0]  # Take first valid letter
+            return ",".join(sorted(letters))  # Return all letters, sorted
         
         return answer
+    
+    def answers_match(self, model_answer: str, correct_answer: str, options_text: str) -> bool:
+        """Check if model answer matches correct answer, handling 'All of the above' cases."""
+        model_norm = self.normalize_answer(model_answer)
+        correct_norm = self.normalize_answer(correct_answer)
+        
+        # Direct match
+        if model_norm == correct_norm:
+            return True
+        
+        # Check if model answered a single letter that represents "All of the above"
+        if len(model_norm) == 1 and model_norm in "ABCDEF":
+            # Check if this option contains "All of the above"
+            option_pattern = rf"{model_norm}\.\s*(.+?)(?=\s*[A-F]\.|$)"
+            match = re.search(option_pattern, options_text, re.IGNORECASE | re.DOTALL)
+            if match:
+                option_text = match.group(1).strip()
+                if "ALL OF THE ABOVE" in option_text.upper():
+                    # Extract all option letters from the correct answer
+                    correct_letters = re.findall(r'\b([A-F])\b', correct_answer.upper())
+                    if correct_letters:
+                        # Check if correct answer is all available options
+                        all_options = re.findall(r'([A-F])\.', options_text)
+                        if sorted(correct_letters) == sorted(all_options):
+                            return True
+        
+        return False
     
     async def evaluate_single_question(
         self,
@@ -211,7 +238,7 @@ Select the correct answer(s). Most questions have one answer, but some may have 
             correct_normalized = self.normalize_answer(correct_option)
             model_normalized = self.normalize_answer(model_answer)
             
-            is_correct = (model_normalized == correct_normalized)
+            is_correct = self.answers_match(model_answer, correct_option, options)
             
             result = BaselineResult(
                 question_id=question_id,
@@ -544,7 +571,7 @@ async def benchmark_all_baseline_models(max_questions: Optional[int] = None):
     print("BASELINE MODEL BENCHMARK (NO RAG KNOWLEDGE)")
     print("="*80)
     
-    csv_path = "eval/tpn_eval_questions.csv"
+    csv_path = "eval/tpn_mcq_questions_clean.csv"
     
     # Get all available models (Ollama + OpenAI)
     available_models = await get_all_available_models()
@@ -635,7 +662,7 @@ async def main():
     print("No document access - pure model medical knowledge only")
     print("=" * 65)
     
-    csv_path = "eval/tpn_eval_questions.csv"
+    csv_path = "eval/tpn_mcq_questions_clean.csv"
     
     available_models = await get_all_available_models()
     if not available_models:

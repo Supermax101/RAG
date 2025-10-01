@@ -227,16 +227,10 @@ class TPNRAGEvaluator:
         print(f"Loading evaluation questions from {self.csv_path}")
         
         df = pd.read_csv(self.csv_path)
-        mcq_df = df[df['Answer Type'] == 'mcq_single'].copy()
         
-        print(f"Loaded {len(mcq_df)} MCQ questions (filtered from {len(df)} total questions)")
+        print(f"Loaded {len(df)} MCQ questions from {self.csv_path}")
         
-        question_types = df['Answer Type'].value_counts()
-        print("\nQuestion type breakdown:")
-        for qtype, count in question_types.items():
-            print(f"  - {qtype}: {count} questions")
-        
-        return mcq_df
+        return df
     
     def build_mcq_prompt_template(self) -> ChatPromptTemplate:
         """Build LangChain prompt template with few-shot examples."""
@@ -293,6 +287,33 @@ Provide your answer in JSON format. Use a single letter for single answers (e.g.
             return ",".join(sorted(letters))
         
         return answer
+    
+    def answers_match(self, model_answer: str, correct_answer: str, options_text: str) -> bool:
+        """Check if model answer matches correct answer, handling 'All of the above' cases."""
+        model_norm = self.normalize_answer(model_answer)
+        correct_norm = self.normalize_answer(correct_answer)
+        
+        # Direct match
+        if model_norm == correct_norm:
+            return True
+        
+        # Check if model answered a single letter that represents "All of the above"
+        if len(model_norm) == 1 and model_norm in "ABCDEF":
+            # Check if this option contains "All of the above"
+            option_pattern = rf"{model_norm}\.\s*(.+?)(?=\s*[A-F]\.|$)"
+            match = re.search(option_pattern, options_text, re.IGNORECASE | re.DOTALL)
+            if match:
+                option_text = match.group(1).strip()
+                if "ALL OF THE ABOVE" in option_text.upper():
+                    # Extract all option letters from the correct answer
+                    correct_letters = re.findall(r'\b([A-F])\b', correct_answer.upper())
+                    if correct_letters:
+                        # Check if correct answer is all available options
+                        all_options = re.findall(r'([A-F])\.', options_text)
+                        if sorted(correct_letters) == sorted(all_options):
+                            return True
+        
+        return False
     
     async def evaluate_single_question(
         self,
@@ -399,7 +420,7 @@ Provide your answer in JSON format. Use a single letter for single answers (e.g.
                             model_answer_raw = "PARSE_ERROR"
             
             model_normalized = self.normalize_answer(model_answer_raw)
-            is_correct = model_normalized == correct_normalized
+            is_correct = self.answers_match(model_answer_raw, correct_option, options)
             
             # Build result
             contexts = [source.content for source in search_response.results]
@@ -767,7 +788,7 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
     print("TPN RAG MULTI-MODEL BENCHMARK")
     print("="*80)
     
-    csv_path = "eval/tpn_eval_questions.csv"
+    csv_path = "eval/tpn_mcq_questions_clean.csv"
     
     # Get all available models (Ollama + OpenAI)
     available_models = await get_all_available_models()
@@ -922,7 +943,7 @@ async def main():
     print("TPN RAG System - LangChain Structured Output Evaluation")
     print("============================================================")
     
-    csv_path = "eval/tpn_eval_questions.csv"
+    csv_path = "eval/tpn_mcq_questions_clean.csv"
     
     available_models = await get_all_available_models()
     if not available_models:
