@@ -26,6 +26,7 @@ sys.path.insert(0, str(project_root))
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
 from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
 from src.rag.infrastructure.llm_providers.xai_provider import XAILLMProvider
+from src.rag.infrastructure.llm_providers.gemini_provider import GeminiLLMProvider
 
 
 @dataclass
@@ -60,6 +61,8 @@ class BaselineModelEvaluator:
             self.llm_provider = OpenAILLMProvider(default_model=selected_model)
         elif provider == "xai":
             self.llm_provider = XAILLMProvider(default_model=selected_model)
+        elif provider == "gemini":
+            self.llm_provider = GeminiLLMProvider(default_model=selected_model)
         else:  # ollama
             self.llm_provider = OllamaLLMProvider(default_model=selected_model)
         
@@ -502,11 +505,28 @@ async def get_available_xai_models():
         return []
 
 
+async def get_available_gemini_models():
+    """Get list of available Gemini models (if API key is set)."""
+    try:
+        from src.rag.config.settings import settings
+        
+        if not settings.gemini_api_key:
+            return []
+        
+        provider = GeminiLLMProvider()
+        models = await provider.available_models
+        return models
+    except Exception as e:
+        print(f"Warning: Could not fetch Gemini models: {e}")
+        return []
+
+
 async def get_all_available_models():
-    """Get all available models from Ollama, OpenAI, and xAI."""
+    """Get all available models from Ollama, OpenAI, xAI, and Gemini."""
     ollama_models = await get_available_ollama_models()
     openai_models = await get_available_openai_models()
     xai_models = await get_available_xai_models()
+    gemini_models = await get_available_gemini_models()
     
     # Combine models with provider prefix for clarity
     all_models = []
@@ -520,16 +540,21 @@ async def get_all_available_models():
     if xai_models:
         all_models.extend([("xai", model) for model in xai_models])
     
+    if gemini_models:
+        all_models.extend([("gemini", model) for model in gemini_models])
+    
     return all_models
 
 
 def select_model(available_models):
-    """Interactive model selection from available models (Ollama + OpenAI)."""
+    """Interactive model selection from available models (Ollama + OpenAI + xAI + Gemini)."""
     if not available_models:
         print("\nERROR: No LLM models found.")
         print("Available options:")
         print("  1. Install Ollama models: ollama pull mistral:7b")
         print("  2. Set OpenAI API key: export OPENAI_API_KEY=your_key")
+        print("  3. Set Gemini API key: export GEMINI_API_KEY=your_key")
+        print("  4. Set xAI API key: export XAI_API_KEY=your_key")
         return None, None
     
     print(f"\nAvailable LLM Models ({len(available_models)} found):")
@@ -541,6 +566,15 @@ def select_model(available_models):
         if provider == "openai":
             if "gpt" in model.lower():
                 model_info = " (OpenAI)"
+        elif provider == "xai":
+            model_info = " (xAI Grok)"
+        elif provider == "gemini":
+            if "2.5-pro" in model.lower():
+                model_info = " (Most capable, 1M context)"
+            elif "2.5-flash" in model.lower():
+                model_info = " (Fast & efficient, 1M context)"
+            else:
+                model_info = " (Google Gemini)"
         
         print(f"  {i}. {provider_badge:<10} {model:<30} {model_info}")
     

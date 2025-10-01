@@ -18,6 +18,7 @@ from src.rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
 from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvider
 from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
 from src.rag.infrastructure.llm_providers.xai_provider import XAILLMProvider
+from src.rag.infrastructure.llm_providers.gemini_provider import GeminiLLMProvider
 from src.rag.core.services.hybrid_rag_service import HybridRAGService
 from src.rag.core.models.documents import SearchQuery
 
@@ -193,6 +194,15 @@ class TPNRAGEvaluator:
                     "xAI API is not accessible. Please check:\n"
                     "  1. XAI_API_KEY is set correctly\n"
                     "  2. API key has sufficient credits\n"
+                    "  3. Network connectivity"
+                )
+        elif self.provider == "gemini":
+            llm_provider = GeminiLLMProvider(default_model=self.selected_model)
+            if not await llm_provider.check_health():
+                raise RuntimeError(
+                    "Gemini API is not accessible. Please check:\n"
+                    "  1. GEMINI_API_KEY is set correctly\n"
+                    "  2. API key is valid\n"
                     "  3. Network connectivity"
                 )
         else:  # ollama
@@ -779,11 +789,28 @@ async def get_available_xai_models():
         return []
 
 
+async def get_available_gemini_models():
+    """Get list of available Gemini models (if API key is set)."""
+    try:
+        from src.rag.config.settings import settings
+        
+        if not settings.gemini_api_key:
+            return []
+        
+        provider = GeminiLLMProvider()
+        models = await provider.available_models
+        return models
+    except Exception as e:
+        print(f"Warning: Could not fetch Gemini models: {e}")
+        return []
+
+
 async def get_all_available_models():
-    """Get all available models from Ollama, OpenAI, and xAI."""
+    """Get all available models from Ollama, OpenAI, xAI, and Gemini."""
     ollama_models = await get_available_ollama_models()
     openai_models = await get_available_openai_models()
     xai_models = await get_available_xai_models()
+    gemini_models = await get_available_gemini_models()
     
     # Combine models with provider prefix for clarity
     all_models = []
@@ -797,6 +824,9 @@ async def get_all_available_models():
     if xai_models:
         all_models.extend([("xai", model) for model in xai_models])
     
+    if gemini_models:
+        all_models.extend([("gemini", model) for model in gemini_models])
+    
     return all_models
 
 
@@ -806,8 +836,13 @@ def is_openai_model(model_name: str) -> bool:
     return any(indicator in model_name.lower() for indicator in openai_indicators)
 
 
+def is_gemini_model(model_name: str) -> bool:
+    """Check if a model is from Google Gemini."""
+    return "gemini" in model_name.lower()
+
+
 def select_model(available_models):
-    """Interactive model selection from available models (Ollama + OpenAI)."""
+    """Interactive model selection from available models (Ollama + OpenAI + xAI + Gemini)."""
     if not available_models:
         print("\nERROR: No LLM models found.")
         print("Available options:")
@@ -816,6 +851,10 @@ def select_model(available_models):
         print("     ollama pull mistral:7b")
         print("  2. Set OpenAI API key:")
         print("     export OPENAI_API_KEY=your_api_key")
+        print("  3. Set Gemini API key:")
+        print("     export GEMINI_API_KEY=your_api_key")
+        print("  4. Set xAI API key:")
+        print("     export XAI_API_KEY=your_api_key")
         return None, None
     
     print(f"\nAvailable LLM Models ({len(available_models)} found):")
@@ -852,6 +891,17 @@ def select_model(available_models):
         elif provider == "openai":
             if "gpt" in model.lower():
                 model_info = " (OpenAI)"
+        
+        elif provider == "xai":
+            model_info = " (xAI Grok)"
+        
+        elif provider == "gemini":
+            if "2.5-pro" in model.lower():
+                model_info = " (Most capable, 1M context)"
+            elif "2.5-flash" in model.lower():
+                model_info = " (Fast & efficient, 1M context)"
+            else:
+                model_info = " (Google Gemini)"
             
         print(f"  {i}. {provider_badge:<10} {model:<30} {model_info}")
     
