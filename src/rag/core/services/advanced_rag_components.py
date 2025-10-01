@@ -147,11 +147,9 @@ class AdvancedRAGComponents:
                 
             elif self.rerank_config.provider == "embeddings":
                 # Embeddings-based filtering (no API key needed)
-                self.reranker = EmbeddingsFilter(
-                    embeddings=self.embedding_provider,
-                    similarity_threshold=0.76
-                )
-                print(f"  ✅ Embeddings Filter initialized (threshold=0.76)")
+                # EmbeddingsFilter removed in LangChain 0.3.x, use manual implementation
+                self.reranker = "embeddings"  # Flag for manual implementation
+                print(f"  ✅ Embeddings-based reranking enabled (manual implementation)")
                 
             else:
                 print(f"⚠️  Unknown reranking provider: {self.rerank_config.provider}")
