@@ -365,7 +365,7 @@ Provide your answer in JSON format. Use a single letter for single answers (e.g.
             model_response = await self.rag_service.llm_provider.generate(
                 prompt=prompt_str,
                 temperature=0.0,
-                max_tokens=4000,  # Generous limit for complex reasoning chains
+                max_tokens=8000,  # Very generous limit to prevent any truncation
                 seed=42  # Fixed seed for reproducibility
             )
             

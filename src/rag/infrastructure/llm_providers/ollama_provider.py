@@ -37,7 +37,7 @@ class OllamaLLMProvider(LLMProvider):
                     "num_predict": max_tokens,
                     "temperature": temperature,
                     "top_p": 0.9,
-                    "repeat_penalty": 1.1,
+                    "repeat_penalty": 1.3,  # Higher penalty to prevent reasoning loops
                     "num_ctx": 8192  # Increased context window for thinking models
                 }
                 
