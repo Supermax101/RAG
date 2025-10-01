@@ -334,7 +334,7 @@ class HybridRAGService(RAGService):
                 unique_results.append(result)
         
         # Limit to reasonable number before reranking
-        vector_results.results = unique_results[:50]  # Top 50 for reranking
+        limited_results = unique_results[:50]  # Top 50 for reranking
         
         # STEP 2: Reranking (if enabled)
         # TODO: Implement reranking using ContextualCompressionRetriever
@@ -343,7 +343,17 @@ class HybridRAGService(RAGService):
         if self.advanced_rag and self.advanced_rag.rerank_config.enabled:
             print(f"  ⚡ Reranking enabled ({self.advanced_rag.rerank_config.provider}) - top {self.advanced_rag.rerank_config.top_n}")
             # Limit to top_n after reranking (placeholder until implemented)
-            vector_results.results = vector_results.results[:self.advanced_rag.rerank_config.top_n]
+            limited_results = limited_results[:self.advanced_rag.rerank_config.top_n]
+        
+        # Create new SearchResponse with updated results (can't modify frozen instance)
+        from ..models.documents import SearchResponse
+        vector_results = SearchResponse(
+            query=vector_results.query,
+            results=limited_results,
+            total_results=len(all_results),
+            search_time_ms=vector_results.search_time_ms,
+            model_used=vector_results.model_used
+        )
         
         # STEP 3: Neo4j Graph Search (if enabled)
         if self.neo4j_enabled and hasattr(self, '_last_extracted_entities'):
