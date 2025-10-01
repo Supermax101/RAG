@@ -13,7 +13,7 @@ from typing import List, Dict, Tuple
 class ClinicalKGBuilder:
     """Build knowledge graph focused on ALL clinical content from ASPEN document"""
     
-    def __init__(self, uri="bolt://localhost:7687", user="neo4j", password="password"):
+    def __init__(self, uri="bolt://localhost:7687", user="neo4j", password="medicalpass123"):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
         self.doc_id = "aspen_complete_clinical"
 
