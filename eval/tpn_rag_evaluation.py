@@ -247,18 +247,29 @@ class TPNRAGEvaluator:
             examples=self.few_shot_examples,
         )
         
-        # Final prompt template - simple and clear
+        # Final prompt template - STRICT: only use retrieved sources
         final_prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are a TPN (Total Parenteral Nutrition) clinical specialist answering MCQ (Multiple Choice Questions).
+            ("system", """You are evaluating a RAG (Retrieval Augmented Generation) system for TPN (Total Parenteral Nutrition) guidelines.
 
-Answer based on the provided clinical guidelines.
+CRITICAL INSTRUCTIONS:
+1. You will receive excerpts from 52 medical PDF documents retrieved via:
+   - Vector search (ChromaDB embeddings)
+   - Knowledge graph relationships (Neo4j medical entities)
+2. Answer STRICTLY ONLY based on the information in these retrieved sources below
+3. DO NOT use any prior medical knowledge from your training data
+4. DO NOT guess or infer beyond what the retrieved sources explicitly state
+5. If the retrieved sources lack sufficient information, select the best answer based ONLY on what's provided
+
+This is a RAG evaluation - we are testing if retrieval finds the right information, not your medical knowledge.
 
 Output format:
 {format_instructions}
 
-Select the correct answer(s) from the given options. Most questions have ONE correct answer, but some may have multiple correct answers or special answers like "All of the above" or "None"."""),
+Select the correct answer(s) ONLY if supported by the retrieved clinical guidelines below."""),
             few_shot_prompt,
-            ("human", """CLINICAL GUIDELINES:
+            ("human", """Below are the MOST RELEVANT EXCERPTS retrieved from our hybrid RAG system (52 TPN medical PDFs + Knowledge Graph):
+
+RETRIEVED CLINICAL GUIDELINES:
 {context}
 
 {case_context}
@@ -268,7 +279,7 @@ QUESTION: {question}
 OPTIONS:
 {options}
 
-Provide your answer in JSON format. Use a single letter for single answers (e.g., "A"), comma-separated letters for multiple answers (e.g., "A,B,C"), or special text like "All of the above" or "None" when appropriate.""")
+IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do not use medical knowledge from your training. Answer in JSON format.""")
         ])
         
         return final_prompt
