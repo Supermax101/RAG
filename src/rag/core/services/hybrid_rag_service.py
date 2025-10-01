@@ -254,8 +254,8 @@ class HybridRAGService(RAGService):
                             'content': content_text,
                             'result_type': 'clinical_section'
                         })
-                except Exception as e:
-                    print(f"  ClinicalSection query failed: {e}")
+            except Exception as e:
+                print(f"  ClinicalSection query failed: {e}")
         
         # Strategy 3: Graph Semantic Search (if no results yet)
         if not graph_results and query_text:
