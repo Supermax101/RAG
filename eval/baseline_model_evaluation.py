@@ -571,7 +571,7 @@ async def benchmark_all_baseline_models(max_questions: Optional[int] = None):
     print("BASELINE MODEL BENCHMARK (NO RAG KNOWLEDGE)")
     print("="*80)
     
-    csv_path = "eval/tpn_mcq_questions_clean.csv"
+    csv_path = "eval/tpn_mcq_final.csv"
     
     # Get all available models (Ollama + OpenAI)
     available_models = await get_all_available_models()
@@ -662,7 +662,7 @@ async def main():
     print("No document access - pure model medical knowledge only")
     print("=" * 65)
     
-    csv_path = "eval/tpn_mcq_questions_clean.csv"
+    csv_path = "eval/tpn_mcq_final.csv"
     
     available_models = await get_all_available_models()
     if not available_models:

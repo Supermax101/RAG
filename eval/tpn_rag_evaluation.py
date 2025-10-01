@@ -788,7 +788,7 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
     print("TPN RAG MULTI-MODEL BENCHMARK")
     print("="*80)
     
-    csv_path = "eval/tpn_mcq_questions_clean.csv"
+    csv_path = "eval/tpn_mcq_final.csv"
     
     # Get all available models (Ollama + OpenAI)
     available_models = await get_all_available_models()
@@ -943,7 +943,7 @@ async def main():
     print("TPN RAG System - LangChain Structured Output Evaluation")
     print("============================================================")
     
-    csv_path = "eval/tpn_mcq_questions_clean.csv"
+    csv_path = "eval/tpn_mcq_final.csv"
     
     available_models = await get_all_available_models()
     if not available_models:
