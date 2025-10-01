@@ -44,13 +44,20 @@ async def initialize_tpn_system():
         return False
     
     # Create TPN-specialized HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
+    # Advanced RAG features enabled for maximum accuracy
     rag_service = HybridRAGService(
         embedding_provider=embedding_provider, 
         vector_store=vector_store, 
         llm_provider=llm_provider,
         neo4j_uri="bolt://localhost:7687",
         neo4j_user="neo4j", 
-        neo4j_password="medicalpass123"
+        neo4j_password="medicalpass123",
+        # Advanced RAG Features (ENABLED)
+        enable_reranking=True,  # Embeddings-based, no API key
+        reranking_provider="embeddings",
+        enable_compression=False,  # Disabled
+        enable_query_decomposition=True,
+        enable_validation=True
     )
     
     # Check if we need to load TPN documents with enhanced processing

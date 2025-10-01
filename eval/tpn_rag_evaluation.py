@@ -212,8 +212,7 @@ class TPNRAGEvaluator:
         
         # Use HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
         # Advanced RAG Features Configuration (LangChain 2025 Best Practices)
-        # Enable features based on environment or keep disabled for baseline comparison
-        enable_advanced_features = False  # Set to True to enable all advanced features
+        # Enabled for maximum accuracy
         
         self.rag_service = HybridRAGService(
             embedding_provider=embedding_provider, 
@@ -222,12 +221,12 @@ class TPNRAGEvaluator:
             neo4j_uri="bolt://localhost:7687",
             neo4j_user="neo4j", 
             neo4j_password="medicalpass123",
-            # Advanced RAG Features (NEW)
-            enable_reranking=enable_advanced_features,
+            # Advanced RAG Features (ENABLED for max accuracy)
+            enable_reranking=True,  # Embeddings-based reranking (no API key)
             reranking_provider="embeddings",  # No API key needed
-            enable_compression=enable_advanced_features,
-            enable_query_decomposition=False,  # Expensive, disable by default
-            enable_validation=False,  # For MCQ we don't need validation
+            enable_compression=False,  # Disabled per user request
+            enable_query_decomposition=True,  # Improves complex questions
+            enable_validation=True,  # Prevents hallucinations
             cohere_api_key=None,  # Add your Cohere key if using Cohere reranking
             jina_api_key=None  # Add your Jina key if using Jina reranking
         )
