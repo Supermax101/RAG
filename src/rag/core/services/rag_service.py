@@ -110,6 +110,21 @@ class RAGService:
         # Step 1: Extract entities and relationships
         er_data = await self.extract_query_er(query.query)
         
+        # FIX BUG #1: Store extracted entities for HybridRAGService to use
+        if er_data and er_data.get("entities"):
+            # Convert entity dict to list of entity names for graph search
+            entity_list = []
+            for entity_type, entity_values in er_data["entities"].items():
+                if isinstance(entity_values, dict):
+                    entity_list.extend([v for v in entity_values.values() if v])
+                elif isinstance(entity_values, list):
+                    entity_list.extend(entity_values)
+            
+            self._last_extracted_entities = entity_list
+            print(f"📊 Extracted entities: {entity_list[:5]}")
+        else:
+            self._last_extracted_entities = []
+        
         # Step 2: Multi-strategy search
         all_results = []
         

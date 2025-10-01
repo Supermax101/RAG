@@ -350,11 +350,22 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
             if not search_response.results:
                 raise RuntimeError("No search results found")
             
-            # STEP 2: Build context from retrieved chunks
+            # STEP 2: Build context from retrieved chunks + Neo4j graph (HYBRID RAG)
             context_parts = []
+            
+            # Vector search results (ChromaDB)
             for i, result in enumerate(search_response.results, 1):
                 doc_name = result.document_name[:50]
-                context_parts.append(f"[Source {i}: {doc_name}]\n{result.content}")
+                context_parts.append(f"[ChromaDB Vector {i}: {doc_name}]\n{result.content}")
+            
+            # FIX BUG #2: Merge Neo4j graph context if available
+            graph_context_added = False
+            if hasattr(self.rag_service, '_graph_context') and self.rag_service._graph_context:
+                context_parts.append("\n--- KNOWLEDGE GRAPH RELATIONSHIPS (Neo4j) ---")
+                context_parts.append(self.rag_service._graph_context)
+                graph_context_added = True
+                print(f"  ✅ Added Neo4j graph context ({len(self.rag_service._graph_context)} chars)")
+            
             context = "\n\n".join(context_parts)
             
             # STEP 3: Build structured prompt with LangChain
@@ -433,8 +444,15 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
             model_normalized = self.normalize_answer(model_answer_raw)
             is_correct = self.answers_match(model_answer_raw, correct_option, options)
             
-            # Build result
+            # Build result with graph metrics (FIX BUG #4)
             contexts = [source.content for source in search_response.results]
+            
+            # Get Neo4j graph metrics if available
+            graph_results_count = 0
+            graph_used = False
+            if hasattr(self.rag_service, '_graph_result_count'):
+                graph_results_count = self.rag_service._graph_result_count
+                graph_used = graph_results_count > 0
             
             result = {
                 "question_id": question_id,
@@ -452,13 +470,16 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
                 "is_correct": is_correct,
                 "full_rag_answer": model_response,
                 "num_sources": len(search_response.results),
+                "num_graph_results": graph_results_count,  # NEW: Neo4j results count
+                "graph_used": graph_used,  # NEW: Whether graph was used
                 "response_time_ms": search_response.search_time_ms,
                 "model_used": self.selected_model,
                 "error": None
             }
             
             status = "CORRECT" if is_correct else "WRONG"
-            print(f"  Expected: {correct_normalized}, Got: {model_normalized} ({confidence} confidence) - {status}")
+            graph_info = f" [+{graph_results_count} graph]" if graph_used else ""
+            print(f"  Expected: {correct_normalized}, Got: {model_normalized} ({confidence} confidence) - {status}{graph_info}")
             
             return result
             
@@ -541,18 +562,40 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
         print(f"System Errors: {system_errors}")
         print(f"Accuracy: {accuracy:.2f}%")
         print(f"Average Response Time: {avg_response_time:.1f}ms")
+        
+        # Calculate and display graph metrics
+        questions_with_graph_preview = sum(1 for r in results if r.get("graph_used", False))
+        total_graph_results_preview = sum(r.get("num_graph_results", 0) for r in results)
+        
+        print(f"\n📊 Neo4j Knowledge Graph Statistics:")
+        print(f"  - Questions with graph context: {questions_with_graph_preview}/{total_questions}")
+        print(f"  - Total graph results: {total_graph_results_preview}")
+        if questions_with_graph_preview > 0:
+            print(f"  - Avg graph results per question: {total_graph_results_preview/questions_with_graph_preview:.1f}")
+        else:
+            print(f"  - ⚠️  Graph not used (check Neo4j connection)")
+        
         print(f"{'='*60}")
+        
+        # Calculate graph usage statistics (FIX BUG #4)
+        questions_with_graph = sum(1 for r in results if r.get("graph_used", False))
+        total_graph_results = sum(r.get("num_graph_results", 0) for r in results)
+        avg_graph_results = total_graph_results / max(questions_with_graph, 1) if questions_with_graph > 0 else 0
         
         # Build evaluation summary
         evaluation_summary = {
             "model_used": self.selected_model,
-            "approach": "langchain_structured_output",
+            "approach": "hybrid_rag_chromadb_neo4j",  # Updated to reflect true architecture
             "total_questions": total_questions,
             "correct_answers": correct_answers,
             "wrong_answers": wrong_answers,
             "system_errors": system_errors,
             "accuracy": accuracy,
             "average_response_time_ms": avg_response_time,
+            "neo4j_graph_used": questions_with_graph > 0,  # NEW: Was Neo4j used?
+            "questions_with_graph_context": questions_with_graph,  # NEW: How many questions used graph?
+            "total_graph_results": total_graph_results,  # NEW: Total graph results across all questions
+            "avg_graph_results_per_question": avg_graph_results,  # NEW: Average graph results per question
             "individual_results": results,
             "ragas_metrics": {}
         }
