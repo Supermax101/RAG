@@ -26,6 +26,7 @@ dependencies = [
     "langchain-community>=0.2.0",
     "langchain-core>=0.2.0",
     "langchain-text-splitters>=0.2.0",
+    "langchain-neo4j>=0.1.0",
     "langgraph>=0.1.0",
     # Document processing and chunking
     "pdfplumber>=0.11.0",
