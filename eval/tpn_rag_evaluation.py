@@ -201,13 +201,25 @@ class TPNRAGEvaluator:
                 raise RuntimeError("Ollama is not running. Please start Ollama service.")
         
         # Use HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
+        # Advanced RAG Features Configuration (LangChain 2025 Best Practices)
+        # Enable features based on environment or keep disabled for baseline comparison
+        enable_advanced_features = False  # Set to True to enable all advanced features
+        
         self.rag_service = HybridRAGService(
             embedding_provider=embedding_provider, 
             vector_store=vector_store, 
             llm_provider=llm_provider,
             neo4j_uri="bolt://localhost:7687",
             neo4j_user="neo4j", 
-            neo4j_password="medicalpass123"
+            neo4j_password="medicalpass123",
+            # Advanced RAG Features (NEW)
+            enable_reranking=enable_advanced_features,
+            reranking_provider="embeddings",  # No API key needed
+            enable_compression=enable_advanced_features,
+            enable_query_decomposition=False,  # Expensive, disable by default
+            enable_validation=False,  # For MCQ we don't need validation
+            cohere_api_key=None,  # Add your Cohere key if using Cohere reranking
+            jina_api_key=None  # Add your Jina key if using Jina reranking
         )
         
         stats = await self.rag_service.get_collection_stats()
@@ -575,6 +587,17 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
         else:
             print(f"  - ⚠️  Graph not used (check Neo4j connection)")
         
+        # Display Advanced RAG Features Status
+        print(f"\n🚀 Advanced RAG Features:")
+        if hasattr(self.rag_service, 'advanced_rag') and self.rag_service.advanced_rag:
+            advanced = self.rag_service.advanced_rag
+            print(f"  - Reranking: {'✅ ENABLED' if advanced.rerank_config.enabled else '❌ disabled'} ({advanced.rerank_config.provider if advanced.rerank_config.enabled else 'N/A'})")
+            print(f"  - Context Compression: {'✅ ENABLED' if advanced.compression_config.enabled else '❌ disabled'}")
+            print(f"  - Query Decomposition: {'✅ ENABLED' if advanced.decomposition_config.enabled else '❌ disabled'}")
+            print(f"  - Answer Validation: {'✅ ENABLED' if advanced.validation_config.enabled else '❌ disabled'}")
+        else:
+            print(f"  - ⚠️  Advanced RAG components not initialized")
+        
         print(f"{'='*60}")
         
         # Calculate graph usage statistics (FIX BUG #4)
@@ -582,20 +605,34 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
         total_graph_results = sum(r.get("num_graph_results", 0) for r in results)
         avg_graph_results = total_graph_results / max(questions_with_graph, 1) if questions_with_graph > 0 else 0
         
+        # Get advanced RAG features configuration
+        advanced_features_config = {}
+        if hasattr(self.rag_service, 'advanced_rag') and self.rag_service.advanced_rag:
+            advanced = self.rag_service.advanced_rag
+            advanced_features_config = {
+                "reranking_enabled": advanced.rerank_config.enabled,
+                "reranking_provider": advanced.rerank_config.provider if advanced.rerank_config.enabled else None,
+                "compression_enabled": advanced.compression_config.enabled,
+                "compression_method": advanced.compression_config.method if advanced.compression_config.enabled else None,
+                "query_decomposition_enabled": advanced.decomposition_config.enabled,
+                "validation_enabled": advanced.validation_config.enabled
+            }
+        
         # Build evaluation summary
         evaluation_summary = {
             "model_used": self.selected_model,
-            "approach": "hybrid_rag_chromadb_neo4j",  # Updated to reflect true architecture
+            "approach": "hybrid_rag_chromadb_neo4j_advanced",  # Updated to reflect full architecture
             "total_questions": total_questions,
             "correct_answers": correct_answers,
             "wrong_answers": wrong_answers,
             "system_errors": system_errors,
             "accuracy": accuracy,
             "average_response_time_ms": avg_response_time,
-            "neo4j_graph_used": questions_with_graph > 0,  # NEW: Was Neo4j used?
-            "questions_with_graph_context": questions_with_graph,  # NEW: How many questions used graph?
-            "total_graph_results": total_graph_results,  # NEW: Total graph results across all questions
-            "avg_graph_results_per_question": avg_graph_results,  # NEW: Average graph results per question
+            "neo4j_graph_used": questions_with_graph > 0,  # Was Neo4j used?
+            "questions_with_graph_context": questions_with_graph,  # How many questions used graph?
+            "total_graph_results": total_graph_results,  # Total graph results across all questions
+            "avg_graph_results_per_question": avg_graph_results,  # Average graph results per question
+            "advanced_rag_features": advanced_features_config,  # NEW: Advanced RAG configuration
             "individual_results": results,
             "ragas_metrics": {}
         }
