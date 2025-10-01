@@ -352,7 +352,7 @@ Provide your answer in JSON format. Use a single letter for single answers (e.g.
             formatted_prompt = prompt_template.format_messages(
                 format_instructions=self.parser.get_format_instructions(),
                 context=context,
-                case_context=f"CASE CONTEXT: {case_context}" if case_context else "",
+                case_context=f"CLINICAL CASE:\n{case_context}\n" if case_context else "",
                 question=question,
                 options=options
             )
