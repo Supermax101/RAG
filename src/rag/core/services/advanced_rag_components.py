@@ -29,6 +29,8 @@ except ImportError:
     LLMChainExtractor = None
     EmbeddingsFilter = None
     MultiQueryRetriever = None
+    PromptTemplate = None
+    StrOutputParser = None
 
 
 class RerankingConfig(BaseModel):
