@@ -182,7 +182,7 @@ Select the correct answer(s). Most questions have one answer, but some may have 
                 prompt=prompt,
                 model=self.selected_model,
                 temperature=0.0,  # Zero temperature for deterministic answers
-                max_tokens=2000,  # Extra space to ensure reasoning completes before answer
+                max_tokens=4000,  # Generous limit for complex reasoning chains
                 seed=42  # Fixed seed for reproducibility
             )
             
