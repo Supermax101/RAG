@@ -27,6 +27,10 @@ class Settings(BaseSettings):
     gemini_api_key: Optional[str] = Field(default=None, alias="GEMINI_API_KEY")
     gemini_base_url: str = Field(default="https://generativelanguage.googleapis.com/v1beta", alias="GEMINI_BASE_URL")
     
+    # Kimi K2 (Moonshot AI) Settings
+    kimi_api_key: Optional[str] = Field(default=None, alias="KIMI_API_KEY")
+    kimi_base_url: str = Field(default="https://api.moonshot.cn/v1", alias="KIMI_BASE_URL")
+    
     # Ollama Configuration
     ollama_base_url: str = Field(default="http://localhost:11434", alias="OLLAMA_BASE_URL")
     # Option 1: nomic-embed-text (original, 768 dims)

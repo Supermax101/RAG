@@ -27,6 +27,7 @@ from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvid
 from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
 from src.rag.infrastructure.llm_providers.xai_provider import XAILLMProvider
 from src.rag.infrastructure.llm_providers.gemini_provider import GeminiLLMProvider
+from src.rag.infrastructure.llm_providers.kimi_provider import KimiLLMProvider
 
 
 @dataclass
@@ -63,6 +64,8 @@ class BaselineModelEvaluator:
             self.llm_provider = XAILLMProvider(default_model=selected_model)
         elif provider == "gemini":
             self.llm_provider = GeminiLLMProvider(default_model=selected_model)
+        elif provider == "kimi":
+            self.llm_provider = KimiLLMProvider(default_model=selected_model)
         else:  # ollama
             self.llm_provider = OllamaLLMProvider(default_model=selected_model)
         

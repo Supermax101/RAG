@@ -19,6 +19,7 @@ from src.rag.infrastructure.llm_providers.ollama_provider import OllamaLLMProvid
 from src.rag.infrastructure.llm_providers.openai_provider import OpenAILLMProvider
 from src.rag.infrastructure.llm_providers.xai_provider import XAILLMProvider
 from src.rag.infrastructure.llm_providers.gemini_provider import GeminiLLMProvider
+from src.rag.infrastructure.llm_providers.kimi_provider import KimiLLMProvider
 from src.rag.core.services.hybrid_rag_service import HybridRAGService
 from src.rag.core.models.documents import SearchQuery
 
@@ -205,30 +206,38 @@ class TPNRAGEvaluator:
                     "  2. API key is valid\n"
                     "  3. Network connectivity"
                 )
+        elif self.provider == "kimi":
+            llm_provider = KimiLLMProvider(default_model=self.selected_model)
+            if not await llm_provider.check_health():
+                raise RuntimeError(
+                    "Kimi K2 API is not accessible. Please check:\n"
+                    "  1. KIMI_API_KEY is set in .env\n"
+                    "  2. API key is valid (from https://platform.moonshot.cn)\n"
+                    "  3. Network connectivity"
+                )
         else:  # ollama
             llm_provider = OllamaLLMProvider(default_model=self.selected_model)
             if not await llm_provider.check_health():
                 raise RuntimeError("Ollama is not running. Please start Ollama service.")
         
-        # Use HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
-        # Advanced RAG Features Configuration (LangChain 2025 Best Practices)
-        # Enabled for maximum accuracy
+        # Use HYBRID RAG service - Neo4j DISABLED for cleaner evaluation
+        # Focus on vector search (ChromaDB) + LangChain/LangGraph only
         
         self.rag_service = HybridRAGService(
             embedding_provider=embedding_provider, 
             vector_store=vector_store, 
             llm_provider=llm_provider,
-            neo4j_uri="bolt://localhost:7687",
+            neo4j_uri=None,  # DISABLED - vector search only
             neo4j_user="neo4j", 
             neo4j_password="medicalpass123",
-            # Advanced RAG Features (ENABLED for max accuracy)
-            enable_reranking=True,  # Embeddings-based reranking (no API key)
-            reranking_provider="embeddings",  # No API key needed
-            enable_compression=False,  # Disabled per user request
-            enable_query_decomposition=True,  # Improves complex questions
-            enable_validation=True,  # Prevents hallucinations
-            cohere_api_key=None,  # Add your Cohere key if using Cohere reranking
-            jina_api_key=None  # Add your Jina key if using Jina reranking
+            # Advanced RAG Features (OPTIMIZED for MCQ)
+            enable_reranking=True,  # Embeddings-based reranking
+            reranking_provider="embeddings",
+            enable_compression=False,  # Disabled
+            enable_query_decomposition=False,  # DISABLED - MCQs are straightforward
+            enable_validation=False,  # DISABLED - for MCQ we just need the answer
+            cohere_api_key=None,
+            jina_api_key=None
         )
         
         stats = await self.rag_service.get_collection_stats()
@@ -365,7 +374,8 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
             # STEP 1: Search with clean question
             full_question = f"{case_context}\n\n{question}".strip() if case_context else question
             
-            search_query = SearchQuery(query=full_question, limit=15)
+            # Reduced from 15 to 5 to prevent information overload
+            search_query = SearchQuery(query=full_question, limit=5)
             search_response = await self.rag_service.search(search_query)
             
             if not search_response.results:
@@ -804,12 +814,29 @@ async def get_available_gemini_models():
         return []
 
 
+async def get_available_kimi_models():
+    """Get list of available Kimi K2 models (if API key is set)."""
+    try:
+        from src.rag.config.settings import settings
+        
+        if not settings.kimi_api_key:
+            return []
+        
+        provider = KimiLLMProvider()
+        models = await provider.available_models
+        return models
+    except Exception as e:
+        print(f"Warning: Could not fetch Kimi models: {e}")
+        return []
+
+
 async def get_all_available_models():
-    """Get all available models from Ollama, OpenAI, xAI, and Gemini."""
+    """Get all available models from Ollama, OpenAI, xAI, Gemini, and Kimi K2."""
     ollama_models = await get_available_ollama_models()
     openai_models = await get_available_openai_models()
     xai_models = await get_available_xai_models()
     gemini_models = await get_available_gemini_models()
+    kimi_models = await get_available_kimi_models()
     
     # Combine models with provider prefix for clarity
     all_models = []
@@ -825,6 +852,9 @@ async def get_all_available_models():
     
     if gemini_models:
         all_models.extend([("gemini", model) for model in gemini_models])
+    
+    if kimi_models:
+        all_models.extend([("kimi", model) for model in kimi_models])
     
     return all_models
 
@@ -901,6 +931,12 @@ def select_model(available_models):
                 model_info = " (Fast & efficient, 1M context)"
             else:
                 model_info = " (Google Gemini)"
+        
+        elif provider == "kimi":
+            if "k2" in model.lower():
+                model_info = " (1T MoE, 32B active, 256K context)"
+            else:
+                model_info = " (Moonshot AI)"
             
         print(f"  {i}. {provider_badge:<10} {model:<30} {model_info}")
     
