@@ -43,23 +43,13 @@ async def initialize_tpn_system():
         print("   ollama pull mistral:7b")
         return False
     
-    # Create TPN-specialized HYBRID RAG service (ChromaDB + LangChain + LangGraph)
-    # Neo4j DISABLED by default - vector search only for simplicity
-    # 2025 Advanced RAG features enabled for maximum accuracy
+    # Create TPN-specialized RAG service (ChromaDB + 2025 Advanced RAG features)
+    # Vector search only - Neo4j graph database disabled for simplicity
     rag_service = HybridRAGService(
         embedding_provider=embedding_provider, 
         vector_store=vector_store, 
         llm_provider=llm_provider,
-        neo4j_uri=None,  # DISABLED - set to "bolt://localhost:7687" to enable Neo4j
-        neo4j_user="neo4j", 
-        neo4j_password="medicalpass123",
-        # Legacy Advanced RAG Features (DISABLED - using 2025 features instead)
-        enable_reranking=False,  # Replaced by cross-encoder reranking
-        reranking_provider="embeddings",
-        enable_compression=False,  # Disabled
-        enable_query_decomposition=False,  # Replaced by query rewriting
-        enable_validation=True,
-        # 2025 Advanced RAG Features (ENABLED - Cutting Edge!)
+        # 2025 Advanced RAG Features (ENABLED)
         enable_advanced_2025=True  # Cross-encoder, HyDE, Query Rewriting, Adaptive Retrieval
     )
     
@@ -196,16 +186,11 @@ async def run_tpn_specialist_demo():
     vector_store = ChromaVectorStore()
     llm_provider = OllamaLLMProvider(default_model=selected_model)
     
-    # Create HYBRID RAG service with 2025 Advanced Features
-    # Neo4j DISABLED - vector search only
+    # Create RAG service with 2025 Advanced Features
     rag_service = HybridRAGService(
         embedding_provider=embedding_provider, 
         vector_store=vector_store, 
         llm_provider=llm_provider,
-        neo4j_uri=None,  # DISABLED
-        neo4j_user="neo4j", 
-        neo4j_password="medicalpass123",
-        # 2025 Advanced RAG Features enabled
         enable_advanced_2025=True
     )
     
@@ -259,11 +244,6 @@ async def run_tpn_specialist_demo():
         except Exception as e:
             print(f"❌ TPN System Error: {e}")
             print("Please try rephrasing your TPN question.")
-    
-    # Close Neo4j connection
-    if hasattr(rag_service, 'close'):
-        rag_service.close()
-        print("🔌 Neo4j connection closed")
 
 
 async def start_api_server():

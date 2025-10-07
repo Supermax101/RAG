@@ -220,25 +220,14 @@ class TPNRAGEvaluator:
             if not await llm_provider.check_health():
                 raise RuntimeError("Ollama is not running. Please start Ollama service.")
         
-        # Use HYBRID RAG service - Neo4j DISABLED for cleaner evaluation
-        # Focus on vector search (ChromaDB) + 2025 Advanced RAG features only
+        # Use RAG service with vector search (ChromaDB) + 2025 Advanced RAG features
+        # Neo4j graph database is disabled for simplicity
         
         self.rag_service = HybridRAGService(
             embedding_provider=embedding_provider, 
             vector_store=vector_store, 
             llm_provider=llm_provider,
-            neo4j_uri=None,  # DISABLED - vector search only (no graph overhead)
-            neo4j_user="neo4j", 
-            neo4j_password="medicalpass123",
-            # Legacy Advanced RAG Features (DISABLED)
-            enable_reranking=False,  # Replaced by cross-encoder
-            reranking_provider="embeddings",
-            enable_compression=False,
-            enable_query_decomposition=False,
-            enable_validation=False,
-            cohere_api_key=None,
-            jina_api_key=None,
-            # 2025 Advanced RAG Features (ENABLED - Cutting Edge!)
+            # 2025 Advanced RAG Features (ENABLED)
             enable_advanced_2025=True  # Cross-encoder, HyDE, Query Rewriting, Adaptive Retrieval
         )
         
@@ -249,10 +238,8 @@ class TPNRAGEvaluator:
         print(f"RAG system ready: {stats['total_chunks']} chunks from {stats['total_documents']} documents")
     
     def cleanup(self):
-        """Clean up resources including Neo4j connections."""
-        if self.rag_service and hasattr(self.rag_service, 'close'):
-            self.rag_service.close()
-            print("🔌 Neo4j connection closed")
+        """Clean up resources."""
+        pass  # No cleanup needed when Neo4j is disabled
     
     def load_mcq_questions(self) -> pd.DataFrame:
         """Load MCQ questions from CSV file."""
@@ -391,17 +378,6 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
                 doc_name = result.document_name[:50]
                 context_parts.append(f"[ChromaDB Vector {i}: {doc_name}]\n{result.content}")
             
-            # Neo4j graph context (DISABLED - neo4j_uri=None)
-            # NOTE: Neo4j is disabled in this evaluation for simplicity
-            # Graph context will not be added even if available
-            graph_context_added = False
-            if hasattr(self.rag_service, '_graph_context') and self.rag_service._graph_context:
-                # This code path should not execute since Neo4j is disabled
-                context_parts.append("\n--- KNOWLEDGE GRAPH RELATIONSHIPS (Neo4j) ---")
-                context_parts.append(self.rag_service._graph_context)
-                graph_context_added = True
-                print(f"  ✅ Added Neo4j graph context ({len(self.rag_service._graph_context)} chars)")
-            
             context = "\n\n".join(context_parts)
             
             # STEP 3: Build structured prompt with LangChain
@@ -480,15 +456,8 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
             model_normalized = self.normalize_answer(model_answer_raw)
             is_correct = self.answers_match(model_answer_raw, correct_option, options)
             
-            # Build result with graph metrics (FIX BUG #4)
+            # Build result
             contexts = [source.content for source in search_response.results]
-            
-            # Get Neo4j graph metrics if available
-            graph_results_count = 0
-            graph_used = False
-            if hasattr(self.rag_service, '_graph_result_count'):
-                graph_results_count = self.rag_service._graph_result_count
-                graph_used = graph_results_count > 0
             
             result = {
                 "question_id": question_id,
@@ -506,16 +475,13 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
                 "is_correct": is_correct,
                 "full_rag_answer": model_response,
                 "num_sources": len(search_response.results),
-                "num_graph_results": graph_results_count,  # NEW: Neo4j results count
-                "graph_used": graph_used,  # NEW: Whether graph was used
                 "response_time_ms": search_response.search_time_ms,
                 "model_used": self.selected_model,
                 "error": None
             }
             
             status = "CORRECT" if is_correct else "WRONG"
-            graph_info = f" [+{graph_results_count} graph]" if graph_used else ""
-            print(f"  Expected: {correct_normalized}, Got: {model_normalized} ({confidence} confidence) - {status}{graph_info}")
+            print(f"  Expected: {correct_normalized}, Got: {model_normalized} ({confidence} confidence) - {status}")
             
             return result
             
@@ -599,18 +565,6 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
         print(f"Accuracy: {accuracy:.2f}%")
         print(f"Average Response Time: {avg_response_time:.1f}ms")
         
-        # Calculate and display graph metrics (should be zero since Neo4j is disabled)
-        questions_with_graph_preview = sum(1 for r in results if r.get("graph_used", False))
-        total_graph_results_preview = sum(r.get("num_graph_results", 0) for r in results)
-        
-        print(f"\n📊 Neo4j Knowledge Graph Statistics:")
-        print(f"  - Neo4j Status: DISABLED (vector search only)")
-        print(f"  - Questions with graph context: {questions_with_graph_preview}/{total_questions}")
-        print(f"  - Total graph results: {total_graph_results_preview}")
-        if questions_with_graph_preview > 0:
-            print(f"  - Avg graph results per question: {total_graph_results_preview/questions_with_graph_preview:.1f}")
-        else:
-            print(f"  - ℹ️  Graph disabled for this evaluation")
         
         # Display Advanced RAG Features Status
         print(f"\n🚀 Advanced RAG Features:")
@@ -624,11 +578,6 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
             print(f"  - ⚠️  Advanced RAG components not initialized")
         
         print(f"{'='*60}")
-        
-        # Calculate graph usage statistics (FIX BUG #4)
-        questions_with_graph = sum(1 for r in results if r.get("graph_used", False))
-        total_graph_results = sum(r.get("num_graph_results", 0) for r in results)
-        avg_graph_results = total_graph_results / max(questions_with_graph, 1) if questions_with_graph > 0 else 0
         
         # Get advanced RAG features configuration
         advanced_features_config = {}
@@ -646,18 +595,14 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
         # Build evaluation summary
         evaluation_summary = {
             "model_used": self.selected_model,
-            "approach": "hybrid_rag_chromadb_neo4j_advanced",  # Updated to reflect full architecture
+            "approach": "rag_chromadb_advanced_2025",
             "total_questions": total_questions,
             "correct_answers": correct_answers,
             "wrong_answers": wrong_answers,
             "system_errors": system_errors,
             "accuracy": accuracy,
             "average_response_time_ms": avg_response_time,
-            "neo4j_graph_used": questions_with_graph > 0,  # Was Neo4j used?
-            "questions_with_graph_context": questions_with_graph,  # How many questions used graph?
-            "total_graph_results": total_graph_results,  # Total graph results across all questions
-            "avg_graph_results_per_question": avg_graph_results,  # Average graph results per question
-            "advanced_rag_features": advanced_features_config,  # NEW: Advanced RAG configuration
+            "advanced_rag_features": advanced_features_config,
             "individual_results": results,
             "ragas_metrics": {}
         }
@@ -1171,7 +1116,7 @@ async def main():
         import traceback
         traceback.print_exc()
     finally:
-        # Clean up Neo4j connections
+        # Clean up resources
         if evaluator:
             evaluator.cleanup()
 
