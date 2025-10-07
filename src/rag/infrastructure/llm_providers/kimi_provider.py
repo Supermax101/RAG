@@ -11,7 +11,7 @@ from ...config.settings import settings
 class KimiLLMProvider(LLMProvider):
     """Kimi K2 (Moonshot AI) LLM provider using OpenAI-compatible API."""
 
-    def __init__(self, api_key: Optional[str] = None, default_model: str = "moonshot-kimi-k2-v1"):
+    def __init__(self, api_key: Optional[str] = None, default_model: str = "kimi-k2-0905-preview"):
         self.api_key = api_key or settings.kimi_api_key
         self.default_model = default_model
         self.base_url = settings.kimi_base_url
@@ -80,7 +80,7 @@ class KimiLLMProvider(LLMProvider):
         
         # Fallback to known models
         self._available_models = [
-            "moonshot-kimi-k2-v1",
+            "kimi-k2-0905-preview",
             "moonshot-v1-8k",
             "moonshot-v1-32k",
             "moonshot-v1-128k"
