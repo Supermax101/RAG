@@ -40,7 +40,7 @@ class Settings(BaseSettings):
     ollama_llm_model: str = Field(default="mistral:7b", alias="OLLAMA_LLM_MODEL")
     
     # ChromaDB Configuration
-    chroma_collection_name: str = Field(default="tpn_documents", alias="CHROMA_COLLECTION_NAME")
+    chroma_collection_name: str = Field(default="medical_docs", alias="CHROMA_COLLECTION_NAME")
     
     # RAG Configuration
     default_search_limit: int = Field(default=5, alias="DEFAULT_SEARCH_LIMIT")
