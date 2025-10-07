@@ -43,21 +43,24 @@ async def initialize_tpn_system():
         print("   ollama pull mistral:7b")
         return False
     
-    # Create TPN-specialized HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)
-    # Advanced RAG features enabled for maximum accuracy
+    # Create TPN-specialized HYBRID RAG service (ChromaDB + LangChain + LangGraph)
+    # Neo4j DISABLED by default - vector search only for simplicity
+    # 2025 Advanced RAG features enabled for maximum accuracy
     rag_service = HybridRAGService(
         embedding_provider=embedding_provider, 
         vector_store=vector_store, 
         llm_provider=llm_provider,
-        neo4j_uri="bolt://localhost:7687",
+        neo4j_uri=None,  # DISABLED - set to "bolt://localhost:7687" to enable Neo4j
         neo4j_user="neo4j", 
         neo4j_password="medicalpass123",
-        # Advanced RAG Features (ENABLED)
-        enable_reranking=True,  # Embeddings-based, no API key
+        # Legacy Advanced RAG Features (DISABLED - using 2025 features instead)
+        enable_reranking=False,  # Replaced by cross-encoder reranking
         reranking_provider="embeddings",
         enable_compression=False,  # Disabled
-        enable_query_decomposition=True,
-        enable_validation=True
+        enable_query_decomposition=False,  # Replaced by query rewriting
+        enable_validation=True,
+        # 2025 Advanced RAG Features (ENABLED - Cutting Edge!)
+        enable_advanced_2025=True  # Cross-encoder, HyDE, Query Rewriting, Adaptive Retrieval
     )
     
     # Check if we need to load TPN documents with enhanced processing
@@ -193,14 +196,17 @@ async def run_tpn_specialist_demo():
     vector_store = ChromaVectorStore()
     llm_provider = OllamaLLMProvider(default_model=selected_model)
     
-    # Create HYBRID RAG service (ChromaDB + Neo4j + LangChain + LangGraph)  
+    # Create HYBRID RAG service with 2025 Advanced Features
+    # Neo4j DISABLED - vector search only
     rag_service = HybridRAGService(
         embedding_provider=embedding_provider, 
         vector_store=vector_store, 
         llm_provider=llm_provider,
-        neo4j_uri="bolt://localhost:7687",
+        neo4j_uri=None,  # DISABLED
         neo4j_user="neo4j", 
-        neo4j_password="medicalpass123"
+        neo4j_password="medicalpass123",
+        # 2025 Advanced RAG Features enabled
+        enable_advanced_2025=True
     )
     
     print(f"\n🏥 TPN Clinical Specialist - Interactive Demo (Using {selected_model})")

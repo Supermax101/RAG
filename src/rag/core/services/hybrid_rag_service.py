@@ -43,6 +43,16 @@ except ImportError:
     QueryDecompositionConfig = None
     ValidationConfig = None
 
+# 2025 Advanced RAG Improvements
+try:
+    from .advanced_rag_2025 import AdvancedRAG2025, AdvancedRAG2025Config
+    ADVANCED_RAG_2025_AVAILABLE = True
+except ImportError:
+    print("⚠️  Advanced RAG 2025 not available")
+    ADVANCED_RAG_2025_AVAILABLE = False
+    AdvancedRAG2025 = None
+    AdvancedRAG2025Config = None
+
 
 class HybridRAGService(RAGService):
     """Enhanced RAG with both vector and graph retrieval
@@ -60,9 +70,9 @@ class HybridRAGService(RAGService):
         embedding_provider,
         vector_store,
         llm_provider,
-        neo4j_uri="bolt://localhost:7687",
-        neo4j_user="neo4j",
-        neo4j_password="medicalpass123",
+        neo4j_uri: Optional[str] = None,  # DISABLED by default - set to bolt://localhost:7687 to enable
+        neo4j_user: str = "neo4j",
+        neo4j_password: str = "medicalpass123",
         # Advanced RAG configurations
         enable_reranking: bool = False,
         reranking_provider: str = "embeddings",  # cohere, jina, or embeddings
@@ -70,7 +80,10 @@ class HybridRAGService(RAGService):
         enable_query_decomposition: bool = False,
         enable_validation: bool = False,
         cohere_api_key: Optional[str] = None,
-        jina_api_key: Optional[str] = None
+        jina_api_key: Optional[str] = None,
+        # 2025 Advanced RAG Improvements
+        enable_advanced_2025: bool = True,  # Enable cutting-edge 2025 features
+        advanced_2025_config: Optional[Any] = None
     ):
         super().__init__(embedding_provider, vector_store, llm_provider)
         
@@ -79,7 +92,11 @@ class HybridRAGService(RAGService):
         self.graph = None
         self.cypher_chain = None
         
-        if not LANGCHAIN_NEO4J_AVAILABLE:
+        # Neo4j is DISABLED by default - only enable if URI is explicitly provided
+        if neo4j_uri is None:
+            print("ℹ️  Neo4j DISABLED (vector search only)")
+            print("   To enable: pass neo4j_uri='bolt://localhost:7687' to HybridRAGService")
+        elif not LANGCHAIN_NEO4J_AVAILABLE:
             print("⚠️  LangChain Neo4j integration not available - vector search only")
         else:
             try:
@@ -152,6 +169,22 @@ class HybridRAGService(RAGService):
             except Exception as e:
                 print(f"⚠️  Failed to initialize advanced RAG components: {e}")
                 self.advanced_rag = None
+        
+        # Initialize 2025 Advanced RAG Improvements (NEW - Cutting Edge)
+        self.advanced_2025 = None
+        if ADVANCED_RAG_2025_AVAILABLE and enable_advanced_2025:
+            try:
+                config_2025 = advanced_2025_config or AdvancedRAG2025Config()
+                
+                self.advanced_2025 = AdvancedRAG2025(
+                    llm_provider=llm_provider,
+                    embedding_provider=embedding_provider,
+                    config=config_2025
+                )
+                
+            except Exception as e:
+                print(f"⚠️  Failed to initialize 2025 advanced RAG: {e}")
+                self.advanced_2025 = None
     
     def _create_performance_indexes(self):
         """Create indexes for query performance (Best Practice)"""
@@ -294,56 +327,117 @@ class HybridRAGService(RAGService):
     async def search(self, query: SearchQuery) -> Any:
         """Hybrid search: Vector + Graph + Advanced RAG Features
         
-        NEW FEATURES:
+        2025 FEATURES:
+        - Adaptive Retrieval (Self-RAG)
+        - Query Rewriting (for negative questions)
+        - HyDE (Hypothetical Document Embeddings)
+        - Cross-Encoder Reranking
         - Query Decomposition (if enabled)
-        - Reranking (if enabled)
         - Context Compression (if enabled)
         """
         
-        # STEP 0: Query Decomposition (if enabled)
+        # STEP -1: 2025 ADAPTIVE RETRIEVAL - Detect complexity and adjust chunk count
+        if self.advanced_2025:
+            complexity, optimal_chunks = await self.advanced_2025.detect_question_complexity(query.query)
+            # Override the query limit with adaptive count
+            query = SearchQuery(
+                query=query.query,
+                limit=optimal_chunks,  # Dynamically adjusted!
+                filters=query.filters
+            )
+        
+        # STEP 0A: 2025 QUERY REWRITING - Rewrite query for better retrieval
         queries_to_search = [query.query]
+        if self.advanced_2025:
+            try:
+                rewrites = await self.advanced_2025.rewrite_query_for_retrieval(query.query)
+                queries_to_search = rewrites
+                if len(rewrites) > 1:
+                    print(f"🔄 Query rewritten: {len(rewrites)} variants")
+            except Exception as e:
+                print(f"⚠️  Query rewriting failed: {e}")
+        
+        # STEP 0B: 2025 HyDE - Generate hypothetical answer for better retrieval
+        if self.advanced_2025:
+            try:
+                hyde_hypothesis = await self.advanced_2025.generate_hyde_hypothesis(query.query)
+                if hyde_hypothesis:
+                    # Add HyDE hypothesis as an additional search query
+                    queries_to_search.append(hyde_hypothesis)
+            except Exception as e:
+                print(f"⚠️  HyDE generation failed: {e}")
+        
+        # STEP 0C: Query Decomposition (legacy, if enabled)
         if self.advanced_rag and self.advanced_rag.decomposition_config.enabled:
             try:
-                queries_to_search = await self.advanced_rag.decompose_query(query.query)
-                print(f"🔀 Query decomposed into {len(queries_to_search)} sub-queries")
+                decomposed = await self.advanced_rag.decompose_query(query.query)
+                queries_to_search.extend(decomposed)
+                print(f"🔀 Query decomposed into {len(decomposed)} sub-queries")
             except Exception as e:
                 print(f"⚠️  Query decomposition failed: {e}")
-                queries_to_search = [query.query]
         
-        # STEP 1: Search for all queries (multi-query fusion)
+        # STEP 1: Search for all queries (multi-query retrieval)
+        all_ranked_lists = []  # For RRF fusion
         all_results = []
+        
         for q in queries_to_search:
             # Create new SearchQuery for each sub-query
             sub_query = SearchQuery(
                 query=q,
-                limit=query.limit,
+                limit=query.limit * 2,  # Get more for better reranking
                 filters=query.filters
             )
             
             # Standard vector search
             vector_results = await super().search(sub_query)
             all_results.extend(vector_results.results)
+            all_ranked_lists.append(vector_results.results)
         
-        # Remove duplicates (by content hash)
-        seen_content = set()
-        unique_results = []
-        for result in all_results:
-            content_hash = hash(result.content[:200])
-            if content_hash not in seen_content:
-                seen_content.add(content_hash)
-                unique_results.append(result)
+        # STEP 1B: 2025 RECIPROCAL RANK FUSION - Combine multi-query results
+        if self.advanced_2025 and len(all_ranked_lists) > 1:
+            try:
+                fused_results = await self.advanced_2025.reciprocal_rank_fusion(all_ranked_lists)
+                unique_results = fused_results
+            except Exception as e:
+                print(f"⚠️  RRF fusion failed: {e}")
+                # Fallback to deduplication
+                seen_content = set()
+                unique_results = []
+                for result in all_results:
+                    content_hash = hash(result.content[:200])
+                    if content_hash not in seen_content:
+                        seen_content.add(content_hash)
+                        unique_results.append(result)
+        else:
+            # Simple deduplication (legacy)
+            seen_content = set()
+            unique_results = []
+            for result in all_results:
+                content_hash = hash(result.content[:200])
+                if content_hash not in seen_content:
+                    seen_content.add(content_hash)
+                    unique_results.append(result)
         
         # Limit to reasonable number before reranking
-        limited_results = unique_results[:50]  # Top 50 for reranking
+        limited_results = unique_results[:50]  # Top 50 for cross-encoder
         
-        # STEP 2: Reranking (if enabled)
-        # TODO: Implement reranking using ContextualCompressionRetriever
-        # This requires converting SearchResult to LangChain Document format
-        # For now, we keep the vector results as-is
-        if self.advanced_rag and self.advanced_rag.rerank_config.enabled:
-            print(f"  ⚡ Reranking enabled ({self.advanced_rag.rerank_config.provider}) - top {self.advanced_rag.rerank_config.top_n}")
-            # Limit to top_n after reranking (placeholder until implemented)
+        # STEP 2: 2025 CROSS-ENCODER RERANKING (MOST IMPACTFUL!)
+        if self.advanced_2025 and self.advanced_2025.cross_encoder:
+            try:
+                limited_results = await self.advanced_2025.rerank_with_cross_encoder(
+                    query=query.query,
+                    documents=limited_results,
+                    top_k=query.limit
+                )
+            except Exception as e:
+                print(f"⚠️  Cross-encoder reranking failed: {e}")
+                limited_results = limited_results[:query.limit]
+        elif self.advanced_rag and self.advanced_rag.rerank_config.enabled:
+            # Legacy reranking
+            print(f"  ⚡ Legacy reranking enabled ({self.advanced_rag.rerank_config.provider})")
             limited_results = limited_results[:self.advanced_rag.rerank_config.top_n]
+        else:
+            limited_results = limited_results[:query.limit]
         
         # Create new SearchResponse with updated results (can't modify frozen instance)
         from ..models.documents import SearchResponse

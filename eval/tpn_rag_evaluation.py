@@ -221,23 +221,25 @@ class TPNRAGEvaluator:
                 raise RuntimeError("Ollama is not running. Please start Ollama service.")
         
         # Use HYBRID RAG service - Neo4j DISABLED for cleaner evaluation
-        # Focus on vector search (ChromaDB) + LangChain/LangGraph only
+        # Focus on vector search (ChromaDB) + 2025 Advanced RAG features only
         
         self.rag_service = HybridRAGService(
             embedding_provider=embedding_provider, 
             vector_store=vector_store, 
             llm_provider=llm_provider,
-            neo4j_uri=None,  # DISABLED - vector search only
+            neo4j_uri=None,  # DISABLED - vector search only (no graph overhead)
             neo4j_user="neo4j", 
             neo4j_password="medicalpass123",
-            # Advanced RAG Features (OPTIMIZED for MCQ)
-            enable_reranking=True,  # Embeddings-based reranking
+            # Legacy Advanced RAG Features (DISABLED)
+            enable_reranking=False,  # Replaced by cross-encoder
             reranking_provider="embeddings",
-            enable_compression=False,  # Disabled
-            enable_query_decomposition=False,  # DISABLED - MCQs are straightforward
-            enable_validation=False,  # DISABLED - for MCQ we just need the answer
+            enable_compression=False,
+            enable_query_decomposition=False,
+            enable_validation=False,
             cohere_api_key=None,
-            jina_api_key=None
+            jina_api_key=None,
+            # 2025 Advanced RAG Features (ENABLED - Cutting Edge!)
+            enable_advanced_2025=True  # Cross-encoder, HyDE, Query Rewriting, Adaptive Retrieval
         )
         
         stats = await self.rag_service.get_collection_stats()
@@ -389,9 +391,12 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
                 doc_name = result.document_name[:50]
                 context_parts.append(f"[ChromaDB Vector {i}: {doc_name}]\n{result.content}")
             
-            # FIX BUG #2: Merge Neo4j graph context if available
+            # Neo4j graph context (DISABLED - neo4j_uri=None)
+            # NOTE: Neo4j is disabled in this evaluation for simplicity
+            # Graph context will not be added even if available
             graph_context_added = False
             if hasattr(self.rag_service, '_graph_context') and self.rag_service._graph_context:
+                # This code path should not execute since Neo4j is disabled
                 context_parts.append("\n--- KNOWLEDGE GRAPH RELATIONSHIPS (Neo4j) ---")
                 context_parts.append(self.rag_service._graph_context)
                 graph_context_added = True
@@ -594,17 +599,18 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
         print(f"Accuracy: {accuracy:.2f}%")
         print(f"Average Response Time: {avg_response_time:.1f}ms")
         
-        # Calculate and display graph metrics
+        # Calculate and display graph metrics (should be zero since Neo4j is disabled)
         questions_with_graph_preview = sum(1 for r in results if r.get("graph_used", False))
         total_graph_results_preview = sum(r.get("num_graph_results", 0) for r in results)
         
         print(f"\n📊 Neo4j Knowledge Graph Statistics:")
+        print(f"  - Neo4j Status: DISABLED (vector search only)")
         print(f"  - Questions with graph context: {questions_with_graph_preview}/{total_questions}")
         print(f"  - Total graph results: {total_graph_results_preview}")
         if questions_with_graph_preview > 0:
             print(f"  - Avg graph results per question: {total_graph_results_preview/questions_with_graph_preview:.1f}")
         else:
-            print(f"  - ⚠️  Graph not used (check Neo4j connection)")
+            print(f"  - ℹ️  Graph disabled for this evaluation")
         
         # Display Advanced RAG Features Status
         print(f"\n🚀 Advanced RAG Features:")

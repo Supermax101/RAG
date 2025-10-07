@@ -36,6 +36,10 @@ dependencies = [
     "spacy>=3.7.0",
     "nltk>=3.8.0",
     "tiktoken>=0.7.0",
+    # Advanced RAG improvements (2025 best practices)
+    "sentence-transformers>=2.5.0",  # For cross-encoder reranking
+    "rank-bm25>=0.2.2",  # For BM25 fusion retrieval
+    "flashrank>=0.2.0",  # Fast cross-encoder reranking
     # Knowledge graphs (optional, for future)
     "neo4j>=5.15.0",
     # Utilities
