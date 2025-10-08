@@ -35,8 +35,8 @@ class Settings(BaseSettings):
     ollama_base_url: str = Field(default="http://localhost:11434", alias="OLLAMA_BASE_URL")
     # Option 1: nomic-embed-text (original, 768 dims)
     # ollama_embed_model: str = Field(default="nomic-embed-text", alias="OLLAMA_EMBED_MODEL")
-    # Option 2: Google's EmbeddingGemma via Ollama (300M params, state-of-the-art)
-    ollama_embed_model: str = Field(default="embeddinggemma:latest", alias="OLLAMA_EMBED_MODEL")
+    # Option 2: Nomic Embed Text via Ollama (137M params, efficient and accurate)
+    ollama_embed_model: str = Field(default="nomic-embed-text", alias="OLLAMA_EMBED_MODEL")
     ollama_llm_model: str = Field(default="mistral:7b", alias="OLLAMA_LLM_MODEL")
     
     # ChromaDB Configuration
