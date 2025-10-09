@@ -8,7 +8,7 @@ from ...config.settings import settings
 
 
 class OpenAILLMProvider(LLMProvider):
-    """OpenAI-based LLM provider (GPT-4, GPT-3.5, etc.)."""
+    """OpenAI-based LLM provider (GPT-4, GPT-5, O1, O3 reasoning models, etc.)."""
     
     def __init__(self, api_key: Optional[str] = None, default_model: str = "gpt-4o"):
         """Initialize OpenAI provider.
@@ -41,23 +41,34 @@ class OpenAILLMProvider(LLMProvider):
         model_name = model or self.default_model
         
         try:
+            # Detect reasoning models (GPT-5, O1, O3) that use max_completion_tokens
+            is_reasoning_model = any(x in model_name.lower() for x in ['gpt-5', 'o1', 'o3'])
+            
             kwargs = {
                 "model": model_name,
                 "messages": [{"role": "user", "content": prompt}],
-                "temperature": temperature,
-                "max_tokens": max_tokens,
                 "timeout": 60.0,
-                "frequency_penalty": 0.3,  # Discourage repetitive phrases
-                "presence_penalty": 0.1    # Encourage diverse vocabulary
             }
             
-            # Add seed for reproducibility if provided
+            # Reasoning models (GPT-5, O1, O3) don't support temperature, frequency_penalty, presence_penalty
+            # and use max_completion_tokens instead of max_tokens
+            if is_reasoning_model:
+                kwargs["max_completion_tokens"] = max_tokens
+            else:
+                kwargs["temperature"] = temperature
+                kwargs["max_tokens"] = max_tokens
+                kwargs["frequency_penalty"] = 0.3  # Discourage repetitive phrases
+                kwargs["presence_penalty"] = 0.1    # Encourage diverse vocabulary
+            
+            # Add seed for reproducibility if provided (supported by all models)
             if seed is not None:
                 kwargs["seed"] = seed
             
             response = await self.client.chat.completions.create(**kwargs)
             
-            return response.choices[0].message.content.strip()
+            # Get content, handling potential None for reasoning models
+            content = response.choices[0].message.content
+            return content.strip() if content else ""
             
         except Exception as e:
             raise RuntimeError(f"Failed to generate text with OpenAI: {e}")
@@ -72,10 +83,11 @@ class OpenAILLMProvider(LLMProvider):
             # Get models from OpenAI API
             models_response = await self.client.models.list()
             
-            # Filter for ONLY GPT-4o (most capable and accessible model)
+            # Filter for ONLY GPT-5 and GPT-5 mini (latest reasoning models)
             chat_models = [
                 model.id for model in models_response.data
-                if model.id == "gpt-4o"
+                if ('gpt-5' in model.id.lower() and 'mini' in model.id.lower()) or 
+                   model.id.lower() in ['gpt-5', 'gpt-5-2025-08-07', 'gpt-5-chat-latest']
             ]
             
             self._available_models = sorted(chat_models)
