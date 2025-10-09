@@ -1,7 +1,7 @@
 """
 TPN Nutrition Specialist System - Main Entry Point
 Specialized RAG system for Total Parenteral Nutrition recommendations 
-based on 52 ASPEN/TPN clinical guidelines and protocols.
+based on 76 medical documents (ASPEN/TPN clinical guidelines and protocols).
 """
 import asyncio
 import sys
@@ -12,7 +12,7 @@ sys.path.insert(0, str(Path(__file__).parent / "src"))
 
 from rag.core.services.rag_service import RAGService
 from rag.core.services.hybrid_rag_service import HybridRAGService
-from rag.core.services.document_loader import DocumentLoader
+from rag.core.services.dpt2_document_loader import DPT2DocumentLoader
 from rag.core.services.database_manager import DatabaseManager
 from rag.infrastructure.embeddings.ollama_embeddings import OllamaEmbeddingProvider
 from rag.infrastructure.vector_stores.chroma_store import ChromaVectorStore
@@ -21,9 +21,9 @@ from rag.config.settings import settings
 
 
 async def initialize_tpn_system():
-    """Initialize the TPN Specialist RAG system and load ASPEN documents."""
+    """Initialize the TPN Specialist RAG system and load medical documents."""
     print("🏥 Initializing TPN Nutrition Specialist System...")
-    print("📚 Based on 52 ASPEN/TPN Clinical Guidelines and Protocols")
+    print("📚 Based on 76 Medical Documents (ASPEN/TPN Clinical Guidelines)")
     
     # Ensure directories exist
     settings.ensure_directories()
@@ -53,24 +53,24 @@ async def initialize_tpn_system():
         enable_advanced_2025=True  # Cross-encoder, HyDE, Query Rewriting, Adaptive Retrieval
     )
     
-    # Check if we need to load TPN documents with enhanced processing
+    # Check if we need to load documents
     stats = await rag_service.get_collection_stats()
     
     if stats["total_chunks"] == 0:
-        print("📄 No TPN documents found in vector store.")
-        print("🚀 Loading 52 ASPEN/TPN documents with enhanced chunking...")
+        print("📄 No documents found in vector store.")
+        print("🚀 Loading 76 DPT2 pre-chunked medical documents...")
         
-        # Use document loader with enhanced medical chunking
-        document_loader = DocumentLoader(rag_service)
+        # Use DPT2 document loader (NO re-chunking, preserves DPT2 structure)
+        document_loader = DPT2DocumentLoader(rag_service)
         result = await document_loader.load_all_documents()
         
         if result["loaded"] == 0:
-            print("❌ No TPN documents were loaded. Please check your data/parsed directory.")
+            print("❌ No documents were loaded. Please check your data/dpt2_output directory.")
             return False
         
-        print(f"✅ Successfully loaded {result['loaded']} TPN documents with {result['total_chunks']} optimized chunks")
+        print(f"✅ Successfully loaded {result['loaded']} documents with {result['total_chunks']} pre-chunked pieces")
     else:
-        print(f"✅ Found {stats['total_chunks']} TPN chunks from {stats['total_documents']} ASPEN documents")
+        print(f"✅ Found {stats['total_chunks']} chunks from {stats['total_documents']} medical documents")
     
     return True
 
@@ -196,7 +196,7 @@ async def run_tpn_specialist_demo():
     
     print(f"\n🏥 TPN Clinical Specialist - Interactive Demo (Using {selected_model})")
     print("=" * 60)
-    print("💊 Ask TPN/parenteral nutrition questions based on your 52 ASPEN documents")
+    print("💊 Ask TPN/parenteral nutrition questions based on your 76 medical documents")
     print("🔬 Example questions:")
     print("   • Calculate TPN for a 1.2kg preterm infant")
     print("   • Normal potassium range for neonates on TPN")
@@ -306,7 +306,7 @@ async def main():
     
     # Default: show TPN system usage
     print("🏥 TPN Nutrition Specialist System v2.0")
-    print("📚 Based on 52 ASPEN/TPN Clinical Guidelines")
+    print("📚 Based on 76 Medical Documents (ASPEN/TPN Clinical Guidelines)")
     print("=" * 50)
     print("Usage:")
     print("  python main.py init    # Initialize TPN system with ASPEN documents")
@@ -320,7 +320,7 @@ async def main():
     print("  • Age-specific TPN calculations (preterm/term/pediatric)")
     print("  • Board-style clinical question answering")
     print("  • TPN component dosing and monitoring")
-    print("  • Source-constrained responses (52 documents only)")
+    print("  • Source-constrained responses (76 documents only)")
 
 
 if __name__ == "__main__":

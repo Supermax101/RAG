@@ -245,9 +245,17 @@ class TPNRAGEvaluator:
         """Load MCQ questions from CSV file."""
         print(f"Loading evaluation questions from {self.csv_path}")
         
-        df = pd.read_csv(self.csv_path)
+        # Load CSV with keep_default_na=False to preserve "None" as string
+        df = pd.read_csv(self.csv_path, keep_default_na=False, na_values=[''])
         
         print(f"Loaded {len(df)} MCQ questions from {self.csv_path}")
+        print(f"Columns: {list(df.columns)}")
+        
+        # Verify required columns exist
+        required_cols = ['ID', 'Question', 'Options', 'Corrrect Option (s)']
+        missing = [col for col in required_cols if col not in df.columns]
+        if missing:
+            raise ValueError(f"Missing required columns: {missing}")
         
         return df
     
@@ -271,9 +279,7 @@ class TPNRAGEvaluator:
             ("system", """You are evaluating a RAG (Retrieval Augmented Generation) system for TPN (Total Parenteral Nutrition) guidelines.
 
 CRITICAL INSTRUCTIONS:
-1. You will receive excerpts from 52 medical PDF documents retrieved via:
-   - Vector search (ChromaDB embeddings)
-   - Knowledge graph relationships (Neo4j medical entities)
+1. You will receive excerpts from 76 medical documents retrieved via vector search (ChromaDB embeddings)
 2. Answer STRICTLY ONLY based on the information in these retrieved sources below
 3. DO NOT use any prior medical knowledge from your training data
 4. DO NOT guess or infer beyond what the retrieved sources explicitly state
@@ -286,19 +292,25 @@ Output format:
 
 Select the correct answer(s) ONLY if supported by the retrieved clinical guidelines below."""),
             few_shot_prompt,
-            ("human", """Below are the MOST RELEVANT EXCERPTS retrieved from our hybrid RAG system (52 TPN medical PDFs + Knowledge Graph):
+            ("human", """Below are the MOST RELEVANT EXCERPTS retrieved from our RAG system (76 medical documents via vector search):
 
 RETRIEVED CLINICAL GUIDELINES:
 {context}
 
 {case_context}
 
-QUESTION: {question}
+MULTIPLE CHOICE QUESTION: {question}
 
 OPTIONS:
 {options}
 
-IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do not use medical knowledge from your training. Answer in JSON format.""")
+IMPORTANT: 
+- This is a multiple-choice question - select the correct answer letter(s) based on the retrieved guidelines
+- Some questions may have ONE correct answer, MULTIPLE correct answers, or NONE correct
+- Answer with single letter (e.g., "A") or multiple letters separated by commas (e.g., "A,B,C")
+- Base your answer EXCLUSIVELY on the retrieved guidelines above
+- Do not use medical knowledge from your training
+- Answer in JSON format: {{"answer": "A", "confidence": "high"}}""")
         ])
         
         return final_prompt
@@ -370,7 +382,7 @@ IMPORTANT: Base your answer EXCLUSIVELY on the retrieved guidelines above. Do no
             if not search_response.results:
                 raise RuntimeError("No search results found")
             
-            # STEP 2: Build context from retrieved chunks + Neo4j graph (HYBRID RAG)
+            # STEP 2: Build context from retrieved chunks (Vector Search)
             context_parts = []
             
             # Vector search results (ChromaDB)
@@ -915,7 +927,7 @@ async def benchmark_all_models(max_questions: Optional[int] = None):
     print("TPN RAG MULTI-MODEL BENCHMARK")
     print("="*80)
     
-    csv_path = "eval/tpn_mcq_final.csv"
+    csv_path = "eval/tpn_mcq_cleaned.csv"
     
     # Get all available models (Ollama + OpenAI)
     available_models = await get_all_available_models()
@@ -1070,7 +1082,7 @@ async def main():
     print("TPN RAG System - LangChain Structured Output Evaluation")
     print("============================================================")
     
-    csv_path = "eval/tpn_mcq_final.csv"
+    csv_path = "eval/tpn_mcq_cleaned.csv"
     
     available_models = await get_all_available_models()
     if not available_models:
