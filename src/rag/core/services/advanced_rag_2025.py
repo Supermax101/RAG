@@ -51,7 +51,7 @@ class AdvancedRAG2025Config(BaseModel):
         default="cross-encoder/ms-marco-MiniLM-L-6-v2",
         description="Cross-encoder model for reranking"
     )
-    cross_encoder_top_k: int = Field(default=5, description="Top K after reranking")
+    cross_encoder_top_k: int = Field(default=20, description="Top K after reranking (adaptive)")
     
     # Parent Document Retrieval
     enable_parent_retrieval: bool = Field(default=True, description="Retrieve parent context")
