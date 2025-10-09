@@ -66,9 +66,9 @@ class AdvancedRAG2025Config(BaseModel):
     rewrite_negative_questions: bool = Field(default=True, description="Special handling for LEAST/EXCEPT")
     
     # Adaptive Retrieval (Self-RAG)
-    enable_adaptive_retrieval: bool = Field(default=True, description="Dynamically adjust retrieval count")
-    adaptive_min_chunks: int = Field(default=10, description="Minimum chunks for simple questions")
-    adaptive_max_chunks: int = Field(default=20, description="Maximum chunks for complex questions")
+    enable_adaptive_retrieval: bool = Field(default=True, description="Dynamically adjust retrieval based on medical complexity")
+    adaptive_min_chunks: int = Field(default=15, description="Minimum chunks for medical questions")
+    adaptive_max_chunks: int = Field(default=20, description="Maximum chunks for complex medical questions")
     
     # Reciprocal Rank Fusion
     enable_rrf: bool = Field(default=True, description="Enable RRF for multi-query fusion")
@@ -182,16 +182,15 @@ class AdvancedRAG2025:
         # Word count as complexity indicator
         word_count = len(question.split())
         
-        # Determine complexity
-        if word_count < 20 and not has_calculation and not is_multi_part:
-            complexity = "simple"
-            chunk_count = self.config.adaptive_min_chunks
-        elif has_calculation or is_multi_part or is_negative or word_count > 50:
+        # Determine complexity (MEDICAL-AWARE)
+        # Most medical MCQs are complex - prioritize comprehensive retrieval
+        if has_calculation or is_multi_part or is_negative or word_count > 30:
             complexity = "complex"
             chunk_count = self.config.adaptive_max_chunks
         else:
-            complexity = "medium"
-            chunk_count = 15  # Middle ground between 10-20
+            # Even "simple" medical questions need substantial context
+            complexity = "medical_standard"
+            chunk_count = self.config.adaptive_min_chunks
         
         print(f"  📊 Question complexity: {complexity.upper()} → retrieving {chunk_count} chunks")
         
