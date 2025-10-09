@@ -12,8 +12,8 @@ class OllamaEmbeddingProvider(EmbeddingProvider):
     """Ollama-based embedding provider with concurrency control and retry logic."""
     
     def __init__(self, model: str = None, base_url: str = None, max_concurrent: int = 10):
-        self.model = model or settings.ollama_embed_model
         self.base_url = (base_url or settings.ollama_base_url).rstrip('/')
+        self.model = model or self._auto_select_embedding_model()
         self._dimension = None
         self.max_concurrent = max_concurrent  # Limit concurrent requests
         self.semaphore = asyncio.Semaphore(max_concurrent)
@@ -117,3 +117,43 @@ class OllamaEmbeddingProvider(EmbeddingProvider):
         if self._dimension is None:
             raise RuntimeError("Dimension unknown - generate at least one embedding first")
         return self._dimension
+    
+    def _auto_select_embedding_model(self) -> str:
+        """Auto-select the best available embedding model from Ollama."""
+        # Preferred models in order of priority
+        preferred_models = [
+            "nomic-embed-text",      # 768 dims, fast and accurate
+            "mxbai-embed-large",     # 1024 dims, high quality
+            "all-minilm",            # 384 dims, lightweight
+            "bge-large",             # 1024 dims, multilingual
+        ]
+        
+        try:
+            # Try to get list of available models from Ollama
+            import httpx
+            response = httpx.get(f"{self.base_url}/api/tags", timeout=5.0)
+            if response.status_code == 200:
+                data = response.json()
+                available_models = [model["name"] for model in data.get("models", [])]
+                
+                # Check for preferred models
+                for model in preferred_models:
+                    if any(model in available for available in available_models):
+                        print(f"Auto-selected embedding model: {model}")
+                        return model
+                
+                # If no preferred model, try to find any embedding model
+                embedding_keywords = ["embed", "embedding"]
+                for available in available_models:
+                    if any(keyword in available.lower() for keyword in embedding_keywords):
+                        print(f"Auto-selected embedding model: {available}")
+                        return available
+        
+        except Exception as e:
+            print(f"Could not auto-detect embedding models: {e}")
+        
+        # Fallback to settings or default
+        fallback = getattr(settings, 'ollama_embed_model', 'nomic-embed-text')
+        print(f"Using fallback embedding model: {fallback}")
+        print("  Tip: Pull it with: ollama pull {fallback}")
+        return fallback
