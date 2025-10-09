@@ -50,9 +50,7 @@ class XAILLMProvider(LLMProvider):
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": temperature,
                 "max_tokens": max_tokens,
-                "timeout": 60.0,
-                "frequency_penalty": 0.3,  # Discourage repetitive phrases
-                "presence_penalty": 0.1    # Encourage diverse vocabulary
+                "timeout": 60.0
             }
             
             # Add seed for reproducibility if provided

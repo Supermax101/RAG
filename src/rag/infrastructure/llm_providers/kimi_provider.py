@@ -3,6 +3,7 @@ Kimi K2 (Moonshot AI) LLM provider implementation.
 Uses OpenAI-compatible API from Moonshot AI platform.
 """
 from typing import List, Optional
+import asyncio
 from openai import AsyncOpenAI
 from ...core.interfaces.embeddings import LLMProvider
 from ...config.settings import settings
@@ -37,25 +38,46 @@ class KimiLLMProvider(LLMProvider):
         max_tokens: int = 500,
         seed: Optional[int] = None
     ) -> str:
-        """Generate text response using Kimi K2."""
+        """Generate text response using Kimi K2 with retry logic for rate limits."""
         model_name = model or self.default_model
         
-        try:
-            response = await self.client.chat.completions.create(
-                model=model_name,
-                messages=[
-                    {"role": "system", "content": "You are Kimi, an AI assistant created by Moonshot AI."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=temperature,
-                max_tokens=max_tokens,
-                seed=seed
-            )
-            
-            return response.choices[0].message.content.strip()
-            
-        except Exception as e:
-            raise RuntimeError(f"Failed to generate text with Kimi K2: {e}")
+        # Retry logic for rate limits (6 RPM limit)
+        max_retries = 5
+        base_delay = 10  # Start with 10 seconds (6 RPM = 1 request per 10 seconds)
+        
+        for attempt in range(max_retries):
+            try:
+                response = await self.client.chat.completions.create(
+                    model=model_name,
+                    messages=[
+                        {"role": "system", "content": "You are Kimi, an AI assistant created by Moonshot AI."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                    seed=seed
+                )
+                
+                return response.choices[0].message.content.strip()
+                
+            except Exception as e:
+                error_str = str(e)
+                
+                # Check if it's a rate limit error (429)
+                if "429" in error_str or "rate_limit" in error_str.lower():
+                    if attempt < max_retries - 1:
+                        # Exponential backoff with jitter
+                        delay = base_delay * (2 ** attempt) + (attempt * 2)
+                        print(f"Kimi rate limit hit, retrying in {delay}s (attempt {attempt + 1}/{max_retries})")
+                        await asyncio.sleep(delay)
+                        continue
+                    else:
+                        raise RuntimeError(f"Failed to generate text with Kimi K2 after {max_retries} retries: {e}")
+                else:
+                    # Non-rate-limit error, raise immediately
+                    raise RuntimeError(f"Failed to generate text with Kimi K2: {e}")
+        
+        raise RuntimeError(f"Failed to generate text with Kimi K2 after {max_retries} retries")
 
     @property
     async def available_models(self) -> List[str]:

@@ -67,8 +67,8 @@ class AdvancedRAG2025Config(BaseModel):
     
     # Adaptive Retrieval (Self-RAG)
     enable_adaptive_retrieval: bool = Field(default=True, description="Dynamically adjust retrieval count")
-    adaptive_min_chunks: int = Field(default=3, description="Minimum chunks for simple questions")
-    adaptive_max_chunks: int = Field(default=10, description="Maximum chunks for complex questions")
+    adaptive_min_chunks: int = Field(default=10, description="Minimum chunks for simple questions")
+    adaptive_max_chunks: int = Field(default=20, description="Maximum chunks for complex questions")
     
     # Reciprocal Rank Fusion
     enable_rrf: bool = Field(default=True, description="Enable RRF for multi-query fusion")
@@ -191,7 +191,7 @@ class AdvancedRAG2025:
             chunk_count = self.config.adaptive_max_chunks
         else:
             complexity = "medium"
-            chunk_count = 5  # Default middle ground
+            chunk_count = 15  # Middle ground between 10-20
         
         print(f"  📊 Question complexity: {complexity.upper()} → retrieving {chunk_count} chunks")
         
