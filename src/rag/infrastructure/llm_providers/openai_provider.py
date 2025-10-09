@@ -47,13 +47,14 @@ class OpenAILLMProvider(LLMProvider):
             kwargs = {
                 "model": model_name,
                 "messages": [{"role": "user", "content": prompt}],
-                "timeout": 60.0,
+                "timeout": 120.0,  # Increased for reasoning models that think longer
             }
             
             # Reasoning models (GPT-5, O1, O3) don't support temperature, frequency_penalty, presence_penalty
             # and use max_completion_tokens instead of max_tokens
             if is_reasoning_model:
-                kwargs["max_completion_tokens"] = max_tokens
+                # Significantly higher token limit for reasoning models (they use reasoning_tokens internally)
+                kwargs["max_completion_tokens"] = max(max_tokens, 16000)
             else:
                 kwargs["temperature"] = temperature
                 kwargs["max_tokens"] = max_tokens
@@ -65,6 +66,17 @@ class OpenAILLMProvider(LLMProvider):
                 kwargs["seed"] = seed
             
             response = await self.client.chat.completions.create(**kwargs)
+            
+            # Log reasoning tokens if available (GPT-5, O1, O3 models)
+            if hasattr(response, 'usage') and response.usage:
+                usage = response.usage
+                completion_tokens_details = getattr(usage, 'completion_tokens_details', None)
+                if completion_tokens_details:
+                    reasoning_tokens = getattr(completion_tokens_details, 'reasoning_tokens', 0)
+                    if reasoning_tokens > 0:
+                        print(f"🧠 Reasoning tokens used: {reasoning_tokens} (internal thought process)")
+                        print(f"📝 Output tokens: {usage.completion_tokens - reasoning_tokens}")
+                        print(f"💭 Total completion tokens: {usage.completion_tokens}")
             
             # Get content, handling potential None for reasoning models
             content = response.choices[0].message.content
