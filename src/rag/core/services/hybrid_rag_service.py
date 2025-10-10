@@ -325,131 +325,113 @@ class HybridRAGService(RAGService):
         return graph_results
     
     async def search(self, query: SearchQuery) -> Any:
-        """Hybrid search: Vector + Graph + Advanced RAG Features
+        """Hybrid search: BM25 + Vector + Multi-Query + HyDE (LangChain Best Practices 2025)
         
-        2025 FEATURES:
-        - Adaptive Retrieval (Self-RAG)
-        - Query Rewriting (for negative questions)
-        - HyDE (Hypothetical Document Embeddings)
-        - Cross-Encoder Reranking
-        - Query Decomposition (if enabled)
-        - Context Compression (if enabled)
+        ENABLED FEATURES (following LangChain):
+        1. Multi-Query Retrieval (2-3 variants + original)
+        2. BM25 + Vector Hybrid (keyword + semantic)
+        3. HyDE (concise hypothetical answers)
+        4. RRF Fusion (combine multiple searches)
+        5. Automatic Deduplication
+        
+        DISABLED FEATURES:
+        - Cross-Encoder Reranking (was using wrong model)
+        - Adaptive Retrieval (use fixed limit instead)
+        - Query Decomposition (legacy, not needed)
         """
         
-        # STEP -1: 2025 ADAPTIVE RETRIEVAL - Detect complexity and adjust chunk count
-        if self.advanced_2025:
-            complexity, optimal_chunks = await self.advanced_2025.detect_question_complexity(query.query)
-            # Override the query limit with adaptive count
-            query = SearchQuery(
-                query=query.query,
-                limit=optimal_chunks,  # Dynamically adjusted!
-                filters=query.filters
-            )
+        print(f"🔍 LangChain Advanced RAG (Multi-Query + BM25 + HyDE)")
         
-        # STEP 0A: 2025 QUERY REWRITING - Rewrite query for better retrieval
+        # Use fixed limit from settings (not adaptive)
+        target_limit = query.limit or 10
+        
+        # STEP 1: Multi-Query Generation (LangChain best practice)
         queries_to_search = [query.query]
-        if self.advanced_2025:
+        if self.advanced_2025 and self.advanced_2025.config.enable_multi_query:
             try:
-                rewrites = await self.advanced_2025.rewrite_query_for_retrieval(query.query)
-                queries_to_search = rewrites
-                if len(rewrites) > 1:
-                    print(f"🔄 Query rewritten: {len(rewrites)} variants")
+                queries_to_search = await self.advanced_2025.multi_query_generation(query.query)
             except Exception as e:
-                print(f"⚠️  Query rewriting failed: {e}")
+                print(f"⚠️  Multi-query generation failed: {e}")
         
-        # STEP 0B: 2025 HyDE - Generate hypothetical answer for better retrieval
-        if self.advanced_2025:
+        # STEP 2: HyDE - Add hypothetical answer as additional query
+        hyde_query = None
+        if self.advanced_2025 and self.advanced_2025.config.enable_hyde:
             try:
-                hyde_hypothesis = await self.advanced_2025.generate_hyde_hypothesis(query.query)
-                if hyde_hypothesis:
-                    # Add HyDE hypothesis as an additional search query
-                    queries_to_search.append(hyde_hypothesis)
+                hyde_query = await self.advanced_2025.generate_hyde_hypothesis_concise(query.query)
+                if hyde_query:
+                    queries_to_search.append(hyde_query)
             except Exception as e:
                 print(f"⚠️  HyDE generation failed: {e}")
         
-        # STEP 0C: Query Decomposition (legacy, if enabled)
-        if self.advanced_rag and self.advanced_rag.decomposition_config.enabled:
-            try:
-                decomposed = await self.advanced_rag.decompose_query(query.query)
-                queries_to_search.extend(decomposed)
-                print(f"🔀 Query decomposed into {len(decomposed)} sub-queries")
-            except Exception as e:
-                print(f"⚠️  Query decomposition failed: {e}")
-        
-        # STEP 1: Search for all queries (multi-query retrieval)
+        # STEP 3: Search with all queries (Vector + BM25 for each)
         all_ranked_lists = []  # For RRF fusion
-        all_results = []
         
-        for q in queries_to_search:
-            # Create new SearchQuery for each sub-query
+        for i, q in enumerate(queries_to_search, 1):
+            print(f"  🔎 Query variant {i}/{len(queries_to_search)}: {q[:60]}...")
+            
+            # 3A: Vector Search (semantic)
             sub_query = SearchQuery(
                 query=q,
-                limit=query.limit * 2,  # Get more for better reranking
+                limit=target_limit * 2,  # Get more for fusion
                 filters=query.filters
             )
-            
-            # Standard vector search
             vector_results = await super().search(sub_query)
-            all_results.extend(vector_results.results)
-            all_ranked_lists.append(vector_results.results)
+            
+            # 3B: BM25 Search (keyword) - if enabled and available
+            bm25_results = []
+            if self.advanced_2025 and self.advanced_2025.config.enable_bm25_hybrid:
+                try:
+                    # Get all chunks for BM25 search
+                    all_chunks_query = SearchQuery(query=q, limit=1000, filters=query.filters)
+                    all_chunks_response = await super().search(all_chunks_query)
+                    bm25_results = await self.advanced_2025.bm25_search(
+                        query=q,
+                        all_chunks=all_chunks_response.results,
+                        top_k=target_limit * 2
+                    )
+                except Exception as e:
+                    print(f"⚠️  BM25 search failed: {e}")
+            
+            # 3C: Combine vector + BM25 results for this query
+            combined_results = list(vector_results.results) + bm25_results
+            all_ranked_lists.append(combined_results)
         
-        # STEP 1B: 2025 RECIPROCAL RANK FUSION - Combine multi-query results
-        if self.advanced_2025 and len(all_ranked_lists) > 1:
+        # STEP 4: RRF Fusion - Combine all searches with deduplication
+        if self.advanced_2025 and self.advanced_2025.config.enable_rrf and len(all_ranked_lists) > 1:
             try:
                 fused_results = await self.advanced_2025.reciprocal_rank_fusion(all_ranked_lists)
-                unique_results = fused_results
+                unique_results = fused_results[:target_limit]
+                print(f"✅ RRF fused {len(all_ranked_lists)} searches → {len(unique_results)} unique chunks")
             except Exception as e:
                 print(f"⚠️  RRF fusion failed: {e}")
-                # Fallback to deduplication
+                # Fallback to simple deduplication
                 seen_content = set()
                 unique_results = []
-                for result in all_results:
-                    content_hash = hash(result.content[:200])
-                    if content_hash not in seen_content:
-                        seen_content.add(content_hash)
-                        unique_results.append(result)
+                for ranked_list in all_ranked_lists:
+                    for result in ranked_list:
+                        content_hash = hash(result.content[:200])
+                        if content_hash not in seen_content:
+                            seen_content.add(content_hash)
+                            unique_results.append(result)
+                            if len(unique_results) >= target_limit:
+                                break
+                    if len(unique_results) >= target_limit:
+                        break
         else:
-            # Simple deduplication (legacy)
-            seen_content = set()
-            unique_results = []
-            for result in all_results:
-                content_hash = hash(result.content[:200])
-                if content_hash not in seen_content:
-                    seen_content.add(content_hash)
-                    unique_results.append(result)
+            # Simple case: just use first search results
+            unique_results = all_ranked_lists[0][:target_limit] if all_ranked_lists else []
         
-        # Limit to reasonable number before reranking
-        limited_results = unique_results[:50]  # Top 50 for cross-encoder
-        
-        # STEP 2: 2025 CROSS-ENCODER RERANKING (MOST IMPACTFUL!)
-        if self.advanced_2025 and self.advanced_2025.cross_encoder:
-            try:
-                limited_results = await self.advanced_2025.rerank_with_cross_encoder(
-                    query=query.query,
-                    documents=limited_results,
-                    top_k=query.limit
-                )
-            except Exception as e:
-                print(f"⚠️  Cross-encoder reranking failed: {e}")
-                limited_results = limited_results[:query.limit]
-        elif self.advanced_rag and self.advanced_rag.rerank_config.enabled:
-            # Legacy reranking
-            print(f"  ⚡ Legacy reranking enabled ({self.advanced_rag.rerank_config.provider})")
-            limited_results = limited_results[:self.advanced_rag.rerank_config.top_n]
-        else:
-            limited_results = limited_results[:query.limit]
-        
-        # Create new SearchResponse with updated results (can't modify frozen instance)
+        # Create SearchResponse
         from ..models.documents import SearchResponse
-        vector_results = SearchResponse(
-            query=vector_results.query,
-            results=limited_results,
-            total_results=len(all_results),
-            search_time_ms=vector_results.search_time_ms,
-            model_used=vector_results.model_used
+        final_response = SearchResponse(
+            query=query.query,
+            results=unique_results,
+            total_results=sum(len(lst) for lst in all_ranked_lists),
+            search_time_ms=0,  # TODO: track timing
+            model_used="hybrid_bm25_vector_multi_query"
         )
         
-        # STEP 3: Neo4j Graph Search (if enabled)
+        # STEP 5: Neo4j Graph Search (if enabled - disabled by default)
         if self.neo4j_enabled and hasattr(self, '_last_extracted_entities'):
             entities = self._last_extracted_entities
             
@@ -458,42 +440,31 @@ class HybridRAGService(RAGService):
                 graph_results = self.query_knowledge_graph(entities, query.query)
                 
                 if graph_results:
-                    # Build formatted graph context
                     graph_context_parts = []
-                    for r in graph_results[:10]:  # Use up to 10 graph results
+                    for r in graph_results[:10]:
                         if r.get('result_type') == 'clinical_section':
-                            # For clinical sections, include the content snippet
                             graph_context_parts.append(
                                 f"[Neo4j: {r['source']} - {r['name']}]\n{r.get('content', '')}"
                             )
                         else:
-                            # For entity relationships
                             graph_context_parts.append(
                                 f"- {r['name']} ({r['relationship']}) [{r.get('type', 'unknown')}] from {r.get('source', 'unknown')}"
                             )
                     
-                    graph_context = "\n\n".join(graph_context_parts)
-                    
-                    print(f"✅ Graph enhanced: {len(graph_results)} results from Neo4j knowledge graph")
-                    
-                    # Store graph context AND graph result count for metrics
-                    self._graph_context = graph_context
+                    self._graph_context = "\n\n".join(graph_context_parts)
                     self._graph_result_count = len(graph_results)
+                    print(f"✅ Graph enhanced: {len(graph_results)} results from Neo4j")
                 else:
-                    print(f"⚠️  No graph results found for entities: {entities[:3]}")
                     self._graph_context = None
                     self._graph_result_count = 0
             else:
-                print(f"⚠️  No entities extracted from query")
                 self._graph_context = None
                 self._graph_result_count = 0
         else:
-            if not self.neo4j_enabled:
-                print("⚠️  Neo4j disabled - vector search only")
             self._graph_context = None
             self._graph_result_count = 0
         
-        return vector_results
+        return final_response
     
     async def ask(self, rag_query: RAGQuery) -> RAGResponse:
         """Answer with hybrid retrieval + validation + polish

@@ -43,35 +43,40 @@ except ImportError:
 
 
 class AdvancedRAG2025Config(BaseModel):
-    """Configuration for 2025 advanced RAG features."""
+    """Configuration for 2025 advanced RAG features (LangChain Best Practices)."""
     
-    # Cross-Encoder Reranking - DISABLED for Simple RAG
+    # BM25 + Vector Hybrid - ENABLED (LangChain native)
+    enable_bm25_hybrid: bool = Field(default=True, description="Enable BM25 + Vector hybrid retrieval")
+    bm25_weight: float = Field(default=0.5, description="Weight for BM25 (0.5 = equal with vector)")
+    vector_weight: float = Field(default=0.5, description="Weight for vector search")
+    
+    # Multi-Query Retrieval - ENABLED (LangChain native with deduplication)
+    enable_multi_query: bool = Field(default=True, description="Generate multiple query variants")
+    num_query_variants: int = Field(default=2, description="Number of query variants to generate (+ original = 3 total)")
+    
+    # HyDE (Hypothetical Document Embeddings) - ENABLED (LangChain with short answers)
+    enable_hyde: bool = Field(default=True, description="Generate hypothetical answer for better retrieval")
+    hyde_max_words: int = Field(default=50, description="Max words for hypothetical answer (keep concise)")
+    
+    # Cross-Encoder Reranking - DISABLED (was broken, needs medical model)
     enable_cross_encoder: bool = Field(default=False, description="Enable cross-encoder reranking")
     cross_encoder_model: str = Field(
         default="cross-encoder/ms-marco-MiniLM-L-6-v2",
         description="Cross-encoder model for reranking"
     )
-    cross_encoder_top_k: int = Field(default=20, description="Top K after reranking (adaptive)")
+    cross_encoder_top_k: int = Field(default=10, description="Top K after reranking")
     
     # Parent Document Retrieval
     enable_parent_retrieval: bool = Field(default=True, description="Retrieve parent context")
     parent_context_size: int = Field(default=2000, description="Parent chunk size in characters")
     
-    # HyDE (Hypothetical Document Embeddings) - DISABLED for Simple RAG
-    enable_hyde: bool = Field(default=False, description="Enable HyDE for better retrieval")
-    hyde_num_hypotheses: int = Field(default=1, description="Number of hypothetical answers")
+    # Adaptive Retrieval - DISABLED (use fixed limit for consistency)
+    enable_adaptive_retrieval: bool = Field(default=False, description="Dynamically adjust retrieval")
+    adaptive_min_chunks: int = Field(default=10, description="Fixed chunk count")
+    adaptive_max_chunks: int = Field(default=10, description="Fixed chunk count")
     
-    # Query Rewriting - DISABLED for Simple RAG
-    enable_query_rewriting: bool = Field(default=False, description="Rewrite queries for better matching")
-    rewrite_negative_questions: bool = Field(default=True, description="Special handling for LEAST/EXCEPT")
-    
-    # Adaptive Retrieval (Self-RAG) - DISABLED for Simple RAG (use fixed limit)
-    enable_adaptive_retrieval: bool = Field(default=False, description="Dynamically adjust retrieval based on medical complexity")
-    adaptive_min_chunks: int = Field(default=20, description="Fixed chunk count for all questions")
-    adaptive_max_chunks: int = Field(default=20, description="Fixed chunk count for all questions")
-    
-    # Reciprocal Rank Fusion - DISABLED for Simple RAG
-    enable_rrf: bool = Field(default=False, description="Enable RRF for multi-query fusion")
+    # RRF (Reciprocal Rank Fusion) - AUTO-ENABLED when multi-query is on
+    enable_rrf: bool = Field(default=True, description="Enable RRF for fusing multi-query results")
     rrf_k: int = Field(default=60, description="RRF constant")
 
 
@@ -373,5 +378,146 @@ Provide a concise, clinically accurate hypothetical answer (2-3 sentences):"""
             
         except Exception as e:
             print(f"⚠️  Parent context retrieval failed: {e}")
+            return None
+    
+    async def bm25_search(self, query: str, all_chunks: List[Any], top_k: int = 10) -> List[Any]:
+        """
+        BM25 keyword search for medical terminology matching.
+        Complements vector search by catching exact medical terms.
+        """
+        if not BM25_AVAILABLE or not self.config.enable_bm25_hybrid:
+            return []
+        
+        try:
+            # Extract text from chunks
+            corpus = []
+            for chunk in all_chunks:
+                if hasattr(chunk, 'content'):
+                    corpus.append(chunk.content)
+                elif hasattr(chunk, 'chunk') and hasattr(chunk.chunk, 'content'):
+                    corpus.append(chunk.chunk.content)
+                else:
+                    corpus.append(str(chunk))
+            
+            # Tokenize corpus (simple split for now, can improve with medical tokenizer)
+            tokenized_corpus = [doc.lower().split() for doc in corpus]
+            
+            # Create BM25 index
+            bm25 = BM25Okapi(tokenized_corpus)
+            
+            # Search
+            tokenized_query = query.lower().split()
+            scores = bm25.get_scores(tokenized_query)
+            
+            # Get top K indices
+            top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:top_k]
+            
+            # Return chunks with scores
+            results = []
+            for idx in top_indices:
+                if idx < len(all_chunks):
+                    chunk = all_chunks[idx]
+                    # Attach score for later fusion
+                    if hasattr(chunk, 'score'):
+                        chunk.bm25_score = scores[idx]
+                    results.append(chunk)
+            
+            print(f"🔍 BM25 search: {len(results)} results (scores: {[round(scores[i], 2) for i in top_indices[:3]]}...)")
+            return results
+            
+        except Exception as e:
+            print(f"⚠️  BM25 search failed: {e}")
+            return []
+    
+    async def multi_query_generation(self, query: str) -> List[str]:
+        """
+        Generate multiple query variants using medical terminology.
+        LangChain best practice: 2-3 variants + original.
+        """
+        if not self.config.enable_multi_query:
+            return [query]
+        
+        try:
+            prompt = f"""You are a medical AI assistant. Generate {self.config.num_query_variants} alternative phrasings of this medical question using clinical terminology.
+
+Original Question: {query}
+
+Generate {self.config.num_query_variants} variants that:
+1. Use medical synonyms (e.g., "parenteral nutrition" = "PN" = "intravenous feeding")
+2. Rephrase question structure
+3. Keep the same clinical meaning
+
+Respond with ONLY the alternative questions, one per line, numbered 1 and 2."""
+
+            response = await self.llm_provider.generate(
+                prompt=prompt,
+                temperature=0.3,  # Some creativity for variations
+                max_tokens=200
+            )
+            
+            # Parse variants
+            variants = []
+            for line in response.strip().split('\n'):
+                line = line.strip()
+                # Remove numbering like "1. " or "1) "
+                line = re.sub(r'^\d+[\.\)]\s*', '', line)
+                if line and line != query:
+                    variants.append(line)
+            
+            # Add original query first
+            all_queries = [query] + variants[:self.config.num_query_variants]
+            
+            print(f"🔄 Multi-Query: Generated {len(all_queries)} variants:")
+            for i, q in enumerate(all_queries, 1):
+                print(f"   {i}. {q[:80]}...")
+            
+            return all_queries
+            
+        except Exception as e:
+            print(f"⚠️  Multi-query generation failed: {e}")
+            return [query]  # Fallback to original
+    
+    async def generate_hyde_hypothesis_concise(self, question: str) -> Optional[str]:
+        """
+        Generate SHORT hypothetical answer (2-3 sentences, ~50 words).
+        LangChain best practice: Concise, not verbose.
+        """
+        if not self.config.enable_hyde:
+            return None
+        
+        try:
+            prompt = f"""You are a medical expert. Write a CONCISE, evidence-based answer to this question.
+
+Question: {question}
+
+Requirements:
+- Maximum 2-3 sentences (~{self.config.hyde_max_words} words)
+- Use clinical terminology
+- Be specific and factual
+- DO NOT use phrases like "According to guidelines..." or "The answer is..."
+- Just state the medical facts directly
+
+Concise Answer:"""
+
+            hypothesis = await self.llm_provider.generate(
+                prompt=prompt,
+                temperature=0.1,  # Low temp for factual
+                max_tokens=150
+            )
+            
+            hypothesis = hypothesis.strip()
+            word_count = len(hypothesis.split())
+            
+            # Truncate if too long
+            if word_count > self.config.hyde_max_words * 1.5:
+                words = hypothesis.split()[:self.config.hyde_max_words]
+                hypothesis = ' '.join(words) + "..."
+                word_count = len(words)
+            
+            print(f"💡 HyDE hypothesis generated ({word_count} words): {hypothesis[:100]}...")
+            return hypothesis
+            
+        except Exception as e:
+            print(f"⚠️  HyDE generation failed: {e}")
             return None
 
