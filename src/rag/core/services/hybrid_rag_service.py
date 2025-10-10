@@ -385,8 +385,8 @@ class HybridRAGService(RAGService):
             bm25_results = []
             if self.advanced_2025 and self.advanced_2025.config.enable_bm25_hybrid:
                 try:
-                    # Get all chunks for BM25 search
-                    all_chunks_query = SearchQuery(query=q, limit=1000, filters=query.filters)
+                    # Get all chunks for BM25 search (max limit is 50)
+                    all_chunks_query = SearchQuery(query=q, limit=50, filters=query.filters)
                     all_chunks_response = await super().search(all_chunks_query)
                     bm25_results = await self.advanced_2025.bm25_search(
                         query=q,
@@ -404,8 +404,9 @@ class HybridRAGService(RAGService):
         if self.advanced_2025 and self.advanced_2025.config.enable_rrf and len(all_ranked_lists) > 1:
             try:
                 fused_results = await self.advanced_2025.reciprocal_rank_fusion(all_ranked_lists)
-                unique_results = fused_results[:target_limit]
-                print(f"✅ RRF fused {len(all_ranked_lists)} searches → {len(unique_results)} unique chunks")
+                # Keep 2x target for cross-encoder reranking
+                unique_results = fused_results[:target_limit * 2]
+                print(f"✅ RRF fused {len(all_ranked_lists)} searches → {len(unique_results)} candidates for reranking")
             except Exception as e:
                 print(f"⚠️  RRF fusion failed: {e}")
                 # Fallback to simple deduplication
@@ -417,34 +418,34 @@ class HybridRAGService(RAGService):
                         if content_hash not in seen_content:
                             seen_content.add(content_hash)
                             unique_results.append(result)
-                            if len(unique_results) >= target_limit:
+                            if len(unique_results) >= target_limit * 2:
                                 break
-                    if len(unique_results) >= target_limit:
+                    if len(unique_results) >= target_limit * 2:
                         break
         else:
-            # Simple case: just use first search results
-            unique_results = all_ranked_lists[0][:target_limit] if all_ranked_lists else []
+            # Simple case: just use first search results (2x for reranking)
+            unique_results = all_ranked_lists[0][:target_limit * 2] if all_ranked_lists else []
         
         # STEP 4.5: Cross-Encoder Reranking - Final refinement (SOTA BGE model)
         if self.advanced_2025 and self.advanced_2025.config.enable_cross_encoder:
             try:
-                # Get more candidates for reranking (2x target)
-                candidates_for_reranking = unique_results if len(unique_results) <= target_limit * 2 else unique_results[:target_limit * 2]
-                
-                # Rerank with cross-encoder
+                # Rerank with cross-encoder (we already have 2x candidates from RRF)
                 unique_results = await self.advanced_2025.rerank_with_cross_encoder(
                     query=query.query,
-                    documents=candidates_for_reranking,
+                    documents=unique_results,
                     top_k=target_limit
                 )
             except Exception as e:
                 print(f"⚠️  Cross-encoder reranking failed: {e}")
                 unique_results = unique_results[:target_limit]
+        else:
+            # No reranking, just take top target_limit
+            unique_results = unique_results[:target_limit]
         
         # Create SearchResponse
         from ..models.documents import SearchResponse
         final_response = SearchResponse(
-            query=query.query,
+            query=query,  # Pass SearchQuery object, not string
             results=unique_results,
             total_results=sum(len(lst) for lst in all_ranked_lists),
             search_time_ms=0,  # TODO: track timing
