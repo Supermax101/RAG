@@ -114,13 +114,14 @@ class AdvancedRAG2025:
                 print(f"⚠️  Failed to load cross-encoder: {e}")
                 self.cross_encoder = None
         
-        print("📊 Simple RAG Mode (Advanced features disabled for baseline comparison):")
-        print(f"  - Cross-Encoder Reranking: {'✅' if self.cross_encoder else '❌ DISABLED'}")
-        print(f"  - Parent Document Retrieval: {'✅' if self.config.enable_parent_retrieval else '❌'}")
-        print(f"  - HyDE: {'✅' if self.config.enable_hyde else '❌ DISABLED'}")
-        print(f"  - Query Rewriting: {'✅' if self.config.enable_query_rewriting else '❌ DISABLED'}")
-        print(f"  - Adaptive Retrieval: {'✅ using fixed 20 chunks' if not self.config.enable_adaptive_retrieval else f'✅ {self.config.adaptive_min_chunks}-{self.config.adaptive_max_chunks} chunks'}")
-        print(f"  - RRF Fusion: {'✅' if self.config.enable_rrf else '❌ DISABLED'}")
+        print("📊 LangChain Advanced RAG (2025 Best Practices):")
+        print(f"  - Multi-Query Retrieval: {'✅' if self.config.enable_multi_query else '❌'} ({self.config.num_query_variants + 1} variants)")
+        print(f"  - BM25 + Vector Hybrid: {'✅' if self.config.enable_bm25_hybrid else '❌'}")
+        print(f"  - HyDE (Concise): {'✅' if self.config.enable_hyde else '❌'} (max {self.config.hyde_max_words} words)")
+        print(f"  - Cross-Encoder Reranking: {'✅' if self.cross_encoder else '❌'} ({self.config.cross_encoder_model.split('/')[-1] if self.cross_encoder else 'N/A'})")
+        print(f"  - RRF Fusion: {'✅' if self.config.enable_rrf else '❌'}")
+        print(f"  - Parent Context: {'✅' if self.config.enable_parent_retrieval else '❌'}")
+        print(f"  - Fixed Chunk Limit: {self.config.adaptive_min_chunks} chunks (not adaptive)")
     
     async def rerank_with_cross_encoder(
         self,
@@ -209,12 +210,13 @@ class AdvancedRAG2025:
     
     async def rewrite_query_for_retrieval(self, query: str) -> List[str]:
         """
-        Rewrite query for better retrieval (handles negative questions like "LEAST likely").
+        LEGACY METHOD - No longer used. Replaced by multi_query_generation().
         
+        Rewrite query for better retrieval (handles negative questions like "LEAST likely").
         This is crucial for medical MCQs where "LEAST likely" is common.
         """
-        if not self.config.enable_query_rewriting:
-            return [query]
+        # Legacy method - always return original query
+        return [query]
         
         rewrites = [query]  # Always include original
         
