@@ -124,51 +124,9 @@ class HybridRAGService(RAGService):
                 self.graph = None
                 self.neo4j_enabled = False
         
-        # Initialize Advanced RAG Components (NEW - LangChain 2025 Best Practices)
+        # Legacy Advanced RAG Components (DISABLED - replaced by AdvancedRAG2025)
+        # Old system with Cohere/Jina reranking, compression, etc. is no longer used
         self.advanced_rag = None
-        if ADVANCED_RAG_AVAILABLE:
-            try:
-                # Create configurations
-                rerank_config = RerankingConfig(
-                    enabled=enable_reranking,
-                    provider=reranking_provider,
-                    top_n=15,
-                    initial_k=50,
-                    cohere_api_key=cohere_api_key,
-                    jina_api_key=jina_api_key
-                )
-                
-                compression_config = CompressionConfig(
-                    enabled=enable_compression,
-                    method="embeddings",  # Can be "llm" or "embeddings"
-                    similarity_threshold=0.76
-                )
-                
-                decomposition_config = QueryDecompositionConfig(
-                    enabled=enable_query_decomposition,
-                    num_queries=3,
-                    use_fusion=True
-                )
-                
-                validation_config = ValidationConfig(
-                    enabled=enable_validation,
-                    check_sources=True,
-                    polish_answer=True
-                )
-                
-                # Initialize advanced components
-                self.advanced_rag = AdvancedRAGComponents(
-                    llm_provider=llm_provider,
-                    embedding_provider=embedding_provider,
-                    rerank_config=rerank_config,
-                    compression_config=compression_config,
-                    decomposition_config=decomposition_config,
-                    validation_config=validation_config
-                )
-                
-            except Exception as e:
-                print(f"⚠️  Failed to initialize advanced RAG components: {e}")
-                self.advanced_rag = None
         
         # Initialize 2025 Advanced RAG Improvements (NEW - Cutting Edge)
         self.advanced_2025 = None
