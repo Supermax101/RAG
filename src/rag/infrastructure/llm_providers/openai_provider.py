@@ -95,11 +95,17 @@ class OpenAILLMProvider(LLMProvider):
             # Get models from OpenAI API
             models_response = await self.client.models.list()
             
-            # Filter for ONLY GPT-5 and GPT-5 mini (latest reasoning models)
+            # Filter for GPT-5 (base + mini) and GPT-4o
             chat_models = [
                 model.id for model in models_response.data
-                if ('gpt-5' in model.id.lower() and 'mini' in model.id.lower()) or 
-                   model.id.lower() in ['gpt-5', 'gpt-5-2025-08-07', 'gpt-5-chat-latest']
+                if (
+                    # GPT-5 base models
+                    model.id.lower() in ['gpt-5', 'gpt-5-2025-08-07', 'gpt-5-chat-latest'] or
+                    # GPT-5 mini models
+                    ('gpt-5' in model.id.lower() and 'mini' in model.id.lower()) or
+                    # GPT-4o models
+                    'gpt-4o' in model.id.lower()
+                )
             ]
             
             self._available_models = sorted(chat_models)
