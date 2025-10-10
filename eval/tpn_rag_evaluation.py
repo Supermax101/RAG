@@ -379,11 +379,11 @@ ANSWER INSTRUCTIONS:
         try:
             correct_normalized = self.normalize_answer(correct_option)
             
-            # STEP 1: Search with clean question
+            # STEP 1: Search with clean question (includes case context if available)
             full_question = f"{case_context}\n\n{question}".strip() if case_context else question
             
-            # Reduced from 15 to 5 to prevent information overload
-            search_query = SearchQuery(query=full_question, limit=5)
+            # Use default_search_limit from settings (currently 10 for Simple RAG)
+            search_query = SearchQuery(query=full_question)  # Uses settings.default_search_limit
             search_response = await self.rag_service.search(search_query)
             
             if not search_response.results:
