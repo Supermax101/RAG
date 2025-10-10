@@ -45,8 +45,8 @@ except ImportError:
 class AdvancedRAG2025Config(BaseModel):
     """Configuration for 2025 advanced RAG features."""
     
-    # Cross-Encoder Reranking
-    enable_cross_encoder: bool = Field(default=True, description="Enable cross-encoder reranking")
+    # Cross-Encoder Reranking - DISABLED for Simple RAG
+    enable_cross_encoder: bool = Field(default=False, description="Enable cross-encoder reranking")
     cross_encoder_model: str = Field(
         default="cross-encoder/ms-marco-MiniLM-L-6-v2",
         description="Cross-encoder model for reranking"
@@ -57,21 +57,21 @@ class AdvancedRAG2025Config(BaseModel):
     enable_parent_retrieval: bool = Field(default=True, description="Retrieve parent context")
     parent_context_size: int = Field(default=2000, description="Parent chunk size in characters")
     
-    # HyDE (Hypothetical Document Embeddings)
-    enable_hyde: bool = Field(default=True, description="Enable HyDE for better retrieval")
+    # HyDE (Hypothetical Document Embeddings) - DISABLED for Simple RAG
+    enable_hyde: bool = Field(default=False, description="Enable HyDE for better retrieval")
     hyde_num_hypotheses: int = Field(default=1, description="Number of hypothetical answers")
     
-    # Query Rewriting
-    enable_query_rewriting: bool = Field(default=True, description="Rewrite queries for better matching")
+    # Query Rewriting - DISABLED for Simple RAG
+    enable_query_rewriting: bool = Field(default=False, description="Rewrite queries for better matching")
     rewrite_negative_questions: bool = Field(default=True, description="Special handling for LEAST/EXCEPT")
     
-    # Adaptive Retrieval (Self-RAG)
-    enable_adaptive_retrieval: bool = Field(default=True, description="Dynamically adjust retrieval based on medical complexity")
-    adaptive_min_chunks: int = Field(default=15, description="Minimum chunks for medical questions")
-    adaptive_max_chunks: int = Field(default=20, description="Maximum chunks for complex medical questions")
+    # Adaptive Retrieval (Self-RAG) - DISABLED for Simple RAG (use fixed limit)
+    enable_adaptive_retrieval: bool = Field(default=False, description="Dynamically adjust retrieval based on medical complexity")
+    adaptive_min_chunks: int = Field(default=20, description="Fixed chunk count for all questions")
+    adaptive_max_chunks: int = Field(default=20, description="Fixed chunk count for all questions")
     
-    # Reciprocal Rank Fusion
-    enable_rrf: bool = Field(default=True, description="Enable RRF for multi-query fusion")
+    # Reciprocal Rank Fusion - DISABLED for Simple RAG
+    enable_rrf: bool = Field(default=False, description="Enable RRF for multi-query fusion")
     rrf_k: int = Field(default=60, description="RRF constant")
 
 
@@ -109,12 +109,13 @@ class AdvancedRAG2025:
                 print(f"⚠️  Failed to load cross-encoder: {e}")
                 self.cross_encoder = None
         
-        print("📊 Advanced RAG 2025 initialized:")
-        print(f"  - Cross-Encoder Reranking: {'✅' if self.cross_encoder else '❌'}")
+        print("📊 Simple RAG Mode (Advanced features disabled for baseline comparison):")
+        print(f"  - Cross-Encoder Reranking: {'✅' if self.cross_encoder else '❌ DISABLED'}")
         print(f"  - Parent Document Retrieval: {'✅' if self.config.enable_parent_retrieval else '❌'}")
-        print(f"  - HyDE: {'✅' if self.config.enable_hyde else '❌'}")
-        print(f"  - Query Rewriting: {'✅' if self.config.enable_query_rewriting else '❌'}")
-        print(f"  - Adaptive Retrieval: {'✅' if self.config.enable_adaptive_retrieval else '❌'}")
+        print(f"  - HyDE: {'✅' if self.config.enable_hyde else '❌ DISABLED'}")
+        print(f"  - Query Rewriting: {'✅' if self.config.enable_query_rewriting else '❌ DISABLED'}")
+        print(f"  - Adaptive Retrieval: {'✅ using fixed 20 chunks' if not self.config.enable_adaptive_retrieval else f'✅ {self.config.adaptive_min_chunks}-{self.config.adaptive_max_chunks} chunks'}")
+        print(f"  - RRF Fusion: {'✅' if self.config.enable_rrf else '❌ DISABLED'}")
     
     async def rerank_with_cross_encoder(
         self,
