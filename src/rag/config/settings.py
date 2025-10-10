@@ -42,8 +42,8 @@ class Settings(BaseSettings):
     chroma_collection_name: str = Field(default="medical_docs", alias="CHROMA_COLLECTION_NAME")
     
     # RAG Configuration
-    # Higher limit for GPU-accelerated systems (4x RTX 4090)
-    default_search_limit: int = Field(default=20, alias="DEFAULT_SEARCH_LIMIT")
+    # Reduced to 10 for Simple RAG (less noise, more focused)
+    default_search_limit: int = Field(default=10, alias="DEFAULT_SEARCH_LIMIT")
     chunk_size: int = Field(default=512, alias="CHUNK_SIZE")
     chunk_overlap: int = Field(default=50, alias="CHUNK_OVERLAP")
     

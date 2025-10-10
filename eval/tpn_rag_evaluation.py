@@ -292,27 +292,32 @@ Output format:
 
 Select the correct answer(s) ONLY if supported by the retrieved clinical guidelines below."""),
             few_shot_prompt,
-            ("human", """Below are the MOST RELEVANT EXCERPTS retrieved from our RAG system (76 medical documents via vector search):
-
-RETRIEVED CLINICAL GUIDELINES:
-{context}
-
-{case_context}
+            ("human", """{case_context}
 
 MULTIPLE CHOICE QUESTION: {question}
 
-OPTIONS:
+AVAILABLE OPTIONS (choose from these letters only):
 {options}
 
-IMPORTANT: 
-- This is a multiple-choice question - select the correct answer letter(s) based on the retrieved guidelines
-- Some questions may have ONE correct answer or MULTIPLE correct answers (e.g., "A,B,C")
-- You MUST select from the provided options only (A, B, C, D, E, F, etc.)
-- If an option says "None of the above" or "All of the above", treat it as a regular option letter
-- Answer with the option letter(s): single letter (e.g., "A") or multiple letters (e.g., "A,B,C")
-- Base your answer EXCLUSIVELY on the retrieved guidelines above
-- Do not use medical knowledge from your training
-- Answer in JSON format: {{"answer": "A", "confidence": "high"}}""")
+---
+
+Now, review the RETRIEVED CLINICAL GUIDELINES below to find the answer:
+
+RETRIEVED CLINICAL GUIDELINES (from 76 medical documents via vector search):
+{context}
+
+---
+
+ANSWER INSTRUCTIONS:
+1. You have read the question and available options above
+2. Now review the retrieved clinical guidelines to find the correct answer
+3. Your answer MUST be one (or more) of the option letters shown in AVAILABLE OPTIONS
+4. DO NOT create new answers - only select from A, B, C, D, E, F (whichever letters were provided)
+5. Format: 
+   - Single answer: {{"answer": "A", "confidence": "high"}}
+   - Multiple answers: {{"answer": "A,B,C", "confidence": "high"}}
+6. Base your answer EXCLUSIVELY on the retrieved guidelines above
+7. Do not use medical knowledge from your training data""")
         ])
         
         return final_prompt
