@@ -373,31 +373,29 @@ class HybridRAGService(RAGService):
         for i, q in enumerate(queries_to_search, 1):
             print(f"  🔎 Query variant {i}/{len(queries_to_search)}: {q[:60]}...")
             
-            # 3A: Vector Search (semantic)
+            # 3A: Vector Search (semantic) - get more candidates
             sub_query = SearchQuery(
                 query=q,
-                limit=target_limit * 2,  # Get more for fusion
+                limit=50,  # Get 50 for both vector and BM25 to work with
                 filters=query.filters
             )
             vector_results = await super().search(sub_query)
             
-            # 3B: BM25 Search (keyword) - if enabled and available
+            # 3B: BM25 Search (keyword) - rerank the SAME chunks from vector search
             bm25_results = []
             if self.advanced_2025 and self.advanced_2025.config.enable_bm25_hybrid:
                 try:
-                    # Get all chunks for BM25 search (max limit is 50)
-                    all_chunks_query = SearchQuery(query=q, limit=50, filters=query.filters)
-                    all_chunks_response = await super().search(all_chunks_query)
+                    # BM25 searches the same chunks that vector search returned (no additional search!)
                     bm25_results = await self.advanced_2025.bm25_search(
                         query=q,
-                        all_chunks=all_chunks_response.results,
+                        all_chunks=vector_results.results,  # Use existing vector results
                         top_k=target_limit * 2
                     )
                 except Exception as e:
                     print(f"⚠️  BM25 search failed: {e}")
             
-            # 3C: Combine vector + BM25 results for this query
-            combined_results = list(vector_results.results) + bm25_results
+            # 3C: Combine vector (top 20) + BM25 (top 20) results
+            combined_results = list(vector_results.results[:target_limit * 2]) + bm25_results
             all_ranked_lists.append(combined_results)
         
         # STEP 4: RRF Fusion - Combine all searches with deduplication
