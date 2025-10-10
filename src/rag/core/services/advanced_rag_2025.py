@@ -419,15 +419,11 @@ Provide a concise, clinically accurate hypothetical answer (2-3 sentences):"""
             # Get top K indices
             top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:top_k]
             
-            # Return chunks with scores
+            # Return chunks (don't attach score, SearchResult is frozen)
             results = []
             for idx in top_indices:
                 if idx < len(all_chunks):
-                    chunk = all_chunks[idx]
-                    # Attach score for later fusion
-                    if hasattr(chunk, 'score'):
-                        chunk.bm25_score = scores[idx]
-                    results.append(chunk)
+                    results.append(all_chunks[idx])
             
             print(f"🔍 BM25 search: {len(results)} results (scores: {[round(scores[i], 2) for i in top_indices[:3]]}...)")
             return results
