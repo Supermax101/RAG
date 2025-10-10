@@ -325,22 +325,26 @@ class HybridRAGService(RAGService):
         return graph_results
     
     async def search(self, query: SearchQuery) -> Any:
-        """Hybrid search: BM25 + Vector + Multi-Query + HyDE (LangChain Best Practices 2025)
+        """Hybrid search: BM25 + Vector + Multi-Query + HyDE + Cross-Encoder (LangChain Best Practices 2025)
         
         ENABLED FEATURES (following LangChain):
         1. Multi-Query Retrieval (2-3 variants + original)
         2. BM25 + Vector Hybrid (keyword + semantic)
-        3. HyDE (concise hypothetical answers)
-        4. RRF Fusion (combine multiple searches)
-        5. Automatic Deduplication
+        3. HyDE (concise hypothetical answers ~50 words)
+        4. RRF Fusion (combine multiple searches with deduplication)
+        5. Cross-Encoder Reranking (BAAI/bge-reranker-base - SOTA)
         
         DISABLED FEATURES:
-        - Cross-Encoder Reranking (was using wrong model)
-        - Adaptive Retrieval (use fixed limit instead)
+        - Adaptive Retrieval (use fixed 10 chunks for consistency)
         - Query Decomposition (legacy, not needed)
+        
+        FLOW:
+        Query → Multi-Query (3 variants) → HyDE (+1 variant) → 
+        Each variant: Vector + BM25 search → RRF Fusion → 
+        Cross-Encoder Rerank → Top 10 chunks
         """
         
-        print(f"🔍 LangChain Advanced RAG (Multi-Query + BM25 + HyDE)")
+        print(f"🔍 LangChain Advanced RAG (Multi-Query + BM25 + HyDE + Cross-Encoder)")
         
         # Use fixed limit from settings (not adaptive)
         target_limit = query.limit or 10
@@ -420,6 +424,22 @@ class HybridRAGService(RAGService):
         else:
             # Simple case: just use first search results
             unique_results = all_ranked_lists[0][:target_limit] if all_ranked_lists else []
+        
+        # STEP 4.5: Cross-Encoder Reranking - Final refinement (SOTA BGE model)
+        if self.advanced_2025 and self.advanced_2025.config.enable_cross_encoder:
+            try:
+                # Get more candidates for reranking (2x target)
+                candidates_for_reranking = unique_results if len(unique_results) <= target_limit * 2 else unique_results[:target_limit * 2]
+                
+                # Rerank with cross-encoder
+                unique_results = await self.advanced_2025.rerank_with_cross_encoder(
+                    query=query.query,
+                    documents=candidates_for_reranking,
+                    top_k=target_limit
+                )
+            except Exception as e:
+                print(f"⚠️  Cross-encoder reranking failed: {e}")
+                unique_results = unique_results[:target_limit]
         
         # Create SearchResponse
         from ..models.documents import SearchResponse

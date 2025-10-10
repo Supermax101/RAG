@@ -58,11 +58,11 @@ class AdvancedRAG2025Config(BaseModel):
     enable_hyde: bool = Field(default=True, description="Generate hypothetical answer for better retrieval")
     hyde_max_words: int = Field(default=50, description="Max words for hypothetical answer (keep concise)")
     
-    # Cross-Encoder Reranking - DISABLED (was broken, needs medical model)
-    enable_cross_encoder: bool = Field(default=False, description="Enable cross-encoder reranking")
+    # Cross-Encoder Reranking - ENABLED (using SOTA BGE reranker)
+    enable_cross_encoder: bool = Field(default=True, description="Enable cross-encoder reranking")
     cross_encoder_model: str = Field(
-        default="cross-encoder/ms-marco-MiniLM-L-6-v2",
-        description="Cross-encoder model for reranking"
+        default="BAAI/bge-reranker-base",
+        description="Cross-encoder model (BGE SOTA, better than MS MARCO)"
     )
     cross_encoder_top_k: int = Field(default=10, description="Top K after reranking")
     
@@ -155,7 +155,12 @@ class AdvancedRAG2025:
             # Return top K
             reranked = [doc for score, doc in scored_docs[:top_k]]
             
-            print(f"  🎯 Cross-encoder reranked {len(documents)} → {len(reranked)} (scores: {scores[:top_k].round(3).tolist() if hasattr(scores, 'round') else 'N/A'})")
+            # Format scores for display
+            top_scores = [float(score) for score, _ in scored_docs[:min(3, len(scored_docs))]]
+            score_range = f"{min(scores):.3f} to {max(scores):.3f}" if len(scores) > 0 else "N/A"
+            
+            print(f"🎯 Cross-encoder ({self.config.cross_encoder_model.split('/')[-1]}) reranked {len(documents)} → {len(reranked)}")
+            print(f"   Top 3 scores: {[round(s, 3) for s in top_scores]}, Range: {score_range}")
             
             return reranked
             
