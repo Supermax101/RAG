@@ -306,8 +306,10 @@ OPTIONS:
 
 IMPORTANT: 
 - This is a multiple-choice question - select the correct answer letter(s) based on the retrieved guidelines
-- Some questions may have ONE correct answer, MULTIPLE correct answers, or NONE correct
-- Answer with single letter (e.g., "A") or multiple letters separated by commas (e.g., "A,B,C")
+- Some questions may have ONE correct answer or MULTIPLE correct answers (e.g., "A,B,C")
+- You MUST select from the provided options only (A, B, C, D, E, F, etc.)
+- If an option says "None of the above" or "All of the above", treat it as a regular option letter
+- Answer with the option letter(s): single letter (e.g., "A") or multiple letters (e.g., "A,B,C")
 - Base your answer EXCLUSIVELY on the retrieved guidelines above
 - Do not use medical knowledge from your training
 - Answer in JSON format: {{"answer": "A", "confidence": "high"}}""")
