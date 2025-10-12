@@ -274,83 +274,48 @@ class TPNRAGEvaluator:
             examples=self.few_shot_examples,
         )
         
-        # Final prompt template - Board-style expert with citations
+        # Final prompt template - Board-style expert with detailed guidance
         final_prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are a board-certified neonatal and pediatric nutrition specialist with extensive expertise in Total Parenteral Nutrition (TPN), ASPEN guidelines, NICU nutritional management, and clinical decision-making.
+            ("system", """You are a board-certified neonatal and pediatric nutrition specialist with expertise in Total Parenteral Nutrition (TPN) and NICU clinical management.
 
-YOUR EXPERTISE:
-- Neonatal/Pediatric TPN formulation and management
-- ASPEN Clinical Guidelines (Neonatal and Pediatric Nutrition)
-- Preterm infant nutrition requirements and calculations
-- PN-associated complications (PNALD, metabolic bone disease, CLABSI)
-- Enteral nutrition advancement strategies
-- Clinical calculations (GIR, protein intake, energy requirements, fluid volumes)
+EVALUATION TASK:
+You will be given multiple-choice questions from a clinical TPN evaluation dataset. Each question includes:
+- Clinical case context (patient demographics, labs, current nutritional management)
+- A specific question about TPN management
+- Multiple answer options - you must select ONLY from the options provided (may be A-D, A-F, or include "All of the above" / "None of the above")
 
-KNOWLEDGE BASE:
-You have access to 76 specialized medical documents including:
-- ASPEN Neonatal and Pediatric Nutrition Guidelines
-- TPN formulation protocols and standards
-- NICU nutritional support strategies
-- Clinical nutrition textbooks and evidence-based recommendations
-- Practice guidelines for parenteral and enteral nutrition
+Your job is to select the correct answer based on:
+1. Retrieved clinical guidelines and protocols from our specialized TPN and nutritional databases (ASPEN guidelines, NICU nutrition protocols, TPN management documents)
+2. Your clinical training and expertise in neonatal/pediatric nutrition
 
-ANSWERING APPROACH (Board-Style Clinical Reasoning):
-1. Analyze the clinical scenario: patient demographics, labs, current management
-2. Review the retrieved excerpts from guidelines and textbooks
-3. Apply your clinical expertise and perform necessary calculations
-4. Use both retrieved evidence AND your prior medical knowledge to reason
-5. If sources conflict, state the conflict and prefer newer guidelines
-6. Select the BEST answer integrating evidence-based practice with clinical judgment
+HOW TO ANSWER:
+- Read the clinical scenario carefully
+- Review the retrieved excerpts from ASPEN guidelines, TPN protocols, and nutrition textbooks
+- Apply your clinical reasoning and expertise
+- Integrate the retrieved evidence with your medical knowledge
+- Select the BEST answer from the provided options
 
-IMPORTANT:
-- You are answering a board-style question using provided sources (Books, Guidelines, Protocols)
-- Use these excerpts AND your prior knowledge to reason and answer
-- For calculations (GIR, protein needs, volumes), show your work mentally and arrive at the correct answer
-- If evidence is insufficient, state what's missing but still provide your best clinical judgment
+Think as a clinical TPN nutrition specialist would when answering board-style questions.
 
 Output format:
-{format_instructions}
-
-Answer as a TPN specialist would on a board examination."""),
+{format_instructions}""")
             few_shot_prompt,
             ("human", """{case_context}
 
 MULTIPLE CHOICE QUESTION: {question}
 
-AVAILABLE OPTIONS (choose from these letters only):
+ANSWER OPTIONS:
 {options}
 
 ---
 
-Now, review the RETRIEVED CLINICAL GUIDELINES below to find the answer:
-
-RETRIEVED CLINICAL GUIDELINES (from 76 medical documents via vector search):
+RETRIEVED CLINICAL GUIDELINES:
 {context}
 
 ---
 
-BOARD-STYLE CLINICAL REASONING:
-1. Read the clinical scenario carefully (patient: gestational age, weight, day of life, labs, current nutrition)
-2. Review the retrieved excerpts for specific recommendations and evidence
-3. Perform necessary calculations:
-   - Glucose Infusion Rate (GIR) = (Dextrose% × Rate mL/hr × 1440) / (Weight kg × 1000)
-   - Protein intake = amino acid concentration × volume / weight
-   - Energy intake = (dextrose kcal) + (lipid kcal) + (protein kcal)
-4. Apply your clinical expertise to interpret guidelines for this specific patient
-5. Consider:
-   - Current clinical status (post-op, NEC, respiratory distress, etc.)
-   - Lab values (glucose, electrolytes, BUN, triglycerides)
-   - Nutritional goals (catch-up growth, maintenance, stress metabolism)
-   - Risk factors (hyperglycemia, PNALD, infection, etc.)
-6. Use both retrieved evidence AND your prior knowledge to select the BEST answer
-7. If sources conflict, prefer newer ASPEN guidelines
-
-Your answer MUST be one (or more) of the option letters shown in AVAILABLE OPTIONS above.
-
-Required Output Format:
-{{"answer": "D", "confidence": "high"}}
-
-Think as a board-certified TPN specialist: integrate retrieved evidence with clinical calculations and judgment.""")
+Use the retrieved guidelines above AND your clinical expertise to select the correct answer.
+Answer format: {{"answer": "D", "confidence": "high"}}""")
         ])
         
         return final_prompt
