@@ -71,10 +71,12 @@ class AdvancedRAG2025Config(BaseModel):
     enable_parent_retrieval: bool = Field(default=True, description="Retrieve parent context")
     parent_context_size: int = Field(default=2000, description="Parent chunk size in characters")
     
-    # Adaptive Retrieval - DISABLED (use fixed limit for consistency)
-    enable_adaptive_retrieval: bool = Field(default=False, description="Dynamically adjust retrieval")
-    adaptive_min_chunks: int = Field(default=10, description="Fixed chunk count")
-    adaptive_max_chunks: int = Field(default=10, description="Fixed chunk count")
+    # Adaptive Retrieval - DISABLED (LangChain: provide consistent generous context)
+    # We use multi-query (3 variants) → RRF fusion → ~20 chunks to LLM
+    # This provides variable BUT generous context, letting LLM filter noise
+    enable_adaptive_retrieval: bool = Field(default=False, description="Dynamically adjust retrieval (disabled)")
+    adaptive_min_chunks: int = Field(default=10, description="Not used when disabled")
+    adaptive_max_chunks: int = Field(default=10, description="Not used when disabled")
     
     # RRF (Reciprocal Rank Fusion) - AUTO-ENABLED when multi-query is on
     enable_rrf: bool = Field(default=True, description="Enable RRF for fusing multi-query results")
@@ -121,8 +123,8 @@ class AdvancedRAG2025:
         print(f"  - HyDE (Concise): {'✅' if self.config.enable_hyde else '❌'} (max {self.config.hyde_max_words} words)")
         print(f"  - Cross-Encoder Reranking: {'✅' if self.cross_encoder else '❌'} ({self.config.cross_encoder_model.split('/')[-1] if self.cross_encoder else 'N/A'})")
         print(f"  - RRF Fusion: {'✅' if self.config.enable_rrf else '❌'}")
-        print(f"  - Parent Context: {'✅' if self.config.enable_parent_retrieval else '❌'}")
-        print(f"  - Fixed Chunk Limit: {self.config.adaptive_min_chunks} chunks (not adaptive)")
+        print(f"  - Context Strategy: LLM receives ~20 reranked chunks (LangChain: 'Let LLM decide')")
+        print(f"  - Adaptive Retrieval: ❌ (disabled - use consistent context for all questions)")
     
     async def rerank_with_cross_encoder(
         self,
