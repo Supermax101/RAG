@@ -78,7 +78,8 @@ class BaselineModelEvaluator:
     
     def load_mcq_questions(self) -> pd.DataFrame:
         """Load MCQ questions from CSV."""
-        df = pd.read_csv(self.csv_path)
+        # Load CSV with keep_default_na=False to preserve "None" as string
+        df = pd.read_csv(self.csv_path, keep_default_na=False, na_values=[''])
         
         # Clean data - remove rows with missing critical fields
         df = df.dropna(subset=['Question', 'Options', 'Corrrect Option (s)'])
@@ -608,7 +609,7 @@ async def benchmark_all_baseline_models(max_questions: Optional[int] = None):
     print("BASELINE MODEL BENCHMARK (NO RAG KNOWLEDGE)")
     print("="*80)
     
-    csv_path = "eval/tpn_mcq_final.csv"
+    csv_path = "eval/tpn_mcq_cleaned.csv"
     
     # Get all available models (Ollama + OpenAI)
     available_models = await get_all_available_models()
@@ -699,7 +700,7 @@ async def main():
     print("No document access - pure model medical knowledge only")
     print("=" * 65)
     
-    csv_path = "eval/tpn_mcq_final.csv"
+    csv_path = "eval/tpn_mcq_cleaned.csv"
     
     available_models = await get_all_available_models()
     if not available_models:
