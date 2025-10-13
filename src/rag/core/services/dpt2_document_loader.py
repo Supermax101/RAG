@@ -113,13 +113,7 @@ class DPT2DocumentLoader:
             # Clean markdown content (remove anchor tags for cleaner embedding)
             cleaned_content = self._clean_chunk_content(chunk_markdown)
             
-            # Skip empty or very short chunks
-            if len(cleaned_content.strip()) < 10:
-                continue
-            
-            # Skip logo chunks (not useful for RAG)
-            if chunk_type == 'logo':
-                continue
+            # Use all chunks as-is (no filtering)
             
             # Extract page and bounding box
             page = grounding.get('page', 0)
