@@ -96,34 +96,32 @@ class BaselineModelEvaluator:
         return df
     
     def create_baseline_prompt(self, question: str, options: str, case_context: str = "") -> str:
-        """Create a direct prompt without any RAG context - simple and clear."""
+        """Create baseline prompt - simple and clear."""
         
-        prompt = """You are a medical expert in Total Parenteral Nutrition (TPN) answering MCQ (Multiple Choice Questions).
+        system_prompt = """You are a board-certified neonatal and pediatric nutrition specialist with expertise in Total Parenteral Nutrition (TPN) and NICU clinical management.
 
-Answer the MCQ question. Respond in JSON format:
-{"answer": "A", "confidence": "high"}
+Based on the context, MCQ question, and options provided, choose the correct answer.
 
-Where answer can be:
-- A single letter (A-F) for single answers
-- Comma-separated letters (A,B,C) for multiple correct answers
-- Special text like "All of the above" or "None" when appropriate
-
-Confidence is low/medium/high.
-
+Output format: {"answer": "F", "confidence": "high"}
 """
+        
+        # Build user message
+        user_prompt = ""
         
         # Handle case context (could be NaN/float from pandas)
         if case_context and isinstance(case_context, str) and case_context.strip():
-            prompt += f"CLINICAL CASE:\n{case_context}\n\n"
+            user_prompt += f"CONTEXT:\n{case_context}\n\n"
         
-        prompt += f"""QUESTION: {question}
+        user_prompt += f"""MCQ QUESTION: {question}
 
 OPTIONS:
 {options}
 
-Select the correct answer(s). Most questions have one answer, but some may have multiple."""
+Choose the correct answer from the options above.
+Answer format: {{"answer": "F", "confidence": "high"}}"""
         
-        return prompt
+        # Combine system + user
+        return system_prompt + "\n" + user_prompt
     
     def normalize_answer(self, answer: str) -> str:
         """Normalize answer to handle edge cases."""
