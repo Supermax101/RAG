@@ -382,21 +382,29 @@ class HybridRAGService(RAGService):
             # Simple case: just use first search results (2x for reranking)
             unique_results = all_ranked_lists[0][:target_limit * 2] if all_ranked_lists else []
         
-        # STEP 4.5: Cross-Encoder Reranking - Final refinement (SOTA BGE model)
+        # STEP 4.5: Cross-Encoder Reranking (REORDER, not filter!)
+        # LangChain Core Principle: "Let LLM handle variable context lengths"
         if self.advanced_2025 and self.advanced_2025.config.enable_cross_encoder:
             try:
-                # Rerank with cross-encoder (we already have 2x candidates from RRF)
+                # Rerank with cross-encoder, keep ALL candidates (don't filter!)
+                # We have ~20 chunks from RRF - pass ALL to LLM after reranking
+                # Modern LLMs (GPT-4, Claude) excel at handling 10-20 chunks
                 unique_results = await self.advanced_2025.rerank_with_cross_encoder(
                     query=query.query,
                     documents=unique_results,
-                    top_k=target_limit
+                    top_k=len(unique_results)  # ✅ Keep ALL (LangChain: "Let LLM decide")
                 )
+                # DON'T filter to target_limit here - pass all reranked chunks to LLM!
+                print(f"✅ Passing ALL {len(unique_results)} reranked chunks to LLM (LangChain best practice)")
             except Exception as e:
                 print(f"⚠️  Cross-encoder reranking failed: {e}")
-                unique_results = unique_results[:target_limit]
+                # Fallback: still pass all unique_results
         else:
-            # No reranking, just take top target_limit
-            unique_results = unique_results[:target_limit]
+            # No reranking - still pass all unique_results
+            print(f"✅ Passing {len(unique_results)} chunks to LLM (no cross-encoder)")
+        
+        # Note: We're NOT limiting to target_limit anymore!
+        # The LLM will receive ALL reranked chunks and decide what's relevant
         
         # Create SearchResponse
         from ..models.documents import SearchResponse

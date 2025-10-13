@@ -58,13 +58,14 @@ class AdvancedRAG2025Config(BaseModel):
     enable_hyde: bool = Field(default=True, description="Generate hypothetical answer for better retrieval")
     hyde_max_words: int = Field(default=50, description="Max words for hypothetical answer (keep concise)")
     
-    # Cross-Encoder Reranking - ENABLED (using SOTA BGE reranker)
+    # Cross-Encoder Reranking - ENABLED (REORDER, not filter - LangChain core principle)
     enable_cross_encoder: bool = Field(default=True, description="Enable cross-encoder reranking")
     cross_encoder_model: str = Field(
         default="BAAI/bge-reranker-base",
         description="Cross-encoder model (BGE SOTA, better than MS MARCO)"
     )
-    cross_encoder_top_k: int = Field(default=10, description="Top K after reranking")
+    # NOTE: Cross-encoder REORDERS chunks, doesn't filter them
+    # All candidates are passed to LLM (LangChain: "Let LLM handle variable context")
     
     # Parent Document Retrieval
     enable_parent_retrieval: bool = Field(default=True, description="Retrieve parent context")
@@ -130,15 +131,28 @@ class AdvancedRAG2025:
         top_k: Optional[int] = None
     ) -> List[Any]:
         """
-        Rerank documents using cross-encoder (much more accurate than embeddings).
+        Rerank documents using cross-encoder (BAAI BGE reranker - SOTA).
         
-        Cross-encoder scores query-document pairs directly, not just vector similarity.
-        This is THE most impactful improvement for medical MCQ accuracy.
+        LANGCHAIN CORE PRINCIPLE: "Let LLM handle variable context lengths"
+        
+        Cross-encoder REORDERS documents by relevance, but returns ALL of them.
+        Modern LLMs (GPT-4, Claude) excel at:
+        - Reading 10-20 chunks (~5000-10000 tokens)
+        - Filtering out irrelevant information on their own
+        - Synthesizing multi-faceted answers from diverse sources
+        
+        Don't handicap the LLM by aggressive pre-filtering!
+        
+        Args:
+            query: Search query
+            documents: List of documents from retrieval
+            top_k: Number of top documents (if None, returns ALL reranked - LangChain best practice)
         """
         if not self.cross_encoder or not documents:
             return documents
         
-        top_k = top_k or self.config.cross_encoder_top_k
+        # Default: Keep ALL documents (LangChain: let LLM decide what's relevant)
+        top_k = top_k or len(documents)
         
         try:
             # Prepare query-document pairs
@@ -160,7 +174,8 @@ class AdvancedRAG2025:
             top_scores = [float(score) for score, _ in scored_docs[:min(3, len(scored_docs))]]
             score_range = f"{min(scores):.3f} to {max(scores):.3f}" if len(scores) > 0 else "N/A"
             
-            print(f"🎯 Cross-encoder ({self.config.cross_encoder_model.split('/')[-1]}) reranked {len(documents)} → {len(reranked)}")
+            # Note: We keep ALL documents after reranking (LangChain: "Let LLM decide")
+            print(f"🎯 Cross-encoder ({self.config.cross_encoder_model.split('/')[-1]}) reranked {len(documents)} → {len(reranked)} (ALL kept)")
             print(f"   Top 3 scores: {[round(s, 3) for s in top_scores]}, Range: {score_range}")
             
             return reranked
