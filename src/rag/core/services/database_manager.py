@@ -18,7 +18,8 @@ class DatabaseManager:
     
     def __init__(self, rag_service: RAGService):
         self.rag_service = rag_service
-        self.document_loader = DocumentLoader(rag_service)
+        from .dpt2_document_loader import DPT2DocumentLoader
+        self.document_loader = DPT2DocumentLoader(rag_service)  # Use DPT2 loader (no re-chunking)
         self.medical_workflow = None  # Disabled - not needed for evaluation
     
     async def reset_and_reload_enhanced(self, confirm: bool = False) -> Dict[str, Any]:
