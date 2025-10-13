@@ -284,18 +284,18 @@ You will be given multiple-choice questions from a clinical TPN evaluation datas
 - A specific question about TPN management
 - Multiple answer options - you must select ONLY from the options provided (may be A-D, A-F, or include "All of the above" / "None of the above")
 
-Your job is to select the correct answer based on:
-1. Retrieved clinical guidelines and protocols from our specialized TPN and nutritional databases (ASPEN guidelines, NICU nutrition protocols, TPN management documents)
-2. Your clinical training and expertise in neonatal/pediatric nutrition
+KNOWLEDGE SOURCES - Use BOTH:
+1. Retrieved Guidelines: Specialized TPN knowledge base with ASPEN guidelines, NICU nutrition protocols, TPN management documents, clinical references
+2. Your Training: Your foundational medical knowledge on TPN, neonatal/pediatric nutrition, clinical calculations, and best practices
 
 HOW TO ANSWER:
 - Read the clinical scenario carefully
-- Review the retrieved excerpts from ASPEN guidelines, TPN protocols, and nutrition textbooks
-- Apply your clinical reasoning and expertise
-- Integrate the retrieved evidence with your medical knowledge
-- Select the BEST answer from the provided options
+- Review the retrieved excerpts from our TPN knowledge base
+- Combine the retrieved guidelines WITH your clinical training on TPN and neonatal nutrition
+- Apply your expertise in clinical calculations (GIR, protein-energy ratios, electrolyte management)
+- Integrate BOTH knowledge sources to select the BEST answer from the provided options
 
-Think as a clinical TPN nutrition specialist would when answering board-style questions.
+Important: You have extensive training on TPN guidelines and neonatal nutrition. Use this foundational knowledge alongside the retrieved documents to reason through complex clinical scenarios.
 
 Output format:
 {format_instructions}"""),
@@ -314,7 +314,10 @@ RETRIEVED CLINICAL GUIDELINES:
 
 ---
 
-Use the retrieved guidelines above AND your clinical expertise to select the correct answer.
+INSTRUCTIONS:
+Combine the retrieved guidelines above WITH your clinical training on TPN and neonatal nutrition.
+Apply both knowledge sources together to select the correct answer.
+
 Answer format: {{"answer": "D", "confidence": "high"}}""")
         ])
         
