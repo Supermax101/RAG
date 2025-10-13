@@ -85,10 +85,13 @@ class BaselineModelEvaluator:
         df = df.dropna(subset=['Question', 'Options', 'Corrrect Option (s)'])
         
         print(f"\nLoaded {len(df)} MCQ questions from {self.csv_path}")
-        print(f"\nQuestion Distribution by Source:")
-        question_types = df.groupby('Doc Reference').size().sort_values(ascending=False)
-        for doc, count in question_types.head(5).items():
-            print(f"  - {doc}: {count} questions")
+        print(f"Columns: {list(df.columns)}")
+        
+        # Verify required columns exist
+        required_cols = ['ID', 'Question', 'Options', 'Corrrect Option (s)']
+        missing = [col for col in required_cols if col not in df.columns]
+        if missing:
+            raise ValueError(f"Missing required columns: {missing}")
         
         return df
     
