@@ -298,7 +298,7 @@ HOW TO ANSWER:
 Think as a clinical TPN nutrition specialist would when answering board-style questions.
 
 Output format:
-{format_instructions}""")
+{format_instructions}"""),
             few_shot_prompt,
             ("human", """{case_context}
 
