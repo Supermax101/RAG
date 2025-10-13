@@ -79,10 +79,20 @@ class GeminiLLMProvider(LLMProvider):
                 # Extract text from Gemini response format
                 if "candidates" in result and len(result["candidates"]) > 0:
                     candidate = result["candidates"][0]
+                    
+                    # Check for content with parts (standard response)
                     if "content" in candidate and "parts" in candidate["content"]:
                         parts = candidate["content"]["parts"]
                         if len(parts) > 0 and "text" in parts[0]:
                             return parts[0]["text"].strip()
+                    
+                    # Handle finish reason issues
+                    finish_reason = candidate.get("finishReason", "")
+                    if finish_reason == "MAX_TOKENS":
+                        # Response was truncated - return empty to trigger fallback
+                        return ""
+                    elif finish_reason in ["SAFETY", "RECITATION", "OTHER"]:
+                        return ""
                 
                 raise RuntimeError(f"Unexpected Gemini response format: {result}")
                 
