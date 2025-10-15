@@ -302,7 +302,7 @@ class HybridRAGService(RAGService):
         Cross-Encoder Rerank → Top 10 chunks
         """
         
-        print(f"🔍 LangChain Advanced RAG (Multi-Query + BM25 + HyDE + Cross-Encoder)")
+        print(f"🔍 LangChain Advanced RAG (Vector + BM25 + Cross-Encoder)")
         
         # Use fixed limit from settings (not adaptive)
         target_limit = query.limit or 10
