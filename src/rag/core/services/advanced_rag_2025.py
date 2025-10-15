@@ -50,8 +50,8 @@ class AdvancedRAG2025Config(BaseModel):
     bm25_weight: float = Field(default=0.5, description="Weight for BM25 (0.5 = equal with vector)")
     vector_weight: float = Field(default=0.5, description="Weight for vector search")
     
-    # Multi-Query Retrieval - ENABLED (LangChain native with deduplication)
-    enable_multi_query: bool = Field(default=True, description="Generate multiple query variants")
+    # Multi-Query Retrieval - DISABLED (temporarily for performance testing)
+    enable_multi_query: bool = Field(default=False, description="Generate multiple query variants")
     num_query_variants: int = Field(default=2, description="Number of query variants to generate (+ original = 3 total)")
     
     # HyDE (Hypothetical Document Embeddings) - ENABLED (LangChain with short answers)
