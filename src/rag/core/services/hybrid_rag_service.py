@@ -384,23 +384,24 @@ class HybridRAGService(RAGService):
         
         # STEP 4.5: Cross-Encoder Reranking (REORDER, not filter!)
         # LangChain Core Principle: "Let LLM handle variable context lengths"
+        # NOTE: For local Ollama models, limit to top 5 chunks to avoid timeouts
         if self.advanced_2025 and self.advanced_2025.config.enable_cross_encoder:
             try:
-                # Rerank with cross-encoder, keep ALL candidates (don't filter!)
-                # We have ~20 chunks from RRF - pass ALL to LLM after reranking
-                # Modern LLMs (GPT-4, Claude) excel at handling 10-20 chunks
+                # Rerank with cross-encoder, then take top 5 for Ollama performance
+                # API models (GPT-4, Claude) can handle 10-20 chunks, but local models need less
                 unique_results = await self.advanced_2025.rerank_with_cross_encoder(
                     query=query.query,
                     documents=unique_results,
-                    top_k=len(unique_results)  # ✅ Keep ALL (LangChain: "Let LLM decide")
+                    top_k=5  # Limited for Ollama performance (was: len(unique_results))
                 )
-                # DON'T filter to target_limit here - pass all reranked chunks to LLM!
-                print(f"✅ Passing ALL {len(unique_results)} reranked chunks to LLM (LangChain best practice)")
+                print(f"✅ Passing top {len(unique_results)} reranked chunks to LLM (optimized for Ollama)")
             except Exception as e:
                 print(f"⚠️  Cross-encoder reranking failed: {e}")
-                # Fallback: still pass all unique_results
+                # Fallback: take top 5 from unique_results
+                unique_results = unique_results[:5]
         else:
-            # No reranking - still pass all unique_results
+            # No reranking - still limit to top 5
+            unique_results = unique_results[:5]
             print(f"✅ Passing {len(unique_results)} chunks to LLM (no cross-encoder)")
         
         # Note: We're NOT limiting to target_limit anymore!

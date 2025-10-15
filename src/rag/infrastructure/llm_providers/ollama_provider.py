@@ -31,7 +31,7 @@ class OllamaLLMProvider(LLMProvider):
         if "gpt-oss" in model_name.lower() or "deepseek" in model_name.lower():
             max_tokens = max(max_tokens, 1000)  # At least 1000 tokens for thinking models
         
-        async with httpx.AsyncClient(timeout=60.0) as client:
+        async with httpx.AsyncClient(timeout=180.0) as client:
             try:
                 options = {
                     "num_predict": max_tokens,
