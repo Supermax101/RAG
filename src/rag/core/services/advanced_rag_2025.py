@@ -54,8 +54,8 @@ class AdvancedRAG2025Config(BaseModel):
     enable_multi_query: bool = Field(default=False, description="Generate multiple query variants")
     num_query_variants: int = Field(default=2, description="Number of query variants to generate (+ original = 3 total)")
     
-    # HyDE (Hypothetical Document Embeddings) - ENABLED (LangChain with short answers)
-    enable_hyde: bool = Field(default=True, description="Generate hypothetical answer for better retrieval")
+    # HyDE (Hypothetical Document Embeddings) - DISABLED (temporarily for performance testing)
+    enable_hyde: bool = Field(default=False, description="Generate hypothetical answer for better retrieval")
     hyde_max_words: int = Field(default=50, description="Max words for hypothetical answer (keep concise)")
     
     # Cross-Encoder Reranking - ENABLED (REORDER, not filter - LangChain core principle)
